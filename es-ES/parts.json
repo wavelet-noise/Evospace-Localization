@@ -1,11 +1,47 @@
 [
     [
+        "Stone",
+        "Piedra"
+    ],
+    [
+        "Copper",
+        "Cobre"
+    ],
+    [
+        "Steel",
+        "Acero"
+    ],
+    [
+        "Aluminium",
+        "Aluminio"
+    ],
+    [
+        "StainlessSteel",
+        "Acero Inoxidable"
+    ],
+    [
+        "Titanium",
+        "Titanio"
+    ],
+    [
+        "HardMetal",
+        "Metal Muro"
+    ],
+    [
+        "Neutronium",
+        "Neutronio"
+    ],
+    [
         "CopperPlate",
         "Placa de cobre"
     ],
     [
         "SteelPlate",
         "Placa de acero"
+    ],
+    [
+        "AluminiumPlate",
+        "Placa de aluminio"
     ],
     [
         "StainlessSteelPlate",
@@ -32,6 +68,10 @@
         "Piezas de acero"
     ],
     [
+        "AluminiumParts",
+        "Piezas de aluminio"
+    ],
+    [
         "StainlessSteelParts",
         "Piezas de acero inoxidable"
     ],
@@ -49,27 +89,31 @@
     ],
     [
         "CopperCasing",
-        "Estructura de cobre"
+        "Bloque de Cobre"
     ],
     [
         "SteelCasing",
-        "Estructura de acero"
+        "Bloque de Acero"
+    ],
+    [
+        "AluminiumCasing",
+        "Bloque de Aluminio"
     ],
     [
         "StainlessSteelCasing",
-        "Estructura de acero inoxidable"
+        "Bloque de Acero Inoxidable"
     ],
     [
         "TitaniumCasing",
-        "Estructura de titanio"
+        "Bloque de Titanio"
     ],
     [
         "HardMetalCasing",
-        "Estructura de metal duro"
+        "Bloque de Metal Duro"
     ],
     [
         "NeutroniumCasing",
-        "Estructura de neutronio"
+        "Bloque de Neutronio"
     ],
     [
         "BasicComputations",
@@ -124,6 +168,10 @@
         "Polvo de oro"
     ],
     [
+        "IronIngot",
+        "Lingotes de hierro"
+    ],
+    [
         "IronDust",
         "Polvo de hierro"
     ],
@@ -145,7 +193,11 @@
     ],
     [
         "SteelDust",
-        "olvo de acero"
+        "Polvo de acero"
+    ],
+    [
+        "AluminiumIngot",
+        "Lingote de aluminio"
     ],
     [
         "AluminiumDust",
@@ -172,12 +224,28 @@
         "Polvo de titanio"
     ],
     [
+        "TitaniumTetrachloride",
+        "Tetracloruro de titanio"
+    ],
+    [
+        "TitaniumSponge",
+        "Titanio Sponge"
+    ],
+    [
         "TitaniumOxideDust",
         "Polvo de óxido de titanio"
     ],
     [
         "PreparedTitaniumOxideDust",
         "Polvo de óxido de titanio preparado"
+    ],
+    [
+        "ZinkDust",
+        "Polvo de Zink"
+    ],
+    [
+        "LithiumDust",
+        "Polvo de litio"
     ],
     [
         "TungstenDust",
@@ -252,8 +320,16 @@
         "Polvo de sodio"
     ],
     [
+        "PotassiumDust",
+        "Polvo de Potasio"
+    ],
+    [
         "Sulfur",
         "Sulfuro"
+    ],
+    [
+        "Steam",
+        "Vapor"
     ],
     [
         "Chlorine",
@@ -272,16 +348,20 @@
         "Coque"
     ],
     [
+        "Creosote",
+        "Creosota"
+    ],
+    [
         "ProducerGas",
         "Producción de gas"
     ],
     [
-        "AshDust",
-        "Polvo de ceniza"
+        "CarbonMonoxide",
+        "Monóxido de carbono"
     ],
     [
-        "Steam",
-        "Vapor"
+        "AshDust",
+        "Polvo de ceniza"
     ],
     [
         "Hydrogen",
@@ -333,7 +413,7 @@
     ],
     [
         "StoneLog",
-        "Stone Log"
+        "Tronco de piedra"
     ],
     [
         "Plank",
@@ -392,8 +472,8 @@
         "Polvo de óxido de cromo"
     ],
     [
-        "AluminothermicChromeDust",
-        "Polvo de cromo aluminotérmico"
+        "Potassium\u0421hlorideDust",
+        "Polvo de cloruro de potasio"
     ],
     [
         "BerylliumDust",
@@ -466,6 +546,10 @@
     [
         "Catalyst",
         "Catalizador"
+    ],
+    [
+        "ControlCell",
+        "Célula de control"
     ],
     [
         "A",

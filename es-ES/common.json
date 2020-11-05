@@ -112,115 +112,27 @@
         "Almacena la electricidad<img id=\"Electricity2\"></>"
     ],
     [
-        "05ips",
-        "1 artículo cada 2 segundos"
+        "ips",
+        "Artículos por segundo: %s"
     ],
     [
-        "1ips",
-        "1 artículo por segundo"
+        "dps",
+        "Grados por segundo: %s"
     ],
     [
-        "2ips",
-        "2 artículos por segundo"
+        "power_limit",
+        "Límite de energía: %sW"
     ],
     [
-        "4ips",
-        "4 artículos por segundo"
+        "power_output",
+        "Salida de energía: %sW"
     ],
     [
-        "8ips",
-        "8 artículos por segundo"
+        "container",
+        "Capacidad: %s L"
     ],
     [
-        "10ips",
-        "10 artículos por segundo"
-    ],
-    [
-        "45dps",
-        "45 grados por segundo"
-    ],
-    [
-        "90dps",
-        "90 grados por segundo"
-    ],
-    [
-        "180dps",
-        "180 grados por segundo"
-    ],
-    [
-        "360dps",
-        "360 grados por segundo"
-    ],
-    [
-        "450dps",
-        "450 grados por segundo"
-    ],
-    [
-        "900dps",
-        "900 grados por segundo"
-    ],
-    [
-        "container0",
-        "Capacidad 30"
-    ],
-    [
-        "container1",
-        "Capacidad 60"
-    ],
-    [
-        "container2",
-        "Capacidad 90"
-    ],
-    [
-        "container3",
-        "Capacidad 120"
-    ],
-    [
-        "container4",
-        "Capacidad 150"
-    ],
-    [
-        "container5",
-        "Capacidad 180"
-    ],
-    [
-        "container6",
-        "Capacidad 210"
-    ],
-    [
-        "container7",
-        "Capacidad 240"
-    ],
-    [
-        "chest0",
-        "Capacidad 20 stacks"
-    ],
-    [
-        "chest1",
-        "Capacidad 25 stacks"
-    ],
-    [
-        "chest2",
-        "Capacidad 30 stacks"
-    ],
-    [
-        "chest3",
-        "Capacidad 35 stacks"
-    ],
-    [
-        "chest4",
-        "Capacidad 40 stacks"
-    ],
-    [
-        "chest5",
-        "Capacidad 45 stacks"
-    ],
-    [
-        "chest6",
-        "Capacidad 50 stacks"
-    ],
-    [
-        "chest7",
-        "Capacidad 55 stacks"
+        "chest",
+        "Capacidad: %s stacks"
     ]
 ]

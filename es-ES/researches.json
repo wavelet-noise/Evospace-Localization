@@ -40,8 +40,12 @@
         "Cemento Decorativo"
     ],
     [
+        "ReinforcedConcrete",
+        "Hormigón Armado Decorativo"
+    ],
+    [
         "DecorationClay",
-        "Arcilla Decorativaion"
+        "Arcilla Decorativa"
     ],
     [
         "Scanner",
@@ -141,7 +145,7 @@
     ],
     [
         "Valve",
-        "ValveVálvula"
+        "Válvula"
     ],
     [
         "Terminal",
