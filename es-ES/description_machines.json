@@ -96,10 +96,6 @@
         ""
     ],
     [
-        "Compressor",
-        ""
-    ],
-    [
         "StirlingEngine",
         "Convierte la energía térmica en energía cinética."
     ],
@@ -314,10 +310,6 @@
     [
         "Pumpjack",
         "Dispositivo automático para la extracción de líquidos. Los depósitos están marcados en el mapa global. Utilice el escáner para buscar nuevos depósitos."
-    ],
-    [
-        "HeatExchanger",
-        ""
     ],
     [
         "IndustrialSmelter",
