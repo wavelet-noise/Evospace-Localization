@@ -1,0 +1,86 @@
+﻿[
+    [
+        "SandSurface",
+        "Areia"
+    ],
+    [
+        "SandstoneSurface",
+        "Arenito"
+    ],
+    [
+        "StoneSurface",
+        "Rocha"
+    ],
+    [
+        "DesertSandSurface",
+        "Areia Seca"
+    ],
+    [
+        "GrassSurface",
+        "Gramado"
+    ],
+    [
+        "BogFogSurface",
+        "Neblina"
+    ],
+    [
+        "LavaSmokeSurface",
+        "Fumaça"
+    ],
+    [
+        "LavaSurface",
+        "Lava"
+    ],
+    [
+        "BasaltSurface",
+        "Basalto"
+    ],
+    [
+        "BogSurface",
+        "Pantano"
+    ],
+    [
+        "PineForestSurface",
+        "Floresta de Pinheiros"
+    ],
+    [
+        "CoralBubbleEmitterSurface",
+        "Coral"
+    ],
+    [
+        "DirtSurface",
+        "Terra"
+    ],
+    [
+        "GravelSurface",
+        "Brita"
+    ],
+    [
+        "DryGrassSurface",
+        "Gramado Seco"
+    ],
+    [
+        "LimestoneSurface",
+        "Calcario"
+    ],
+    [
+        "RedStoneSurface",
+        "Rocha Vermelha"
+    ],
+    [
+        "DarkStoneSurface",
+        "Rocha Escura"
+    ],
+    [
+        "SnowSurface",
+        "Neve"
+    ],
+    [
+        "GraniteSurface",
+        "Granito"
+    ],
+    [
+        "PeatSurface",
+        "Turfa"
+    ]
+]

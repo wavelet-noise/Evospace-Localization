@@ -1,0 +1,106 @@
+[
+    [
+        "I",
+        "I"
+    ],
+    [
+        "II",
+        "II"
+    ],
+    [
+        "III",
+        "III"
+    ],
+    [
+        "IV",
+        "IV"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "VI",
+        "VI"
+    ],
+    [
+        "VII",
+        "VII"
+    ],
+    [
+        "VIII",
+        "VIII"
+    ],
+    [
+        "IX",
+        "IX"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "ItemInput",
+        "<img id=\"ItemInput\"></>Имеет вход для предметов"
+    ],
+    [
+        "ItemOutput",
+        "<img id=\"ItemOutput\"></>Имеет выход для предметов"
+    ],
+    [
+        "FluidInput",
+        "<img id=\"FluidInput\"></>Имеет вход для жидкостей"
+    ],
+    [
+        "FluidOutput",
+        "<img id=\"FluidOutput\"></>Имеет выход для жидкостей"
+    ],
+    [
+        "KineticInput",
+        "<img id=\"Kinetic\"></>Потребляет кинетическую энергию<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticOutput",
+        "<img id=\"Kinetic\"></>Производит кинетическую энергию<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticConductor",
+        "<img id=\"Kinetic\"></>Проводит кинетическую энергию<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticStorage",
+        "Хранит кинетическую энергию<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "HeatInput",
+        "<img id=\"Heat\"></>Потребляет тепловую энергию<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatOutput",
+        "<img id=\"Heat\"></>Производит тепловую энергию<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatConductor",
+        "<img id=\"Heat\"></>Проводит тепловую энергию<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatStorage",
+        "Хранит тепловую энергию<img id=\"Heat2\"></>"
+    ],
+    [
+        "ElectricInput",
+        "<img id=\"Electricity\"></>Потребляет электричество<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricOutput",
+        "<img id=\"Electricity\"></>Производит электричество<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductor",
+        "<img id=\"Electricity\"></>Проводит электричество<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricStorage",
+        "Хранит электричество<img id=\"Electricity2\"></>"
+    ]
+]

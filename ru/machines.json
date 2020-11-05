@@ -1,0 +1,298 @@
+[
+    [
+        "Macerator",
+        "Измельчитель"
+    ],
+    [
+        "CuttingMachine",
+        "Автопила"
+    ],
+    [
+        "Fermenter",
+        "Ферментер"
+    ],
+    [
+        "ChemReactor",
+        "Химреактор"
+    ],
+    [
+        "Separator",
+        "Сепаратор"
+    ],
+    [
+        "Beam",
+        "Балка"
+    ],
+    [
+        "Corner",
+        "Уголок"
+    ],
+    [
+        "AutomaticHammer",
+        "Автомолот"
+    ],
+    [
+        "Boiler",
+        "Бойлер"
+    ],
+    [
+        "Pipe",
+        "Труба"
+    ],
+    [
+        "HeatPipe",
+        "Тепропровод"
+    ],
+    [
+        "Scafold",
+        "Леса"
+    ],
+    [
+        "Sign",
+        "Знак"
+    ],
+    [
+        "Connector",
+        "Кабель"
+    ],
+    [
+        "Chest",
+        "Сундук"
+    ],
+    [
+        "ItemRack",
+        "Полка"
+    ],
+    [
+        "Vent",
+        "Вентиль"
+    ],
+    [
+        "ElectricalSwitch",
+        "Переключатель"
+    ],
+    [
+        "OreWasher",
+        "Рудопромывочная машина"
+    ],
+    [
+        "Conveyor",
+        "Конвейер"
+    ],
+    [
+        "Container",
+        "Контейнер"
+    ],
+    [
+        "Press",
+        "Пресс"
+    ],
+    [
+        "Compressor",
+        "Компрессор"
+    ],
+    [
+        "StirlingEngine",
+        "Двигатель стирлинга"
+    ],
+    [
+        "CombustionEngine",
+        "Двигатель внутреннего сгорания"
+    ],
+    [
+        "PyrolysisUnit",
+        "Пиролизная установка"
+    ],
+    [
+        "Generator",
+        "Генератор"
+    ],
+    [
+        "CompactGenerator",
+        "Компактный генератор"
+    ],
+    [
+        "ElectricEngine",
+        "Электродвигатель"
+    ],
+    [
+        "RobotArm",
+        "Роборука"
+    ],
+    [
+        "FilteringRobotArm",
+        "Фильтрующая робо-рука"
+    ],
+    [
+        "Pump",
+        "Помпа"
+    ],
+    [
+        "FilteringPump",
+        "Фильтрующая помпа"
+    ],
+    [
+        "Smelter",
+        "Плавильня"
+    ],
+    [
+        "SteamTurbine",
+        "Паровая турбина"
+    ],
+    [
+        "GasTurbine",
+        "Газовая турбина"
+    ],
+    [
+        "ArcSmelter",
+        "Дуговая плавильня"
+    ],
+    [
+        "ChemicalBath",
+        "Химическая ванна"
+    ],
+    [
+        "Furnace",
+        "Печь"
+    ],
+    [
+        "Oven",
+        "Коксовая печь"
+    ],
+    [
+        "BlastFurnace",
+        "Доменная печь"
+    ],
+    [
+        "FluidFurnace",
+        "Жидкостная печь"
+    ],
+    [
+        "ElectricFurnace",
+        "Электропечь"
+    ],
+    [
+        "BatteryBox",
+        "Блок аккумуляторов"
+    ],
+    [
+        "DrillingRig",
+        "Бурильная установка"
+    ],
+    [
+        "Assembler",
+        "Сборщик"
+    ],
+    [
+        "FluidDump",
+        "Водосброс"
+    ],
+    [
+        "Lamp",
+        "Лампа"
+    ],
+    [
+        "AdminElectricGenerator",
+        "Креативный генератор электричества"
+    ],
+    [
+        "AdminItemGenerator",
+        "Креативный генератор предметов"
+    ],
+    [
+        "AdminKineticGenerator",
+        "Креативный генератор силы"
+    ],
+    [
+        "AdminHeatGenerator",
+        "Креативный генератор тепла"
+    ],
+    [
+        "AdminFluidGenerator",
+        "Креативный генератор жидкостей"
+    ],
+    [
+        "AdminExterminator",
+        "Креативный уничтожитель"
+    ],
+    [
+        "Electrolyzer",
+        "Электролизер"
+    ],
+    [
+        "Mixer",
+        "Миксер"
+    ],
+    [
+        "AutomaticFarm",
+        "Автоферма"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Атмосферный конденсатор"
+    ],
+    [
+        "Terminal",
+        "Терминал"
+    ],
+    [
+        "BigTerminal",
+        "Большой терминал"
+    ],
+    [
+        "HugeTerminal",
+        "Огромный терминал"
+    ],
+    [
+        "FlatTerminal",
+        "Плоский терминал"
+    ],
+    [
+        "BigFlatTerminal",
+        "Большой плоский терминал"
+    ],
+    [
+        "HugeFlatTerminal",
+        "Огромный плоский терминал"
+    ],
+    [
+        "Computer",
+        "Компьютер"
+    ],
+    [
+        "IndustrialSeparator",
+        "Промышленный сепаратор"
+    ],
+    [
+        "Radiator",
+        "Радиатор"
+    ],
+    [
+        "Diode",
+        "Диод"
+    ],
+    [
+        "FissionReactor",
+        "Ядерный реактор"
+    ],
+    [
+        "SolarPanel",
+        "Солнечная панель"
+    ],
+    [
+        "Pumpjack",
+        "Станок-качалка"
+    ],
+    [
+        "HeatExchanger",
+        "Теплообменник"
+    ],
+    [
+        "IndustrialSmelter",
+        "Промышленная плавильня"
+    ],
+    [
+        "InductionCoil",
+        "Индукционная катушка"
+    ]
+]

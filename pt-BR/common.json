@@ -1,0 +1,226 @@
+﻿[
+    [
+        "I",
+        "I"
+    ],
+    [
+        "II",
+        "II"
+    ],
+    [
+        "III",
+        "III"
+    ],
+    [
+        "IV",
+        "IV"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "VI",
+        "VI"
+    ],
+    [
+        "VII",
+        "VII"
+    ],
+    [
+        "VIII",
+        "VIII"
+    ],
+    [
+        "IX",
+        "IX"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "ItemInput",
+        "<img id=\"ItemInput\"></>Tem Entrada de Itens"
+    ],
+    [
+        "ItemOutput",
+        "<img id=\"ItemOutput\"></>Tem Saida de Itens"
+    ],
+    [
+        "FluidInput",
+        "<img id=\"FluidInput\"></>Tem Entrada de Liquidos"
+    ],
+    [
+        "FluidOutput",
+        "<img id=\"FluidOutput\"></>Tem Saida de Liquidos"
+    ],
+    [
+        "FluidConductor",
+        "Conduz Fluidos/Gases"
+    ],
+    [
+        "FluidStorage",
+        "Armazena Liquidos/Gases"
+    ],
+    [
+        "KineticInput",
+        "<img id=\"Kinetic\"></>Consome Corda<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticOutput",
+        "<img id=\"Kinetic\"></>Produz Corda<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticConductor",
+        "<img id=\"Kinetic\"></>Conduz Corda<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticStorage",
+        "Armazena Corda<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "HeatInput",
+        "<img id=\"Heat\"></>Consome Calor<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatOutput",
+        "<img id=\"Heat\"></>Produz Calor<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatConductor",
+        "<img id=\"Heat\"></>Conduz Calor<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatStorage",
+        "Armazena Calor<img id=\"Heat2\"></>"
+    ],
+    [
+        "ElectricInput",
+        "<img id=\"Electricity\"></>Consome Eletricidade<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricOutput",
+        "<img id=\"Electricity\"></>Produz Eletricidade<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductor",
+        "<img id=\"Electricity\"></>Conduz Eletricidade<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricStorage",
+        "Armazena Eletricidade<img id=\"Electricity2\"></>"
+    ],
+    [
+        "05ips",
+        "1 Item a Cada 2 Segundos"
+    ],
+    [
+        "1ips",
+        "1 Item por Segundo"
+    ],
+    [
+        "2ips",
+        "2 Itens por Segundo"
+    ],
+    [
+        "4ips",
+        "4 Itens por Segundo"
+    ],
+    [
+        "8ips",
+        "8 Itens por Segundo"
+    ],
+    [
+        "10ips",
+        "10 Itens por Segundo"
+    ],
+    [
+        "45dps",
+        "45 Graos por Segundo"
+    ],
+    [
+        "90dps",
+        "90 Graos por Segundo"
+    ],
+    [
+        "180dps",
+        "180 Graos por Segundo"
+    ],
+    [
+        "360dps",
+        "360 Graos por Segundo"
+    ],
+    [
+        "450dps",
+        "450 Graos por Segundo"
+    ],
+    [
+        "900dps",
+        "900 Graos por Segundo"
+    ],
+    [
+        "container0",
+        "Capacidade 30L"
+    ],
+    [
+        "container1",
+        "Capacidade 60L"
+    ],
+    [
+        "container2",
+        "Capacidade 90L"
+    ],
+    [
+        "container3",
+        "Capacidade 120L"
+    ],
+    [
+        "container4",
+        "Capacidade 150L"
+    ],
+    [
+        "container5",
+        "Capacidade 180L"
+    ],
+    [
+        "container6",
+        "Capacidade 210L"
+    ],
+    [
+        "container7",
+        "Capacidade 240L"
+    ],
+    [
+        "chest0",
+        "Capacidade 20 Conjuntos"
+    ],
+    [
+        "chest1",
+        "Capacidade 25 Conjuntos"
+    ],
+    [
+        "chest2",
+        "Capacidade 30 Conjuntos"
+    ],
+    [
+        "chest3",
+        "Capacidade 35 Conjuntos"
+    ],
+    [
+        "chest4",
+        "Capacidade 40 Conjuntos"
+    ],
+    [
+        "chest5",
+        "Capacidade 45 Conjuntos"
+    ],
+    [
+        "chest6",
+        "Capacidade 50 Conjuntos"
+    ],
+    [
+        "chest7",
+        "Capacidade 55 Conjuntos"
+    ]
+]

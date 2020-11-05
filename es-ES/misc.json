@@ -1,0 +1,206 @@
+[
+    [
+        "Chair",
+        "Silla de Madera"
+    ],
+    [
+        "Table",
+        "Mesa de Madera"
+    ],
+    [
+        "Rack",
+        "Estante de Madera"
+    ],
+    [
+        "Bed",
+        "Cama de Madera"
+    ],
+    [
+        "Ladder",
+        "Escalera de Madera"
+    ],
+    [
+        "Door",
+        "Puerta de Madera"
+    ],
+    [
+        "Fence",
+        "Valla de Madera"
+    ],
+    [
+        "Window",
+        "Ventana de Madera"
+    ],
+    [
+        "CeramicRoof",
+        "Techo de Cerámica"
+    ],
+    [
+        "Stairs",
+        "Escaleras de Piedra"
+    ],
+    [
+        "WoodenStairs",
+        "Escaleras de Madera"
+    ],
+    [
+        "CopperChair",
+        "Silla de Cobre"
+    ],
+    [
+        "FireCup",
+        "Taza de Fuego"
+    ],
+    [
+        "PlasticWindow",
+        "Ventana de Plástico"
+    ],
+    [
+        "Firefly",
+        "Luciérnaga"
+    ],
+    [
+        "Flies",
+        "Moscas"
+    ],
+    [
+        "Birds",
+        "Pájaros"
+    ],
+    [
+        "DesertSound",
+        "Sonido del Desierto"
+    ],
+    [
+        "SwampSound",
+        "Sonido del Pantano"
+    ],
+    [
+        "Butterfly",
+        "Mariposa"
+    ],
+    [
+        "Leafes",
+        "Hojas"
+    ],
+    [
+        "Bugs",
+        "Insectos"
+    ],
+    [
+        "WoodenPlanks",
+        "Bloque de Madera"
+    ],
+    [
+        "AdminBlocks",
+        "Bloque de Administrador"
+    ],
+    [
+        "StoneTiles",
+        "Baldosas de Piedra"
+    ],
+    [
+        "RedTiles",
+        "Baldosas Rojos"
+    ],
+    [
+        "DarkTiles",
+        "Baldosas Oscuras"
+    ],
+    [
+        "Terracotta",
+        "Terracota"
+    ],
+    [
+        "TerracottaTiles",
+        "Baldosas de Terracota"
+    ],
+    [
+        "Bricks",
+        "Ladrillos"
+    ],
+    [
+        "RedBricks",
+        "Ladrillos Rojos"
+    ],
+    [
+        "DarkBricks",
+        "Ladrillos Oscuros"
+    ],
+    [
+        "TerracottaBricks",
+        "Ladrillo de Terracota"
+    ],
+    [
+        "Concrete",
+        "Hormigón"
+    ],
+    [
+        "ConcreteBricks",
+        "Ladrillos de Hormigón"
+    ],
+    [
+        "ConcreteTiles",
+        "Baldosas de Hormigón"
+    ],
+    [
+        "ConcreteSmallTiles",
+        "Baldosín de Hormigón"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Hormigón Armado"
+    ],
+    [
+        "ReinforcedConcreteTiles",
+        "Baldosas de Hormigón Armado"
+    ],
+    [
+        "ReinforcedConcreteSmallTiles",
+        "Baldosín de Hormigón Armado"
+    ],
+    [
+        "ReinforcedConcreteBricks",
+        "Ladrillos de Hormigón Armado"
+    ],
+    [
+        "DangerBlock",
+        "Bloque de Peligro"
+    ],
+    [
+        "RustyCopperCasing",
+        "Bloque de Cobre Oxidado"
+    ],
+    [
+        "RustyIronCasing",
+        "Bloque de Hierro Oxidado"
+    ],
+    [
+        "Column",
+        "Columna"
+    ],
+    [
+        "FluetedColumn",
+        "Columna de Chimenea"
+    ],
+    [
+        "Flashlight",
+        "Linterna"
+    ],
+    [
+        "Steampack",
+        "Steampack"
+    ],
+    [
+        "Jetpack",
+        "Jetpack"
+    ],
+    [
+        "AntigravityUnit",
+        "Unidad Antigravedad"
+    ],
+    [
+        "Scanner",
+        "Escáner"
+    ]
+]

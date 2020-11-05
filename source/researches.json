@@ -1,0 +1,378 @@
+[
+    [
+        "InitialScan",
+        "Initial Scan"
+    ],
+    [
+        "MineralsScan",
+        "Minerals Scan"
+    ],
+    [
+        "Electricity",
+        "Electricity"
+    ],
+    [
+        "Smelting",
+        "Smelting"
+    ],
+    [
+        "Metalwork",
+        "Metalwork"
+    ],
+    [
+        "PlantsScan",
+        "Plants Scan"
+    ],
+    [
+        "DecorativeWood",
+        "Decorative Wood"
+    ],
+    [
+        "DecorativePlastic",
+        "Decorative Plastic"
+    ],
+    [
+        "DecorativeStone",
+        "Decorative Stone"
+    ],
+    [
+        "DecorativeConcrete",
+        "Decorative Concrete"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Decorative Reinforced Concrete"
+    ],
+    [
+        "DecorationClay",
+        "Decoration Clay"
+    ],
+    [
+        "Scanner",
+        "Scanner"
+    ],
+    [
+        "Steampack",
+        "Steampack"
+    ],
+    [
+        "Screwdriver",
+        "Screwdriver"
+    ],
+    [
+        "StainlessSteelProduction",
+        "Stainless Steel Production"
+    ],
+    [
+        "Jetpack",
+        "Jetpack"
+    ],
+    [
+        "TitaniumProduction",
+        "Titanium Production"
+    ],
+    [
+        "HardMetalProduction",
+        "Hard Metal Production"
+    ],
+    [
+        "AntigravityUnit",
+        "Antigravity Unit"
+    ],
+    [
+        "NeutroniumProduction",
+        "Neutronium Production"
+    ],
+    [
+        "Dumping",
+        "Dumping"
+    ],
+    [
+        "GasDump",
+        "Gas Dump"
+    ],
+    [
+        "SolidDump",
+        "SolidDump"
+    ],
+    [
+        "CircuitBoard",
+        "Circuit Board"
+    ],
+    [
+        "AdvancedCircuitBoard",
+        "Advanced Circuit Board"
+    ],
+    [
+        "QuantumCore",
+        "Quantum Core"
+    ],
+    [
+        "FineWire",
+        "Fine Wires"
+    ],
+    [
+        "BasicCircuit",
+        "Basic Circuit"
+    ],
+    [
+        "AdvancedCircuit",
+        "Advanced Circuit"
+    ],
+    [
+        "Processor",
+        "Processor"
+    ],
+    [
+        "QuantumCircuit",
+        "Quantum Circuit"
+    ],
+    [
+        "QuantumProcessor",
+        "Quantum Processor"
+    ],
+    [
+        "QuantumBrain",
+        "Quantum Brain"
+    ],
+    [
+        "Flywheel",
+        "Flywheel"
+    ],
+    [
+        "ElectricalSwitch",
+        "Electrical Switch"
+    ],
+    [
+        "Valve",
+        "Valve"
+    ],
+    [
+        "Terminal",
+        "Terminal"
+    ],
+    [
+        "FlatTerminal",
+        "Flat Terminal"
+    ],
+    [
+        "BigTerminal",
+        "Big Terminal"
+    ],
+    [
+        "BigFlatTerminal",
+        "Big Flat Terminal"
+    ],
+    [
+        "HugeTerminal",
+        "Huge Terminal"
+    ],
+    [
+        "HugeFlatTerminal",
+        "Huge Flat Terminal"
+    ],
+    [
+        "Drying",
+        "Drying"
+    ],
+    [
+        "PowerGeneration",
+        "Power Generation"
+    ],
+    [
+        "Automatization",
+        "Automatization"
+    ],
+    [
+        "Pump",
+        "Pump"
+    ],
+    [
+        "FilteringArm",
+        "Filtering Arm"
+    ],
+    [
+        "FilteringPump",
+        "Filtering Pump"
+    ],
+    [
+        "AdditionalStorage",
+        "Additional Storage"
+    ],
+    [
+        "HeatTransferring",
+        "Heat Transferring"
+    ],
+    [
+        "HeatConversion",
+        "Heat Conversion"
+    ],
+    [
+        "BasicMachines",
+        "Basic Machines"
+    ],
+    [
+        "Refining",
+        "Refining"
+    ],
+    [
+        "FluidStorage",
+        "Fluid Storage"
+    ],
+    [
+        "FluidDumping",
+        "Fluid Dumping"
+    ],
+    [
+        "Pumpjack",
+        "Pumpjack"
+    ],
+    [
+        "Pyrolysis",
+        "Pyrolysis"
+    ],
+    [
+        "SingleTypeStorage",
+        "Single Type Storage"
+    ],
+    [
+        "Multitool",
+        "Multitool"
+    ],
+    [
+        "DistributedComputing",
+        "Distributed Computing"
+    ],
+    [
+        "Electrolysis",
+        "Electrolysis"
+    ],
+    [
+        "Sign",
+        "Sign"
+    ],
+    [
+        "Constructor",
+        "Constructor"
+    ],
+    [
+        "Deconstructor",
+        "Deconstructor"
+    ],
+    [
+        "Cutting",
+        "Cutting"
+    ],
+    [
+        "SteelProduction",
+        "Steel Production"
+    ],
+    [
+        "AutomaticMining",
+        "Automatic Mining"
+    ],
+    [
+        "FluidFurnace",
+        "FluidFurnace"
+    ],
+    [
+        "MetalConstructions",
+        "Metal Constructions"
+    ],
+    [
+        "Scaffold",
+        "Scaffold"
+    ],
+    [
+        "Lamp",
+        "Lamp"
+    ],
+    [
+        "Chemistry",
+        "Chemistry"
+    ],
+    [
+        "MassivePowerGeneration",
+        "Massive Power Generation"
+    ],
+    [
+        "AdvancedSmelting",
+        "Advanced Smelting"
+    ],
+    [
+        "Separation",
+        "Separation"
+    ],
+    [
+        "Assembler",
+        "Assembler"
+    ],
+    [
+        "ElectricEngine",
+        "Electric Engine"
+    ],
+    [
+        "Diode",
+        "Diode"
+    ],
+    [
+        "Mixer",
+        "Mixer"
+    ],
+    [
+        "ElectricFurnace",
+        "Electric Furnace"
+    ],
+    [
+        "AdvancedSign",
+        "Advanced Sign"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Atmospheric Condenser"
+    ],
+    [
+        "Furnace",
+        "Furnace"
+    ],
+    [
+        "IndustrialSmelting",
+        "Industrial Smelting"
+    ],
+    [
+        "AutomaticFarm",
+        "Automatic Farm"
+    ],
+    [
+        "Fermentation",
+        "Fermentation"
+    ],
+    [
+        "AdvancedSeparation",
+        "Advanced Separation"
+    ],
+    [
+        "BatteryBox",
+        "Battery Box"
+    ],
+    [
+        "SolarPanel",
+        "Solar Panel"
+    ],
+    [
+        "GasTurbine",
+        "Gas Turbine"
+    ],
+    [
+        "FissionReactor",
+        "Fission Reactor"
+    ],
+    [
+        "InductionCoil",
+        "Induction Coil"
+    ],
+    [
+        "Freezer",
+        "Freezer"
+    ]
+]

@@ -1,0 +1,206 @@
+[
+    [
+        "Chair",
+        "Holz Stuhl"
+    ],
+    [
+        "Table",
+        "Holz Tisch"
+    ],
+    [
+        "Rack",
+        "Holz Regal"
+    ],
+    [
+        "Bed",
+        "Holz Bett"
+    ],
+    [
+        "Ladder",
+        "Holz Leiter"
+    ],
+    [
+        "Door",
+        "Holz Tür"
+    ],
+    [
+        "Fence",
+        "Holz Zaun"
+    ],
+    [
+        "Window",
+        "Holz Fenster"
+    ],
+    [
+        "CeramicRoof",
+        "Dachziegel"
+    ],
+    [
+        "Stairs",
+        "Stiegen"
+    ],
+    [
+        "WoodStairs",
+        "Holz Stiegen"
+    ],
+    [
+        "CopperChair",
+        "Kupfer Stuhl"
+    ],
+    [
+        "FireCup",
+        "Feuer-Schale"
+    ],
+	[
+        "PlasticWindow",
+        "Kunststoff Fenster"
+    ],
+    [
+        "Firefly",
+        "Glühwürmchen"
+    ],
+    [
+        "Flies",
+        "Fliegen"
+    ],
+    [
+        "Birds",
+        "Vögel"
+    ],
+    [
+        "DesertSound",
+        "Wüsten Geräusche"
+    ],
+    [
+        "SwampSound",
+        "Sumpf Geräusche"
+    ],
+    [
+        "Butterfly",
+        "Schmetterlinge"
+    ],
+    [
+        "Leafes",
+        "Blätter"
+    ],
+    [
+        "Bugs",
+        "Käfer"
+    ],
+    [
+        "WoodPlanks",
+        "Holz Bretter"
+    ],
+    [
+        "AdminBlocks",
+        "Admin Block"
+    ],
+    [
+        "StoneTiles",
+        "Stein Fließen"
+    ],
+    [
+        "RedTiles",
+        "Rote Fließen"
+    ],
+    [
+        "DarkTiles",
+        "Dunkle Fließen"
+    ],
+    [
+        "Terracotta",
+        "Ton"
+    ],
+    [
+        "TerracottaTiles",
+        "Ton Fließen"
+    ],
+    [
+        "Bricks",
+        "Stein-Ziegel"
+    ],
+    [
+        "RedBricks",
+        "Rote Ziegel"
+    ],
+    [
+        "DarkBricks",
+        "Dunkle Ziegel"
+    ],
+	[
+        "TerracottaBricks",
+        "Back-Ziegel"
+    ],
+    [
+        "Concrete",
+        "Beton"
+    ],
+	[
+        "ConcreteBricks",
+        "Beton-Ziegel"
+    ],
+	[
+        "ConcreteTiles",
+        "Beton-Fließen"
+    ],
+    [
+        "ConcreteSmallTiles",
+        "Kleine Beton-Fließen"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Stahl-Beton"
+    ],
+    [
+        "ReinforcedConcreteTiles",
+        "Stahl-Beton-Fließen"
+    ],
+    [
+        "ReinforcedConcreteSmallTiles",
+        "Kleine Stahl-Beton-Fließen"
+    ],
+    [
+        "ReinforcedConcreteBricks",
+        "Stahl-Beton-Ziegel"
+    ],
+    [
+        "DangerBlock",
+        "Gefahrenblock"
+    ],
+    [
+        "RustyCopperCasing",
+        "Rostige Kupfer Schalung"
+    ],
+    [
+        "RustyIronCasing",
+        "Rostige Stahl Schalung"
+    ],
+    [
+        "Column",
+        "Säule"
+    ],
+    [
+        "FluetedColumn",
+        "gerillte Säule"
+    ],
+    [
+        "Flashlight",
+        "Taschenlampe"
+    ],
+    [
+        "Steampack",
+        "Dampfdüsenrucksack"
+    ],
+    [
+        "Jetpack",
+        "Raketenrucksack"
+    ],
+    [
+        "AntigravityUnit",
+        "Antigravititäts-Einheit"
+    ],
+    [
+        "Scanner",
+        "Scanner"
+    ]
+]

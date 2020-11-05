@@ -1,0 +1,74 @@
+[
+    [
+        "CopperOre",
+        "Медная руда"
+    ],
+    [
+        "CopperImpureOreGravel",
+        "Неочищенный гравий медной руды"
+    ],
+    [
+        "CopperOreGravel",
+        "Гравий медной руды"
+    ],
+    [
+        "CopperImpureOreDust",
+        "Неочищенная пыль медной руды"
+    ],
+    [
+        "IronOre",
+        "Железная руда"
+    ],
+    [
+        "IronImpureOreGravel",
+        "Неочищенный гравий железной руды"
+    ],
+    [
+        "IronOreGravel",
+        "Гравий железной руды"
+    ],
+    [
+        "IronImpureOreDust",
+        "Неочищенная пыль железной руды"
+    ],
+    [
+        "UraniumOre",
+        "Урановая руда"
+    ],
+    [
+        "UraniumImpureOreGravel",
+        "Неочищенный гравий урановой руды"
+    ],
+    [
+        "UraniumOreGravel",
+        "Гравий урановой руды"
+    ],
+    [
+        "UraniumImpureOreDust",
+        "Неочищенная пыль урановой руды"
+    ],
+    [
+        "AluminiumOre",
+        "Алюминиевая руда"
+    ],
+    [
+        "AluminiumImpureOreGravel",
+        "Неочищенный гравий алюминиевой руды"
+    ],
+    [
+        "AluminiumOreGravel",
+        "Гравий алюминиевой руды"
+    ],
+    [
+        "AluminiumImpureOreDust",
+        "Неочищенная пыль алюминиевой руды"
+    ],
+    [
+        "CoalOre",
+        "Руда угля"
+    ],
+    [
+        "ClayOre",
+        "Руда глины"
+    ]
+]

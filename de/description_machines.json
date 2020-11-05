@@ -1,0 +1,302 @@
+[
+	[
+		"Macerator",
+		"Zerkleinert Gestein zur weiteren Verarbeitung. Verwandelt Platten und Teile zu Staub."
+	],
+	[
+		"CuttingMachine",
+		"Erzeugt Teile, Bretter und einfache Leiterplatten"
+	],
+	[
+		"Fermenter",
+		"Gärt Biologisches zu Gas"
+	],
+	[
+		"ChemReactor",
+		"Führt chemische Reaktionen durch"
+	],
+	[
+		"Separator",
+		"Zerlegt Staub in seine Einzelteile."
+	],
+	[
+		"Beam",
+		""
+	],
+	[
+		"Corner",
+		""
+	],
+	[
+		"AutomaticHammer",
+		"Hämmert Barren zu Platten. Zerkleinert Erz."
+	],
+	[
+		"Boiler",
+		"Erhitzt Wasser zu Wasserdampf."
+	],
+	[
+		"Pipe",
+		""
+	],
+	[
+		"HeatPipe",
+		""
+	],
+	[
+		"Flywheel",
+		""
+	],
+	[
+		"Scaffold",
+		""
+	],
+	[
+		"Sign",
+		"Hinterlassen Sie eine Nachricht"
+	],
+	[
+		"Connector",
+		"Leitet Strom"
+	],
+	[
+		"Tuhe",
+		""
+	],
+	[
+		"ItemRack",
+		"Speichert große Mengen eines Gegenständes"
+	],
+	[
+		"Vent",
+		"Manuelles trennen von Rohrleitungen"
+	],
+	[
+		"ElectricalSwitch",
+		"manuelles trennen von Stromleitungen"
+	],
+	[
+		"OreWasher",
+		"Extrahiert zusätzliche Stoffe aus dem Erz."
+	],
+	[
+		"Conveyor",
+		"Transportiert Gegenstände"
+	],
+	[
+		"Container",
+		"Speichert Flüssigkeiten oder Gase"
+	],
+	[
+		"Press",
+		"Presst Dinge zusammen."
+	],
+	[
+		"Compressor",
+		"Komprimiert Gase oder Flüssigkeiten."
+	],
+	[
+		"StirlingEngine",
+		"Wandelt Wärme zu Bewegungsarbeit."
+	],
+	[
+		"CombustionEngine",
+		"Verbrennt flüssigen Treibstoff um Bewegungsenergie zu erzeugen."
+	],
+	[
+		"PyrolysisUnit",
+		"Spaltet langkettige Kohlenwasserstoffe zu kurzkettigen."
+	],
+	[
+		"Generator",
+		"Wandelt mechanische Arbeit zu Strom um."
+	],
+	[
+		"CompactGenerator",
+		"Wandelt kleine Mengen mechanische Arbeit zu Strom um."
+	],
+	[
+		"ElectricEngine",
+		"Erzeugt aus Strom Bewegungsenergie."
+	],
+	[
+		"RobotArm",
+		"Bewegt Gegenstände zwischen Maschinen und Förderbänder."
+	],
+	[
+		"FilteringRobotArm",
+		"Bewegt festgelegte Gegenstände zwischen Maschinen und Förderbänder."
+	],
+	[
+		"Pump",
+		"Bewegt Flüssigkeiten zwischen Maschinen und Förderbänder."
+	],
+	[
+		"FilteringPump",
+		"Bewegt festgelegte Flüssigkeiten zwischen Maschinen und Förderbänder."
+	],
+	[
+		"Smelter",
+		"Ein einfache Erzschmelze. Kann auch zur Glasserzeugung verwendet werden."
+	],
+	[
+		"SteamTurbine",
+		"Wandelt Dampf in mechanische Bewegungenergie um."
+	],
+	[
+		"GasTurbine",
+		"Erzeugt mechanische Energie bei der Verbrennung von Treibstoffen."
+	],
+	[
+		"ArcSmelter",
+		"Moderner Schmelzofen. Perfekt zum Schmelzen von hochwertigen Stahl."
+	],
+	[
+		"ChemicalBath",
+		"Chemiebad NaN"
+	],
+	[
+		"Furnace",
+		"Verwendet Brennstoffe um Wärme zu erzeugen."
+	],
+	[
+		"Oven",
+		"Ein Gerät zur Produktion von Holzkohle, Koks oder gebrannte Ziegel."
+	],
+	[
+		"BlastFurnace",
+		"Ofen für die Stahlschmelze"
+	],
+	[
+		"FluidFurnace",
+		"Verbrennt Flüssigkeiten um Wärme zu erzeugen"
+	],
+	[
+		"ElectricFurnace",
+		"Verwendet Strom zu erzeugung von Wärme"
+	],
+	[
+		"BatteryBox",
+		"Speichert Strom"
+	],
+	[
+		"DrillingRig",
+		"Automatisiertes Bauwerk zum Schürfen von Erzen und Gestein. Lagerstätten sind auf der Karte markiert. Verwende den Scanner um weitere zu finden."
+	],
+	[
+		"Assembler",
+		"Eine Maschine zum zusammenbauen von kleinen Gegenständen und Mikrochips."
+	],
+	[
+		"FluidDump",
+		"Läßt Flüssigkeiten im Boden verschwinden"
+	],
+	[
+		"Lamp",
+		"Erhellt den Raum."
+	],
+	[
+		"AdminElectricGenerator",
+		""
+	],
+	[
+		"AdminItemGenerator",
+		""
+	],
+	[
+		"AdminKineticGenerator",
+		""
+	],
+	[
+		"AdminHeatGenerator",
+		""
+	],
+	[
+		"AdminFluidGenerator",
+		""
+	],
+	[
+		"AdminExterminator",
+		""
+	],
+	[
+		"Electrolyzer",
+		"Elektrochemische Abscheidung von Metallen"
+	],
+	[
+		"Mixer",
+		"Gerät zum Erzeugen von Gemischen, sowie Beton."
+	],
+	[
+		"AutomaticFarm",
+		"Automatisiertes Anbauen von Nutzplanzen"
+	],
+	[
+		"AtmosphericCondenser",
+		"Sammelt durch Kondensation verschiedene Flüssigkeiten oder Gase aus der Atmosphäre."
+	],
+	[
+		"Terminal",
+		"Läst die graphische Oberfläche eines Gerätes anzeigen."
+	],
+	[
+		"BigTerminal",
+		"Läst die graphische Oberfläche eines Gerätes groß anzeigen."
+	],
+	[
+		"HugeTerminal",
+		"Läst die graphische Oberfläche eines Gerätes riesig anzeigen."
+	],
+	[
+		"FlatTerminal",
+		"Läst die graphische Oberfläche eines Gerätes anzeigen."
+	],
+	[
+		"BigFlatTerminal",
+		"Läst die graphische Oberfläche eines Gerätes groß anzeigen."
+	],
+	[
+		"HugeFlatTerminal",
+		"Läst die graphische Oberfläche eines Gerätes riesig anzeigen."
+	],
+	[
+		"Computer",
+		"Erzeugt Forschungspunkte."
+	],
+	[
+		"IndustrialSeparator",
+		"Zerlegt Staub in seine Einzelteile. Noch effizienter!"
+	],
+	[
+		"Radiator",
+		"Gibt Wärme an die Atmossphäre ab."
+	],
+	[
+		"Diode",
+		"Läst Strom nur in eine Richtung durch."
+	],
+	[
+		"FissionReactor",
+		"Erzeugt riesige Mengen an Wärme die beim Zerfall von Atomen ensteht."
+	],
+	[
+		"SolarPanel",
+		"Wandelt Sonnenlicht in kleinen, konstanten Strom um."
+	],
+	[
+		"Pumpjack",
+		"Automatisiertes Bauwerk zur Extraktion von Flüssigkeiten aus dem Untergrund. Lagerstätten sind auf der Karte markiert. Verwende den Scanner um weitere zu finden."
+	],
+	[
+		"HeatExchanger",
+		"Tauscht die Wärme mit einer anderen aus."
+	],
+	[
+		"IndustrialSmelter",
+		"Moderner Schmelzofen. Verwendet die Hitze einer Induktionsspule zum schmeltzen harter Metalle wie Titan oder Wolframcarbid."
+	],
+	[
+		"InductionCoil",
+		"Strom durch die Spule erzeugt große Mengen an Wärme."
+	]
+]

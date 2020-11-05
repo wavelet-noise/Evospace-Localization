@@ -1,0 +1,138 @@
+[
+    [
+        "I",
+        "I"
+    ],
+    [
+        "II",
+        "II"
+    ],
+    [
+        "III",
+        "III"
+    ],
+    [
+        "IV",
+        "IV"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "VI",
+        "VI"
+    ],
+    [
+        "VII",
+        "VII"
+    ],
+    [
+        "VIII",
+        "VIII"
+    ],
+    [
+        "IX",
+        "IX"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "ItemInput",
+        "<img id=\"ItemInput\"></>Has item input"
+    ],
+    [
+        "ItemOutput",
+        "<img id=\"ItemOutput\"></>Has item ouput"
+    ],
+    [
+        "FluidInput",
+        "<img id=\"FluidInput\"></>Has fluid input"
+    ],
+    [
+        "FluidOutput",
+        "<img id=\"FluidOutput\"></>Has fluid ouput"
+    ],
+    [
+        "FluidConductor",
+        "Conducts fluids"
+    ],
+    [
+        "FluidStorage",
+        "Stores fluids"
+    ],
+    [
+        "KineticInput",
+        "<img id=\"Kinetic\"></>Consumes kinetic energy<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticOutput",
+        "<img id=\"Kinetic\"></>Produces kinetic energy<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticConductor",
+        "<img id=\"Kinetic\"></>Conducts kinetic energy<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticStorage",
+        "Stores kinetic energy<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "HeatInput",
+        "<img id=\"Heat\"></>Consumes heat energy<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatOutput",
+        "<img id=\"Heat\"></>Produces heat energy<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatConductor",
+        "<img id=\"Heat\"></>Conducts heat energy<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatStorage",
+        "Stores heat energy<img id=\"Heat2\"></>"
+    ],
+    [
+        "ElectricInput",
+        "<img id=\"Electricity\"></>Consumes electricity<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricOutput",
+        "<img id=\"Electricity\"></>Produces electricity<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductor",
+        "<img id=\"Electricity\"></>Conducts electricity<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricStorage",
+        "Stores electricity<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ips",
+        "Items per second: %s"
+    ],
+    [
+        "dps",
+        "Degrees per second: %s"
+    ],
+    [
+        "power_limit",
+        "Power limit: %sW"
+    ],
+    [
+        "power_output",
+        "Power output: %sW"
+    ],
+    [
+        "container",
+        "Capacity: %s L"
+    ],
+    [
+        "chest",
+        "Capacity: %s stacks"
+    ]
+]

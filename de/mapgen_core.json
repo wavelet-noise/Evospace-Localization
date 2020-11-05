@@ -1,0 +1,86 @@
+[
+    [
+        "SandSurface",
+        "Sand"
+    ],
+    [
+        "SandstoneSurface",
+        "Sandstein"
+    ],
+    [
+        "StoneSurface",
+        "Stein"
+    ],
+    [
+        "DesertSandSurface",
+        "Wüstensand"
+    ],
+    [
+        "GrassSurface",
+        "Gras"
+    ],
+    [
+        "BogFogSurface",
+        "Moor Nebel"
+    ],
+    [
+        "LavaSmokeSurface",
+        "Lava Rauch"
+    ],
+    [
+        "LavaSurface",
+        "Lava"
+    ],
+    [
+        "BasaltSurface",
+        "Basalt"
+    ],
+    [
+        "BogSurface",
+        "Moor"
+    ],
+    [
+        "PineForestSurface",
+        "Kiefernwaldboden"
+    ],
+    [
+        "CoralBubbleEmitterSurface",
+        "Korallen Blasen Emitter"
+    ],
+    [
+        "DirtSurface",
+        "Erde"
+    ],
+    [
+        "GravelSurface",
+        "Kies"
+    ],
+    [
+        "DryGrassSurface",
+        "Trockenes Gras"
+    ],
+    [
+        "LimestoneSurface",
+        "Kalkstein"
+    ],
+    [
+        "RedStoneSurface",
+        "Roter Stein"
+    ],
+    [
+        "DarkStoneSurface",
+        "Dunkler Stein"
+    ],
+    [
+        "SnowSurface",
+        "Schnee"
+    ],
+    [
+        "GraniteSurface",
+        "Granit"
+    ],
+    [
+        "PeatSurface",
+        "Torf"
+    ]
+]

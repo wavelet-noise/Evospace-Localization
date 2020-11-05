@@ -1,0 +1,338 @@
+[
+    [
+        "InitialScan",
+        "Grob-Erfassung"
+    ],
+    [
+        "MineralsScan",
+        "Mineralien Erfassung"
+    ],
+	[
+        "Electricity",
+        "Elektricität"
+    ],
+	[
+        "Smelting",
+        "Schmelzofen"
+    ],
+	[
+        "Metalwork",
+        "Schmiedekunst"
+    ],
+    [
+        "PlantsScan",
+        "Flora Erfassung"
+    ],
+    [
+        "DecorationWood",
+        "Dekoratives Holz"
+    ],
+	[
+        "DecorativePlastic",
+        "Dekorativer Kunststoff"
+    ],
+    [
+        "DecorationStone",
+        "Dekorativer Stein"
+    ],
+	[
+        "DecorativeConcrete",
+        "Decorativer Beton"
+    ],
+    [
+        "DecorationClay",
+        "Dekorativer Ton"
+    ],
+    [
+        "Scanner",
+        "Scanner"
+    ],
+    [
+        "Steampack",
+        "Dampfrucksack"
+    ],
+    [
+        "Screwdriver",
+        "Schraubendreher"
+    ],
+    [
+        "StainlessSteelProduction",
+        "Edelstahl Produktion"
+    ],
+    [
+        "Jetpack",
+        "Raketenrucksack"
+    ],
+    [
+        "TitaniumProduction",
+        "Titan Produktion"
+    ],
+    [
+        "HardMetalProduction",
+        "Hartmetall Produktion"
+    ],
+	[
+        "AntigravityUnit",
+        "Antigravititäts-Einheit"
+    ],
+    [
+        "NeutroniumProduction",
+        "Neutronium Produktion"
+    ],
+    [
+        "CircuitBoard",
+        "Leiterplatten"
+    ],
+    [
+        "AdvancedCircuitBoard",
+        "Moderne Leiterplatten"
+    ],
+    [
+        "QuantumCore",
+        "Quanten Kern"
+    ],
+    [
+        "FineWire",
+        "Feine Drähte"
+    ],
+    [
+        "BasicCircuit",
+        "Einfacher Schaltkreis"
+    ],
+    [
+        "AdvancedCircuit",
+        "Moderner Schaltkreis"
+    ],
+    [
+        "Processor",
+        "Prozessor"
+    ],
+    [
+        "QuantumCircuit",
+        "Quanten Schaltkreis"
+    ],
+    [
+        "QuantumProcessor",
+        "Quanten Prozessor"
+    ],
+    [
+        "QuantumBrain",
+        "Quanten Gehirn"
+    ],
+    [
+        "Flywheel",
+        "Schwungrad"
+    ],
+    [
+        "ElectricalSwitch",
+        "Stromschalter"
+    ],
+    [
+        "Valve",
+        "Ventil"
+    ],
+	[
+        "Terminal",
+        "Bildschirme"
+    ],
+	[
+        "FlatTerminal",
+        "Flachbildschirme"
+    ],
+    [
+        "BigTerminal",
+        "Große Bildschirme"
+    ],
+    [
+        "BigFlatTerminal",
+        "Große Flachbildschirme"
+    ],
+    [
+        "HugeTerminal",
+        "Rießige Bildschirme"
+    ],
+    [
+        "HugeFlatTerminal",
+        "Rießige Flachbildschirme"
+    ],
+    [
+        "Drying",
+        "Trocknung"
+    ],
+    [
+        "PowerGeneration",
+        "Energie Erzeugung"
+    ],
+    [
+        "Automatization",
+        "Automatisierung"
+    ],
+    [
+        "Pump",
+        "Pumpe"
+    ],
+    [
+        "FilteringArm",
+        "Filter-Arm"
+    ],
+    [
+        "FilteringPump",
+        "Filter-Pumpe"
+    ],
+    [
+        "AdditionalStorage",
+        "Zusätzlicher Lagerplatz"
+    ],
+    [
+        "HeatTransferring",
+        "Wärmeübertragung"
+    ],
+    [
+        "HeatConversion",
+        "Wärmeumwandlung"
+    ],
+    [
+        "BasicMachines",
+        "Einfache Maschinen"
+    ],
+    [
+        "Refining",
+        "Veredelung"
+    ],
+    [
+        "FluidStorage",
+        "Wasserspeicher"
+    ],
+    [
+        "FluidDumping",
+        "Sickergrube"
+    ],
+    [
+        "Pumpjack",
+        "Pferdekopfpumpe"
+    ],
+    [
+        "Pyrolysis",
+        "Pyrolyse"
+    ],
+    [
+        "SingleTypeStorage",
+        "Einzellagerung"
+    ],
+    [
+        "Multitool",
+        "Multifunktionswerkzeug"
+    ],
+    [
+        "DistributedComputing",
+        "Dezentrale Rechner"
+    ],
+    [
+        "Electrolysis",
+        "Electrolyse"
+    ],
+    [
+        "Sign",
+        "Schilder"
+    ],
+    [
+        "Cutting",
+        "Schneiden"
+    ],
+    [
+        "SteelProduction",
+        "Stahl Produktion"
+    ],
+    [
+        "AutomaticMining",
+        "Automatischer Abbau"
+    ],
+    [
+        "FluidFurnace",
+        "Flüssigkeits-Ofen"
+    ],
+	[
+        "MetalConstructions",
+        "Metal Konstruktionen"
+    ],
+	[
+        "Scaffold",
+        "Gerüst"
+    ],
+    [
+        "Lamp",
+        "Licht"
+    ],
+    [
+        "Chemistry",
+        "Chemie"
+    ],
+    [
+        "MassivePowerGeneration",
+        "Massive Energie Erzeugung"
+    ],
+    [
+        "AdvancedSmelting",
+        "Verbessertes Schmelzen"
+    ],
+    [
+        "Separation",
+        "Abscheidung"
+    ],
+    [
+        "Assembler",
+        "Montage"
+    ],
+    [
+        "ElectricEngine",
+        "Elekro-Motor"
+    ],
+    [
+        "Diode",
+        "Diode"
+    ],
+    [
+        "Mixer",
+        "Mischer"
+    ],
+    [
+        "ElectricFurnace",
+        "Elekro-Ofen"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Atmosphären-Kondenser"
+    ],
+    [
+        "Furnace",
+        "Brenn-Ofen"
+    ],
+    [
+        "IndustrialSmelting",
+        "Industrielle Schmelzverfahren"
+    ],
+    [
+        "AutomaticFarm",
+        "Automatisierter Anbau"
+    ],
+    [
+        "Fermentation",
+        "Bio-Reaktionen"
+    ],
+    [
+        "AdvancedSeparation",
+        "Verbesserte Abscheidung"
+    ],
+    [
+        "BatteryBox",
+        "Akkumulator"
+    ],
+    [
+        "SolarPanel",
+        "Photovoltaik-Panel"
+    ],
+    [
+        "FissionReactor",
+        "Atom-Zerfall"
+    ]
+]

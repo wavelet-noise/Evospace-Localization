@@ -1,0 +1,226 @@
+﻿[
+    [
+        "I",
+        "I"
+    ],
+    [
+        "II",
+        "II"
+    ],
+    [
+        "III",
+        "III"
+    ],
+    [
+        "IV",
+        "IV"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "VI",
+        "VI"
+    ],
+    [
+        "VII",
+        "VII"
+    ],
+    [
+        "VIII",
+        "VIII"
+    ],
+    [
+        "IX",
+        "IX"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "ItemInput",
+        "<img id=\"ItemInput\"></>Eingang für Gegenstände"
+    ],
+	[
+		"ItemOutput",
+		"<img id=\"ItemOutput\"></>Ausgang für Gegenstände"
+	],
+	[
+		"FluidInput",
+		"<img id=\"FluidInput\"></>Eingang für Flüssigkeiten"
+	],
+	[
+		"FluidOutput",
+		"<img id=\"FluidOutput\"></>Ausgang für Flüssigkeiten"
+	],
+	[
+		"FluidConductor",
+		"Transportiert Flüssigkeiten & Gase"
+	],
+	[
+		"FluidStorage",
+		"Speichert Flüssigkeiten & Gase"
+	],
+	[
+		"KineticInput",
+		"<img id=\"Kinetic\"></>Verbraucht Bewegungsenergie<img id=\"Kinetic2\"></>"
+	],
+	[
+		"KineticOutput",
+		"<img id=\"Kinetic\"></>Erzeugt Bewegungsenergie<img id=\"Kinetic2\"></>"
+	],
+	[
+		"KineticConductor",
+		"<img id=\"Kinetic\"></>Überträgt Bewegungsenergie<img id=\"Kinetic2\"></>"
+	],
+	[
+		"KineticStorage",
+		"Speichert Bewegungsenergie<img id=\"Kinetic2\"></>"
+	],
+    [
+        "HeatInput",
+        "<img id=\"Heat\"></>Verbraucht Wärme<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatOutput",
+        "<img id=\"Heat\"></>Erzeugt Wärme<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatConductor",
+        "<img id=\"Heat\"></>Überträgt Wärme<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatStorage",
+        "Speichert Wärmeenergie<img id=\"Heat2\"></>"
+    ],
+    [
+        "ElectricInput",
+        "<img id=\"Electricity\"></>Verbraucht Strom<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricOutput",
+        "<img id=\"Electricity\"></>Erzeugt Strom<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductor",
+        "<img id=\"Electricity\"></>Leitet Strom<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricStorage",
+        "Speichert Strom<img id=\"Electricity2\"></>"
+    ],
+	[
+        "05ips",
+        "0.5 Gegenstände pro Sekunde"
+    ],
+    [
+        "1ips",
+        "1 Gegenstände pro Sekunde"
+    ],
+    [
+        "2ips",
+        "2 Gegenstände pro Sekunde"
+    ],
+    [
+        "4ips",
+        "4 Gegenstände pro Sekunde"
+    ],
+    [
+        "8ips",
+        "8 Gegenstände pro Sekunde"
+    ],
+    [
+        "10ips",
+        "10 Gegenstände pro Sekunde"
+    ],
+    [
+        "45dps",
+        "45deg pro Sekunde"
+    ],
+    [
+        "90dps",
+        "90deg pro Sekunde"
+    ],
+    [
+        "180dps",
+        "180deg pro Sekunde"
+    ],
+    [
+        "360dps",
+        "360deg pro Sekunde"
+    ],
+    [
+        "450dps",
+        "450deg pro Sekunde"
+    ],
+    [
+        "900dps",
+        "900deg pro Sekunde"
+    ],
+    [
+        "container0",
+        "Lagerplatz 30"
+    ],
+    [
+        "container1",
+        "Lagerplatz 60"
+    ],
+    [
+        "container2",
+        "Lagerplatz 90"
+    ],
+    [
+        "container3",
+        "Lagerplatz 120"
+    ],
+    [
+        "container4",
+        "Lagerplatz 150"
+    ],
+    [
+        "container5",
+        "Lagerplatz 180"
+    ],
+    [
+        "container6",
+        "Lagerplatz 210"
+    ],
+    [
+        "container7",
+        "Lagerplatz 240"
+    ],
+    [
+        "chest0",
+        "Lagerplatz 20 VPE"
+    ],
+    [
+        "chest1",
+        "Lagerplatz 25 VPE"
+    ],
+    [
+        "chest2",
+        "Lagerplatz 30 VPE"
+    ],
+    [
+        "chest3",
+        "Lagerplatz 35 VPE"
+    ],
+    [
+        "chest4",
+        "Lagerplatz 40 VPE"
+    ],
+    [
+        "chest5",
+        "Lagerplatz 45 VPE"
+    ],
+    [
+        "chest6",
+        "Lagerplatz 50 VPE"
+    ],
+    [
+        "chest7",
+        "Lagerplatz 55 VPE"
+    ]
+]

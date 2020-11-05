@@ -1,0 +1,586 @@
+[
+    [
+        "CopperPlate",
+        "Copper пластина"
+    ],
+    [
+        "SteelPlate",
+        "Steel пластина"
+    ],
+    [
+        "StainlessSteelPlate",
+        "Пластина из нержавеющей стали"
+    ],
+    [
+        "TitaniumPlate",
+        "Пластина из титана"
+    ],
+    [
+        "HardMetalPlate",
+        "Пластина из победита"
+    ],
+    [
+        "NeutroniumPlate",
+        "Пластина из нейтрония"
+    ],
+    [
+        "CopperParts",
+        "Детали из меди"
+    ],
+    [
+        "SteelParts",
+        "Детали из стали"
+    ],
+    [
+        "StainlessSteelParts",
+        "Детали из нержавеющей стали"
+    ],
+    [
+        "TitaniumParts",
+        "Детали из титана"
+    ],
+    [
+        "HardMetalParts",
+        "Детали из победита"
+    ],
+    [
+        "NeutroniumParts",
+        "Детали из нейтрония"
+    ],
+    [
+        "CopperCasing",
+        "Обшивка из меди"
+    ],
+    [
+        "SteelCasing",
+        "Обшивка из стали"
+    ],
+    [
+        "StainlessSteelCasing",
+        "Обшивка из нержавеющей стали"
+    ],
+    [
+        "TitaniumCasing",
+        "Обшивка из титана"
+    ],
+    [
+        "HardMetalCasing",
+        "Обшивка из победита"
+    ],
+    [
+        "NeutroniumCasing",
+        "Обшивка из нейтрония"
+    ],
+    [
+        "BasicComputations",
+        "Базовые вычисления"
+    ],
+    [
+        "AdvancedComputations",
+        "Продвинутые вычисления"
+    ],
+    [
+        "ComplexComputations",
+        "Комплексные вычисления"
+    ],
+    [
+        "DeepComputations",
+        "Глубокие вычисления"
+    ],
+    [
+        "QuantumComputations",
+        "Квантовые вычисления"
+    ],
+    [
+        "UltimateComputations",
+        "Ультимативные вычисления"
+    ],
+    [
+        "Heat",
+        "Тепло"
+    ],
+    [
+        "Electricity",
+        "Электричество"
+    ],
+    [
+        "Kinetic",
+        "Сила"
+    ],
+    [
+        "CopperIngot",
+        "Слиток меди"
+    ],
+    [
+        "CopperDust",
+        "Пыль меди"
+    ],
+    [
+        "GoldIngot",
+        "Слиток золота"
+    ],
+    [
+        "GoldDust",
+        "пыль золота"
+    ],
+    [
+        "IronDust",
+        "Пыль железа"
+    ],
+    [
+        "CircuitBoard",
+        "Плата"
+    ],
+    [
+        "AdvancedCircuitBoard",
+        "Продвинутая плата"
+    ],
+    [
+        "Plastic",
+        "Пластик"
+    ],
+    [
+        "SteelIngot",
+        "Слиток стали"
+    ],
+    [
+        "SteelDust",
+        "Пыль стали"
+    ],
+    [
+        "AluminiumDust",
+        "Пыль алюминия"
+    ],
+    [
+        "AluminiumOxideDust",
+        "Пыль оксида алюминия"
+    ],
+    [
+        "StainlessSteelIngot",
+        "Слиток нержавеющей стали"
+    ],
+    [
+        "StainlessSteelDust",
+        "Пыль нержавеющей стали"
+    ],
+    [
+        "TitaniumIngot",
+        "Слиток титана"
+    ],
+    [
+        "TitaniumDust",
+        "Пыль титана"
+    ],
+    [
+        "TitaniumOxideDust",
+        "Пыль оксида титана"
+    ],
+    [
+        "PreparedTitaniumOxideDust",
+        "Подготовленная пыль оксида титана"
+    ],
+    [
+        "TungstenDust",
+        "Пыль вольфрама"
+    ],
+    [
+        "TungstenOxideDust",
+        "Пыль оксида вольфрама"
+    ],
+    [
+        "TungstenCarbideDust",
+        "Пыль карбида вольфрама"
+    ],
+    [
+        "HardMetalIngot",
+        "Слиток победита"
+    ],
+    [
+        "HardMetalDust",
+        "Пыль победита"
+    ],
+    [
+        "CobaltDust",
+        "Пыль кобальта"
+    ],
+    [
+        "CobaltOxideDust",
+        "Пыль оксида кобальта"
+    ],
+    [
+        "CementDust",
+        "Цементная пыль"
+    ],
+    [
+        "NeutroniumIngot",
+        "Слток нейтрония"
+    ],
+    [
+        "NeutroniumDust",
+        "Пыль нейтрония"
+    ],
+    [
+        "ChromeDust",
+        "Пыль хрома"
+    ],
+    [
+        "PlutoniumDust",
+        "Пыль плутония"
+    ],
+    [
+        "UraniumDust",
+        "Пыль урана"
+    ],
+    [
+        "Uranium235Dust",
+        "Пыль урана-235"
+    ],
+    [
+        "UraniumFuelCell",
+        "Урановая топливная ячейка"
+    ],
+    [
+        "DepletedUraniumFuelCell",
+        "Отработанная урановая топливная ячейка"
+    ],
+    [
+        "ThoriumDust",
+        "Пыль тория"
+    ],
+    [
+        "Sodium",
+        "Sodium"
+    ],
+    [
+        "Sulfur",
+        "Сера"
+    ],
+    [
+        "Chlorine",
+        "Хлор"
+    ],
+    [
+        "Peat",
+        "Торф"
+    ],
+    [
+        "Coal",
+        "Уголь"
+    ],
+    [
+        "Coke",
+        "Кокс"
+    ],
+    [
+        "ProducerGas",
+        "Синтез-газ"
+    ],
+    [
+        "AshDust",
+        "Пепел"
+    ],
+    [
+        "Steam",
+        "Пар"
+    ],
+    [
+        "Hydrogen",
+        "Водород"
+    ],
+    [
+        "Methane",
+        "Метан"
+    ],
+    [
+        "Ethylene",
+        "Этилен"
+    ],
+    [
+        "Water",
+        "Вода"
+    ],
+    [
+        "Glass",
+        "Стекло"
+    ],
+    [
+        "Lense",
+        "Линза"
+    ],
+    [
+        "Organics",
+        "Органика"
+    ],
+    [
+        "Biomass",
+        "Биомасса"
+    ],
+    [
+        "Air",
+        "Воздух"
+    ],
+    [
+        "Clay",
+        "Глина"
+    ],
+    [
+        "OreWater",
+        "Рудная жидкость"
+    ],
+    [
+        "SaltWater",
+        "Соленая вода"
+    ],
+    [
+        "RareEarthElement",
+        "Редкоземельные элементы"
+    ],
+    [
+        "ClayBrick",
+        "Глиняный кирпич"
+    ],
+    [
+        "Log",
+        "Бревно"
+    ],
+    [
+        "StoneLog",
+        "Каменное бревно"
+    ],
+    [
+        "Plank",
+        "Доска"
+    ],
+    [
+        "Silicon",
+        "Кремний"
+    ],
+    [
+        "SiliconWafer",
+        "Кремниевая пластина"
+    ],
+    [
+        "SulfuricAcid",
+        "Серная кислота"
+    ],
+    [
+        "RawOil",
+        "Сырая нефть"
+    ],
+    [
+        "MineralWater",
+        "Минеральная вода"
+    ],
+    [
+        "Gasoline",
+        "Бензин"
+    ],
+    [
+        "HeavyOil",
+        "Масла"
+    ],
+    [
+        "Battery",
+        "Аккумулятор"
+    ],
+    [
+        "SiliconOxide",
+        "Оксид кремния"
+    ],
+    [
+        "Pumpkin",
+        "Тыква"
+    ],
+    [
+        "Oxygen",
+        "Кислород"
+    ],
+    [
+        "Nitrogen",
+        "Азот"
+    ],
+    [
+        "ChromeOxideDust",
+        "Пыль оксида хрома"
+    ],
+    [
+        "AluminothermicChromeDust",
+        "Алюмотермическая смесь с хромом"
+    ],
+    [
+        "BerylliumDust",
+        "Пыль берилия"
+    ],
+    [
+        "YttriumDust",
+        "Yttrium Dust"
+    ],
+    [
+        "Helium",
+        "Гелий"
+    ],
+    [
+        "SaltDust",
+        "Соль"
+    ],
+    [
+        "PortalBase",
+        "Portal Base"
+    ],
+    [
+        "Signal",
+        "Signal"
+    ],
+    [
+        "CopperWire",
+        "Медная проволока"
+    ],
+    [
+        "GoldWire",
+        "Золотая проволока"
+    ],
+    [
+        "Circuit",
+        "Микросхема"
+    ],
+    [
+        "AdvancedCircuit",
+        "Продвинутая микросхема"
+    ],
+    [
+        "Processor",
+        "Процессор"
+    ],
+    [
+        "QuantumCircuit",
+        "Квантовая микросхема"
+    ],
+    [
+        "QuantumProcessor",
+        "Квантовый процессор"
+    ],
+    [
+        "QuantumCore",
+        "Квантовое ядро"
+    ],
+    [
+        "Cell",
+        "Ячейка"
+    ],
+    [
+        "A",
+        "A"
+    ],
+    [
+        "B",
+        "B"
+    ],
+    [
+        "C",
+        "C"
+    ],
+    [
+        "D",
+        "D"
+    ],
+    [
+        "E",
+        "E"
+    ],
+    [
+        "F",
+        "F"
+    ],
+    [
+        "G",
+        "G"
+    ],
+    [
+        "H",
+        "H"
+    ],
+    [
+        "I",
+        "I"
+    ],
+    [
+        "J",
+        "J"
+    ],
+    [
+        "K",
+        "K"
+    ],
+    [
+        "L",
+        "L"
+    ],
+    [
+        "M",
+        "M"
+    ],
+    [
+        "N",
+        "N"
+    ],
+    [
+        "O",
+        "O"
+    ],
+    [
+        "P",
+        "P"
+    ],
+    [
+        "Q",
+        "Q"
+    ],
+    [
+        "R",
+        "R"
+    ],
+    [
+        "S",
+        "S"
+    ],
+    [
+        "T",
+        "T"
+    ],
+    [
+        "U",
+        "U"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "W",
+        "W"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "Y",
+        "Y"
+    ],
+    [
+        "Z",
+        "Z"
+    ],
+    [
+        "ErrorString",
+        "Ошибка в строке"
+    ],
+    [
+        "Multitool",
+        "Мультитул"
+    ],
+    [
+        "Screwdriver",
+        "Отвертка"
+    ]
+]

@@ -1,0 +1,302 @@
+[
+	[
+		"Macerator",
+		"Grinds gravel for further processing. Turns plates and parts to dust."
+	],
+	[
+		"CuttingMachine",
+		"Produces parts, boards and base circuit boards."
+	],
+	[
+		"Fermenter",
+		""
+	],
+	[
+		"ChemReactor",
+		""
+	],
+	[
+		"Separator",
+		"Separates the dust into components."
+	],
+	[
+		"Beam",
+		""
+	],
+	[
+		"Corner",
+		""
+	],
+	[
+		"AutomaticHammer",
+		"Produces plates from ingots. Grinds ore to gravel."
+	],
+	[
+		"Boiler",
+		"Turns heat and water into steam."
+	],
+	[
+		"Pipe",
+		""
+	],
+	[
+		"HeatPipe",
+		""
+	],
+	[
+		"Flywheel",
+		""
+	],
+	[
+		"Scafold",
+		""
+	],
+	[
+		"Sign",
+		""
+	],
+	[
+		"Connector",
+		""
+	],
+	[
+		"Chest",
+		""
+	],
+	[
+		"ItemRack",
+		""
+	],
+	[
+		"Vent",
+		""
+	],
+	[
+		"ElectricalSwitch",
+		""
+	],
+	[
+		"OreWasher",
+		"Extracts additional resources from ore."
+	],
+	[
+		"Conveyor",
+		""
+	],
+	[
+		"Container",
+		""
+	],
+	[
+		"Press",
+		""
+	],
+	[
+		"Compressor",
+		""
+	],
+	[
+		"StirlingEngine",
+		"Converts thermal energy into kinetic energy."
+	],
+	[
+		"CombustionEngine",
+		"Burns liquid fuel to generate kinetic energy."
+	],
+	[
+		"PyrolysisUnit",
+		"Breaks down the fuel into smaller components."
+	],
+	[
+		"Generator",
+		"Converts kinetic energy into electricity."
+	],
+	[
+		"CompactGenerator",
+		"Converts kinetic energy into electricity."
+	],
+	[
+		"ElectricEngine",
+		"Converts electricity into kinetic energy."
+	],
+	[
+		"RobotArm",
+		"Moves items between devices and conveyors."
+	],
+	[
+		"FilteringRobotArm",
+		"Moves items between devices and conveyors."
+	],
+	[
+		"Pump",
+		"Moves the liquid between the devices and pipes."
+	],
+	[
+		"FilteringPump",
+		"Moves the liquid between the devices and pipes."
+	],
+	[
+		"Smelter",
+		"A primitive stone foundry. It is used for smelting copper, glass and gold."
+	],
+	[
+		"SteamTurbine",
+		"Converts steam energy into kinetic energy."
+	],
+	[
+		"GasTurbine",
+		"Produces kinetic energy by burning fuel."
+	],
+		[
+		"ArcSmelter",
+		"Advanced smelter. Suitable for stainless steel smelting."
+	],
+	[
+		"ChemicalBath",
+		""
+	],
+	[
+		"Furnace",
+		"Burns solid fuel to generate heat."
+	],
+	[
+		"Oven",
+		"Device for the production of charcoal, coke and clay firing."
+	],
+	[
+		"BlastFurnace",
+		"Furnace for smelting steel."
+	],
+	[
+		"FluidFurnace",
+		"Burns liquid fuel to generate heat."
+	],
+	[
+		"ElectricFurnace",
+		"Uses electricity to generate heat."
+	],
+	[
+		"BatteryBox",
+		""
+	],
+	[
+		"DrillingRig",
+		"Automated device for mining ore and stone. Deposits are marked on the global map. Use the scanner to search for new deposits."
+	],
+	[
+		"Assembler",
+		"A device for assembling small items and microchips."
+	],
+	[
+		"FluidDump",
+		"Destroys the liquid."
+	],
+	[
+		"Lamp",
+		""
+	],
+	[
+		"AdminElectricGenerator",
+		""
+	],
+	[
+		"AdminItemGenerator",
+		""
+	],
+	[
+		"AdminKineticGenerator",
+		""
+	],
+	[
+		"AdminHeatGenerator",
+		""
+	],
+	[
+		"AdminFluidGenerator",
+		""
+	],
+	[
+		"AdminExterminator",
+		""
+	],
+	[
+		"Electrolyzer",
+		""
+	],
+	[
+		"Mixer",
+		"Device for producing mixes and blocks of concrete."
+	],
+	[
+		"AutomaticFarm",
+		"Automated device for growing plants. Consume water."
+	],
+	[
+		"AtmosphericCondenser",
+		"Collects liquids and gases from the atmosphere."
+	],
+	[
+		"Terminal",
+		"Displays the graphical interface of the devices in front of it."
+	],
+	[
+		"BigTerminal",
+		"Displays the graphical interface of the devices in front of it."
+	],
+	[
+		"HugeTerminal",
+		"Displays the graphical interface of the devices in front of it."
+	],
+	[
+		"FlatTerminal",
+		"Displays the graphical interface of the devices in front of it."
+	],
+	[
+		"BigFlatTerminal",
+		"Displays the graphical interface of the devices in front of it."
+	],
+	[
+		"HugeFlatTerminal",
+		"Displays the graphical interface of the devices in front of it."
+	],
+	[
+		"Computer",
+		"Develops research points."
+	],
+	[
+		"IndustrialSeparator",
+		"Separates the dust into components."
+	],
+	[
+		"Radiator",
+		"Destroys heat energy."
+	],
+	[
+		"Diode",
+		"Conducts electricity only in one direction."
+	],
+	[
+		"FissionReactor",
+		""
+	],
+	[
+		"SolarPanel",
+		""
+	],
+	[
+		"Pumpjack",
+		"Automated device for the extraction of liquids. Deposits are marked on the global map. Use the scanner to search for new deposits."
+	],
+	[
+		"HeatExchanger",
+		""
+	],
+	[
+		"IndustrialSmelter",
+		"Advanced smelter. It is used for smelting titanium and graphite."
+	],
+	[
+		"InductionCoil",
+		"It uses electricity to generate heat."
+	]
+]

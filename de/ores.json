@@ -1,0 +1,74 @@
+[
+    [
+        "CopperOre",
+        "Kupfer Erz"
+    ],
+    [
+        "CopperImpureOreGravel",
+        "unreiner Kupfer Erz Kies"
+    ],
+    [
+        "CopperOreGravel",
+        "Kupfer Erz Kies"
+    ],
+    [
+        "CopperImpureOreDust",
+        "unreiner Kupfer Erz Staub"
+    ],
+    [
+        "IronOre",
+        "Eisen Erz"
+    ],
+    [
+        "IronImpureOreGravel",
+        "unreiner Eisen Erz Kies"
+    ],
+    [
+        "IronOreGravel",
+        "Eisen Erz Kies"
+    ],
+    [
+        "IronImpureOreDust",
+        "unreiner Eisen Erz Staub"
+    ],
+    [
+        "UraniumOre",
+        "Uran Erz"
+    ],
+    [
+        "UraniumImpureOreGravel",
+        "unreiner Uran Erz Kies"
+    ],
+    [
+        "UraniumOreGravel",
+        "Uran Erz Kies"
+    ],
+    [
+        "UraniumImpureOreDust",
+        "unreiner Uran Erz Staub"
+    ],
+    [
+        "AluminiumOre",
+        "Aluminium Erz"
+    ],
+    [
+        "AluminiumImpureOreGravel",
+        "unreiner Aluminium Erz Kies"
+    ],
+    [
+        "AluminiumOreGravel",
+        "Aluminium Erz Kies"
+    ],
+    [
+        "AluminiumImpureOreDust",
+        "unreiner Aluminium Erz Staub"
+    ],
+    [
+        "CoalOre",
+        "Stein-Kohle"
+    ],
+    [
+        "ClayOre",
+        "TonErde"
+    ]
+]

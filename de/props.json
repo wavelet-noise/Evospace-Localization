@@ -1,0 +1,118 @@
+[
+    [
+        "Cactus",
+        "Kaktus"
+    ],
+    [
+        "Dandaleon",
+        "Löwenzahn"
+    ],
+    [
+        "Fern",
+        "Farn"
+    ],
+    [
+        "LongGrass",
+        "Langes Gras"
+    ],
+    [
+        "SeaPlant",
+        "Meer-Planze"
+    ],
+    [
+        "SeaGrass",
+        "Meer-Gras"
+    ],
+    [
+        "TallGrass",
+        "Hohes Gras"
+    ],
+    [
+        "Broadleaf",
+        "Breitblättrige Sternpflanze"
+    ],
+    [
+        "Noleafes",
+        "Keine Blätter"
+    ],
+    [
+        "Shrub",
+        "Strauch"
+    ],
+    [
+        "Rock",
+        "Fels"
+    ],
+    [
+        "Pine",
+        "Kiefer"
+    ],
+    [
+        "SnowyPine",
+        "Schneebedekte Kiefer"
+    ],
+    [
+        "Birch",
+        "Birke"
+    ],
+    [
+        "Palm",
+        "Palme"
+    ],
+    [
+        "Rogoz",
+        "Rohrkolben"
+    ],
+	[
+        "Lily",
+        "Lilium"
+    ],
+    [
+        "LilyFlower",
+        "Lilien"
+    ],
+    [
+        "Shroom",
+        "Pilz"
+    ],
+    [
+        "YellowFlower",
+        "Gelbe Blume"
+    ],
+    [
+        "RedFlower",
+        "Rote Blume"
+    ],
+    [
+        "WhiteFlower",
+        "Weiße Blume"
+    ],
+    [
+        "BigBush",
+        "Großer Busch"
+    ],
+    [
+        "SmallRock",
+        "Stein"
+    ],
+    [
+        "Diptero",
+        "Zweiflügler"
+    ],
+    [
+        "DryGrass",
+        "Trockenes Gras"
+    ],
+    [
+        "VolcanicRock",
+        "Vulkanisches Gestein"
+    ],
+    [
+        "SnowyRock",
+        "Schneebedeckter Fels"
+    ],
+    [
+        "SnowyGrass",
+        "Schneebedecktes Gras"
+    ]
+]

@@ -1,0 +1,322 @@
+[
+    [
+        "Macerator",
+        "Triturador"
+    ],
+    [
+        "CuttingMachine",
+        "Máquina de Corte"
+    ],
+    [
+        "Fermenter",
+        "Fermentador"
+    ],
+    [
+        "ChemReactor",
+        "Reactor Químico"
+    ],
+    [
+        "Separator",
+        "Separador"
+    ],
+    [
+        "Beam",
+        "Viga"
+    ],
+    [
+        "Corner",
+        "Esquina"
+    ],
+    [
+        "AutomaticHammer",
+        "Martillo Automático"
+    ],
+    [
+        "Boiler",
+        "Caldera"
+    ],
+    [
+        "Pipe",
+        "Tubería"
+    ],
+    [
+        "HeatPipe",
+        "Tubería Térmica"
+    ],
+    [
+        "Flywheel",
+        "Volante de Inercia"
+    ],
+    [
+        "Scaffold",
+        "Andamio"
+    ],
+    [
+        "Sign",
+        "Cartel"
+    ],
+    [
+        "AdvancedSign",
+        "Cartel Avanzado"
+    ],
+    [
+        "Connector",
+        "Cable"
+    ],
+    [
+        "Chest",
+        "Cofre"
+    ],
+    [
+        "ItemRack",
+        "Estantería"
+    ],
+    [
+        "Vent",
+        "Válvula"
+    ],
+    [
+        "ElectricalSwitch",
+        "Interruptor"
+    ],
+    [
+        "OreWasher",
+        "Lavadora de Minerales"
+    ],
+    [
+        "Conveyor",
+        "Transportador"
+    ],
+    [
+        "Container",
+        "Deposito"
+    ],
+    [
+        "Press",
+        "Prensa"
+    ],
+    [
+        "StirlingEngine",
+        "Motor Stirling"
+    ],
+    [
+        "CombustionEngine",
+        "Motor de Combustión"
+    ],
+    [
+        "PyrolysisUnit",
+        "Unidad de Pirólisis"
+    ],
+    [
+        "Generator",
+        "Generador"
+    ],
+    [
+        "CompactGenerator",
+        "Generador Compacto"
+    ],
+    [
+        "ElectricEngine",
+        "Motor Eléctrico"
+    ],
+    [
+        "RobotArm",
+        "Brazo Robótico"
+    ],
+    [
+        "FilteringRobotArm",
+        "Brazo de Robot con Filtro"
+    ],
+    [
+        "Pump",
+        "Bomba"
+    ],
+    [
+        "FilteringPump",
+        "Bomba con Filtro"
+    ],
+    [
+        "OverflowValve",
+        "Válvula de Escape"
+    ],
+    [
+        "Smelter",
+        "Fundición"
+    ],
+    [
+        "SteamTurbine",
+        "Turbina de Vapor"
+    ],
+    [
+        "GasTurbine",
+        "Turbina de Gas"
+    ],
+    [
+        "ArcSmelter",
+        "Fundición de Arco"
+    ],
+    [
+        "ChemicalBath",
+        "Depósito Químico"
+    ],
+    [
+        "Furnace",
+        "Horno"
+    ],
+    [
+        "Oven",
+        "Horno de Coque"
+    ],
+    [
+        "BlastFurnace",
+        "Alto Horno"
+    ],
+    [
+        "FluidFurnace",
+        "Horno de Líquidos"
+    ],
+    [
+        "ElectricFurnace",
+        "Horno Eléctrico"
+    ],
+    [
+        "BatteryBox",
+        "Batería"
+    ],
+    [
+        "DrillingRig",
+        "Equipo de Perforación"
+    ],
+    [
+        "Assembler",
+        "Ensambladora"
+    ],
+    [
+        "Constructor",
+        "Constructor"
+    ],
+    [
+        "Deconstructor",
+        "Deconstructor"
+    ],
+    [
+        "FluidDump",
+        "Vertido de Líquidos"
+    ],
+    [
+        "GasDump",
+        "Descarga de Gas"
+    ],
+    [
+        "SolidDump",
+        "Vertedero de sólidos"
+    ],
+    [
+        "Lamp",
+        "Lámpara"
+    ],
+    [
+        "AdminElectricGenerator",
+        "Generador Eléctrico Creativo"
+    ],
+    [
+        "AdminItemGenerator",
+        "Generador de Artículos Creativos"
+    ],
+    [
+        "AdminKineticGenerator",
+        "Generador Cinético Creativo"
+    ],
+    [
+        "AdminHeatGenerator",
+        "Generador de Calor Creativo"
+    ],
+    [
+        "AdminFluidGenerator",
+        "Generador de Líquidos Creativos"
+    ],
+    [
+        "AdminExterminator",
+        "Exterminador Creativo"
+    ],
+    [
+        "Electrolyzer",
+        "Electrolizador"
+    ],
+    [
+        "Mixer",
+        "Mezcladora"
+    ],
+    [
+        "Freezer",
+        "Freezer"
+    ],
+    [
+        "AutomaticFarm",
+        "Granja Automática"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Condensador Atmosférico"
+    ],
+    [
+        "Terminal",
+        "Terminal"
+    ],
+    [
+        "BigTerminal",
+        "Terminal Grande"
+    ],
+    [
+        "HugeTerminal",
+        "Terminal Enorme"
+    ],
+    [
+        "FlatTerminal",
+        "Terminal Plano"
+    ],
+    [
+        "BigFlatTerminal",
+        "Gran Terminal Plano"
+    ],
+    [
+        "HugeFlatTerminal",
+        "Enorme Terminal plano"
+    ],
+    [
+        "Computer",
+        "Ordenador"
+    ],
+    [
+        "IndustrialSeparator",
+        "Separador Industrial"
+    ],
+    [
+        "Radiator",
+        "Radiador"
+    ],
+    [
+        "Diode",
+        "Diodo"
+    ],
+    [
+        "FissionReactor",
+        "Reactor de Fisión"
+    ],
+    [
+        "SolarPanel",
+        "Panel Solar"
+    ],
+    [
+        "Pumpjack",
+        "Bomba Extractora"
+    ],
+    [
+        "IndustrialSmelter",
+        "Fundición Industrial"
+    ],
+    [
+        "InductionCoil",
+        "Bobina de Inducción"
+    ]
+]

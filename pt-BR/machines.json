@@ -1,0 +1,294 @@
+﻿[
+    [
+        "Macerator",
+        "Macerador"
+    ],
+    [
+        "CuttingMachine",
+        "Maquina de Corte"
+    ],
+    [
+        "Fermenter",
+        "Fermentadora"
+    ],
+    [
+        "ChemReactor",
+        "Reator de Quimicas"
+    ],
+    [
+        "Separator",
+        "Separador"
+    ],
+    [
+        "Beam",
+        "Viga"
+    ],
+    [
+        "Corner",
+        "Cantoneira"
+    ],
+    [
+        "AutomaticHammer",
+        "Martelo Mecanico"
+    ],
+    [
+        "Boiler",
+        "Caldeira"
+    ],
+    [
+        "Pipe",
+        "Cano"
+    ],
+    [
+        "HeatPipe",
+        "Cano Quente"
+    ],
+    [
+        "Flywheel",
+        "Acumulador de Corda"
+    ],
+    [
+        "Scaffold",
+        "Bloco de Andaime"
+    ],
+    [
+        "Sign",
+        "Sinalização"
+    ],
+    [
+        "Connector",
+        "Fio Eletrico"
+    ],
+    [
+        "Chest",
+        "Baú"
+    ],
+    [
+        "ItemRack",
+        "Prateleira de Estoque"
+    ],
+    [
+        "Vent",
+        "Valvula"
+    ],
+    [
+        "ElectricalSwitch",
+        "Interruptor"
+    ],
+    [
+        "OreWasher",
+        "Lavadora de Minerios"
+    ],
+    [
+        "Conveyor",
+        "Esteira"
+    ],
+    [
+        "Container",
+        "Reservatorio"
+    ],
+    [
+        "Press",
+        "Prensa"
+    ],
+    [
+        "StirlingEngine",
+        "Motor a Calor"
+    ],
+    [
+        "CombustionEngine",
+        "Motor a Calor"
+    ],
+    [
+        "PyrolysisUnit",
+        "Refinaria"
+    ],
+    [
+        "Generator",
+        "Gerador Eletrico"
+    ],
+    [
+        "CompactGenerator",
+        "Gerador Compacto"
+    ],
+    [
+        "ElectricEngine",
+        "Motor Eletrico"
+    ],
+    [
+        "RobotArm",
+        "Braço Robotico"
+    ],
+    [
+        "FilteringRobotArm",
+        "Braço Robotico com Filtro"
+    ],
+    [
+        "Pump",
+        "Bomba Hidraulica"
+    ],
+    [
+        "FilteringPump",
+        "Filtro hidraulico"
+    ],
+    [
+        "Smelter",
+        "Fundição"
+    ],
+    [
+        "SteamTurbine",
+        "Turbina a Vapor"
+    ],
+    [
+        "GasTurbine",
+        "Turbina a Gas"
+    ],
+    [
+        "ArcSmelter",
+        "Fundição Eletrica"
+    ],
+    [
+        "ChemicalBath",
+        "Banho Quimico"
+    ],
+    [
+        "Furnace",
+        "Fornalha"
+    ],
+    [
+        "Oven",
+        "Carvoaria"
+    ],
+    [
+        "BlastFurnace",
+        "Alto-Forno"
+    ],
+    [
+        "FluidFurnace",
+        "Fornalha a Combustivel"
+    ],
+    [
+        "ElectricFurnace",
+        "Fornalha Eletrica"
+    ],
+    [
+        "BatteryBox",
+        "Caixa de Baterias"
+    ],
+    [
+        "DrillingRig",
+        "Perfuratriz Extratora"
+    ],
+    [
+        "Assembler",
+        "Montadora"
+    ],
+    [
+        "FluidDump",
+        "Fossa de Dejetos"
+    ],
+    [
+        "Lamp",
+        "Lampada"
+    ],
+    [
+        "AdminElectricGenerator",
+        "Gerador Eletrico da Nasa"
+    ],
+    [
+        "AdminItemGenerator",
+        "Gerador de Item da Nasa"
+    ],
+    [
+        "AdminKineticGenerator",
+        "Gerador de Energia Mecanica(Corda) da Nasa"
+    ],
+    [
+        "AdminHeatGenerator",
+        "Gerador de Calor da Nasa"
+    ],
+    [
+        "AdminFluidGenerator",
+        "Gerador de Liquidos da Nasa"
+    ],
+    [
+        "AdminExterminator",
+        "Lixeira"
+    ],
+    [
+        "Electrolyzer",
+        "Electrolyzer"
+    ],
+    [
+        "Mixer",
+        "Misturador"
+    ],
+    [
+        "AutomaticFarm",
+        "Estufa Automatica"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Condensador Atmosferico"
+    ],
+    [
+        "Terminal",
+        "Terminal"
+    ],
+    [
+        "BigTerminal",
+        "Terminal Grande"
+    ],
+    [
+        "HugeTerminal",
+        "Terminal Gigante"
+    ],
+    [
+        "FlatTerminal",
+        "Terminal Fino"
+    ],
+    [
+        "BigFlatTerminal",
+        "Terminal Fino Grande"
+    ],
+    [
+        "HugeFlatTerminal",
+        "Terminal Fino Gigante"
+    ],
+    [
+        "Computer",
+        "Computador"
+    ],
+    [
+        "IndustrialSeparator",
+        "Separador Industrial"
+    ],
+    [
+        "Radiator",
+        "Radiador"
+    ],
+    [
+        "Diode",
+        "Diode"
+    ],
+    [
+        "FissionReactor",
+        "Reator de Fissão"
+    ],
+    [
+        "SolarPanel",
+        "Painel Solar"
+    ],
+    [
+        "Pumpjack",
+        "Perfuratriz de Liquidos"
+    ],
+    [
+        "IndustrialSmelter",
+        "Fundidora Industrial"
+    ],
+    [
+        "InductionCoil",
+        "Bobina de Indução"
+    ]
+]

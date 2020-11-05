@@ -1,0 +1,238 @@
+[
+    [
+        "InitialScan",
+        "Первичное сканирование"
+    ],
+    [
+        "MineralsScan",
+        "Сканирование минералов"
+    ],
+    [
+        "PlantsScan",
+        "Сканирование растений"
+    ],
+    [
+        "DecorationWood",
+        "Декоративная двересина"
+    ],
+    [
+        "DecorationStone",
+        "Декоративный камень"
+    ],
+    [
+        "DecorationClay",
+        "Декоративная глина"
+    ],
+    [
+        "Electricity",
+        "Электричество"
+    ],
+    [
+        "Smelting",
+        "Переплавка"
+    ],
+    [
+        "Metalwork",
+        "Работа с металом"
+    ],
+    [
+        "Screwdriver",
+        "Отвертка"
+    ],
+    [
+        "MetalConstructions",
+        "Металлоконструкции"
+    ],
+    [
+        "StainlessSteelProduction",
+        "Производство нержавеющей стали"
+    ],
+    [
+        "TitaniumProduction",
+        "Производство титана"
+    ],
+    [
+        "HardMetalProduction",
+        "Производство победита"
+    ],
+    [
+        "NeutroniumProduction",
+        "Производство нейтрония"
+    ],
+    [
+        "CircuitBoard",
+        "Платы"
+    ],
+    [
+        "AdvancedCircuitBoard",
+        "Продвинутые платы"
+    ],
+    [
+        "QuantumCore",
+        "Квантовое ядро"
+    ],
+    [
+        "FineWire",
+        "Тонкая проволока"
+    ],
+    [
+        "BasicCircuit",
+        "Базовая микросхема"
+    ],
+    [
+        "AdvancedCircuit",
+        "Продвинутая микросхема"
+    ],
+    [
+        "Processor",
+        "Процессор"
+    ],
+    [
+        "QuantumCircuit",
+        "Квантовая микросхема"
+    ],
+    [
+        "QuantumProcessor",
+        "Квантовый процессор"
+    ],
+    [
+        "DistributedComputing",
+        "Распределенные вычисления"
+    ],
+    [
+        "Drying",
+        "Сушка"
+    ],
+    [
+        "PowerGeneration",
+        "Производство энергии"
+    ],
+    [
+        "Automatization",
+        "Автоматизация"
+    ],
+    [
+        "Pump",
+        "Помпа"
+    ],
+    [
+        "FilteringArm",
+        "Фильтрующая роборука"
+    ],
+    [
+        "FilteringPump",
+        "Фильтрующая помпа"
+    ],
+    [
+        "AdditionalStorage",
+        "Дополнительное хранилище"
+    ],
+    [
+        "HeatTransferring",
+        "Теплопроводы"
+    ],
+    [
+        "HeatConversion",
+        "Преобразование тепла"
+    ],
+    [
+        "BatteryBox",
+        "Батарейный блок"
+    ],
+    [
+        "BasicMachines",
+        "Базовые машины"
+    ],
+    [
+        "Refining",
+        "Обогащение"
+    ],
+    [
+        "FluidStorage",
+        "Хранилище для жидкости"
+    ],
+    [
+        "FluidDumping",
+        "Водосброс"
+    ],
+    [
+        "Pumpjack",
+        "Станок-качалка"
+    ],
+    [
+        "Pyrolysis",
+        "Пиролиз"
+    ],
+    [
+        "Cutting",
+        "Автопила"
+    ],
+    [
+        "SteelProduction",
+        "Производство стали"
+    ],
+    [
+        "AutomaticMining",
+        "Автоматизированная добыча"
+    ],
+    [
+        "Chemistry",
+        "Химия"
+    ],
+    [
+        "Electrolysis",
+        "Электролиз"
+    ],
+    [
+        "MassivePowerGeneration",
+        "Продвинутое производство энергии"
+    ],
+    [
+        "AdvancedSmelting",
+        "Продвинутая выплавка"
+    ],
+    [
+        "Separation",
+        "Сепарация"
+    ],
+    [
+        "Assembler",
+        "Сборка"
+    ],
+    [
+        "ElectricEngine",
+        "Электродвигатель"
+    ],
+    [
+        "Diode",
+        "Диод"
+    ],
+    [
+        "Mixer",
+        "Миксер"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Атмосферный конденсатор"
+    ],
+    [
+        "Furnace",
+        "Печь"
+    ],
+    [
+        "IndustrialSmelting",
+        "Промышленная плавильня"
+    ],
+    [
+        "AutomaticFarm",
+        "Автоматизированная ферма"
+    ],
+    [
+        "Fermentation",
+        "Ферментация"
+    ],
+    [
+        "AdvancedSeparation",
+        "Продвинутая сепарация"
+    ]
+]

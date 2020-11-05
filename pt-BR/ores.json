@@ -1,0 +1,74 @@
+﻿[
+    [
+        "CopperOre",
+        "Minerio de Cobre"
+    ],
+    [
+        "CopperImpureOreGravel",
+        "Cascalho de Cobre Sujo"
+    ],
+    [
+        "CopperOreGravel",
+        "Cascalho de Cobre"
+    ],
+    [
+        "CopperImpureOreDust",
+        "Pó de Cobre Impuro"
+    ],
+    [
+        "IronOre",
+        "Minerio de Ferro"
+    ],
+    [
+        "IronImpureOreGravel",
+        "Cascalho de Ferro Sujo"
+    ],
+    [
+        "IronOreGravel",
+        "Cascalho de Ferro"
+    ],
+    [
+        "IronImpureOreDust",
+        "Pó de Ferro Impuro"
+    ],
+    [
+        "UraniumOre",
+        "Minerio de Uranium"
+    ],
+    [
+        "UraniumImpureOreGravel",
+        "Cascalho de Uranium Sujo"
+    ],
+    [
+        "UraniumOreGravel",
+        "Cascalho de Uranium"
+    ],
+    [
+        "UraniumImpureOreDust",
+        "Pó de Uranium Impuro"
+    ],
+    [
+        "AluminiumOre",
+        "Minerio de Aluminio"
+    ],
+    [
+        "AluminiumImpureOreGravel",
+        "Cascalho de Aluminio Sujo"
+    ],
+    [
+        "AluminiumOreGravel",
+        "Cascalho de Aluminio"
+    ],
+    [
+        "AluminiumImpureOreDust",
+        "Pó de Aluminio Impuro"
+    ],
+    [
+        "CoalOre",
+        "Carvão Crú"
+    ],
+    [
+        "ClayOre",
+        "Argila"
+    ]
+]

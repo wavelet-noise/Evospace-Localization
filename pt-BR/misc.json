@@ -1,0 +1,206 @@
+﻿[
+    [
+        "Chair",
+        "Cadeira de Madeira"
+    ],
+    [
+        "Table",
+        "Mesa de Madeira"
+    ],
+    [
+        "Rack",
+        "Estante"
+    ],
+    [
+        "Bed",
+        "Cama"
+    ],
+    [
+        "Ladder",
+        "Escadinha"
+    ],
+    [
+        "Door",
+        "Porta de Madeira"
+    ],
+    [
+        "Fence",
+        "Cerca de Madeira"
+    ],
+    [
+        "Window",
+        "Janela em Quadro de Madeira"
+    ],
+    [
+        "CeramicRoof",
+        "Telhas"
+    ],
+    [
+        "Stairs",
+        "Escada"
+    ],
+    [
+        "WoodenStairs",
+        "Escada de Madeira"
+    ],
+    [
+        "CopperChair",
+        "Cadeira de Cobre"
+    ],
+    [
+        "FireCup",
+        "Xicara de Barro"
+    ],
+    [
+        "PlasticWindow",
+        "Janela em Quadro de Plastico"
+    ],
+    [
+        "Firefly",
+        "Vagalume"
+    ],
+    [
+        "Flies",
+        "Moscas"
+    ],
+    [
+        "Birds",
+        "Passaros"
+    ],
+    [
+        "DesertSound",
+        "Som do Deserto"
+    ],
+    [
+        "SwampSound",
+        "Som do Pantano"
+    ],
+    [
+        "Butterfly",
+        "Borboleta"
+    ],
+    [
+        "Leafes",
+        "Folhagem"
+    ],
+    [
+        "Bugs",
+        "Insetos"
+    ],
+    [
+        "WoodenPlanks",
+        "tabuas de Madeira"
+    ],
+    [
+        "AdminBlocks",
+        "Bloco do Proprietario"
+    ],
+    [
+        "StoneTiles",
+        "Azulejo em Pedra"
+    ],
+    [
+        "RedTiles",
+        "Azulejo Vermelho"
+    ],
+    [
+        "DarkTiles",
+        "Azulejo Escuro"
+    ],
+    [
+        "Terracotta",
+        "Terracotta"
+    ],
+    [
+        "TerracottaTiles",
+        "Azulejo em Terracotta"
+    ],
+    [
+        "Bricks",
+        "Tijolinhos"
+    ],
+    [
+        "RedBricks",
+        "Tijolinhos vermelho"
+    ],
+    [
+        "DarkBricks",
+        "Tijolinhos Escuros"
+    ],
+    [
+        "TerracottaBricks",
+        "Tijolinhos em Terracotta"
+    ],
+    [
+        "Concrete",
+        "Bloco de Concreto"
+    ],
+    [
+        "ConcreteBricks",
+        "Concreto em Tijolinhos"
+    ],
+    [
+        "ConcreteTiles",
+        "Concreto em Azulejo"
+    ],
+    [
+        "ConcreteSmallTiles",
+        "Concreto em Quadradinhos"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Concreto Reforçado"
+    ],
+    [
+        "ReinforcedConcreteTiles",
+        "Azulejo em Concreto Reforçado"
+    ],
+    [
+        "ReinforcedConcreteSmallTiles",
+        "Quadradinho em Concreto Reforçado"
+    ],
+    [
+        "ReinforcedConcreteBricks",
+        "Tijolinhos em Concreto Reforçado"
+    ],
+    [
+        "DangerBlock",
+        "Bloco de Aviso"
+    ],
+    [
+        "RustyCopperCasing",
+        "Revestimento de Cobre Enferrujada"
+    ],
+    [
+        "RustyIronCasing",
+        "Revestimento de Ferro Enferrujada"
+    ],
+    [
+        "Column",
+        "Coluna"
+    ],
+    [
+        "FluetedColumn",
+        "Coluna Esculpida"
+    ],
+    [
+        "Flashlight",
+        "Lanterna"
+    ],
+    [
+        "Steampack",
+        "Propulsor a Vapor"
+    ],
+    [
+        "Jetpack",
+        "Jetpack"
+    ],
+    [
+        "AntigravityUnit",
+        "Unidade Anti-Gravidade"
+    ],
+    [
+        "Scanner",
+        "Scanner"
+    ]
+]

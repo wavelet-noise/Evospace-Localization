@@ -1,0 +1,330 @@
+[
+    [
+        "Macerator",
+        "Muele la grava para su posterior procesamiento. Convierte las placas y las piezas en polvo."
+    ],
+    [
+        "CuttingMachine",
+        "Produce piezas, placas y circuitos base."
+    ],
+    [
+        "Fermenter",
+        ""
+    ],
+    [
+        "ChemReactor",
+        ""
+    ],
+    [
+        "Separator",
+        "Separa el polvo en componentes."
+    ],
+    [
+        "Beam",
+        ""
+    ],
+    [
+        "Corner",
+        ""
+    ],
+    [
+        "AutomaticHammer",
+        "Produce placas a partir de lingotes. Muele el mineral hasta la grava."
+    ],
+    [
+        "Boiler",
+        "Convierte el calor y el agua en vapor."
+    ],
+    [
+        "Pipe",
+        ""
+    ],
+    [
+        "HeatPipe",
+        ""
+    ],
+    [
+        "Flywheel",
+        ""
+    ],
+    [
+        "Scaffold",
+        ""
+    ],
+    [
+        "Sign",
+        ""
+    ],
+    [
+        "AdvancedSign",
+        ""
+    ],
+    [
+        "Connector",
+        ""
+    ],
+    [
+        "Chest",
+        ""
+    ],
+    [
+        "ItemRack",
+        ""
+    ],
+    [
+        "Vent",
+        ""
+    ],
+    [
+        "ElectricalSwitch",
+        ""
+    ],
+    [
+        "OreWasher",
+        "Extrae recursos adicionales del mineral."
+    ],
+    [
+        "Conveyor",
+        ""
+    ],
+    [
+        "Container",
+        ""
+    ],
+    [
+        "Press",
+        ""
+    ],
+    [
+        "Compressor",
+        ""
+    ],
+    [
+        "StirlingEngine",
+        "Convierte la energía térmica en energía cinética."
+    ],
+    [
+        "CombustionEngine",
+        "Quema combustible líquido para generar energía cinética."
+    ],
+    [
+        "PyrolysisUnit",
+        "Descompone el combustible en componentes más pequeños."
+    ],
+    [
+        "Generator",
+        "Convierte la energía cinética en electricidad."
+    ],
+    [
+        "CompactGenerator",
+        "Convierte la energía cinética en electricidad."
+    ],
+    [
+        "ElectricEngine",
+        "Convierte la electricidad en energía cinética."
+    ],
+    [
+        "RobotArm",
+        "Mueve los artículos entre los dispositivos y los transportadores."
+    ],
+    [
+        "FilteringRobotArm",
+        "Mueve los artículos entre los dispositivos y los transportadores con filtro."
+    ],
+    [
+        "Pump",
+        "Mueve el líquido entre los dispositivos y las tuberías."
+    ],
+    [
+        "FilteringPump",
+        "Mueve el líquido entre los dispositivos y las tuberías con filto de liquidos."
+    ],
+    [
+        "OverflowValve",
+        ""
+    ],
+    [
+        "Smelter",
+        "Una primitiva fundición de piedra. Se utiliza para la fundición de cobre, vidrio y oro."
+    ],
+    [
+        "SteamTurbine",
+        "Convierte la energía del vapor en energía cinética."
+    ],
+    [
+        "GasTurbine",
+        "Produce energía cinética quemando combustible."
+    ],
+    [
+        "ArcSmelter",
+        "Fundición avanzada. Adecuada para la fundición de acero inoxidable."
+    ],
+    [
+        "ChemicalBath",
+        ""
+    ],
+    [
+        "Furnace",
+        "Quema combustible sólido para generar calor."
+    ],
+    [
+        "Oven",
+        "Dispositivo para la producción de carbón, coque y arcilla."
+    ],
+    [
+        "BlastFurnace",
+        "Horno de fundición de acero."
+    ],
+    [
+        "FluidFurnace",
+        "Quema combustible líquido para generar calor."
+    ],
+    [
+        "ElectricFurnace",
+        "Utiliza la electricidad para generar calor."
+    ],
+    [
+        "BatteryBox",
+        ""
+    ],
+    [
+        "DrillingRig",
+        "Dispositivo automático para la extracción de mineral y piedra. Los depósitos están marcados en el mapa global. Utilice el escáner para buscar nuevos depósitos, si lo colocas en cualquier sitio solo extraera piedras."
+    ],
+    [
+        "Assembler",
+        "Una máquina para ensamblar pequeños objetos y microchips."
+    ],
+    [
+        "Constructor",
+        ""
+    ],
+    [
+        "Deconstructor",
+        ""
+    ],
+    [
+        "FluidDump",
+        "Elimina los residuos líquidos."
+    ],
+    [
+        "GasDump",
+        ""
+    ],
+    [
+        "SolidDump",
+        ""
+    ],
+    [
+        "Lamp",
+        ""
+    ],
+    [
+        "AdminElectricGenerator",
+        ""
+    ],
+    [
+        "AdminItemGenerator",
+        ""
+    ],
+    [
+        "AdminKineticGenerator",
+        ""
+    ],
+    [
+        "AdminHeatGenerator",
+        ""
+    ],
+    [
+        "AdminFluidGenerator",
+        ""
+    ],
+    [
+        "AdminExterminator",
+        ""
+    ],
+    [
+        "Electrolyzer",
+        ""
+    ],
+    [
+        "Mixer",
+        "Dispositivo para producir mezclas y bloques de hormigón."
+    ],
+    [
+        "Freezer",
+        ""
+    ],
+    [
+        "AutomaticFarm",
+        "Dispositivo automatizado para el cultivo de plantas, arboles, calabazas. Consume agua."
+    ],
+    [
+        "AtmosphericCondenser",
+        "Recolecta líquidos y gases de la atmósfera."
+    ],
+    [
+        "Terminal",
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
+    ],
+    [
+        "BigTerminal",
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
+    ],
+    [
+        "HugeTerminal",
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
+    ],
+    [
+        "FlatTerminal",
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
+    ],
+    [
+        "BigFlatTerminal",
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
+    ],
+    [
+        "HugeFlatTerminal",
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
+    ],
+    [
+        "Computer",
+        "Desarrolla puntos de investigación."
+    ],
+    [
+        "IndustrialSeparator",
+        "Separa el polvo en componentes."
+    ],
+    [
+        "Radiator",
+        "Elimina la energía térmica/calor."
+    ],
+    [
+        "Diode",
+        "Conduce la electricidad sólo en una dirección."
+    ],
+    [
+        "FissionReactor",
+        ""
+    ],
+    [
+        "SolarPanel",
+        ""
+    ],
+    [
+        "Pumpjack",
+        "Dispositivo automático para la extracción de líquidos. Los depósitos están marcados en el mapa global. Utilice el escáner para buscar nuevos depósitos."
+    ],
+    [
+        "HeatExchanger",
+        ""
+    ],
+    [
+        "IndustrialSmelter",
+        "Fundición avanzada. Se utiliza para la fundición de titanio y grafito"
+    ],
+    [
+        "InductionCoil",
+        "Utiliza la electricidad para generar calor."
+    ]
+]
