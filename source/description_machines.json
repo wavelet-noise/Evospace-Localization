@@ -1,11 +1,11 @@
 [
     [
         "Macerator",
-        ""
+        "Muele la grava para su posterior procesamiento. Convierte las placas y las piezas en polvo."
     ],
     [
         "CuttingMachine",
-        ""
+        "Produce piezas, placas y circuitos base."
     ],
     [
         "Fermenter",
@@ -13,51 +13,51 @@
     ],
     [
         "ChemReactor",
-        ""
+        "Un reactor químico es un equipo en cuyo interior tiene lugar una reacción química, entre varios minerales."
     ],
     [
         "Separator",
-        ""
+        "Separa el polvo en componentes."
     ],
     [
         "Beam",
-        ""
+        "Es una viga de decoración."
     ],
     [
         "Corner",
-        ""
+        "Una esquina de decoración"
     ],
     [
         "AutomaticHammer",
-        ""
+        "Produce placas a partir de lingotes. Muele el mineral hasta la grava."
     ],
     [
         "Boiler",
-        ""
+        "Convierte el calor y el agua en vapor."
     ],
     [
         "Pipe",
-        ""
+        "Una tubería es un conducto que cumple la función de transportar agua u otros fluidos."
     ],
     [
         "HeatPipe",
-        ""
+        "Conduce y almacena la energía térmica."
     ],
     [
         "Flywheel",
-        ""
+        "Un volante de inercia o volante motor es un elemento totalmente pasivo que únicamente aporta al sistema una inercia adicional de modo que le permite almacenar energía cinética."
     ],
     [
         "Scaffold",
-        ""
+        "Es un bloque decorativo."
     ],
     [
         "Sign",
-        ""
+        "Puedes escribir y sirve para señalizar zonas o objectos, decorativo."
     ],
     [
         "AdvancedSign",
-        ""
+        "Puedes escribir y sirve para señalizar zonas o objectos, decorativo."
     ],
     [
         "Connector",
@@ -65,11 +65,11 @@
     ],
     [
         "Chest",
-        ""
+        "Caja de metal o piedra, que se usa para guardar objetos, dependiendo de material tiene mas o menos capacidad."
     ],
     [
         "ItemRack",
-        ""
+        "Estantería puedes almacenar cierta cantidad de un solo tipo de objecto, dependiendo del material tendras mas o menos espacio."
     ],
     [
         "Vent",
@@ -77,15 +77,15 @@
     ],
     [
         "ElectricalSwitch",
-        ""
+        "Dispositivo para abrir o cerrar el paso de corriente eléctrica en una zona."
     ],
     [
         "OreWasher",
-        ""
+        "Extrae recursos adicionales del mineral."
     ],
     [
         "Conveyor",
-        ""
+        "Para transportador objectos, minerales etc.."
     ],
     [
         "Container",
@@ -97,59 +97,60 @@
     ],
     [
         "StirlingEngine",
-        ""
+        "Convierte la energía térmica en energía cinética."
     ],
     [
         "CombustionEngine",
-        ""
+        "Quema combustible líquido para generar energía cinética."
     ],
     [
         "PyrolysisUnit",
-        ""
+        "Descompone el combustible en componentes más pequeños."
     ],
     [
         "Generator",
-        ""
+        "Convierte la energía cinética en electricidad."
     ],
     [
         "CompactGenerator",
-        ""
+        "Convierte la energía cinética en electricidad."
     ],
     [
         "ElectricEngine",
-        ""
+        "Convierte la electricidad en energía cinética."
     ],
     [
         "RobotArm",
-        ""
+        "Mueve los artículos entre los dispositivos y los transportadores."
     ],
     [
         "FilteringRobotArm",
-        ""
+        "Mueve los artículos entre los dispositivos y los transportadores con filtro."
     ],
     [
         "Pump",
-        ""
+        "Mueve el líquido entre los dispositivos y las tuberías."
     ],
     [
         "FilteringPump",
+        "Mueve el líquido entre los dispositivos y las tuberías con filto de liquidos."
         ""
     ],
     [
         "Smelter",
-        ""
+        "Una primitiva fundición de piedra. Se utiliza para la fundición de cobre, vidrio y oro."
     ],
     [
         "SteamTurbine",
-        ""
+        "Convierte la energía del vapor en energía cinética."
     ],
     [
         "GasTurbine",
-        ""
+        "Produce energía cinética quemando combustible."
     ],
     [
         "ArcSmelter",
-        ""
+        "Fundición avanzada. Adecuada para la fundición de acero inoxidable."
     ],
     [
         "ChemicalBath",
@@ -157,31 +158,31 @@
     ],
     [
         "Sifter",
-        ""
+        "El tamizado o cribado es un método mecánico para separar dos sólidos formados por partículas de tamaños diferentes. ... Se utilizan tamices de metal o otros materiales, que retienen las partículas de mayor tamaño y dejan pasar las de menor diámetro."
     ],
     [
         "FilteringUnit",
-        ""
+        "Se denomina filtración al proceso unitario de separación de sólidos en una suspensión a través de un medio mecánico poroso."
     ],
     [
         "Furnace",
-        ""
+        "Quema combustible sólido para generar calor."
     ],
     [
         "Oven",
-        ""
+        "Dispositivo para la producción de carbón, coque y arcilla."
     ],
     [
         "BlastFurnace",
-        ""
+        "Horno de fundición de acero."
     ],
     [
         "FluidFurnace",
-        ""
+        "Quema combustible líquido para generar calor."
     ],
     [
         "ElectricFurnace",
-        ""
+        "Utiliza la electricidad para generar calor."
     ],
     [
         "BatteryBox",
@@ -189,35 +190,35 @@
     ],
     [
         "DrillingRig",
-        ""
+        "Dispositivo automático para la extracción de mineral y piedra. Los depósitos están marcados en el mapa global. Utilice el escáner para buscar nuevos depósitos, si lo colocas en cualquier sitio solo extraera piedras."
     ],
     [
         "Assembler",
-        ""
+        "Una máquina para ensamblar pequeños objetos y microchips."
     ],
     [
         "Constructor",
-        ""
+        "Máquina construye los objectos selecionando una receta."
     ],
     [
         "Deconstructor",
-        ""
+        "Máquina que desmonta los objectos que introduces y te da los materiales."
     ],
     [
         "FluidDump",
-        ""
+        "Elimina los residuos líquidos."
     ],
     [
         "GasDump",
-        ""
+        "Elimina los gases."
     ],
     [
         "SolidDump",
-        ""
+        "Elimina los solidos."
     ],
     [
         "Lamp",
-        ""
+        "Lámpara para iluminar una zona."
     ],
     [
         "AdminElectricGenerator",
@@ -245,11 +246,11 @@
     ],
     [
         "Electrolyzer",
-        ""
+        "La electrólisis es un proceso por el cual se generan diferentes minerales, se obtienen a partir de otros minerales diferentes."
     ],
     [
         "Mixer",
-        ""
+        "Dispositivo para producir mezclas y bloques de hormigón."
     ],
     [
         "Freezer",
@@ -257,71 +258,71 @@
     ],
     [
         "AutomaticFarm",
-        ""
+        "Dispositivo automatizado para el cultivo de plantas, arboles, calabazas. Consume agua."
     ],
     [
         "AtmosphericCondenser",
-        ""
+        "Recolecta líquidos y gases de la atmósfera."
     ],
     [
         "Terminal",
-        ""
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
     ],
     [
         "BigTerminal",
-        ""
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
     ],
     [
         "HugeTerminal",
-        ""
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
     ],
     [
         "FlatTerminal",
-        ""
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
     ],
     [
         "BigFlatTerminal",
-        ""
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
     ],
     [
         "HugeFlatTerminal",
-        ""
+        "Muestra la interfaz gráfica de los dispositivos que tiene delante."
     ],
     [
         "Computer",
-        ""
+        "Desarrolla puntos de investigación."
     ],
     [
         "IndustrialSeparator",
-        ""
+        "Separa el polvo en componentes."
     ],
     [
         "Radiator",
-        ""
+        "Elimina la energía térmica/calor."
     ],
     [
         "Diode",
-        ""
+        "Conduce la electricidad en sólo una dirección."
     ],
     [
         "FissionReactor",
-        ""
+        "Un reactor nuclear es un dispositivo en donde se produce electricidad una reacción nuclear en cadena controlada."
     ],
     [
         "SolarPanel",
-        ""
+        "Un panel solar es un dispositivo que aprovecha la energía del sol para generar electricidad, necesitaras una batería para almacenar la electricidad aunque no es necesaria."
     ],
     [
         "Pumpjack",
-        ""
+        "Dispositivo automático para la extracción de líquidos. Los depósitos están marcados en el mapa global. Utilice el escáner para buscar nuevos depósitos."
     ],
     [
         "IndustrialSmelter",
-        ""
+        "Fundición avanzada. Se utiliza para la fundición de titanio y grafito"
     ],
     [
         "InductionCoil",
-        ""
+        "Utiliza la electricidad para generar calor."
     ],
     [
         "Controller",
