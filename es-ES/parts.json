@@ -305,15 +305,27 @@
     ],
     [
         "Uranium235Dust",
-        "Uranio235 Polvo"
+        "Polvo de Uranio-235"
     ],
     [
-        "UraniumFuelCell",
-        "Célula de combustible de uranio"
+        "Uranium233Dust",
+        "Polvo de Uranio-233"
     ],
     [
-        "DepletedUraniumFuelCell",
-        "Célula de combustible de uranio agotado"
+        "Uranium233Cell",
+        "Celda de Uranio 233"
+    ],
+    [
+        "UraniumCell",
+        "Celda de uranio"
+    ],
+    [
+        "PlutoniumCell",
+        "Celda de plutonio"
+    ],
+    [
+        "DepletedUraniumCell",
+        "Celda de uranio empobrecido"
     ],
     [
         "ThoriumDust",
@@ -545,7 +557,7 @@
     ],
     [
         "Cell",
-        "Célula"
+        "Celda"
     ],
     [
         "Catalyst",
@@ -553,7 +565,67 @@
     ],
     [
         "ControlCell",
-        "Célula de control"
+        "Celda de Control"
+    ],
+    [
+        "ReflectorCell",
+        "Celda reflectora"
+    ],
+    [
+        "ThoriumCell",
+        "Celda de torio"
+    ],
+    [
+        "MixedOxideCell",
+        "Celda de Óxido Mixto"
+    ],
+    [
+        "RutileCrystal",
+        "Cristal de rutilo"
+    ],
+    [
+        "FlawlessRuby",
+        "Rubí perfecto"
+    ],
+    [
+        "UraniniteCrystal",
+        "Cristal de Uraninita"
+    ],
+    [
+        "UraniniteCluster",
+        "Racimo de Uraninita"
+    ],
+    [
+        "CinnabarDust",
+        "Polvo de Cinabrio"
+    ],
+    [
+        "CinnabarCrystal",
+        "Cristal de Cinabrio"
+    ],
+    [
+        "CinnabarCluster",
+        "Racimo de Cinabrio"
+    ],
+    [
+        "MalachiteDust",
+        "Polvo de malaquita"
+    ],
+    [
+        "MalachiteCrystal",
+        "Cristal de malaquita"
+    ],
+    [
+        "MalachiteCluster",
+        "Racimo de malaquita"
+    ],
+    [
+        "Mercury",
+        "Mercurio"
+    ],
+    [
+        "FilteringCell",
+        "Celda de filtrado"
     ],
     [
         "A",
