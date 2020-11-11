@@ -25,7 +25,7 @@
     ],
     [
         "HardMetal",
-        "Metal Muro"
+        "Metal Duro"
     ],
     [
         "Neutronium",
@@ -233,7 +233,7 @@
     ],
     [
         "TitaniumSponge",
-        "Titanio Sponge"
+        "Esponja de titanio"
     ],
     [
         "TitaniumOxideDust",
@@ -305,15 +305,27 @@
     ],
     [
         "Uranium235Dust",
-        "Uranio235 Polvo"
+        "Polvo de Uranio 235"
     ],
     [
-        "UraniumFuelCell",
-        "Célula de combustible de uranio"
+        "Uranium233Dust",
+        "Polvo de Uranio 233"
     ],
     [
-        "DepletedUraniumFuelCell",
-        "Célula de combustible de uranio agotado"
+        "Uranium233Cell",
+        "Celda de uranio 233"
+    ],
+    [
+        "UraniumCell",
+        "Celda de Uranio"
+    ],
+    [
+        "PlutoniumCell",
+        "Celda de Plutonio"
+    ],
+    [
+        "DepletedUraniumCell",
+        "Celda de uranio empobrecido"
     ],
     [
         "ThoriumDust",
@@ -476,7 +488,7 @@
         "Polvo de óxido de cromo"
     ],
     [
-        "Potassium\u0421hlorideDust",
+        "PotassiumChlorideDust",
         "Polvo de cloruro de potasio"
     ],
     [
@@ -545,7 +557,7 @@
     ],
     [
         "Cell",
-        "Célula"
+        "Celda"
     ],
     [
         "Catalyst",
@@ -553,7 +565,67 @@
     ],
     [
         "ControlCell",
-        "Célula de control"
+        "Celda de control"
+    ],
+    [
+        "ReflectorCell",
+        "Celda reflectora"
+    ],
+    [
+        "ThoriumCell",
+        "Celda de torio"
+    ],
+    [
+        "MixedOxideCell",
+        "Celda de Óxido Mixto"
+    ],
+    [
+        "RutileCrystal",
+        "Cristal de Rutilo"
+    ],
+    [
+        "FlawlessRuby",
+        "Rubí Perfecto"
+    ],
+    [
+        "UraniniteCrystal",
+        "Cristal de Uraninita"
+    ],
+    [
+        "UraniniteCluster",
+        "Racimo de Uranita"
+    ],
+    [
+        "CinnabarDust",
+        "Polvo de Cinabrio"
+    ],
+    [
+        "CinnabarCrystal",
+        "Cristal de Cinabrio"
+    ],
+    [
+        "CinnabarCluster",
+        "Racimo de Cinabrio"
+    ],
+    [
+        "MalachiteDust",
+        "Polvo de Malaquita"
+    ],
+    [
+        "MalachiteCrystal",
+        "Cristal de Malaquita"
+    ],
+    [
+        "MalachiteCluster",
+        "Racimo de malaquita"
+    ],
+    [
+        "Mercury",
+        "Mercurio"
+    ],
+    [
+        "FilteringCell",
+        "Celda de Filtrado"
     ],
     [
         "A",
