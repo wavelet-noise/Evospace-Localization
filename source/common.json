@@ -41,102 +41,102 @@
     ],
     [
         "ItemInput",
-        "<img id=\"ItemInput\"></>Has item input"
+        "<img id=\"ItemInput\"></>Tiene entrada de artículos"
     ],
     [
         "ItemOutput",
-        "<img id=\"ItemOutput\"></>Has item ouput"
+        "<img id=\"ItemOutput\"></>Tiene salida de artículos"
     ],
     [
         "FluidInput",
-        "<img id=\"FluidInput\"></>Has fluid input"
+        "<img id=\"FluidInput\"></>Tiene entrada de fluidos"
     ],
     [
         "FluidOutput",
-        "<img id=\"FluidOutput\"></>Has fluid ouput"
+        "<img id=\"FluidOutput\"></>Tiene salida de fluidos"
     ],
     [
         "FluidConductor",
-        "Conducts fluids"
+        "Conduce los líquidos"
     ],
     [
         "FluidStorage",
-        "Stores fluids"
+        "Almacena los líquidos"
     ],
     [
         "KineticInput",
-        "<img id=\"Kinetic\"></>Consumes kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Consume energía cinética<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticOutput",
-        "<img id=\"Kinetic\"></>Produces kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Produce energía cinética<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticConductor",
-        "<img id=\"Kinetic\"></>Conducts kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Conduce la energía cinética<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticStorage",
-        "Stores kinetic energy<img id=\"Kinetic2\"></>"
+        "Almacena la energía cinética<img id=\"Kinetic2\"></>"
     ],
     [
         "HeatInput",
-        "<img id=\"Heat\"></>Consumes heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>Consume energía térmica<img id=\"Heat2\"></>"
     ],
     [
         "HeatOutput",
-        "<img id=\"Heat\"></>Produces heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>Produce energía térmica<img id=\"Heat2\"></>"
     ],
     [
         "HeatConductor",
-        "<img id=\"Heat\"></>Conducts heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>Conduce la energía térmica<img id=\"Heat2\"></>"
     ],
     [
         "HeatStorage",
-        "Stores heat energy<img id=\"Heat2\"></>"
+        "Almacena y conduce la energía térmica<img id=\"Heat2\"></>"
     ],
     [
         "ElectricInput",
-        "<img id=\"Electricity\"></>Consumes electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>Consume electricidad<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricOutput",
-        "<img id=\"Electricity\"></>Produces electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>Produce electricidad<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricConductor",
-        "<img id=\"Electricity\"></>Conducts electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>Conduce la electricidad<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricStorage",
-        "Stores electricity<img id=\"Electricity2\"></>"
+        "Almacena la electricidad<img id=\"Electricity2\"></>"
     ],
     [
         "ips",
-        "Items per second: %s"
+        "Artículos por segundo: %s"
     ],
     [
         "dps",
-        "Degrees per second: %s"
+        "Grados por segundo: %s"
     ],
     [
         "power_limit",
-        "Power limit: %sW"
+        "Límite de energía: %sW"
     ],
     [
         "power_output",
-        "Power output: %sW"
+        "Salida de energía: %sW"
     ],
     [
         "container",
-        "Capacity: %s L"
+        "Capacidad: %s L"
     ],
     [
         "chest",
-        "Capacity: %s stacks"
+        "Capacidad: %s stacks"
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+        "Burnable<img id=\"Heat2\"></>\nTotal Calor: %sJ"
     ]
 ]
