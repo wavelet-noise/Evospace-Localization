@@ -476,7 +476,7 @@
         "Chrome Oxide Dust"
     ],
     [
-        "Potassium\u0421hlorideDust",
+        "PotassiumChlorideDust",
         "Potassium Chloride Dust"
     ],
     [
@@ -554,6 +554,54 @@
     [
         "ControlCell",
         "Control Cell"
+    ],
+    [
+        "RutileCrystal",
+        "Rutile Crystal"
+    ],
+    [
+        "FlawlessRuby",
+        "Flawless Ruby"
+    ],
+    [
+        "UraniniteCrystal",
+        "Uraninite Crystal"
+    ],
+    [
+        "UraniniteCluster",
+        "Uraninite Cluster"
+    ],
+    [
+        "CinnabarDust",
+        "Cinnabar Dust"
+    ],
+    [
+        "CinnabarCrystal",
+        "Cinnabar Crystal"
+    ],
+    [
+        "CinnabarCluster",
+        "Cinnabar Cluster"
+    ],
+    [
+        "MalachiteDust",
+        "Malachite Dust"
+    ],
+    [
+        "MalachiteCrystal",
+        "Malachite Crystal"
+    ],
+    [
+        "MalachiteCluster",
+        "Malachite Cluster"
+    ],
+    [
+        "Mercury",
+        "Mercury"
+    ],
+    [
+        "FilteringCell",
+        "Filtering Cell"
     ],
     [
         "A",

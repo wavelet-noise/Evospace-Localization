@@ -136,10 +136,6 @@
         ""
     ],
     [
-        "OverflowValve",
-        ""
-    ],
-    [
         "Smelter",
         ""
     ],
@@ -157,6 +153,14 @@
     ],
     [
         "ChemicalBath",
+        ""
+    ],
+    [
+        "Sifter",
+        ""
+    ],
+    [
+        "FilteringUnit",
         ""
     ],
     [
@@ -317,6 +321,10 @@
     ],
     [
         "InductionCoil",
+        ""
+    ],
+    [
+        "Controller",
         ""
     ]
 ]

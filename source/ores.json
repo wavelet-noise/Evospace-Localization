@@ -12,7 +12,7 @@
         "Copper Ore Gravel"
     ],
     [
-        "CopperImpureOreDust",
+        "CopperOreDust",
         "Copper Impure Ore Dust"
     ],
     [
@@ -28,7 +28,7 @@
         "Iron Ore Gravel"
     ],
     [
-        "IronImpureOreDust",
+        "IronOreDust",
         "Iron Impure Ore Dust"
     ],
     [
@@ -44,7 +44,7 @@
         "Uranium Ore Gravel"
     ],
     [
-        "UraniumImpureOreDust",
+        "UraniumOreDust",
         "Uranium Impure Ore Dust"
     ],
     [
@@ -60,7 +60,7 @@
         "Aluminium Ore Gravel"
     ],
     [
-        "AluminiumImpureOreDust",
+        "AluminiumOreDust",
         "Aluminium Impure Ore Dust"
     ],
     [

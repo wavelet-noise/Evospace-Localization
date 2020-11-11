@@ -136,10 +136,6 @@
         "Filtering Pump"
     ],
     [
-        "OverflowValve",
-        "Overflow Valve"
-    ],
-    [
         "Smelter",
         "Smelter"
     ],
@@ -158,6 +154,14 @@
     [
         "ChemicalBath",
         "Chemical Bath"
+    ],
+    [
+        "Sifter",
+        "Sifter"
+    ],
+    [
+        "FilteringUnit",
+        "Filtering Unit"
     ],
     [
         "Furnace",
@@ -318,5 +322,9 @@
     [
         "InductionCoil",
         "Induction Coil"
+    ],
+    [
+        "Controller",
+        "Controller"
     ]
 ]
