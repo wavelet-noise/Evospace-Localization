@@ -12,7 +12,7 @@
         "Grava de mineral de cobre"
     ],
     [
-        "CopperImpureOreDust",
+        "CopperOreDust",
         "Polvo de mineral de cobre impuro"
     ],
     [
@@ -28,7 +28,7 @@
         "Grava de mineral de hierro"
     ],
     [
-        "IronImpureOreDust",
+        "IronOreDust",
         "Polvo de mineral de hierro impuro"
     ],
     [
@@ -44,7 +44,7 @@
         "Grava de mineral de uranio"
     ],
     [
-        "UraniumImpureOreDust",
+        "UraniumOreDust",
         "Polvo de mineral impuro de uranio"
     ],
     [
