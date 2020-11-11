@@ -308,12 +308,24 @@
         "Uranium235 Dust"
     ],
     [
-        "UraniumFuelCell",
-        "Uranium Fuel Cell"
+        "Uranium233Dust",
+        "Uranium233 Dust"
     ],
     [
-        "DepletedUraniumFuelCell",
-        "Depleted Uranium Fuel Cell"
+        "Uranium233Cell",
+        "Uranium233Cell"
+    ],
+    [
+        "UraniumCell",
+        "Uranium Cell"
+    ],
+    [
+        "PlutoniumCell",
+        "Plutonium Cell"
+    ],
+    [
+        "DepletedUraniumCell",
+        "Depleted Uranium Cell"
     ],
     [
         "ThoriumDust",
@@ -554,6 +566,18 @@
     [
         "ControlCell",
         "Control Cell"
+    ],
+    [
+        "ReflectorCell",
+        "Reflector Cell"
+    ],
+    [
+        "ThoriumCell",
+        "Thorium Cell"
+    ],
+    [
+        "MixedOxideCell",
+        "Mixed Oxide Cell"
     ],
     [
         "RutileCrystal",
