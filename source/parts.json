@@ -301,19 +301,19 @@
     ],
     [
         "UraniumDust",
-        "Uranium Dust"
+        "Uranium-238 Dust"
     ],
     [
         "Uranium235Dust",
-        "Uranium235 Dust"
+        "Uranium-235 Dust"
     ],
     [
         "Uranium233Dust",
-        "Uranium233 Dust"
+        "Uranium-233 Dust"
     ],
     [
         "Uranium233Cell",
-        "Uranium233Cell"
+        "Uranium 233 Cell"
     ],
     [
         "UraniumCell",
@@ -577,7 +577,7 @@
     ],
     [
         "MixedOxideCell",
-        "Mixed Oxide Cell"
+        "Mixed-Oxide Cell"
     ],
     [
         "RutileCrystal",
