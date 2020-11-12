@@ -134,9 +134,6 @@
     [
         "FilteringPump",
         "Mueve el líquido entre los dispositivos y las tuberías con filto de liquidos."
-    ],
-    [
-        "OverflowValve",
         ""
     ],
     [
@@ -158,6 +155,14 @@
     [
         "ChemicalBath",
         ""
+    ],
+    [
+        "Sifter",
+        "El tamizado o cribado es un método mecánico para separar dos sólidos formados por partículas de tamaños diferentes. ... Se utilizan tamices de metal o otros materiales, que retienen las partículas de mayor tamaño y dejan pasar las de menor diámetro."
+    ],
+    [
+        "FilteringUnit",
+        "Se denomina filtración al proceso unitario de separación de sólidos en una suspensión a través de un medio mecánico poroso."
     ],
     [
         "Furnace",
@@ -318,5 +323,9 @@
     [
         "InductionCoil",
         "Utiliza la electricidad para generar calor."
+    ],
+    [
+        "Controller",
+        ""
     ]
 ]
