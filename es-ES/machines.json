@@ -136,10 +136,6 @@
         "Bomba con Filtro"
     ],
     [
-        "OverflowValve",
-        "Válvula de Escape"
-    ],
-    [
         "Smelter",
         "Fundición"
     ],
@@ -158,6 +154,14 @@
     [
         "ChemicalBath",
         "Depósito Químico"
+    ],
+    [
+        "Sifter",
+        "Tamiz"
+    ],
+    [
+        "FilteringUnit",
+        "Unidad de Filtrado"
     ],
     [
         "Furnace",
@@ -318,5 +322,9 @@
     [
         "InductionCoil",
         "Bobina de Inducción"
+    ],
+    [
+        "Controller",
+        "Consola"
     ]
 ]
