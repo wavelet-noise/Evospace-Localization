@@ -134,5 +134,9 @@
     [
         "chest",
         "Capacidad: %s stacks"
+    ],
+    [
+        "burnable",
+        "Burnable<img id=\"Heat2\"></>\nTotal Calor: %sJ"
     ]
 ]
