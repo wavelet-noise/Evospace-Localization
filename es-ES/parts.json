@@ -25,7 +25,7 @@
     ],
     [
         "HardMetal",
-        "Metal Muro"
+        "Metal Duro"
     ],
     [
         "Neutronium",
@@ -233,7 +233,7 @@
     ],
     [
         "TitaniumSponge",
-        "Titanio Sponge"
+        "Esponja de titanio"
     ],
     [
         "TitaniumOxideDust",
@@ -305,23 +305,23 @@
     ],
     [
         "Uranium235Dust",
-        "Polvo de Uranio-235"
+        "Polvo de Uranio 235"
     ],
     [
         "Uranium233Dust",
-        "Polvo de Uranio-233"
+        "Polvo de Uranio 233"
     ],
     [
         "Uranium233Cell",
-        "Celda de Uranio 233"
+        "Celda de uranio 233"
     ],
     [
         "UraniumCell",
-        "Celda de uranio"
+        "Celda de Uranio"
     ],
     [
         "PlutoniumCell",
-        "Celda de plutonio"
+        "Celda de Plutonio"
     ],
     [
         "DepletedUraniumCell",
@@ -488,7 +488,7 @@
         "Polvo de óxido de cromo"
     ],
     [
-        "Potassium\u0421hlorideDust",
+        "PotassiumChlorideDust",
         "Polvo de cloruro de potasio"
     ],
     [
@@ -581,11 +581,11 @@
     ],
     [
         "RutileCrystal",
-        "Cristal de rutilo"
+        "Cristal de Rutilo"
     ],
     [
         "FlawlessRuby",
-        "Rubí perfecto"
+        "Rubí Perfecto"
     ],
     [
         "UraniniteCrystal",
@@ -609,11 +609,11 @@
     ],
     [
         "MalachiteDust",
-        "Polvo de malaquita"
+        "Polvo de Malaquita"
     ],
     [
         "MalachiteCrystal",
-        "Cristal de malaquita"
+        "Cristal de Malaquita"
     ],
     [
         "MalachiteCluster",
@@ -625,7 +625,7 @@
     ],
     [
         "FilteringCell",
-        "Celda de filtrado"
+        "Celda de Filtrado"
     ],
     [
         "A",
