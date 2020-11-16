@@ -308,6 +308,10 @@
         "Fission Reactor"
     ],
     [
+        "ResearchReactor",
+        "Research Reactor"
+    ],
+    [
         "SolarPanel",
         "Solar Panel"
     ],
@@ -324,7 +328,7 @@
         "Induction Coil"
     ],
     [
-        "Controller",
-        "Controller"
+        "CreativeController",
+        "Creative Controller"
     ]
 ]

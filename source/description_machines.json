@@ -308,6 +308,10 @@
         ""
     ],
     [
+        "ResearchReactor",
+        ""
+    ],
+    [
         "SolarPanel",
         ""
     ],
@@ -324,7 +328,7 @@
         ""
     ],
     [
-        "Controller",
+        "CreativeController",
         ""
     ]
 ]
