@@ -29,7 +29,7 @@
     ],
     [
         "AutomaticHammer",
-        "Produce placas a partir de lingotes. Muele el mineral hasta la grava."
+        "Produce placas a partir de lingotes. Muele el mineral y transforma en grava."
     ],
     [
         "Boiler",
@@ -37,7 +37,7 @@
     ],
     [
         "Pipe",
-        "Una tubería es un conducto que cumple la función de transportar agua u otros fluidos."
+        "Una tubería, es un conducto que cumple la función de transportar agua u otros fluidos."
     ],
     [
         "HeatPipe",
@@ -57,7 +57,7 @@
     ],
     [
         "AdvancedSign",
-        "Puedes escribir y sirve para señalizar zonas o objectos, decorativo."
+        "Puedes escribir y sirve para señalizar zonas o objectos, decorativo, este es de lujo."
     ],
     [
         "Connector",
@@ -69,7 +69,7 @@
     ],
     [
         "ItemRack",
-        "Estantería puedes almacenar cierta cantidad de un solo tipo de objecto, dependiendo del material tendras mas o menos espacio."
+        "Estantería puedes almacenar cierta cantidad de un solo tipo de objecto, dependiendo del material tendras mas o menos capacidad."
     ],
     [
         "Vent",
@@ -77,7 +77,7 @@
     ],
     [
         "ElectricalSwitch",
-        "Dispositivo para abrir o cerrar el paso de corriente eléctrica en una zona."
+        "Interruptor para abrir o cerrar el paso de corriente eléctrica en una zona."
     ],
     [
         "OreWasher",
@@ -89,7 +89,7 @@
     ],
     [
         "Container",
-        ""
+        "Depósito para almacenar líquidos o gases. Dependiendo del material tienen mas o menos capacidad."
     ],
     [
         "Press",
@@ -129,12 +129,11 @@
     ],
     [
         "Pump",
-        "Mueve el líquido entre los dispositivos y las tuberías."
+        "Transporta el líquido o gases entre la maquinaria por las tuberías. También extrae líquidos o gases de las maquinas o los introduce."
     ],
     [
         "FilteringPump",
-        "Mueve el líquido entre los dispositivos y las tuberías con filto de liquidos."
-        ""
+        "Bomba con filtro para los liquidos o gases. Transporta el líquido entre la maquinaria por las tuberías. También extrae líquidos o gases de las maquinas o los introduce."
     ],
     [
         "Smelter",
@@ -158,7 +157,7 @@
     ],
     [
         "Sifter",
-        "El tamizado o cribado es un método mecánico para separar dos sólidos formados por partículas de tamaños diferentes. ... Se utilizan tamices de metal o otros materiales, que retienen las partículas de mayor tamaño y dejan pasar las de menor diámetro."
+        "Tamiz, el tamizado o cribado es un método mecánico para separar dos sólidos formados por partículas de tamaños diferentes. ... Se utilizan tamices de metal o otros materiales, que retienen las partículas de mayor tamaño y dejan pasar las de menor diámetro."
     ],
     [
         "FilteringUnit",
@@ -186,7 +185,7 @@
     ],
     [
         "BatteryBox",
-        ""
+        "Batería almacena energía."
     ],
     [
         "DrillingRig",
@@ -310,7 +309,7 @@
     ],
     [
         "SolarPanel",
-        "Un panel solar es un dispositivo que aprovecha la energía del sol para generar electricidad, necesitaras una batería para almacenar la electricidad aunque no es necesaria."
+        "Un panel solar es un dispositivo que aprovecha la energía del sol para generar electricidad, necesitaras una batería para almacenar la electricidad."
     ],
     [
         "Pumpjack",
@@ -318,7 +317,7 @@
     ],
     [
         "IndustrialSmelter",
-        "Fundición avanzada. Se utiliza para la fundición de titanio y grafito"
+        "Fundición avanzada. Se utiliza para la fundición de minerales avanzados."
     ],
     [
         "InductionCoil",
