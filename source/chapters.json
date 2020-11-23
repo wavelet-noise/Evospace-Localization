@@ -8,11 +8,11 @@
         ""
     ],
     [
-        "Automatization",
-        "Automatization"
+        "Logistics",
+        "Logistics"
     ],
     [
-        "AutomatizationDescription",
+        "LogisticsDescription",
         ""
     ],
     [
@@ -45,6 +45,14 @@
     ],
     [
         "EquipmentDescription",
+        ""
+    ],
+    [
+        "Global",
+        "Global"
+    ],
+    [
+        "GlobalDescription",
         ""
     ]
 ]
