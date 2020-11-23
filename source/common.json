@@ -138,5 +138,9 @@
     [
         "burnable",
         "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+    ],
+    [
+        "calculations",
+        "Produced by computers"
     ]
 ]

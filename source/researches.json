@@ -24,42 +24,6 @@
         "Plants Scan"
     ],
     [
-        "DecorativeWood",
-        "Decorative Wood"
-    ],
-    [
-        "DecorativePlastic",
-        "Decorative Plastic"
-    ],
-    [
-        "DecorativeStone",
-        "Decorative Stone"
-    ],
-    [
-        "DecorativeConcrete",
-        "Decorative Concrete"
-    ],
-    [
-        "ReinforcedConcrete",
-        "Decorative Reinforced Concrete"
-    ],
-    [
-        "DecorationClay",
-        "Decoration Clay"
-    ],
-    [
-        "Scanner",
-        "Scanner"
-    ],
-    [
-        "Steampack",
-        "Steampack"
-    ],
-    [
-        "Screwdriver",
-        "Screwdriver"
-    ],
-    [
         "AluminiumProduction",
         "Aluminium Production"
     ],
@@ -68,20 +32,12 @@
         "Stainless Steel Production"
     ],
     [
-        "Jetpack",
-        "Jetpack"
-    ],
-    [
         "TitaniumProduction",
         "Titanium Production"
     ],
     [
         "HardMetalProduction",
         "Hard Metal Production"
-    ],
-    [
-        "AntigravityUnit",
-        "Antigravity Unit"
     ],
     [
         "NeutroniumProduction",
@@ -378,5 +334,29 @@
     [
         "Freezer",
         "Freezer"
+    ],
+    [
+        "DecorativeWood",
+        "Decorative Wood"
+    ],
+    [
+        "DecorativePlastic",
+        "Decorative Plastic"
+    ],
+    [
+        "DecorativeStone",
+        "Decorative Stone"
+    ],
+    [
+        "DecorativeConcrete",
+        "Decorative Concrete"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Decorative Reinforced Concrete"
+    ],
+    [
+        "DecorationClay",
+        "Decoration Clay"
     ]
 ]
