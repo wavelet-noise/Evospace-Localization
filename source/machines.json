@@ -308,6 +308,10 @@
         "Fission Reactor"
     ],
     [
+        "FusionReactor",
+        "Fusion Reactor"
+    ],
+    [
         "ResearchReactor",
         "Research Reactor"
     ],
