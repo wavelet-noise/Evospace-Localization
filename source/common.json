@@ -40,6 +40,38 @@
         "X"
     ],
     [
+        "Organics",
+        "Mixed organics mass"
+    ],
+    [
+        "BuildingBlock",
+        "Building block"
+    ],
+    [
+        "NuclearFuel",
+        "Fuel for Fission Reactor"
+    ],
+    [
+        "Fluid",
+        "Fluid"
+    ],
+    [
+        "Gas",
+        "Gas"
+    ],
+    [
+        "ByPipes",
+        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+    ],
+    [
+        "WorldObject",
+        "Can't be crafted\nAppears in world"
+    ],
+    [
+        "Circuit",
+        "Part of smart devices\nUsed by computers to produce science points"
+    ],
+    [
         "ItemInput",
         "<img id=\"ItemInput\"></>Has item input"
     ],
@@ -140,7 +172,11 @@
         "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
     ],
     [
+        "speedbonus",
+        "Speed bonus: x%s"
+    ],
+    [
         "calculations",
-        "Produced by computers"
+        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
     ]
 ]
