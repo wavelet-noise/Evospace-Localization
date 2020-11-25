@@ -1,11 +1,11 @@
 [
     [
         "UraniumReactionThrottling",
-        "Aceleración de la reacción del Uranio"
+        "Aceleración de Reacción del Uranio"
     ],
     [
         "UraniumReactionBoosting",
-        "Potenciador de la Reacción de Uranio"
+		"Aumentar Reacción del Uranio"
     ],
     [
         "ThoriumReaction",
