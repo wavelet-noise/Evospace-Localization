@@ -308,6 +308,14 @@
         "Un reactor nuclear es un dispositivo en donde se produce electricidad una reacción nuclear en cadena controlada."
     ],
     [
+        "FusionReactor",
+        ""
+    ],
+    [
+        "ResearchReactor",
+        ""
+    ],
+    [
         "SolarPanel",
         "Un panel solar es un dispositivo que aprovecha la energía del sol para generar electricidad, necesitaras una batería para almacenar la electricidad."
     ],
