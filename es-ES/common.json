@@ -40,6 +40,38 @@
         "X"
     ],
     [
+        "Organics",
+        "Masa orgánica mezclada"
+    ],
+    [
+        "BuildingBlock",
+        "Bloque de construcción"
+    ],
+    [
+        "NuclearFuel",
+        "Combustible para el reactor de fisión"
+    ],
+    [
+        "Fluid",
+        "Fluidos"
+    ],
+    [
+        "Gas",
+        "Gas"
+    ],
+    [
+        "ByPipes",
+        "Puede ser transportado por tuberías\nPuede ser inyectado/extraído de las máquinas por medio de bombas."
+    ],
+    [
+        "WorldObject",
+        "No se puede hacer a mano\nAparece en el mundo"
+    ],
+    [
+        "Circuit",
+        "Parte de los dispositivos inteligentes\nUsados por las computadoras para producir puntos de ciencia."
+    ],
+    [
         "ItemInput",
         "<img id=\"ItemInput\"></>Tiene entrada de artículos"
     ],
@@ -138,5 +170,13 @@
     [
         "burnable",
         "Burnable<img id=\"Heat2\"></>\nTotal Calor: %sJ"
+    ],
+    [
+        "speedbonus",
+        "Bono de Velocidad: x%s"
+    ],
+    [
+        "calculations",
+        "Producido por ordenadores\nConstruya el ordenador y aliméntelo con electricidad para producir los cálculos"
     ]
 ]
