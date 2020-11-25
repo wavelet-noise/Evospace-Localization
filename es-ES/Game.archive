@@ -1,4 +1,4 @@
-﻿{
+{
 	"FormatVersion": 2,
 	"Namespace": "",
 	"Children": [
@@ -60,6 +60,17 @@
 		{
 			"Source":
 			{
+				"Text": "1 item per "
+			},
+			"Translation":
+			{
+				"Text": "1 artículo por "
+			},
+			"Key": "BCCE4286498DC182B0DF35A490851204"
+		},
+		{
+			"Source":
+			{
 				"Text": "100m"
 			},
 			"Translation":
@@ -99,29 +110,7 @@
 			{
 				"Text": "A"
 			},
-			"Key": "557DE86746AA50C8124FB792834A32EA"
-		},
-		{
-			"Source":
-			{
-				"Text": "A"
-			},
-			"Translation":
-			{
-				"Text": "A"
-			},
 			"Key": "7C9127E94A46D47660AE8383CE5C6D04"
-		},
-		{
-			"Source":
-			{
-				"Text": "A"
-			},
-			"Translation":
-			{
-				"Text": "A"
-			},
-			"Key": "97E7D3224985D10B804738A6AF9CDE43"
 		},
 		{
 			"Source":
@@ -317,9 +306,9 @@
 			},
 			"Translation":
 			{
-				"Text": "Categorías"
+				"Text": "Categorias"
 			},
-			"Key": "074A8BEC4884505A9CBD3C9C570FB349"
+			"Key": "2364A42B4D24FE032AAA0DB3436FE844"
 		},
 		{
 			"Source":
@@ -328,9 +317,9 @@
 			},
 			"Translation":
 			{
-				"Text": "Categorías"
+				"Text": "Categorias"
 			},
-			"Key": "2364A42B4D24FE032AAA0DB3436FE844"
+			"Key": "074A8BEC4884505A9CBD3C9C570FB349"
 		},
 		{
 			"Source":
@@ -339,7 +328,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Círculo Minimapa"
+				"Text": "Círculo Minimap"
 			},
 			"Key": "62196B2F460F19C8561B75AB27836B35"
 		},
@@ -386,6 +375,17 @@
 				"Text": "Consumo"
 			},
 			"Key": "FF5516354E2921B9A2F283B7C4F7BB2C"
+		},
+		{
+			"Source":
+			{
+				"Text": "Consumption probability {0}"
+			},
+			"Translation":
+			{
+				"Text": "Probabilidad de consumo {0}"
+			},
+			"Key": "2E2C7E8A46C131D6EBF109BC39F711D8"
 		},
 		{
 			"Source":
@@ -572,6 +572,17 @@
 			{
 				"Text": "Descripción"
 			},
+			"Key": "6FB637F14BB4325CBDDB5DBEB5BA125A"
+		},
+		{
+			"Source":
+			{
+				"Text": "Description"
+			},
+			"Translation":
+			{
+				"Text": "Descripción"
+			},
 			"Key": "05E0BBBE44E6C0D55D5EF99B434B1C2A"
 		},
 		{
@@ -588,11 +599,22 @@
 		{
 			"Source":
 			{
+				"Text": "Drain: "
+			},
+			"Translation":
+			{
+				"Text": "Descarga: "
+			},
+			"Key": "AE97F1364BC5DDE57E8ECDBC86495419"
+		},
+		{
+			"Source":
+			{
 				"Text": "Dump Content"
 			},
 			"Translation":
 			{
-				"Text": "Descargar el contenido"
+				"Text": "Vaciar el contenido"
 			},
 			"Key": "44530144480256907E276BBE148CD837"
 		},
@@ -654,33 +676,11 @@
 		{
 			"Source":
 			{
-				"Text": "Energy Consumption {0}W"
-			},
-			"Translation":
-			{
-				"Text": "Consumo de energía {0}W"
-			},
-			"Key": "701A973048E0F67AB985E0B2BCFE5160"
-		},
-		{
-			"Source":
-			{
-				"Text": "Energy Production {0}W"
-			},
-			"Translation":
-			{
-				"Text": "Producción de energía {0}W"
-			},
-			"Key": "CFDC98874453CD9F3DCC1190C27D8A7A"
-		},
-		{
-			"Source":
-			{
 				"Text": "Enough resource for: "
 			},
 			"Translation":
 			{
-				"Text": "Recursos suficientes para: "
+				"Text": "Suficientes recursos para: "
 			},
 			"Key": "C5FEEA344BB27EDC74673E98A83A7149"
 		},
@@ -808,22 +808,11 @@
 		{
 			"Source":
 			{
-				"Text": "GUI"
-			},
-			"Translation":
-			{
-				"Text": "Interfaz"
-			},
-			"Key": "0319F98A43FFC79AA7781FBC1D91AC89"
-		},
-		{
-			"Source":
-			{
 				"Text": "GUI Scale"
 			},
 			"Translation":
 			{
-				"Text": "Escala de interfaz gráfica de usuario"
+				"Text": "Escala interfaz gráfica de usuario (GUI)"
 			},
 			"Key": "58DDB1644321A91DE044F19004873B3B"
 		},
@@ -837,6 +826,17 @@
 				"Text": "Juego"
 			},
 			"Key": "D0CC45C0488E3B0792CC4F9118037C27"
+		},
+		{
+			"Source":
+			{
+				"Text": "Global Illumination"
+			},
+			"Translation":
+			{
+				"Text": "Iluminación global"
+			},
+			"Key": "86F8AFF94BCE3086844A5CA649759E63"
 		},
 		{
 			"Source":
@@ -863,11 +863,22 @@
 		{
 			"Source":
 			{
+				"Text": "Hardness: "
+			},
+			"Translation":
+			{
+				"Text": "Rugosidad: "
+			},
+			"Key": "F5CCBBE94B4BF07252238E93B299D0D6"
+		},
+		{
+			"Source":
+			{
 				"Text": "Heat pipes are used to transfer and store heat. Flywheels are used to store and transfer kinetic energy. At a higher level of technology development, batteries appear for storing electricity."
 			},
 			"Translation":
 			{
-				"Text": "Los tubos térmicos(calor) se usan para transferir y almacenar calor. Los volantes se usan para almacenar y transferir energía cinética. En un nivel más alto de desarrollo tecnológico, aparecen las baterías para almacenar electricidad."
+				"Text": "Los tubos de calor se usan para transferir y almacenar calor. Los volantes se usan para almacenar y transferir energía cinética. En un nivel más alto de desarrollo tecnológico, aparecen las baterías para almacenar electricidad."
 			},
 			"Key": "AF28E43240CC0A9B3804F4ABB0867EFE"
 		},
@@ -958,6 +969,39 @@
 				"Text": "Saltar"
 			},
 			"Key": "D91D2F1E45D0F184E1B48AB7B2B11A3B"
+		},
+		{
+			"Source":
+			{
+				"Text": "Kinetic supply: "
+			},
+			"Translation":
+			{
+				"Text": "Suministro cinético: "
+			},
+			"Key": "BC95CF57429E17372BC2E79D34A86034"
+		},
+		{
+			"Source":
+			{
+				"Text": "L"
+			},
+			"Translation":
+			{
+				"Text": "L"
+			},
+			"Key": "55D71A484F7F231E89F3C1A858816E02"
+		},
+		{
+			"Source":
+			{
+				"Text": "Label"
+			},
+			"Translation":
+			{
+				"Text": "Etiqueta"
+			},
+			"Key": "B261EE4A409AC8E337F05BA24A92BD53"
 		},
 		{
 			"Source":
@@ -1226,6 +1270,17 @@
 		{
 			"Source":
 			{
+				"Text": "Not consumed"
+			},
+			"Translation":
+			{
+				"Text": "No se consume"
+			},
+			"Key": "345241F642F0C7A496C1F0A57928566E"
+		},
+		{
+			"Source":
+			{
 				"Text": "Options"
 			},
 			"Translation":
@@ -1292,11 +1347,33 @@
 		{
 			"Source":
 			{
+				"Text": "Position"
+			},
+			"Translation":
+			{
+				"Text": "Posición"
+			},
+			"Key": "6A1BEE0A460303208F66C4A20BB4D0B9"
+		},
+		{
+			"Source":
+			{
 				"Text": "Press"
 			},
 			"Translation":
 			{
-				"Text": "Presiona"
+				"Text": "Presione"
+			},
+			"Key": "AD7706D141195F2659875E8442E380C6"
+		},
+		{
+			"Source":
+			{
+				"Text": "Press"
+			},
+			"Translation":
+			{
+				"Text": "Presione"
 			},
 			"Key": "2945B6654076BBBF30FBB0BBF00C83AE"
 		},
@@ -1347,11 +1424,22 @@
 		{
 			"Source":
 			{
+				"Text": "Production probability {0}"
+			},
+			"Translation":
+			{
+				"Text": "Probabilidad de producción {0}"
+			},
+			"Key": "5003F97344D8CE6249658DA2AEE03A5F"
+		},
+		{
+			"Source":
+			{
 				"Text": "Pumps are analogous to robo-hands for liquids and are used to move liquids between blocks and pipes. The pumps can be connected to pipes and work as a one-way valve."
 			},
 			"Translation":
 			{
-				"Text": "Las bombas son parecidas a las brazos robóticos pero para líquidos y se usan para mover líquidos entre bloques y tuberías. Las bombas se pueden conectar a las tuberías y funcionan como una válvula unidireccional."
+				"Text": "Las bombas son similares a los brazos robóticos para líquidos y se usan para mover líquidos entre bloques y tuberías. Las bombas se pueden conectar a las tuberías y funcionan como una válvula unidireccional."
 			},
 			"Key": "6FFB34554268BB8FC54F209720379B44"
 		},
@@ -1380,13 +1468,35 @@
 		{
 			"Source":
 			{
-				"Text": "Recipes"
+				"Text": "Reflections Denoise"
 			},
 			"Translation":
 			{
-				"Text": "Recetas"
+				"Text": "Reflejos Ruidos"
 			},
-			"Key": "3DC855F04DE40E564BC12F8212737B7F"
+			"Key": "404525EF4B6C43585A2C3AA59A68B9ED"
+		},
+		{
+			"Source":
+			{
+				"Text": "Reflections Quality"
+			},
+			"Translation":
+			{
+				"Text": "Calidad de los reflejos"
+			},
+			"Key": "6F7E97C848C29004C8EBDCA4DFFBD6D6"
+		},
+		{
+			"Source":
+			{
+				"Text": "Remove map point"
+			},
+			"Translation":
+			{
+				"Text": "Eliminar el punto del mapa"
+			},
+			"Key": "064AECC246DFE3BCB7F7F19CBE634046"
 		},
 		{
 			"Source":
@@ -1395,7 +1505,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Se Requiere para Investigar lo Siguiente:"
+				"Text": "Requerido por:"
 			},
 			"Key": "9A12D54347CD39DA6992EDB4D7AC6C38"
 		},
@@ -1419,18 +1529,7 @@
 			{
 				"Text": "La investigación está incompleta"
 			},
-			"Key": "22E3DC0A446AD14F8F6B20BF4BD95E3F"
-		},
-		{
-			"Source":
-			{
-				"Text": "Researches"
-			},
-			"Translation":
-			{
-				"Text": ""
-			},
-			"Key": "1949967C45E081CDAB43138500202566"
+			"Key": "3D7DA5364C83238CA2153BBBB07161EB"
 		},
 		{
 			"Source":
@@ -1453,6 +1552,17 @@
 				"Text": "Investigaciones"
 			},
 			"Key": "DD8F991E42330F2AFF99BC9A96E6D123"
+		},
+		{
+			"Source":
+			{
+				"Text": "Researches"
+			},
+			"Translation":
+			{
+				"Text": "Investigaciones"
+			},
+			"Key": "1949967C45E081CDAB43138500202566"
 		},
 		{
 			"Source":
@@ -1611,17 +1721,6 @@
 		{
 			"Source":
 			{
-				"Text": "Screen Space Reflections"
-			},
-			"Translation":
-			{
-				"Text": "Reflejos de entorno en pantalla"
-			},
-			"Key": "9042CC5142FB90F3527ECFBD269EED15"
-		},
-		{
-			"Source":
-			{
 				"Text": "Search"
 			},
 			"Translation":
@@ -1661,7 +1760,7 @@
 			{
 				"Text": "Buscar"
 			},
-			"Key": "B1D0754047FDE54895271BAC80EFFA60"
+			"Key": "1DCD9C0443EE4050026C9F865CFC635A"
 		},
 		{
 			"Source":
@@ -1672,7 +1771,7 @@
 			{
 				"Text": "Buscar"
 			},
-			"Key": "1DCD9C0443EE4050026C9F865CFC635A"
+			"Key": "B1D0754047FDE54895271BAC80EFFA60"
 		},
 		{
 			"Source":
@@ -1772,17 +1871,6 @@
 				"Text": "Saltar"
 			},
 			"Key": "4CFEEB114202AB5BA027109CB39984F7"
-		},
-		{
-			"Source":
-			{
-				"Text": "Speed x{0}"
-			},
-			"Translation":
-			{
-				"Text": "Velocidad x{0}"
-			},
-			"Key": "D40637E94FE1FF66A82C76A57A17FFD1"
 		},
 		{
 			"Source":
@@ -2007,28 +2095,6 @@
 		{
 			"Source":
 			{
-				"Text": "Usage ?"
-			},
-			"Translation":
-			{
-				"Text": "¿Uso ?"
-			},
-			"Key": "C564DDFF4DB7D86744B45F9717455256"
-		},
-		{
-			"Source":
-			{
-				"Text": "Usage {0}"
-			},
-			"Translation":
-			{
-				"Text": "Uso {0}"
-			},
-			"Key": "17941AA7474096C3B5D9BC9CA4536552"
-		},
-		{
-			"Source":
-			{
 				"Text": "VSync"
 			},
 			"Translation":
@@ -2068,7 +2134,7 @@
 			{
 				"Text": "a-z"
 			},
-			"Key": "B46E890B4FAE456DADAFA49192C4B0C8"
+			"Key": "BBB6292F4D551FE40D488384546EFBBA"
 		},
 		{
 			"Source":
@@ -2079,7 +2145,7 @@
 			{
 				"Text": "a-z"
 			},
-			"Key": "BBB6292F4D551FE40D488384546EFBBA"
+			"Key": "B46E890B4FAE456DADAFA49192C4B0C8"
 		},
 		{
 			"Source":
@@ -2205,11 +2271,22 @@
 		{
 			"Source":
 			{
+				"Text": "machine tier is too low"
+			},
+			"Translation":
+			{
+				"Text": "el nivel de la máquina es demasiado bajo"
+			},
+			"Key": "4FD4616E4784444C68333DB1F3BDFFFA"
+		},
+		{
+			"Source":
+			{
 				"Text": "mode"
 			},
 			"Translation":
 			{
-				"Text": "Modo"
+				"Text": "modo"
 			},
 			"Key": "1FA6DEF1471FF01B32A50C98E462F17B"
 		},
@@ -2227,11 +2304,33 @@
 		{
 			"Source":
 			{
+				"Text": "not enough items"
+			},
+			"Translation":
+			{
+				"Text": "no hay suficientes artículos"
+			},
+			"Key": "CDB2F3454CA06E7AE0F7018FBB79C505"
+		},
+		{
+			"Source":
+			{
+				"Text": "output is busy"
+			},
+			"Translation":
+			{
+				"Text": "la salida está ocupada"
+			},
+			"Key": "232B0BFB4881A11EA8BAA3A7A30E8F32"
+		},
+		{
+			"Source":
+			{
 				"Text": "press to activate"
 			},
 			"Translation":
 			{
-				"Text": "Presiona para activar"
+				"Text": "Presione para activar"
 			},
 			"Key": "37ADA6604DF1CD4093D11A9C2360A3D6"
 		},
@@ -2293,13 +2392,24 @@
 		{
 			"Source":
 			{
+				"Text": "to edit"
+			},
+			"Translation":
+			{
+				"Text": "para editar"
+			},
+			"Key": "E68D30B440473ABAFC1543BC6A8C26DA"
+		},
+		{
+			"Source":
+			{
 				"Text": "to find research"
 			},
 			"Translation":
 			{
-				"Text": "para buscar la investigación"
+				"Text": "para encontrar la investigación"
 			},
-			"Key": "190B83F4422469D578F63394CA33290F"
+			"Key": "96CB89CF43F382FBBC6315AAE34F7D34"
 		},
 		{
 			"Source":
@@ -2392,17 +2502,6 @@
 		{
 			"Source":
 			{
-				"Text": "{0}\r\n{1}"
-			},
-			"Translation":
-			{
-				"Text": "{0}\r\n{1}"
-			},
-			"Key": "24FD97D14284A330E0FE9C8AC3BABC57"
-		},
-		{
-			"Source":
-			{
 				"Text": "{0} / {1}s"
 			},
 			"Translation":
@@ -2464,7 +2563,7 @@
 			{
 				"Text": "{0}J"
 			},
-			"Key": "8D61326245125EB0F14ECEA6F98B5BB3"
+			"Key": "F01AD8B24AC85A14391248B584E81C44"
 		},
 		{
 			"Source":
@@ -2475,7 +2574,18 @@
 			{
 				"Text": "{0}J"
 			},
-			"Key": "F01AD8B24AC85A14391248B584E81C44"
+			"Key": "8D61326245125EB0F14ECEA6F98B5BB3"
+		},
+		{
+			"Source":
+			{
+				"Text": "{0}W"
+			},
+			"Translation":
+			{
+				"Text": "{0}W"
+			},
+			"Key": "3F0E98FC42CDB665A45A0581F1567B37"
 		},
 		{
 			"Source":
@@ -2498,6 +2608,17 @@
 				"Text": "{0}W"
 			},
 			"Key": "AA8977634E3DC1DBAA8A1BA877F6600C"
+		},
+		{
+			"Source":
+			{
+				"Text": "{0}W"
+			},
+			"Translation":
+			{
+				"Text": "{0}W"
+			},
+			"Key": "B07EBF954B6557B470F66893768D56A0"
 		},
 		{
 			"Source":
