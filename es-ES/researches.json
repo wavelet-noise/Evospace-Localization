@@ -24,42 +24,6 @@
         "Escaneo de Plantas"
     ],
     [
-        "DecorativeWood",
-        "Madera Decorativa"
-    ],
-    [
-        "DecorativePlastic",
-        "Plástico Decorativo"
-    ],
-    [
-        "DecorativeStone",
-        "Piedra Decorativa"
-    ],
-    [
-        "DecorativeConcrete",
-        "Cemento Decorativo"
-    ],
-    [
-        "ReinforcedConcrete",
-        "Hormigón Armado Decorativo"
-    ],
-    [
-        "DecorationClay",
-        "Arcilla Decorativa"
-    ],
-    [
-        "Scanner",
-        "Escaner"
-    ],
-    [
-        "Steampack",
-        "Pack de Vapor"
-    ],
-    [
-        "Screwdriver",
-        "Destornillador"
-    ],
-    [
         "AluminiumProduction",
         "Producción del Aluminio"
     ],
@@ -68,20 +32,12 @@
         "Producción de Acero Inoxidable"
     ],
     [
-        "Jetpack",
-        "Jetpack"
-    ],
-    [
         "TitaniumProduction",
         "Producción de Titanio"
     ],
     [
         "HardMetalProduction",
         "Producción de metal duro"
-    ],
-    [
-        "AntigravityUnit",
-        "Unidad Antigravedad"
     ],
     [
         "NeutroniumProduction",
@@ -378,5 +334,33 @@
     [
         "Freezer",
         "Freezer"
+    ],
+    [
+        "FusionReactor",
+        "Reactor de Fusión"
+    ],
+    [
+        "DecorativeWood",
+        "Madera Decorativa"
+    ],
+    [
+        "DecorativePlastic",
+        "Plástico Decorativo"
+    ],
+    [
+        "DecorativeStone",
+        "Piedra Decorativa"
+    ],
+    [
+        "DecorativeConcrete",
+        "Hormigón Decorativo"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Hormigón Armado Decorativo"
+    ],
+    [
+        "DecorationClay",
+        "Arcilla Decorativa"
     ]
 ]
