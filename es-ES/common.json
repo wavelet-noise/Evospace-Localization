@@ -40,103 +40,143 @@
         "X"
     ],
     [
+        "Organics",
+        "Mixed organics mass"
+    ],
+    [
+        "BuildingBlock",
+        "Building block"
+    ],
+    [
+        "NuclearFuel",
+        "Fuel for Fission Reactor"
+    ],
+    [
+        "Fluid",
+        "Fluid"
+    ],
+    [
+        "Gas",
+        "Gas"
+    ],
+    [
+        "ByPipes",
+        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+    ],
+    [
+        "WorldObject",
+        "Can't be crafted\nAppears in world"
+    ],
+    [
+        "Circuit",
+        "Part of smart devices\nUsed by computers to produce science points"
+    ],
+    [
         "ItemInput",
-        "<img id=\"ItemInput\"></>Tiene entrada de artículos"
+        "<img id=\"ItemInput\"></>Has item input"
     ],
     [
         "ItemOutput",
-        "<img id=\"ItemOutput\"></>Tiene salida de artículos"
+        "<img id=\"ItemOutput\"></>Has item ouput"
     ],
     [
         "FluidInput",
-        "<img id=\"FluidInput\"></>Tiene entrada de fluidos"
+        "<img id=\"FluidInput\"></>Has fluid input"
     ],
     [
         "FluidOutput",
-        "<img id=\"FluidOutput\"></>Tiene salida de fluidos"
+        "<img id=\"FluidOutput\"></>Has fluid ouput"
     ],
     [
         "FluidConductor",
-        "Conduce los líquidos"
+        "Conducts fluids"
     ],
     [
         "FluidStorage",
-        "Almacena los líquidos"
+        "Stores fluids"
     ],
     [
         "KineticInput",
-        "<img id=\"Kinetic\"></>Consume energía cinética<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Consumes kinetic energy<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticOutput",
-        "<img id=\"Kinetic\"></>Produce energía cinética<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Produces kinetic energy<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticConductor",
-        "<img id=\"Kinetic\"></>Conduce la energía cinética<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Conducts kinetic energy<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticStorage",
-        "Almacena la energía cinética<img id=\"Kinetic2\"></>"
+        "Stores kinetic energy<img id=\"Kinetic2\"></>"
     ],
     [
         "HeatInput",
-        "<img id=\"Heat\"></>Consume energía térmica<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>Consumes heat energy<img id=\"Heat2\"></>"
     ],
     [
         "HeatOutput",
-        "<img id=\"Heat\"></>Produce energía térmica<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>Produces heat energy<img id=\"Heat2\"></>"
     ],
     [
         "HeatConductor",
-        "<img id=\"Heat\"></>Conduce la energía térmica<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>Conducts heat energy<img id=\"Heat2\"></>"
     ],
     [
         "HeatStorage",
-        "Almacena y conduce la energía térmica<img id=\"Heat2\"></>"
+        "Stores heat energy<img id=\"Heat2\"></>"
     ],
     [
         "ElectricInput",
-        "<img id=\"Electricity\"></>Consume electricidad<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>Consumes electricity<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricOutput",
-        "<img id=\"Electricity\"></>Produce electricidad<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>Produces electricity<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricConductor",
-        "<img id=\"Electricity\"></>Conduce la electricidad<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>Conducts electricity<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricStorage",
-        "Almacena la electricidad<img id=\"Electricity2\"></>"
+        "Stores electricity<img id=\"Electricity2\"></>"
     ],
     [
         "ips",
-        "Artículos por segundo: %s"
+        "Items per second: %s"
     ],
     [
         "dps",
-        "Grados por segundo: %s"
+        "Degrees per second: %s"
     ],
     [
         "power_limit",
-        "Límite de energía: %sW"
+        "Power limit: %sW"
     ],
     [
         "power_output",
-        "Salida de energía: %sW"
+        "Power output: %sW"
     ],
     [
         "container",
-        "Capacidad: %s L"
+        "Capacity: %s L"
     ],
     [
         "chest",
-        "Capacidad: %s stacks"
+        "Capacity: %s stacks"
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal Calor: %sJ"
+        "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+    ],
+    [
+        "speedbonus",
+        "Speed bonus: x%s"
+    ],
+    [
+        "calculations",
+        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
     ]
 ]
