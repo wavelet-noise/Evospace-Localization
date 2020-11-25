@@ -253,23 +253,31 @@
     ],
     [
         "TungstenDust",
-        "Polvo de tungsteno"
+        "Polvo de Tungsteno"
     ],
     [
         "TungstenOxideDust",
-        "Polvo de óxido de tungsteno"
+        "Polvo de óxido de Tungsteno"
     ],
     [
         "TungstenCarbideDust",
-        "Polvo de carburo de tungsteno"
+        "Polvo de carburo de Tungsteno"
     ],
     [
         "HardMetalIngot",
-        "Lingote de metal duro"
+        "Lingote de metal Duro"
     ],
     [
         "HardMetalDust",
-        "Polvo de metal duro"
+        "Polvo de metal Duro"
+    ],
+    [
+        "HotHardMetalIngot",
+        "Lingote de metal Duro caliente"
+    ],
+    [
+        "HotNeutroniumIngot",
+        "Lingote de Neutronio Caliente"
     ],
     [
         "CobaltDust",
