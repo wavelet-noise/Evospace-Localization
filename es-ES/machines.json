@@ -308,6 +308,10 @@
         "Reactor de Fisión"
     ],
     [
+        "ResearchReactor",
+        "Reactor de Investigación"
+    ],
+    [
         "SolarPanel",
         "Panel Solar"
     ],
@@ -324,7 +328,7 @@
         "Bobina de Inducción"
     ],
     [
-        "Controller",
-        "Consola"
+        "CreativeController",
+        "Consola Creativo"
     ]
 ]
