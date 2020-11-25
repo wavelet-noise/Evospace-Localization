@@ -1,0 +1,18 @@
+[
+    [
+        "UraniumReactionThrottling",
+        "Aceleración de Reacción del Uranio"
+    ],
+    [
+        "UraniumReactionBoosting",
+        "Aumentar Reacción del Uranio"
+    ],
+    [
+        "ThoriumReaction",
+        "Reacción del Torio"
+    ],
+    [
+        "PlutoniumReaction",
+        "Reacción del Plutonio"
+    ]
+]
