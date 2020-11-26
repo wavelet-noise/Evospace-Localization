@@ -300,8 +300,8 @@
         "Neutronium Dust"
     ],
     [
-        "ChromeDust",
-        "Chrome Dust"
+        "ChromiumDust",
+        "Chromium Dust"
     ],
     [
         "PlutoniumDust",
@@ -492,8 +492,8 @@
         "Nitrogen"
     ],
     [
-        "ChromeOxideDust",
-        "Chrome Oxide Dust"
+        "ChromiumOxideDust",
+        "Chromium Oxide Dust"
     ],
     [
         "PotassiumChlorideDust",

@@ -1,10 +1,18 @@
 [
     [
-        "Initial",
-        "Initial"
+        "Materials",
+        "Materials"
     ],
     [
-        "InitialDescription",
+        "MaterialsDescription",
+        ""
+    ],
+    [
+        "Production",
+        "Production"
+    ],
+    [
+        "ProductionDescription",
         ""
     ],
     [
