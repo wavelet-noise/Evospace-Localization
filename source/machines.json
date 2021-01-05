@@ -88,6 +88,14 @@
         "Conveyor"
     ],
     [
+        "Splitter",
+        "Splitter"
+    ],
+    [
+        "Sorter",
+        "Sorter"
+    ],
+    [
         "Container",
         "Container"
     ],

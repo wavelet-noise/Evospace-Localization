@@ -261,7 +261,11 @@
 	],
 	[
 		"Computer",
-		"Develops research points."
+		"Creates research points."
+	],
+	[
+		"QuantumComputer",
+		"Creates quantum research points."
 	],
 	[
 		"IndustrialSeparator",

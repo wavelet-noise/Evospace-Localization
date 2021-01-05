@@ -160,6 +160,10 @@
         "Power output: %sW"
     ],
     [
+        "power_input",
+        "Power input: %sW"
+    ],
+    [
         "container",
         "Capacity: %s L"
     ],
@@ -174,6 +178,22 @@
     [
         "speedbonus",
         "Speed bonus: x%s"
+    ],
+    [
+        "electric_drain",
+        "Electricity drain: %sW"
+    ],
+    [
+        "heat_drain",
+        "Heat drain: %sW"
+    ],
+    [
+        "kinetic_drain",
+        "Kinetic drain: %sW"
+    ],
+    [
+        "computations",
+        "Computations per second: %s"
     ],
     [
         "calculations",
