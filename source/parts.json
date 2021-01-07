@@ -116,32 +116,8 @@
         "Neutronium Casing"
     ],
     [
-        "BasicComputations",
-        "Basic Computations"
-    ],
-    [
-        "AdvancedComputations",
-        "Advanced Computations"
-    ],
-    [
-        "ComplexComputations",
-        "Complex Computations"
-    ],
-    [
-        "DeepComputations",
-        "Deep Computations"
-    ],
-    [
-        "QuantumComputations",
-        "Quantum Computations"
-    ],
-    [
-        "UltimateComputations",
-        "Ultimate Computations"
-    ],
-    [
-        "FinalComputations",
-        "Final Computations"
+        "Computations",
+        "Computations"
     ],
     [
         "Heat",
