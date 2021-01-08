@@ -198,5 +198,21 @@
     [
         "calculations",
         "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
+    ],
+    [
+        "WorldGeneratorRivers",
+        "Rivers and isles"
+    ],
+    [
+        "WorldGeneratorBiome",
+        "Rocky islands"
+    ],
+    [
+        "FlatWorldGenerator",
+        "Concrete world"
+    ],
+    [
+        "WorldGeneratorPlains",
+        "Plains and coast"
     ]
 ]
