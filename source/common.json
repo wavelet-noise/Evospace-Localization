@@ -144,6 +144,38 @@
         "Stores electricity<img id=\"Electricity2\"></>"
     ],
     [
+        "Stone",
+        "Stone"
+    ],
+    [
+        "Copper",
+        "Copper"
+    ],
+    [
+        "Steel",
+        "Steel"
+    ],
+    [
+        "Aluminium",
+        "Aluminium"
+    ],
+    [
+        "StainlessSteel",
+        "Stainless Steel"
+    ],
+    [
+        "Titanium",
+        "Titanium"
+    ],
+    [
+        "HardMetal",
+        "Hard Metal"
+    ],
+    [
+        "Neutronium",
+        "Neutronium"
+    ],
+    [
         "ips",
         "Items per second: %s"
     ],
