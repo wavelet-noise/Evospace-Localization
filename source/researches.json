@@ -1,53 +1,5 @@
 [
     [
-        "InitialScan",
-        "Initial Scan"
-    ],
-    [
-        "MineralsScan",
-        "Minerals Scan"
-    ],
-    [
-        "Electricity",
-        "Electricity"
-    ],
-    [
-        "Smelting",
-        "Smelting"
-    ],
-    [
-        "Metalwork",
-        "Metalwork"
-    ],
-    [
-        "PlantsScan",
-        "Plants Scan"
-    ],
-    [
-        "AluminiumProduction",
-        "Aluminium Production"
-    ],
-    [
-        "StainlessSteelProduction",
-        "Stainless Steel Production"
-    ],
-    [
-        "TitaniumProduction",
-        "Titanium Production"
-    ],
-    [
-        "HardMetalProduction",
-        "Hard Metal Production"
-    ],
-    [
-        "NeutroniumProduction",
-        "Neutronium Production"
-    ],
-    [
-        "Dumping",
-        "Dumping"
-    ],
-    [
         "GasDump",
         "Gas Dump"
     ],
@@ -340,6 +292,50 @@
         "Fusion Reactor"
     ],
     [
+        "NeutroniumProduction",
+        "Neutronium Production"
+    ],
+    [
+        "AluminiumProduction",
+        "Aluminium Production"
+    ],
+    [
+        "StainlessSteelProduction",
+        "Stainless Steel Production"
+    ],
+    [
+        "TitaniumProduction",
+        "Titanium Production"
+    ],
+    [
+        "HardMetalProduction",
+        "Hard Metal Production"
+    ],
+    [
+        "PlantsScan",
+        "Plants Scan"
+    ],
+    [
+        "InitialScan",
+        "Initial Scan"
+    ],
+    [
+        "MineralsScan",
+        "Minerals Scan"
+    ],
+    [
+        "Electricity",
+        "Electricity"
+    ],
+    [
+        "Smelting",
+        "Smelting"
+    ],
+    [
+        "Metalwork",
+        "Metalwork"
+    ],
+    [
         "DecorativeWood",
         "Decorative Wood"
     ],
@@ -356,11 +352,11 @@
         "Decorative Concrete"
     ],
     [
-        "ReinforcedConcrete",
-        "Decorative Reinforced Concrete"
-    ],
-    [
         "DecorationClay",
         "Decoration Clay"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Decorative Reinforced Concrete"
     ]
 ]
