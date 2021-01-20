@@ -200,6 +200,10 @@
         "Capacity: %s L"
     ],
     [
+        "battery",
+        "Capacity: %s J"
+    ],
+    [
         "chest",
         "Capacity: %s stacks"
     ],

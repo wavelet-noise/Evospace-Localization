@@ -1,73 +1,5 @@
 [
     [
-        "GasDump",
-        "Gas Dump"
-    ],
-    [
-        "SolidDump",
-        "SolidDump"
-    ],
-    [
-        "CircuitBoard",
-        "Circuit Board"
-    ],
-    [
-        "AdvancedCircuitBoard",
-        "Advanced Circuit Board"
-    ],
-    [
-        "QuantumCore",
-        "Quantum Core"
-    ],
-    [
-        "FineWire",
-        "Fine Wires"
-    ],
-    [
-        "BasicCircuit",
-        "Basic Circuit"
-    ],
-    [
-        "AdvancedCircuit",
-        "Advanced Circuit"
-    ],
-    [
-        "Processor",
-        "Processor"
-    ],
-    [
-        "QuantumCircuit",
-        "Quantum Circuit"
-    ],
-    [
-        "QuantumProcessor",
-        "Quantum Processor"
-    ],
-    [
-        "QuantumBrain",
-        "Quantum Brain"
-    ],
-    [
-        "Flywheel",
-        "Flywheel"
-    ],
-    [
-        "ElectricalSwitch",
-        "Electrical Switch"
-    ],
-    [
-        "Valve",
-        "Valve"
-    ],
-    [
-        "Terminal",
-        "Terminal"
-    ],
-    [
-        "FlatTerminal",
-        "Flat Terminal"
-    ],
-    [
         "BigTerminal",
         "Big Terminal"
     ],
@@ -84,6 +16,22 @@
         "Huge Flat Terminal"
     ],
     [
+        "PlutoniumReaction",
+        "Plutonium Reaction"
+    ],
+    [
+        "ThoriumReaction",
+        "Thorium Reaction"
+    ],
+    [
+        "UraniumReactionBoosting",
+        "Uranium Reaction Boosting"
+    ],
+    [
+        "UraniumReactionThrottling",
+        "Uranium Reaction Throttling"
+    ],
+    [
         "Drying",
         "Drying"
     ],
@@ -96,18 +44,6 @@
         "Automatization"
     ],
     [
-        "Pump",
-        "Pump"
-    ],
-    [
-        "FilteringArm",
-        "Filtering Arm"
-    ],
-    [
-        "FilteringPump",
-        "Filtering Pump"
-    ],
-    [
         "AdditionalStorage",
         "Additional Storage"
     ],
@@ -116,16 +52,8 @@
         "Heat Transferring"
     ],
     [
-        "HeatConversion",
-        "Heat Conversion"
-    ],
-    [
         "BasicMachines",
         "Basic Machines"
-    ],
-    [
-        "Refining",
-        "Refining"
     ],
     [
         "FluidStorage",
@@ -134,10 +62,6 @@
     [
         "FluidDumping",
         "Fluid Dumping"
-    ],
-    [
-        "Pumpjack",
-        "Pumpjack"
     ],
     [
         "Pyrolysis",
@@ -162,14 +86,6 @@
     [
         "Sign",
         "Sign"
-    ],
-    [
-        "Constructor",
-        "Constructor"
-    ],
-    [
-        "Deconstructor",
-        "Deconstructor"
     ],
     [
         "Cutting",
@@ -212,48 +128,8 @@
         "Advanced Smelting"
     ],
     [
-        "Separation",
-        "Separation"
-    ],
-    [
-        "Assembler",
-        "Assembler"
-    ],
-    [
-        "ElectricEngine",
-        "Electric Engine"
-    ],
-    [
-        "Diode",
-        "Diode"
-    ],
-    [
-        "Mixer",
-        "Mixer"
-    ],
-    [
-        "ElectricFurnace",
-        "Electric Furnace"
-    ],
-    [
-        "AdvancedSign",
-        "Advanced Sign"
-    ],
-    [
-        "AtmosphericCondenser",
-        "Atmospheric Condenser"
-    ],
-    [
-        "Furnace",
-        "Furnace"
-    ],
-    [
         "IndustrialSmelting",
         "Industrial Smelting"
-    ],
-    [
-        "AutomaticFarm",
-        "Automatic Farm"
     ],
     [
         "Fermentation",
@@ -262,34 +138,6 @@
     [
         "AdvancedSeparation",
         "Advanced Separation"
-    ],
-    [
-        "BatteryBox",
-        "Battery Box"
-    ],
-    [
-        "SolarPanel",
-        "Solar Panel"
-    ],
-    [
-        "GasTurbine",
-        "Gas Turbine"
-    ],
-    [
-        "FissionReactor",
-        "Fission Reactor"
-    ],
-    [
-        "InductionCoil",
-        "Induction Coil"
-    ],
-    [
-        "Freezer",
-        "Freezer"
-    ],
-    [
-        "FusionReactor",
-        "Fusion Reactor"
     ],
     [
         "NeutroniumProduction",
