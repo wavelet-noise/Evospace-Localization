@@ -8,20 +8,8 @@
         ""
     ],
     [
-        "Logistics",
-        "Logistics"
-    ],
-    [
-        "LogisticsDescription",
-        ""
-    ],
-    [
         "Other",
         "Other"
-    ],
-    [
-        "Circuits",
-        "Circuits"
     ],
     [
         "Decorations",
@@ -29,30 +17,6 @@
     ],
     [
         "DecorationsDescription",
-        ""
-    ],
-    [
-        "Nuclear",
-        "Nuclear Reactions"
-    ],
-    [
-        "NuclearDescription",
-        ""
-    ],
-    [
-        "Equipment",
-        "Equipment"
-    ],
-    [
-        "EquipmentDescription",
-        ""
-    ],
-    [
-        "Global",
-        "Global"
-    ],
-    [
-        "GlobalDescription",
         ""
     ]
 ]

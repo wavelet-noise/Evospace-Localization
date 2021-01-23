@@ -184,8 +184,20 @@
         "Flueted Column"
     ],
     [
+        "Torch",
+        "Torch"
+    ],
+    [
         "Flashlight",
         "Flashlight"
+    ],
+    [
+        "NightVision",
+        "Night Vision"
+    ],
+    [
+        "AdvancedNightVision",
+        "Advanced Night Vision"
     ],
     [
         "Steampack",
@@ -194,6 +206,10 @@
     [
         "Jetpack",
         "Jetpack"
+    ],
+    [
+        "AdvancedJetpack",
+        "Advanced Jetpack"
     ],
     [
         "AntigravityUnit",
