@@ -1,21 +1,5 @@
 [
     [
-        "BigTerminal",
-        "Big Terminal"
-    ],
-    [
-        "BigFlatTerminal",
-        "Big Flat Terminal"
-    ],
-    [
-        "HugeTerminal",
-        "Huge Terminal"
-    ],
-    [
-        "HugeFlatTerminal",
-        "Huge Flat Terminal"
-    ],
-    [
         "InventoryUpgrade",
         "Inventory Upgrade"
     ],
