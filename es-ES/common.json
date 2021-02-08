@@ -144,6 +144,38 @@
         "Almacena la electricidad<img id=\"Electricity2\"></>"
     ],
     [
+        "Stone",
+        "Piedra"
+    ],
+    [
+        "Copper",
+        "Cobre"
+    ],
+    [
+        "Steel",
+        "Acero"
+    ],
+    [
+        "Aluminium",
+        "Aluminio"
+    ],
+    [
+        "StainlessSteel",
+        "Acero inoxidable"
+    ],
+    [
+        "Titanium",
+        "Titanio"
+    ],
+    [
+        "HardMetal",
+        "Metal Duro"
+    ],
+    [
+        "Neutronium",
+        "Neutronio"
+    ],
+    [
         "ips",
         "Artículos por segundo: %s"
     ],
@@ -160,8 +192,16 @@
         "Salida de energía: %sW"
     ],
     [
+        "power_input",
+        "Entrada de energía: %sW"
+    ],
+    [
         "container",
         "Capacidad: %s L"
+    ],
+    [
+        "battery",
+        "Batería: %s J"
     ],
     [
         "chest",
@@ -174,9 +214,41 @@
     [
         "speedbonus",
         "Bono de Velocidad: x%s"
+   ],
+    [
+        "electric_drain",
+        "Pérdida de electricidad: %sW"
+    ],
+    [
+        "heat_drain",
+        "Pérdida de calor: %sW"
+    ],
+    [
+        "kinetic_drain",
+        "Pérdida cinética: %sW"
+    ],
+    [
+        "computations",
+        "Cálculos por segundo: %s"
     ],
     [
         "calculations",
         "Producido por ordenadores\nConstruya el ordenador y aliméntelo con electricidad para producir los cálculos"
+    ],
+    [
+        "WorldGeneratorRivers",
+        "Ríos e islas"
+    ],
+    [
+        "WorldGeneratorBiome",
+        "Islas rocosas"
+    ],
+    [
+        "FlatWorldGenerator",
+        "Mundo de hormigón"
+    ],
+    [
+        "WorldGeneratorPlains",
+        "Llanuras y costas"
     ]
 ]
