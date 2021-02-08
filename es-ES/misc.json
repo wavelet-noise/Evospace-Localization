@@ -184,8 +184,20 @@
         "Columna de Chimenea"
     ],
     [
+        "Torch",
+        "Antorcha"
+    ],
+    [
         "Flashlight",
         "Linterna"
+    ],
+    [
+        "NightVision",
+        "Visión nocturna"
+    ],
+    [
+        "AdvancedNightVision",
+        "Visión nocturna avanzada"
     ],
     [
         "Steampack",
@@ -194,6 +206,10 @@
     [
         "Jetpack",
         "Jetpack"
+    ],
+    [
+        "AdvancedJetpack",
+        "Jetpack Avanzado"
     ],
     [
         "AntigravityUnit",
