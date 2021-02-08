@@ -88,6 +88,14 @@
         "Para transportador objectos, minerales etc.."
     ],
     [
+        "Splitter",
+        "Divisor"
+    ],
+    [
+        "Sorter",
+        "Clasificador"
+    ],
+    [
         "Container",
         "Depósito para almacenar líquidos o gases. Dependiendo del material tienen mas o menos capacidad."
     ],
@@ -186,6 +194,10 @@
     [
         "BatteryBox",
         "Batería almacena energía."
+    ],
+    [
+        "SmallBattery",
+        "Batería pequeña"
     ],
     [
         "DrillingRig",
@@ -290,6 +302,10 @@
     [
         "Computer",
         "Desarrolla puntos de investigación."
+    ],
+    [
+        "QuantumComputer",
+        "Computadora cuántica"
     ],
     [
         "IndustrialSeparator",
