@@ -1,351 +1,351 @@
 [
     [
         "Macerator",
-        ""
+        "Triturador"
     ],
     [
         "CuttingMachine",
-        ""
+        "Serra Circular"
     ],
     [
         "Fermenter",
-        ""
+        "Fermentador"
     ],
     [
         "ChemReactor",
-        ""
+        "Reator Químico"
     ],
     [
         "Separator",
-        ""
+        "Centrifuga"
     ],
     [
         "Beam",
-        ""
+        "Viga"
     ],
     [
         "Corner",
-        ""
+        "Cantoneira"
     ],
     [
         "AutomaticHammer",
-        ""
+        "Martelo Hidráulico"
     ],
     [
         "Boiler",
-        ""
+        "Caldeira"
     ],
     [
         "Pipe",
-        ""
+        "Cano"
     ],
     [
         "HeatPipe",
-        ""
+        "Cano de Calor"
     ],
     [
         "Flywheel",
-        ""
+        "Rosca sem Fim [nome provisório]"
     ],
     [
         "Scaffold",
-        ""
+        "Andaime Decorativo"
     ],
     [
         "Sign",
-        ""
+        "Placa"
     ],
     [
         "AdvancedSign",
-        ""
+        "Placa Avançada"
     ],
     [
         "Connector",
-        ""
+        "Fio Eletrico"
     ],
     [
         "Chest",
-        ""
+        "Baú"
     ],
     [
         "ItemRack",
-        ""
+        "Estante"
     ],
     [
         "Vent",
-        ""
+        "Ventilação"
     ],
     [
         "ElectricalSwitch",
-        ""
+        "Interruptor"
     ],
     [
         "OreWasher",
-        ""
+        "Lavadora de Minérios"
     ],
     [
         "Conveyor",
-        ""
+        "Esteira"
     ],
     [
         "Splitter",
-        ""
+        "Bifurcador"
     ],
     [
         "Sorter",
-        ""
+        "Seletor"
     ],
     [
         "Container",
-        ""
+        "Reservatório"
     ],
     [
         "Press",
-        ""
+        "Prensa"
     ],
     [
         "StirlingEngine",
-        ""
+        "Motor à Calor"
     ],
     [
         "CombustionEngine",
-        ""
+        "Motor à Combustão"
     ],
     [
         "PyrolysisUnit",
-        ""
+        "Refinaria"
     ],
     [
         "Generator",
-        ""
+        "Gerador"
     ],
     [
         "CompactGenerator",
-        ""
+        "Gerador COmpacto"
     ],
     [
         "ElectricEngine",
-        ""
+        "Motor Elétrico"
     ],
     [
         "RobotArm",
-        ""
+        "Braço Robótico"
     ],
     [
         "FilteringRobotArm",
-        ""
+        "Braço Robótico com Seletor"
     ],
     [
         "Pump",
-        ""
+        "Bomba Hidráulica"
     ],
     [
         "FilteringPump",
-        ""
+        "Bomba Hidráulica com Seletor"
     ],
     [
         "Smelter",
-        ""
+        "Forja"
     ],
     [
         "SteamTurbine",
-        ""
+        "Turbina à Vapor"
     ],
     [
         "GasTurbine",
-        ""
+        "Turbina à Gás"
     ],
     [
         "ArcSmelter",
-        ""
+        "Forja de Indução"
     ],
     [
         "ChemicalBath",
-        ""
+        "Banho Químico"
     ],
     [
         "Sifter",
-        ""
+        "Peneiradora"
     ],
     [
         "FilteringUnit",
-        ""
+        "Unidade de Filtragem"
     ],
     [
         "Furnace",
-        ""
+        "Fornalha"
     ],
     [
         "Oven",
-        ""
+        "Forno"
     ],
     [
         "BlastFurnace",
-        ""
+        "Fundição"
     ],
     [
         "FluidFurnace",
-        ""
+        "Fornalha à Líquidos"
     ],
     [
         "ElectricFurnace",
-        ""
+        "Fornalha Elétrica"
     ],
     [
         "BatteryBox",
-        ""
+        "Caixa de Baterias"
     ],
     [
         "SmallBattery",
-        ""
+        "Caixa de Baterias Compacta"
     ],
     [
         "DrillingRig",
-        ""
+        "Perfuratriz"
     ],
     [
         "Assembler",
-        ""
+        "Montadora"
     ],
     [
         "Constructor",
-        ""
+        "Construtora"
     ],
     [
         "Deconstructor",
-        ""
+        "Desmontadora"
     ],
     [
         "FluidDump",
-        ""
+        "Fossa Liquida"
     ],
     [
         "GasDump",
-        ""
+        "Queimadora de Gases"
     ],
     [
         "SolidDump",
-        ""
+        "Moedor de Sólidos"
     ],
     [
         "Lamp",
-        ""
+        "Lampada"
     ],
     [
         "AdminElectricGenerator",
-        ""
+        "Gerador Elétrico da NASA"
     ],
     [
         "AdminItemGenerator",
-        ""
+        "Estoque da NASA"
     ],
     [
         "AdminKineticGenerator",
-        ""
+        "Motor Mecânico da NASA"
     ],
     [
         "AdminHeatGenerator",
-        ""
+        "Gerador de Calor da NASA"
     ],
     [
         "AdminFluidGenerator",
-        ""
+        "Caixa de Líquidos da NASA"
     ],
     [
         "AdminExterminator",
-        ""
+        "Lixeira Suprema Tabajara"
     ],
     [
         "Electrolyzer",
-        ""
+        "Eletrolisador"
     ],
     [
         "Mixer",
-        ""
+        "Misturador"
     ],
     [
         "Freezer",
-        ""
+        "Resfriador"
     ],
     [
         "AutomaticFarm",
-        ""
+        "Cultivador Automático"
     ],
     [
         "AtmosphericCondenser",
-        ""
+        "Condensador Atmosférico"
     ],
     [
         "Terminal",
-        ""
+        "Monitor"
     ],
     [
         "BigTerminal",
-        ""
+        "Monitor Grande"
     ],
     [
         "HugeTerminal",
-        ""
+        "Monitor de Itu"
     ],
     [
         "FlatTerminal",
-        ""
+        "Monitor Fino"
     ],
     [
         "BigFlatTerminal",
-        ""
+        "Monitor Fino Grande"
     ],
     [
         "HugeFlatTerminal",
-        ""
+        "Monitor de Itu Fino"
     ],
     [
         "Computer",
-        ""
+        "Computador"
     ],
     [
         "QuantumComputer",
-        ""
+        "COmputador Quântico"
     ],
     [
         "IndustrialSeparator",
-        ""
+        "Centrifuga Industrial"
     ],
     [
         "Radiator",
-        ""
+        "Radiador"
     ],
     [
         "Diode",
-        ""
+        "Diodo"
     ],
     [
         "FissionReactor",
-        ""
+        "Reator de Fissão"
     ],
     [
         "FusionReactor",
-        ""
+        "Reator de Fusão"
     ],
     [
         "ResearchReactor",
-        ""
+        "Reator Pesquisa"
     ],
     [
         "SolarPanel",
-        ""
+        "Painel Solar Voltaico"
     ],
     [
         "Pumpjack",
-        ""
+        "Perfuratriz de Fluidos"
     ],
     [
         "IndustrialSmelter",
-        ""
+        "Forja Industrial"
     ],
     [
         "InductionCoil",
-        ""
+        "Bobina de Indução"
     ],
     [
         "CreativeController",
