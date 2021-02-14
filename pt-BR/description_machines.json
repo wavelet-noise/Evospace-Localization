@@ -1,351 +1,351 @@
 [
     [
         "Macerator",
-        "Triturador"
+        "Tritura Minérios/Partes em Pós"
     ],
     [
         "CuttingMachine",
-        "Serra Circular"
+        "Corta Placas em partes\nEntalha Rochas"
     ],
     [
         "Fermenter",
-        "Fermentador"
+        "Fermenta Massas Orgânicas"
     ],
     [
         "ChemReactor",
-        "Reator Químico"
+        "Usa Reações químicas pra transformar/gerar novos compostos"
     ],
     [
         "Separator",
-        "Centrifuga"
+        "Extrai materiais Raros de pós\nPerde o original"
     ],
     [
         "Beam",
-        "Viga"
+        "Cosmético\nRustico!"
     ],
     [
         "Corner",
-        "Cantoneira"
+        "Cosmético\nNão da pra usar como escada!"
     ],
     [
         "AutomaticHammer",
-        "Martelo Hidráulico"
+        "Quebrar minérios\nProduz placas"
     ],
     [
         "Boiler",
-        "Caldeira"
+        "Coração da geração de Vapor"
     ],
     [
         "Pipe",
-        "Cano"
+        "Fluidos e gases são transportados aqui"
     ],
     [
         "HeatPipe",
-        "Cano de Calor"
+        "Calor é dirigido para onde precisa\nHa perda de Calor!"
     ],
     [
         "Flywheel",
-        "Rosca sem Fim [nome provisório]"
+        "Armazena e transmite Energia Mecânica\nmuito útil"
     ],
     [
         "Scaffold",
-        "Andaime Decorativo"
+        "Decorativo"
     ],
     [
         "Sign",
-        "Placa"
+        "Informativo"
     ],
     [
         "AdvancedSign",
-        "Placa Avançada"
+        "Informativo\nMelhor"
     ],
     [
         "Connector",
-        "Fio Eletrico"
+        "Transmite Eletricidade\n110 ou 220?"
     ],
     [
         "Chest",
-        "Baú"
+        "Armazena itens diversos\nNão é um mimico!"
     ],
     [
         "ItemRack",
-        "Estante"
+        "Armazenas quantias elevadas de um item \nSegure meus itens"
     ],
     [
         "Vent",
-        "Ventilação"
+        "Abre/Fecha o fluxo de Fluidos/Gases\nUm registro basicamente"
     ],
     [
         "ElectricalSwitch",
-        "Interruptor"
+        "desliga e liga a transmissão de Eletricidade\nSe ligou Apague!"
     ],
     [
         "OreWasher",
-        "Lavadora de Minérios"
+        "Lava Minérios para uma chance de obter recursos raros"
     ],
     [
         "Conveyor",
-        "Esteira"
+        "Transporta Itens\nleva itens para longe"
     ],
     [
         "Splitter",
-        "Bifurcador"
+        "Divide um linha em varias direções\nquando se quer dividir e enviar para locais diferentes"
     ],
     [
         "Sorter",
-        "Seletor"
+        "Remove/aceita um item escolhido\nEu escolho você!"
     ],
     [
         "Container",
-        "Reservatório"
+        "Represa Fluidos/Gases\nCaixa de água?Camara de Gás?"
     ],
     [
         "Press",
-        "Prensa"
+        "Comprime Materiais\nSó na Pressão!"
     ],
     [
         "StirlingEngine",
-        "Motor à Calor"
+        "Transforma Calor em Energia Mecânica"
     ],
     [
         "CombustionEngine",
-        "Motor à Combustão"
+        "Queima combustível pra gerar Energia mecânica"
     ],
     [
         "PyrolysisUnit",
-        "Refinaria"
+        "Refina Óleos/gases em outros produtos"
     ],
     [
         "Generator",
-        "Gerador"
+        "Transforma Energia Mecânica em Eletricidade\nA União faz a Força!!!"
     ],
     [
         "CompactGenerator",
-        "Gerador COmpacto"
+        "Transforma Energia Mecânica em Eletricidade\nSerá que um Hamster ..."
     ],
     [
         "ElectricEngine",
-        "Motor Elétrico"
+        "Eletricidade em Energia Mecânica\nPratico!"
     ],
     [
         "RobotArm",
-        "Braço Robótico"
+        "Pega item de A e leva para B\nPode fazer curvas"
     ],
     [
         "FilteringRobotArm",
-        "Braço Robótico com Seletor"
+        "Pega item S de A e leva para B\nPode fazer curvas"
     ],
     [
         "Pump",
-        "Bomba Hidráulica"
+        "Extrai/injeta Fluidos/Gases de Maquinário\nPode coletar água do mundo!!!"
     ],
     [
         "FilteringPump",
-        "Bomba Hidráulica com Seletor"
+        "Extrai/injeta Fluidos/Gases S de Maquinário"
     ],
     [
         "Smelter",
-        "Forja"
+        "Fundi Materiais Básicos\nCobre, Ferro, Areia"
     ],
     [
         "SteamTurbine",
-        "Turbina à Vapor"
+        "Transforma Vapor em Energia Mecânica"
     ],
     [
         "GasTurbine",
-        "Turbina à Gás"
+        "Transforma Gases em Energia Mecânica"
     ],
     [
         "ArcSmelter",
-        "Forja de Indução"
+        "Fundi materiais usando eletricidade\nNão faz café!"
     ],
     [
         "ChemicalBath",
-        "Banho Químico"
+        "Banha materiais em agentes químicos \nGera/modifica materiais"
     ],
     [
         "Sifter",
-        "Peneiradora"
+        "Peneira Gemas/pepitas de cascalho"
     ],
     [
         "FilteringUnit",
-        "Unidade de Filtragem"
+        "Filtragem Plus"
     ],
     [
         "Furnace",
-        "Fornalha"
+        "Queima materiais para gerar Calor\nVai ter churrasco?"
     ],
     [
         "Oven",
-        "Forno"
+        "Cozinha madeira em carvão\ncarvão em Coque\nArgila em Tijolos"
     ],
     [
         "BlastFurnace",
-        "Fundição"
+        "Produz Aço\nAntiguado mais consistente"
     ],
     [
         "FluidFurnace",
-        "Fornalha à Líquidos"
+        "Queima líquidos para gerar Calor"
     ],
     [
         "ElectricFurnace",
-        "Fornalha Elétrica"
+        "Usa Eletricidade para gerar Calor"
     ],
     [
         "BatteryBox",
-        "Caixa de Baterias"
+        "Armazena Eletricidade\nAgora sim!"
     ],
     [
         "SmallBattery",
-        "Caixa de Baterias Compacta"
+        "Armazena Eletricidade\nPraticamente uma Pilha!"
     ],
     [
         "DrillingRig",
-        "Perfuratriz"
+        "Extrai Recursos da Terra\nSem Danificar o meio ambiente\nNão é incrível!"
     ],
     [
         "Assembler",
-        "Montadora"
+        "Monta projetos simples"
     ],
     [
         "Constructor",
-        "Construtora"
+        "Monta projetos complexos"
     ],
     [
         "Deconstructor",
-        "Desmontadora"
+        "Reciclagem de projetos obsoletos/excesso"
     ],
     [
         "FluidDump",
-        "Fossa Liquida"
+        "Se livra de líquidos sem poluir"
     ],
     [
         "GasDump",
-        "Queimadora de Gases"
+        "Queima Gases sem Poluir"
     ],
     [
         "SolidDump",
-        "Moedor de Sólidos"
+        "Destrói Sólidos sem Poluir"
     ],
     [
         "Lamp",
-        "Lampada"
+        "Ilumina uma área baseada no material\nQue haja Luz!!!!"
     ],
     [
         "AdminElectricGenerator",
-        "Gerador Elétrico da NASA"
+        "Eletricidade sem fim"
     ],
     [
         "AdminItemGenerator",
-        "Estoque da NASA"
+        "Item sem Fim"
     ],
     [
         "AdminKineticGenerator",
-        "Motor Mecânico da NASA"
+        "Energia Mecânica sem Fim"
     ],
     [
         "AdminHeatGenerator",
-        "Gerador de Calor da NASA"
+        "Calor ilimitado\nSol portátil"
     ],
     [
         "AdminFluidGenerator",
-        "Caixa de Líquidos da NASA"
+        "Fluidos/Gases sem Fim"
     ],
     [
         "AdminExterminator",
-        "Lixeira Suprema Tabajara"
+        "Destroi tudo injetado sem poluir\nVai Planeta!"
     ],
     [
         "Electrolyzer",
-        "Eletrolisador"
+        "Usa eletricidade para transformar materiais em outros"
     ],
     [
         "Mixer",
-        "Misturador"
+        "Mistura matérias em compostos mais complexos \nNão faça bolo aqui!"
     ],
     [
         "Freezer",
-        "Resfriador"
+        "Resfria Ligas e outros materiais\nO Inverno chegou!"
     ],
     [
         "AutomaticFarm",
-        "Cultivador Automático"
+        "Madeira e Aboboras"
     ],
     [
         "AtmosphericCondenser",
-        "Condensador Atmosférico"
+        "Condensa Gases da atmosfera\nPode Gerar Agua em locais sem fontes naturais"
     ],
     [
         "Terminal",
-        "Monitor"
+        "Mostra coisas\nTamanho normal"
     ],
     [
         "BigTerminal",
-        "Monitor Grande"
+        "Mostra coisas\nTamanho para míope"
     ],
     [
         "HugeTerminal",
-        "Monitor de Itu"
+        "Mostra coisas\nCerteza que não é um Outdoor?!"
     ],
     [
         "FlatTerminal",
-        "Monitor Fino"
+        "Mostra coisas\nSlim, caro mais Pratico"
     ],
     [
         "BigFlatTerminal",
-        "Monitor Fino Grande"
+        "Mostra coisas\nSerio? pra que tanto!?"
     ],
     [
         "HugeFlatTerminal",
-        "Monitor de Itu Fino"
+        "Mostra coisas\nJa é ostentação!!!"
     ],
     [
         "Computer",
-        "Computador"
+        "Usa Eletricidade para gerar Computações\nObjeto Básico para qualquer pessoa Hoje em dia."
     ],
     [
         "QuantumComputer",
-        "COmputador Quântico"
+        "O futuro chegou Velhote!"
     ],
     [
         "IndustrialSeparator",
-        "Centrifuga Industrial"
+        "Separa material Raro dos Pós\nSem perda\nMenos ganho no Raro"
     ],
     [
         "Radiator",
-        "Radiador"
+        "Consome Calor sem Fim\nMenos do Planeta"
     ],
     [
         "Diode",
-        "Diodo"
+        "Limita eletricidade e direção"
     ],
     [
         "FissionReactor",
-        "Reator de Fissão"
+        "Usa Uranium para gerar quantias Absurdas de Calor\nÉ seguro , eu juro!!!"
     ],
     [
         "FusionReactor",
-        "Reator de Fusão"
+        "Usa Uranium para gerar quantias Absurdas de Calor\nAinda é seguro ... eu acho..."
     ],
     [
         "ResearchReactor",
-        "Reator Pesquisa"
+        ""
     ],
     [
         "SolarPanel",
-        "Painel Solar Voltaico"
+        "Coleta Eletricidade do Sol!!"
     ],
     [
         "Pumpjack",
-        "Perfuratriz de Fluidos"
+        "Coleta Fluidos de veias subterrâneas"
     ],
     [
         "IndustrialSmelter",
-        "Forja Industrial"
+        "Fundidora de Ligas Complexas"
     ],
     [
         "InductionCoil",
-        "Bobina de Indução"
+        "Gera muito Calor para Fundir Ligas"
     ],
     [
         "CreativeController",
