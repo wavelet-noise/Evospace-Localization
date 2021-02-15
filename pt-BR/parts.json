@@ -1,4 +1,36 @@
-﻿[
+[
+    [
+        "Stone",
+        "Rocha"
+    ],
+    [
+        "Copper",
+        "Cobre"
+    ],
+    [
+        "Steel",
+        "Aço"
+    ],
+    [
+        "Aluminium",
+        "Aluminium"
+    ],
+    [
+        "StainlessSteel",
+        "Aço Inox"
+    ],
+    [
+        "Titanium",
+        "Titânio"
+    ],
+    [
+        "HardMetal",
+        "Liga de Aço Durável"
+    ],
+    [
+        "Neutronium",
+        "Neutronium"
+    ],
     [
         "CopperPlate",
         "Placa de Cobre"
@@ -8,20 +40,24 @@
         "Placa de Aço"
     ],
     [
+        "AluminiumPlate",
+        "Placa de Aluminium"
+    ],
+    [
         "StainlessSteelPlate",
         "Placa de Aço Inox"
     ],
     [
         "TitaniumPlate",
-        "Placa de Titanium"
+        "Placa de Titânio"
     ],
     [
         "HardMetalPlate",
-        "Placa de Liga de Tungstenio"
+        "Placa de Liga de Aço Durável"
     ],
     [
         "NeutroniumPlate",
-        "Placa de Neutronium"
+        "Neutronium Plate"
     ],
     [
         "CopperParts",
@@ -32,68 +68,60 @@
         "Peças de Aço"
     ],
     [
+        "AluminiumParts",
+        "Peças de Aluminium"
+    ],
+    [
         "StainlessSteelParts",
-        "Peças de Aço Inox"
+        "Peça de Aço Inox"
     ],
     [
         "TitaniumParts",
-        "Peças de Titanium"
+        "Peças de Titânio"
     ],
     [
         "HardMetalParts",
-        "Peças de Liga de Tungstenio"
+        "Peças de Liga de Aço Durável"
     ],
     [
         "NeutroniumParts",
-        "Peças de Neutronium"
+        "Neutronium Parts"
     ],
     [
         "CopperCasing",
-        "Estrutura de Cobre"
+        "Involucro de Cobre"
     ],
     [
         "SteelCasing",
-        "Estrutura de Aço"
+        "Involucro de Aço"
+    ],
+    [
+        "AluminiumCasing",
+        "Involucro de Aluminium"
     ],
     [
         "StainlessSteelCasing",
-        "Estrutura de Aço Inox"
+        "Involucro de Aço Inox"
     ],
     [
         "TitaniumCasing",
-        "Estrutura de Titanium"
+        "Involucro de Titânio"
     ],
     [
         "HardMetalCasing",
-        "Estrutura de Liga de Tungstenio"
+        "Involucro de Liga de Aço Durável"
     ],
     [
         "NeutroniumCasing",
-        "Estrutura de Neutronium"
+        "Neutronium Casing"
     ],
     [
-        "BasicComputations",
-        "Calculos Simples"
+        "Hand",
+        "Mão"
     ],
     [
-        "AdvancedComputations",
-        "Calculos Avançados"
-    ],
-    [
-        "ComplexComputations",
-        "Calculos Complexos"
-    ],
-    [
-        "DeepComputations",
-        "Calculos Astronomicos"
-    ],
-    [
-        "QuantumComputations",
-        "Calculos Quanticos"
-    ],
-    [
-        "UltimateComputations",
-        "Calculos da NASA"
+        "Computations",
+        "Computações"
     ],
     [
         "Heat",
@@ -105,7 +133,7 @@
     ],
     [
         "Kinetic",
-        "Mecanico(Corda)"
+        "Energia Mecânica"
     ],
     [
         "CopperIngot",
@@ -113,7 +141,7 @@
     ],
     [
         "CopperDust",
-        "Cobre Em Pó"
+        "Pó de Cobre"
     ],
     [
         "GoldIngot",
@@ -121,23 +149,27 @@
     ],
     [
         "GoldDust",
-        "Ouro em Pó"
+        "Pó de Ouro"
+    ],
+    [
+        "IronIngot",
+        "Barra de Ferro"
     ],
     [
         "IronDust",
-        "Ferro em Pó"
+        "Pó de Ferro"
     ],
     [
         "CircuitBoard",
-        "CHIP"
+        "Placa de Circuito"
     ],
     [
         "AdvancedCircuitBoard",
-        "CHIP 2.0"
+        "Placa de Circuito Complexo"
     ],
     [
         "Plastic",
-        "Plastico"
+        "Plástico"
     ],
     [
         "SteelIngot",
@@ -145,15 +177,19 @@
     ],
     [
         "SteelDust",
-        "Aço em Pó"
+        "Pó de Aço"
+    ],
+    [
+        "AluminiumIngot",
+        "Barra de Aluminium"
     ],
     [
         "AluminiumDust",
-        "Aluminio em Pó"
+        "Pó de Aluminium"
     ],
     [
         "AluminiumOxideDust",
-        "Po de Oxido de Aluminio"
+        "Pó Óxido de Aluminium"
     ],
     [
         "StainlessSteelIngot",
@@ -161,67 +197,91 @@
     ],
     [
         "StainlessSteelDust",
-        "Aço Inox em Po"
+        "Pó de Aço Inox"
     ],
     [
         "TitaniumIngot",
-        "Barra de Titanium"
+        "Barra de Titânio"
     ],
     [
         "TitaniumDust",
-        "Titanium em Pó"
+        "Pó de Titânio"
+    ],
+    [
+        "TitaniumTetrachloride",
+        "Titânio Tetrachloride"
+    ],
+    [
+        "TitaniumSponge",
+        "Titânio Esponjoso"
     ],
     [
         "TitaniumOxideDust",
-        "Pó de Oxido de Titanium"
+        "Pó Óxido de Titânio"
     ],
     [
         "PreparedTitaniumOxideDust",
-        "Composto de Oxido de Titanium"
+        "Pó Óxido Composto de Titânio"
+    ],
+    [
+        "ZinkDust",
+        "Pó de Zinco"
+    ],
+    [
+        "LithiumDust",
+        "Pó de Lítio"
     ],
     [
         "TungstenDust",
-        "Tungstenio em Pó"
+        "Pó de Tungstênio"
     ],
     [
         "TungstenOxideDust",
-        "Pó de Oxido de Tungstenio"
+        "Pó Óxido de Tungstênio"
     ],
     [
         "TungstenCarbideDust",
-        "Carboneto de Tungstenio em Pó"
+        "Pó Carbonato de Tungstênio"
     ],
     [
         "HardMetalIngot",
-        "Barra de Liga de Tungstenio"
+        "Barra de Liga de Aço Durável"
     ],
     [
         "HardMetalDust",
-        "Liga de Tungstenio em Pó"
+        "Pó de Liga de Aço Durável"
+    ],
+    [
+        "HotHardMetalIngot",
+        "Barra Quente de Liga de Aço Durável"
+    ],
+    [
+        "HotNeutroniumIngot",
+        "Hot Neutronium Ingot"
     ],
     [
         "CobaltDust",
-        "Cobalto em Pó"
+        "Pó de Cobalto"
     ],
     [
         "CobaltOxideDust",
-        "Pó de Oxido de Cobalto"
+        "Pó Óxido de Cobalto"
     ],
     [
         "CementDust",
-        "Pó de Cimento"
+        "Pó de Concreto"
     ],
     [
         "NeutroniumIngot",
-        "Barra de Neutronium"
+        "Neutronium Ingot"
     ],
     [
         "NeutroniumDust",
-        "Neutronium em Pó"
+        "Neutronium Dust"
     ],
     [
-        "ChromeDust",
-        "Cromio em Pó"
+        "ChromiumDust",
+        "Pó de Chromium"
     ],
     [
         "PlutoniumDust",
@@ -229,31 +289,51 @@
     ],
     [
         "UraniumDust",
-        "Uranium em Pó"
+        "Uranium-238 em Pó"
     ],
     [
         "Uranium235Dust",
-        "Uranium235 em Pó"
+        "Uranium-235 em Pó"
     ],
     [
-        "UraniumFuelCell",
-        "Celula de Combustivel de Uranium"
+        "Uranium233Dust",
+        "Uranium-233 em Pó"
     ],
     [
-        "DepletedUraniumFuelCell",
-        "Celula Gasta de Combustivel de Uranium"
+        "Uranium233Cell",
+        "Célula de Uranium 233"
+    ],
+    [
+        "UraniumCell",
+        "Célula de Uranium"
+    ],
+    [
+        "PlutoniumCell",
+        "Célula de Plutonium"
+    ],
+    [
+        "DepletedUraniumCell",
+        "Célula Gasta de Uranium"
     ],
     [
         "ThoriumDust",
-        "Thorium em Pó"
+        "Pó de Thorium"
     ],
     [
         "SodiumDust",
-        "Sodio em Pó"
+        "Pó de Sódio"
+    ],
+    [
+        "PotassiumDust",
+        "Pó de Potássio"
     ],
     [
         "Sulfur",
         "Enxofre"
+    ],
+    [
+        "Steam",
+        "Vapor"
     ],
     [
         "Chlorine",
@@ -272,20 +352,24 @@
         "Coque"
     ],
     [
+        "Creosote",
+        "Creosoto"
+    ],
+    [
         "ProducerGas",
-        "Produtor de Gas"
+        "Gás Sintético"
+    ],
+    [
+        "CarbonMonoxide",
+        "Monóxido de Carbono"
     ],
     [
         "AshDust",
         "Cinzas"
     ],
     [
-        "Steam",
-        "Vapor"
-    ],
-    [
         "Hydrogen",
-        "Hydrogenio"
+        "Hidrogênio"
     ],
     [
         "Methane",
@@ -293,11 +377,11 @@
     ],
     [
         "Ethylene",
-        "Ethyleno"
+        "Etileno"
     ],
     [
         "Water",
-        "Agua"
+        "Água"
     ],
     [
         "Glass",
@@ -309,7 +393,7 @@
     ],
     [
         "Organics",
-        "Restos"
+        "Material Orgânico"
     ],
     [
         "Biomass",
@@ -321,7 +405,7 @@
     ],
     [
         "OreWater",
-        "Dejeto"
+        "Dejeto de Lavagem"
     ],
     [
         "RareEarthElement",
@@ -329,35 +413,35 @@
     ],
     [
         "Log",
-        "Torra"
+        "Tronco"
     ],
     [
         "StoneLog",
-        "Torra Maciça"
+        "Tronco Maciço"
     ],
     [
         "Plank",
-        "Tabua"
+        "Tábua"
     ],
     [
         "Silicon",
-        "Silicio"
+        "Silicone"
     ],
     [
         "SiliconWafer",
-        "Wafer de Silicio"
+        "Camada de Silicone"
     ],
     [
         "SulfuricAcid",
-        "Acido Sulfurico"
+        "Ácido Sulfúrico"
     ],
     [
         "RawOil",
-        "Oleo Cru"
+        "Petróleo Crú"
     ],
     [
         "MineralWater",
-        "Agua Mineral"
+        "Água Mineral"
     ],
     [
         "Gasoline",
@@ -365,7 +449,7 @@
     ],
     [
         "HeavyOil",
-        "Oleo Denso"
+        "Petróleo Denso"
     ],
     [
         "Battery",
@@ -373,7 +457,7 @@
     ],
     [
         "SiliconOxide",
-        "Oxido de Silicio"
+        "Óxido de Silicone"
     ],
     [
         "Pumpkin",
@@ -381,23 +465,23 @@
     ],
     [
         "Oxygen",
-        "Oxigenio"
+        "Oxigênio"
     ],
     [
         "Nitrogen",
-        "Nitrogenio"
+        "Nitrogênio"
     ],
     [
-        "ChromeOxideDust",
-        "Oxido de Cromio em Pó"
+        "ChromiumOxideDust",
+        "Pó de Óxido de Chromium"
     ],
     [
-        "AluminothermicChromeDust",
-        "Cromo AluminoTermico em Pó"
+        "PotassiumChlorideDust",
+        "Potassium Chloride em Pó"
     ],
     [
         "BerylliumDust",
-        "Berilio em Pó"
+        "Beryllium em Pó"
     ],
     [
         "YttriumDust",
@@ -405,15 +489,15 @@
     ],
     [
         "Helium",
-        "Helio"
+        "Hélio"
     ],
     [
         "SaltDust",
-        "Sal em Po"
+        "Sal"
     ],
     [
         "PortalBase",
-        "Fundação do Portal"
+        "Portal Base"
     ],
     [
         "Signal",
@@ -426,14 +510,14 @@
     [
         "GoldWire",
         "Fio de Ouro"
-    ],
+    ],F
     [
         "Circuit",
         "Circuito"
     ],
     [
         "AdvancedCircuit",
-        "Circuito Avancado"
+        "Circuito Complexo"
     ],
     [
         "Processor",
@@ -441,31 +525,95 @@
     ],
     [
         "QuantumCircuit",
-        "Circuito Quantico"
+        "Circuito Quântico"
     ],
     [
         "QuantumProcessor",
-        "Processador Quantico"
+        "Processador Quântico"
     ],
     [
         "QuantumCore",
-        "Nucleo Quantico"
+        "Núcleo Quântico"
     ],
     [
         "SingularityCore",
-        "Nucleo de Singularidade"
+        "Núcleo da Singularidade"
     ],
     [
         "QuantumBrain",
-        "Cerebro Quantico"
+        "Cérebro Quântico"
     ],
     [
         "Cell",
-        "Celula"
+        "Célula"
     ],
     [
         "Catalyst",
-        "Catalizador"
+        "Célula com Catalisador"
+    ],
+    [
+        "ControlCell",
+        "Célula de Controle"
+    ],
+    [
+        "ReflectorCell",
+        "Célula com Refletor"
+    ],
+    [
+        "ThoriumCell",
+        "Célula de Thorium"
+    ],
+    [
+        "MixedOxideCell",
+        "Célula de Compostos Óxidos"
+    ],
+    [
+        "RutileCrystal",
+        "Cristal de Rutile"
+    ],
+    [
+        "FlawlessRuby",
+        "Rubi Perfeito"
+    ],
+    [
+        "UraniniteCrystal",
+        "Cristal de Uraninite"
+    ],
+    [
+        "UraniniteCluster",
+        "Peça de Uraninite"
+    ],
+    [
+        "CinnabarDust",
+        "Cinábrio em Pó"
+    ],
+    [
+        "CinnabarCrystal",
+        "Cristal de Cinábrio"
+    ],
+    [
+        "CinnabarCluster",
+        "Peça de Cinábrio"
+    ],
+    [
+        "MalachiteDust",
+        "Pó de Malaquita"
+    ],
+    [
+        "MalachiteCrystal",
+        "Cristal de Malaquita"
+    ],
+    [
+        "MalachiteCluster",
+        "Peça de Malaquita"
+    ],
+    [
+        "Mercury",
+        "Mércurio"
+    ],
+    [
+        "FilteringCell",
+        "Célula de Filtragem"
     ],
     [
         "A",
@@ -573,11 +721,11 @@
     ],
     [
         "ErrorString",
-        "Error String"
+        "Falha"
     ],
     [
         "Multitool",
-        "Multitool"
+        "Ferramenta Multi-Uso"
     ],
     [
         "Screwdriver",
