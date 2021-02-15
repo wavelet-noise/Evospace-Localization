@@ -5,7 +5,7 @@
     ],
     [
         "CuttingMachine",
-        "Corta Placas em Peças\nEntalha Rochas"
+        "Corta Placas em Peças\nEntalha Rochas\nCorta Entalha Madeira"
     ],
     [
         "Fermenter",
@@ -77,7 +77,7 @@
     ],
     [
         "ElectricalSwitch",
-        "desliga e liga a transmissão de Eletricidade\nSe ligou Apague!"
+        "Desliga e liga a transmissão de Eletricidade\nSe ligou Apague!"
     ],
     [
         "OreWasher",
@@ -85,7 +85,7 @@
     ],
     [
         "Conveyor",
-        "Transporta Itens\nleva itens para longe"
+        "Transporta Itens\nLeva itens para longe"
     ],
     [
         "Splitter",
@@ -125,7 +125,7 @@
     ],
     [
         "ElectricEngine",
-        "Eletricidade em Energia Mecânica\nPratico!"
+        "Transforma Eletricidade em Energia Mecânica\nPratico!"
     ],
     [
         "RobotArm",
@@ -185,7 +185,7 @@
     ],
     [
         "FluidFurnace",
-        "Queima líquidos para gerar Calor"
+        "Queima Fluidos/Gases para gerar Calor"
     ],
     [
         "ElectricFurnace",
