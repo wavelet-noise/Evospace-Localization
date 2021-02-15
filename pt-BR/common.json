@@ -1,254 +1,202 @@
 [
     [
-        "I",
-        "I"
+        "InventoryUpgrade",
+        "Expansão de Inventario"
     ],
     [
-        "II",
-        "II"
+        "PlutoniumReaction",
+        "Reações de Plutonium"
     ],
     [
-        "III",
-        "III"
+        "ThoriumReaction",
+        "Reações de Thorium"
     ],
     [
-        "IV",
-        "IV"
+        "UraniumReactionBoosting",
+        "Melhoria na Reação de Uranium"
     ],
     [
-        "V",
-        "V"
+        "UraniumReactionThrottling",
+        "Controle na Reação de Uranium"
     ],
     [
-        "VI",
-        "VI"
+        "Drying",
+        "Desidratação"
     ],
     [
-        "VII",
-        "VII"
+        "PowerGeneration",
+        "Geração de Eletricidade"
     ],
     [
-        "VIII",
-        "VIII"
+        "Automatization",
+        "Automatização"
     ],
     [
-        "IX",
-        "IX"
+        "AdditionalStorage",
+        "Armazenagem de Sólidos"
     ],
     [
-        "X",
-        "X"
+        "HeatTransferring",
+        "Conduzir Calor"
     ],
     [
-        "Organics",
-        "Massa Orgânica"
+        "BasicMachines",
+        "Maquinário Básico"
     ],
     [
-        "BuildingBlock",
-        "Bloco Solido"
+        "Container",
+        "Armazenagem de não Sólidos"
     ],
     [
-        "NuclearFuel",
-        "Combustível para o Reator de Fissão"
+        "FluidDumping",
+        "Fossa de Dejetos"
     ],
     [
-        "Fluid",
-        "Fluidos"
+        "Pyrolysis",
+        "Refinamento de Óleos"
     ],
     [
-        "Gas",
-        "Gás"
+        "SingleTypeStorage",
+        "Armazenagem de Sólidos Individual"
     ],
     [
-        "ByPipes",
-        "Pode ser transportados por canos\nPodem ser extraídos/injetados em maquinas por Bombas Hidráulicas"
+        "DistributedComputing",
+        "Rede de Computação"
     ],
     [
-        "WorldObject",
-        "Impossível Criar\nSurge no Mundo"
+        "Electrolysis",
+        "Electrolysis"
     ],
     [
-        "Circuit",
-        "Parte de mecanismos complexos\nUsado em Computadores para pesquisa"
+        "Sign",
+        "Sinalização"
     ],
     [
-        "ItemInput",
-        "<img id=\"ItemInput\"></>Tem entrada para itens"
+        "Cutting",
+        "Cortes e Entalhes"
     ],
     [
-        "ItemOutput",
-        "<img id=\"ItemOutput\"></>Tem saída de itens"
+        "SteelProduction",
+        "Produção de Aço"
     ],
     [
-        "FluidInput",
-        "<img id=\"FluidInput\"></>Tem entrada para fluidos"
+        "AutomaticMining",
+        "Extração Automática"
     ],
     [
-        "FluidOutput",
-        "<img id=\"FluidOutput\"></>Tem saída de fluidos"
+        "FluidFurnace",
+        "Fornalha á Fluidos"
     ],
     [
-        "FluidConductor",
-        "Conduz Fluidos"
+        "MetalConstructions",
+        "Construções a base de Metais"
     ],
     [
-        "FluidStorage",
-        "Armazena Fluidos"
+        "Scaffold",
+        "Andaimes"
     ],
     [
-        "KineticInput",
-        "<img id=\"Kinetic\"></>Consome energia mecânica<img id=\"Kinetic2\"></>"
+        "Lamp",
+        "Iluminação"
     ],
     [
-        "KineticOutput",
-        "<img id=\"Kinetic\"></>Produz energia mecânica<img id=\"Kinetic2\"></>"
+        "Chemistry",
+        "Reações Químicas"
     ],
     [
-        "KineticConductor",
-        "<img id=\"Kinetic\"></>Conduz energia mecânica<img id=\"Kinetic2\"></>"
+        "MassivePowerGeneration",
+        "Produçaõ Massiva de Eletricidade"
     ],
     [
-        "KineticStorage",
-        "Armazena energia mecânica<img id=\"Kinetic2\"></>"
+        "AdvancedSmelting",
+        "Fundição Avançada"
     ],
     [
-        "HeatInput",
-        "<img id=\"Heat\"></>Consumes Calor<img id=\"Heat2\"></>"
+        "IndustrialSmelting",
+        "Fundição Industrial"
     ],
     [
-        "HeatOutput",
-        "<img id=\"Heat\"></>Produz Calor<img id=\"Heat2\"></>"
+        "Fermentation",
+        "Fermentação"
     ],
     [
-        "HeatConductor",
-        "<img id=\"Heat\"></>Conduz Calor<img id=\"Heat2\"></>"
+        "AdvancedSeparation",
+        "Peneiragem Avançada"
     ],
     [
-        "HeatStorage",
-        "Armazena Calor<img id=\"Heat2\"></>"
+        "NeutroniumProduction",
+        "Neutronium Production"
     ],
     [
-        "ElectricInput",
-        "<img id=\"Electricity\"></>Consome Eletricidade<img id=\"Electricity2\"></>"
+        "AluminiumProduction",
+        "Produção de Aluminium"
     ],
     [
-        "ElectricOutput",
-        "<img id=\"Electricity\"></>Produz Eletricidade<img id=\"Electricity2\"></>"
+        "StainlessSteelProduction",
+        "Produção de Aço Inox"
     ],
     [
-        "ElectricConductor",
-        "<img id=\"Electricity\"></>Conduz Eletricidade<img id=\"Electricity2\"></>"
+        "TitaniumProduction",
+        "Produção de Titânio"
     ],
     [
-        "ElectricStorage",
-        "Armazena Eletricidade<img id=\"Electricity2\"></>"
+        "HardMetalProduction",
+        "Produção de Liga de Aço Durável"
     ],
     [
-        "Stone",
-        "Rocha"
+        "PlantsScan",
+        "Conhecimento de Vegetação"
     ],
     [
-        "Copper",
-        "Cobre"
+        "InitialScan",
+        "Conhecimento Primordial"
     ],
     [
-        "Steel",
-        "Aço"
+        "MineralsScan",
+        "Conhecimento de Minérios"
     ],
     [
-        "Aluminium",
-        "Aluminium"
+        "Electricity",
+        "Eletricidade"
     ],
     [
-        "StainlessSteel",
-        "Aço Inox"
+        "Smelting",
+        "Fundição"
     ],
     [
-        "Titanium",
-        "Titânio"
+        "Metalwork",
+        "Metalurgia"
     ],
     [
-        "HardMetal",
-        "Liga de Aço Durável"
+        "Steelwork",
+        "Trabalho em Aço"
     ],
     [
-        "Neutronium",
-        "Neutronium"
+        "Filtering",
+        "Filtragem"
     ],
     [
-        "ips",
-        "Items per second: %s"
+        "DecorativeWood",
+        "Decoração em Madeira"
     ],
     [
-        "dps",
-        "Degrees per second: %s"
+        "DecorativePlastic",
+        "Decoração em Plástico"
     ],
     [
-        "power_limit",
-        "Limite de Força: %sW"
+        "DecorativeStone",
+        "Decoração em Rocha"
     ],
     [
-        "power_output",
-        "Saída de Força: %sW"
+        "DecorativeConcrete",
+        "Decoração em Concreto"
     ],
     [
-        "power_input",
-        "Consumo de Força: %sW"
+        "DecorationClay",
+        "Decoração em Argila"
     ],
     [
-        "container",
-        "Capacidade: %s L"
-    ],
-    [
-        "battery",
-        "Capacidade: %s J"
-    ],
-    [
-        "chest",
-        "Capacidade: %s Conjuntos"
-    ],
-    [
-        "burnable",
-        "Inflamável<img id=\"Heat2\"></>\nTotal em Calor: %sJ"
-    ],
-    [
-        "speedbonus",
-        "Velocidade: x%s"
-    ],
-    [
-        "electric_drain",
-        "Consumo passivo: %sW"
-    ],
-    [
-        "heat_drain",
-        "Consumo passivo: %sW"
-    ],
-    [
-        "kinetic_drain",
-        "Consumo passivo: %sW"
-    ],
-    [
-        "computations",
-        "Computações por segundo: %s"
-    ],
-    [
-        "calculations",
-        "Produzido por computadores\nConstrua Computadores\nmantenha alimentado com eletricidade para gerar Computações"
-    ],
-    [
-        "WorldGeneratorRivers",
-        "Rios e Ilhas"
-    ],
-    [
-        "WorldGeneratorBiome",
-        "Rochedos"
-    ],
-    [
-        "FlatWorldGenerator",
-        "Mundo vazio"
-    ],
-    [
-        "WorldGeneratorPlains",
-        "Planícies Costeiras"
+        "ReinforcedConcrete",
+        "Decoração em Concreto Reforçado"
     ]
 ]
