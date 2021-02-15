@@ -81,7 +81,7 @@
     ],
     [
         "OreWasher",
-        "Lavadora de Minérios"
+        "Lavadora de Cascalho Bruto"
     ],
     [
         "Conveyor",
@@ -117,11 +117,11 @@
     ],
     [
         "Generator",
-        "Gerador"
+        "Gerador Elétrico"
     ],
     [
         "CompactGenerator",
-        "Gerador COmpacto"
+        "Gerador Elétrico Compacto"
     ],
     [
         "ElectricEngine",
