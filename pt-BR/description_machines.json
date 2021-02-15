@@ -1,11 +1,11 @@
 [
     [
         "Macerator",
-        "Tritura Minérios/Partes em Pós"
+        "Tritura Minérios/Peças em Pós"
     ],
     [
         "CuttingMachine",
-        "Corta Placas em partes\nEntalha Rochas"
+        "Corta Placas em Peças\nEntalha Rochas"
     ],
     [
         "Fermenter",
@@ -29,7 +29,7 @@
     ],
     [
         "AutomaticHammer",
-        "Quebrar minérios\nProduz placas"
+        "Quebra minérios\nProduz placas"
     ],
     [
         "Boiler",
@@ -37,7 +37,7 @@
     ],
     [
         "Pipe",
-        "Fluidos e gases são transportados aqui"
+        "Fluidos e gases são transportados aqui\nÉ Tigre?"
     ],
     [
         "HeatPipe",
@@ -45,7 +45,7 @@
     ],
     [
         "Flywheel",
-        "Armazena e transmite Energia Mecânica\nmuito útil"
+        "Armazena e transmite Energia Mecânica\nmuito útil use mais!"
     ],
     [
         "Scaffold",
@@ -57,7 +57,7 @@
     ],
     [
         "AdvancedSign",
-        "Informativo\nMelhor"
+        "Informativo\nMelhorado"
     ],
     [
         "Connector",
@@ -65,7 +65,7 @@
     ],
     [
         "Chest",
-        "Armazena itens diversos\nNão é um mimico!"
+        "Armazena itens diversos\nNão é um Mímico!"
     ],
     [
         "ItemRack",
@@ -73,7 +73,7 @@
     ],
     [
         "Vent",
-        "Abre/Fecha o fluxo de Fluidos/Gases\nUm registro basicamente"
+        "Abre/Fecha o fluxo de Fluidos/Gases\nUm registro basicamente\nFazia jogos no passado."
     ],
     [
         "ElectricalSwitch",
@@ -81,7 +81,7 @@
     ],
     [
         "OreWasher",
-        "Lava Minérios para uma chance de obter recursos raros"
+        "Lava Cascalho Bruto para obter recursos raros"
     ],
     [
         "Conveyor",
@@ -89,7 +89,7 @@
     ],
     [
         "Splitter",
-        "Divide um linha em varias direções\nquando se quer dividir e enviar para locais diferentes"
+        "Divide um linha em varias direções\nQuando se precisa em locais diferentes"
     ],
     [
         "Sorter",
@@ -97,23 +97,23 @@
     ],
     [
         "Container",
-        "Represa Fluidos/Gases\nCaixa de água?Camara de Gás?"
+        "Represa Fluidos/Gases\nCaixa de água?Camará de Gás?"
     ],
     [
         "Press",
-        "Comprime Materiais\nSó na Pressão!"
+        "Comprime Materiais\nSente a Pressão!"
     ],
     [
         "StirlingEngine",
-        "Transforma Calor em Energia Mecânica"
+        "Transforma Calor em Energia Mecânica\nParece Magia!"
     ],
     [
         "CombustionEngine",
-        "Queima combustível pra gerar Energia mecânica"
+        "Queima combustível pra gerar Energia Mecânica\nVrrrrrrrmm!"
     ],
     [
         "PyrolysisUnit",
-        "Refina Óleos/gases em outros produtos"
+        "Refina Óleos/Gases em outros produtos"
     ],
     [
         "Generator",
@@ -145,7 +145,7 @@
     ],
     [
         "Smelter",
-        "Fundi Materiais Básicos\nCobre, Ferro, Areia"
+        "Fundi Materiais Básicos\nCobre, Ferro, Areia e Ouro"
     ],
     [
         "SteamTurbine",
@@ -161,7 +161,7 @@
     ],
     [
         "ChemicalBath",
-        "Banha materiais em agentes químicos \nGera/modifica materiais"
+        "Banha materiais em agentes químicos \nGera/modifica materiais\nNão é um Coxo!!!"
     ],
     [
         "Sifter",
@@ -169,7 +169,7 @@
     ],
     [
         "FilteringUnit",
-        "Filtragem Plus"
+        "Pode Obter materiais de Dejetos da Lavagem\nConsome Célula de Filtragem!"
     ],
     [
         "Furnace",
@@ -177,7 +177,7 @@
     ],
     [
         "Oven",
-        "Cozinha madeira em carvão\ncarvão em Coque\nArgila em Tijolos"
+        "Cozinha madeira em carvão\nCarvão em Coque\nArgila em Tijolos\nProduz Creosoto que deve ser lidado"
     ],
     [
         "BlastFurnace",
@@ -217,15 +217,15 @@
     ],
     [
         "FluidDump",
-        "Se livra de líquidos sem poluir"
+        "Se livra de líquidos\nSem poluir!"
     ],
     [
         "GasDump",
-        "Queima Gases sem Poluir"
+        "Queima Gases\nSem Poluir!"
     ],
     [
         "SolidDump",
-        "Destrói Sólidos sem Poluir"
+        "Destrói Sólidos\nSem Poluir!"
     ],
     [
         "Lamp",
@@ -233,15 +233,15 @@
     ],
     [
         "AdminElectricGenerator",
-        "Eletricidade sem fim"
+        "Eletricidade sem fim\nRaio numa garrafa"
     ],
     [
         "AdminItemGenerator",
-        "Item sem Fim"
+        "Item sem Fim\nSintetisador Trek"
     ],
     [
         "AdminKineticGenerator",
-        "Energia Mecânica sem Fim"
+        "Energia Mecânica sem Fim\nMaquina Perpétua"
     ],
     [
         "AdminHeatGenerator",
@@ -249,11 +249,11 @@
     ],
     [
         "AdminFluidGenerator",
-        "Fluidos/Gases sem Fim"
+        "Fluidos/Gases sem Fim\nCiclo sem fim !"
     ],
     [
         "AdminExterminator",
-        "Destroi tudo injetado sem poluir\nVai Planeta!"
+        "Destrói tudo injetado sem poluir\nVai Planeta!"
     ],
     [
         "Electrolyzer",
@@ -273,7 +273,7 @@
     ],
     [
         "AtmosphericCondenser",
-        "Condensa Gases da atmosfera\nPode Gerar Agua em locais sem fontes naturais"
+        "Condensa Gases da atmosfera\nPode Gerar Água em locais sem fontes naturais"
     ],
     [
         "Terminal",
@@ -309,7 +309,7 @@
     ],
     [
         "IndustrialSeparator",
-        "Separa material Raro dos Pós\nSem perda\nMenos ganho no Raro"
+        "Separa material Raro dos Pós\nSem perda!\nMenos ganho no Raro"
     ],
     [
         "Radiator",
