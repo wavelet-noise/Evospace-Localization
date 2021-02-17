@@ -1,43 +1,43 @@
 [
     [
         "I",
-        "I"
+        "Protótipo"
     ],
     [
         "II",
-        "II"
+        "Improvisado"
     ],
     [
         "III",
-        "III"
+        "Genérico"
     ],
     [
         "IV",
-        "IV"
+        "Comercial"
     ],
     [
         "V",
-        "V"
+        "Industrial"
     ],
     [
         "VI",
-        "VI"
+        "Avançado"
     ],
     [
         "VII",
-        "VII"
+        "Hi-Tech"
     ],
     [
         "VIII",
-        "VIII"
+        "Delux"
     ],
     [
         "IX",
-        "IX"
+        "Premium"
     ],
     [
         "X",
-        "X"
+        "NASA"
     ],
     [
         "Organics",
@@ -97,19 +97,19 @@
     ],
     [
         "KineticInput",
-        "<img id=\"Kinetic\"></>Consome energia mecânica<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Consome Energia Mecânica<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticOutput",
-        "<img id=\"Kinetic\"></>Produz energia mecânica<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Produz Energia Mecânica<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticConductor",
-        "<img id=\"Kinetic\"></>Conduz energia mecânica<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Conduz Energia Mecânica<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticStorage",
-        "Armazena energia mecânica<img id=\"Kinetic2\"></>"
+        "Armazena Energia Mecânica<img id=\"Kinetic2\"></>"
     ],
     [
         "HeatInput",
@@ -145,31 +145,31 @@
     ],
     [
         "Stone",
-        "Rocha"
+        "Feito com Rocha"
     ],
     [
         "Copper",
-        "Cobre"
+        "Feito com Cobre"
     ],
     [
         "Steel",
-        "Aço"
+        "Feito com Aço"
     ],
     [
         "Aluminium",
-        "Aluminium"
+        "Feito com Aluminium"
     ],
     [
         "StainlessSteel",
-        "Aço Inox"
+        "Feito com Aço Inox"
     ],
     [
         "Titanium",
-        "Titânio"
+        "Feito com Titânio"
     ],
     [
         "HardMetal",
-        "Liga de Aço Durável"
+        "Feito com Liga de Aço Durável"
     ],
     [
         "Neutronium",
