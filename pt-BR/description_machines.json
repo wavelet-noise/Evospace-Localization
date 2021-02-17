@@ -5,7 +5,7 @@
     ],
     [
         "CuttingMachine",
-        "Corta Placas em Peças\nEntalha Rochas\nCorta Entalha Madeira"
+        "Corta Placas em Peças\nEntalha Rochas\nCorta/Entalha Madeira"
     ],
     [
         "Fermenter",
@@ -37,7 +37,7 @@
     ],
     [
         "Pipe",
-        "Fluidos e gases são transportados aqui\nÉ Tigre?"
+        "Fluidos/gases são transportados aqui\nÉ Tigre?"
     ],
     [
         "HeatPipe",
@@ -341,7 +341,7 @@
     ],
     [
         "IndustrialSmelter",
-        "Fundidora de Ligas Complexas"
+        "Fundição de Ligas Complexas"
     ],
     [
         "InductionCoil",
