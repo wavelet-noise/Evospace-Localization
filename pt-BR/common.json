@@ -89,11 +89,11 @@
     ],
     [
         "FluidConductor",
-        "Conduz Fluidos"
+        "Conduz Fluidos/Gases"
     ],
     [
         "FluidStorage",
-        "Armazena Fluidos"
+        "Armazena Fluidos/Gases"
     ],
     [
         "KineticInput",
@@ -113,7 +113,7 @@
     ],
     [
         "HeatInput",
-        "<img id=\"Heat\"></>Consumes Calor<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>Consome Calor<img id=\"Heat2\"></>"
     ],
     [
         "HeatOutput",
@@ -145,31 +145,31 @@
     ],
     [
         "Stone",
-        "Feito com Rocha"
+        "Pedra 101"
     ],
     [
         "Copper",
-        "Feito com Cobre"
+        "Cobre 101"
     ],
     [
         "Steel",
-        "Feito com Aço"
+        "Aço 101"
     ],
     [
         "Aluminium",
-        "Feito com Aluminium"
+        "Aluminium 101"
     ],
     [
         "StainlessSteel",
-        "Feito com Aço Inox"
+        "Aço Inox 101"
     ],
     [
         "Titanium",
-        "Feito com Titânio"
+        "Titânio 101"
     ],
     [
         "HardMetal",
-        "Feito com Liga de Aço Durável"
+        "Liga de Aço Durável 101"
     ],
     [
         "Neutronium",
