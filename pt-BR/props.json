@@ -5,15 +5,15 @@
     ],
     [
         "Dandaleon",
-        "Dente-de-Leão"
+        "Dente-de-leão"
     ],
     [
         "Fern",
-        "Mato"
+        "Samambaia"
     ],
     [
         "LongGrass",
-        "Gramado Alto"
+        "Grama Alta"
     ],
     [
         "SeaPlant",
@@ -21,7 +21,7 @@
     ],
     [
         "SeaGrass",
-        "Grama do Mar"
+        "Algas"
     ],
     [
         "TallGrass",
@@ -29,11 +29,11 @@
     ],
     [
         "Broadleaf",
-        "Folhagem Larga"
+        "Folha Larga"
     ],
     [
         "Noleafes",
-        "Desfolhado"
+        "Desfolhada"
     ],
     [
         "Shrub",
@@ -41,15 +41,15 @@
     ],
     [
         "Rock",
-        "Pedregulho"
+        "Rocha"
     ],
     [
         "Pine",
-        "Pinos"
+        "Pinheiro"
     ],
     [
         "SnowyPine",
-        "Pinos Nevado"
+        "Pinheiro Nevado"
     ],
     [
         "Birch",
@@ -61,7 +61,7 @@
     ],
     [
         "Rogoz",
-        "Rogoz"
+        "Bunho"
     ],
     [
         "Lily",
@@ -89,7 +89,7 @@
     ],
     [
         "BigBush",
-        "Arbusto Crescido"
+        "Grande Arbusto"
     ],
     [
         "SmallRock",
@@ -101,15 +101,15 @@
     ],
     [
         "DryGrass",
-        "Gramado Seco"
+        "Grama Seca"
     ],
     [
         "VolcanicRock",
-        "Pedra Vulcânica"
+        "Rocha Vulcânica"
     ],
     [
         "SnowyRock",
-        "Pedra nevada"
+        "Rocha Nevada"
     ],
     [
         "SnowyGrass",
