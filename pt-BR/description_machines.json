@@ -13,11 +13,11 @@
     ],
     [
         "ChemReactor",
-        "Usa Reações químicas pra transformar/gerar novos compostos"
+        "Usa Reações químicas pra transformar/Gerar novos compostos"
     ],
     [
         "Separator",
-        "Extrai materiais Raros de pós\nPerde o original"
+        "Purifica Pó Bruto"
     ],
     [
         "Beam",
@@ -33,7 +33,7 @@
     ],
     [
         "Boiler",
-        "Coração da geração de Vapor"
+        "Coração da geração de Vapor\nNão explode!!!"
     ],
     [
         "Pipe",
@@ -41,11 +41,11 @@
     ],
     [
         "HeatPipe",
-        "Calor é dirigido para onde precisa\nHa perda de Calor!"
+        "Calor é direcionado para onde precisa\nHa perda de Calor!"
     ],
     [
         "Flywheel",
-        "Armazena e transmite Energia Mecânica\nmuito útil use mais!"
+        "Armazena e transmite Energia Mecânica\nMuito útil! use mais!"
     ],
     [
         "Scaffold",
@@ -61,7 +61,7 @@
     ],
     [
         "Connector",
-        "Transmite Eletricidade\n110 ou 220?"
+        "Transmite Eletricidade\n110v ou 220v?\nCade a tomada?!!!"
     ],
     [
         "Chest",
@@ -69,7 +69,7 @@
     ],
     [
         "ItemRack",
-        "Armazenas quantias elevadas de um item \nSegure meus itens"
+        "Armazenas quantias elevadas de um item \nSegure meus itens!"
     ],
     [
         "Vent",
@@ -77,7 +77,7 @@
     ],
     [
         "ElectricalSwitch",
-        "Desliga e liga a transmissão de Eletricidade\nSe ligou Apague!"
+        "Desliga e liga a transmissão de Eletricidade\nSe ligou Apague!\nUtil para evitar consumo Passivo."
     ],
     [
         "OreWasher",
@@ -117,11 +117,11 @@
     ],
     [
         "Generator",
-        "Transforma Energia Mecânica em Eletricidade\nA União faz a Força!!!"
+        "Transforma Energia Mecânica em Eletricidade\nA União faz a Força!!!\n5Kg"
     ],
     [
         "CompactGenerator",
-        "Transforma Energia Mecânica em Eletricidade\nSerá que um Hamster ..."
+        "Transforma Energia Mecânica em Eletricidade\nA União faz a Força!!!\n1Kg"
     ],
     [
         "ElectricEngine",
@@ -149,11 +149,11 @@
     ],
     [
         "SteamTurbine",
-        "Transforma Vapor em Energia Mecânica"
+        "Transforma Vapor em Energia Mecânica\nNão se degrada!\nNão devolve Água!"
     ],
     [
         "GasTurbine",
-        "Transforma Gases em Energia Mecânica"
+        "Transforma Gases em Energia Mecânica\nNão produz cheiros...\nAinda..."
     ],
     [
         "ArcSmelter",
@@ -165,7 +165,7 @@
     ],
     [
         "Sifter",
-        "Peneira Gemas/pepitas de cascalho"
+        "Peneira Gemas/pepitas de Cascalho"
     ],
     [
         "FilteringUnit",
@@ -309,11 +309,11 @@
     ],
     [
         "IndustrialSeparator",
-        "Separa material Raro dos Pós\nSem perda!\nMenos ganho no Raro"
+        "Separa material Raro dos Pós"
     ],
     [
         "Radiator",
-        "Consome Calor sem Fim\nMenos do Planeta"
+        "Dissipa Calor\nMenos do Planeta"
     ],
     [
         "Diode",
@@ -329,7 +329,7 @@
     ],
     [
         "ResearchReactor",
-        ""
+        "Conhecimento de Reatores"
     ],
     [
         "SolarPanel",
@@ -349,6 +349,6 @@
     ],
     [
         "CreativeController",
-        ""
+        "Controlador /nem sei do que/"
     ]
 ]
