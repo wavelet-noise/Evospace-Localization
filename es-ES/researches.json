@@ -12,14 +12,6 @@
         "Reacción del torio"
     ],
     [
-        "UraniumReactionBoosting",
-        "Refuerzo de la reacción del uranio"
-    ],
-    [
-        "UraniumReactionThrottling",
-        "Aceleración de la reacción del uranio"
-    ],
-    [
         "Drying",
         "Secado"
     ],
@@ -198,5 +190,13 @@
     [
         "ReinforcedConcrete",
         "Hormigón armado decorativo"
+    ],
+    [
+        "AdvancedReflection",
+        "Advanced Reflection"
+    ],
+    [
+        "ReactionThrottling",
+        "Reaction Throttling"			 
     ]
 ]
