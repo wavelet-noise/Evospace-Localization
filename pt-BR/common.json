@@ -1,59 +1,91 @@
-﻿[
+[
     [
         "I",
-        "I"
+        "Protótipo"
     ],
     [
         "II",
-        "II"
+        "Improvisado"
     ],
     [
         "III",
-        "III"
+        "Genérico"
     ],
     [
         "IV",
-        "IV"
+        "Comercial"
     ],
     [
         "V",
-        "V"
+        "Industrial"
     ],
     [
         "VI",
-        "VI"
+        "Avançado"
     ],
     [
         "VII",
-        "VII"
+        "Hi-Tech"
     ],
     [
         "VIII",
-        "VIII"
+        "Delux"
     ],
     [
         "IX",
-        "IX"
+        "Premium"
     ],
     [
         "X",
-        "X"
+        "NASA"
+    ],
+    [
+        "Organics",
+        "Massa Orgânica"
+    ],
+    [
+        "BuildingBlock",
+        "Bloco Solido"
+    ],
+    [
+        "NuclearFuel",
+        "Combustível para o Reator de Fissão"
+    ],
+    [
+        "Fluid",
+        "Fluidos"
+    ],
+    [
+        "Gas",
+        "Gás"
+    ],
+    [
+        "ByPipes",
+        "Pode ser transportados por canos\nPodem ser extraídos/injetados em maquinas por Bombas Hidráulicas"
+    ],
+    [
+        "WorldObject",
+        "Impossível Criar\nSurge no Mundo"
+    ],
+    [
+        "Circuit",
+        "Parte de mecanismos complexos\nUsado em Computadores para pesquisa"
     ],
     [
         "ItemInput",
-        "<img id=\"ItemInput\"></>Tem Entrada de Itens"
+        "<img id=\"ItemInput\"></>Tem entrada para itens"
     ],
     [
         "ItemOutput",
-        "<img id=\"ItemOutput\"></>Tem Saida de Itens"
+        "<img id=\"ItemOutput\"></>Tem saída de itens"
     ],
     [
         "FluidInput",
-        "<img id=\"FluidInput\"></>Tem Entrada de Liquidos"
+        "<img id=\"FluidInput\"></>Tem entrada para fluidos"
     ],
     [
         "FluidOutput",
-        "<img id=\"FluidOutput\"></>Tem Saida de Liquidos"
+        "<img id=\"FluidOutput\"></>Tem saída de fluidos"
     ],
     [
         "FluidConductor",
@@ -61,23 +93,23 @@
     ],
     [
         "FluidStorage",
-        "Armazena Liquidos/Gases"
+        "Armazena Fluidos/Gases"
     ],
     [
         "KineticInput",
-        "<img id=\"Kinetic\"></>Consome Corda<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Consome Energia Mecânica<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticOutput",
-        "<img id=\"Kinetic\"></>Produz Corda<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Produz Energia Mecânica<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticConductor",
-        "<img id=\"Kinetic\"></>Conduz Corda<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>Conduz Energia Mecânica<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticStorage",
-        "Armazena Corda<img id=\"Kinetic2\"></>"
+        "Armazena Energia Mecânica<img id=\"Kinetic2\"></>"
     ],
     [
         "HeatInput",
@@ -112,115 +144,111 @@
         "Armazena Eletricidade<img id=\"Electricity2\"></>"
     ],
     [
-        "05ips",
-        "1 Item a Cada 2 Segundos"
+        "Stone",
+        "Pedra 101"
     ],
     [
-        "1ips",
-        "1 Item por Segundo"
+        "Copper",
+        "Cobre 101"
     ],
     [
-        "2ips",
-        "2 Itens por Segundo"
+        "Steel",
+        "Aço 101"
     ],
     [
-        "4ips",
-        "4 Itens por Segundo"
+        "Aluminium",
+        "Aluminium 101"
     ],
     [
-        "8ips",
-        "8 Itens por Segundo"
+        "StainlessSteel",
+        "Aço Inox 101"
     ],
     [
-        "10ips",
-        "10 Itens por Segundo"
+        "Titanium",
+        "Titânio 101"
     ],
     [
-        "45dps",
-        "45 Graos por Segundo"
+        "HardMetal",
+        "Liga de Aço Durável 101"
     ],
     [
-        "90dps",
-        "90 Graos por Segundo"
+        "Neutronium",
+        "Neutronium"
     ],
     [
-        "180dps",
-        "180 Graos por Segundo"
+        "ips",
+        "Itens por segundo: %s"
     ],
     [
-        "360dps",
-        "360 Graos por Segundo"
+        "dps",
+        "Grãos por segundo: %s"
     ],
     [
-        "450dps",
-        "450 Graos por Segundo"
+        "power_limit",
+        "Limite de Força: %sW"
     ],
     [
-        "900dps",
-        "900 Graos por Segundo"
+        "power_output",
+        "Saída de Força: %sW"
     ],
     [
-        "container0",
-        "Capacidade 30L"
+        "power_input",
+        "Consumo de Força: %sW"
     ],
     [
-        "container1",
-        "Capacidade 60L"
+        "container",
+        "Capacidade: %s L"
     ],
     [
-        "container2",
-        "Capacidade 90L"
+        "battery",
+        "Capacidade: %s J"
     ],
     [
-        "container3",
-        "Capacidade 120L"
+        "chest",
+        "Capacidade: %s Conjuntos"
     ],
     [
-        "container4",
-        "Capacidade 150L"
+        "burnable",
+        "Inflamável<img id=\"Heat2\"></>\nTotal em Calor: %sJ"
     ],
     [
-        "container5",
-        "Capacidade 180L"
+        "speedbonus",
+        "Velocidade: x%s"
     ],
     [
-        "container6",
-        "Capacidade 210L"
+        "electric_drain",
+        "Consumo passivo: %sW"
     ],
     [
-        "container7",
-        "Capacidade 240L"
+        "heat_drain",
+        "Consumo passivo: %sW"
     ],
     [
-        "chest0",
-        "Capacidade 20 Conjuntos"
+        "kinetic_drain",
+        "Consumo passivo: %sW"
     ],
     [
-        "chest1",
-        "Capacidade 25 Conjuntos"
+        "computations",
+        "Computações por segundo: %s"
     ],
     [
-        "chest2",
-        "Capacidade 30 Conjuntos"
+        "calculations",
+        "Produzido por computadores\nConstrua Computadores\nMantenha alimentado com eletricidade para gerar Computações"
     ],
     [
-        "chest3",
-        "Capacidade 35 Conjuntos"
+        "WorldGeneratorRivers",
+        "Rios e Ilhas"
     ],
     [
-        "chest4",
-        "Capacidade 40 Conjuntos"
+        "WorldGeneratorBiome",
+        "Rochedos"
     ],
     [
-        "chest5",
-        "Capacidade 45 Conjuntos"
+        "FlatWorldGenerator",
+        "Mundo vazio"
     ],
     [
-        "chest6",
-        "Capacidade 50 Conjuntos"
-    ],
-    [
-        "chest7",
-        "Capacidade 55 Conjuntos"
+        "WorldGeneratorPlains",
+        "Planícies Costeiras"
     ]
 ]

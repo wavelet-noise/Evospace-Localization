@@ -1,4 +1,4 @@
-﻿[
+[
     [
         "Chair",
         "Cadeira de Madeira"
@@ -9,15 +9,15 @@
     ],
     [
         "Rack",
-        "Estante"
+        "Criado Mudo"
     ],
     [
         "Bed",
-        "Cama"
+        "Cama Simples"
     ],
     [
         "Ladder",
-        "Escadinha"
+        "Escada de Madeira"
     ],
     [
         "Door",
@@ -29,19 +29,19 @@
     ],
     [
         "Window",
-        "Janela em Quadro de Madeira"
+        "Janela em Moldura de Madeira"
     ],
     [
         "CeramicRoof",
-        "Telhas"
+        "Telhado de Cerâmica"
     ],
     [
         "Stairs",
-        "Escada"
+        "Escadaria de Rocha"
     ],
     [
         "WoodenStairs",
-        "Escada de Madeira"
+        "Escadaria de Madeira"
     ],
     [
         "CopperChair",
@@ -49,15 +49,15 @@
     ],
     [
         "FireCup",
-        "Xicara de Barro"
+        "Copo Cerâmico"
     ],
     [
         "PlasticWindow",
-        "Janela em Quadro de Plastico"
+        "Janela em Moldura de Plástico"
     ],
     [
         "Firefly",
-        "Vagalume"
+        "Vaga-lume"
     ],
     [
         "Flies",
@@ -65,7 +65,7 @@
     ],
     [
         "Birds",
-        "Passaros"
+        "Pássaros"
     ],
     [
         "DesertSound",
@@ -89,19 +89,19 @@
     ],
     [
         "WoodenPlanks",
-        "tabuas de Madeira"
+        "Tabuas de Madeira"
     ],
     [
         "AdminBlocks",
-        "Bloco do Proprietario"
+        "Bloco Privado"
     ],
     [
         "StoneTiles",
-        "Azulejo em Pedra"
+        "Azulejo de Rocha"
     ],
     [
         "RedTiles",
-        "Azulejo Vermelho"
+        "Azulejo Vermelho "
     ],
     [
         "DarkTiles",
@@ -109,43 +109,43 @@
     ],
     [
         "Terracotta",
-        "Terracotta"
+        "Terracota"
     ],
     [
         "TerracottaTiles",
-        "Azulejo em Terracotta"
+        "Azulejo de Terracota"
     ],
     [
         "Bricks",
-        "Tijolinhos"
+        "Tijolos"
     ],
     [
         "RedBricks",
-        "Tijolinhos vermelho"
+        "Tijolos Vermelhos"
     ],
     [
         "DarkBricks",
-        "Tijolinhos Escuros"
+        "Tijolos Escuros"
     ],
     [
         "TerracottaBricks",
-        "Tijolinhos em Terracotta"
+        "Tijolos de Terracota"
     ],
     [
         "Concrete",
-        "Bloco de Concreto"
+        "Concreto"
     ],
     [
         "ConcreteBricks",
-        "Concreto em Tijolinhos"
+        "Tijolos de Concrete"
     ],
     [
         "ConcreteTiles",
-        "Concreto em Azulejo"
+        "Azulejo de Concreto"
     ],
     [
         "ConcreteSmallTiles",
-        "Concreto em Quadradinhos"
+        "Azulejo Quadrado de Concreto"
     ],
     [
         "ReinforcedConcrete",
@@ -153,27 +153,27 @@
     ],
     [
         "ReinforcedConcreteTiles",
-        "Azulejo em Concreto Reforçado"
+        "Azulejo de Concreto Reforçado"
     ],
     [
         "ReinforcedConcreteSmallTiles",
-        "Quadradinho em Concreto Reforçado"
+        "Azulejo Quadrado de Concreto Reforçado"
     ],
     [
         "ReinforcedConcreteBricks",
-        "Tijolinhos em Concreto Reforçado"
+        "Tijolos de Concreto Reforçado"
     ],
     [
         "DangerBlock",
-        "Bloco de Aviso"
+        "Concreto de Aviso"
     ],
     [
         "RustyCopperCasing",
-        "Revestimento de Cobre Enferrujada"
+        "Piso de Cobre Enferrujado"
     ],
     [
         "RustyIronCasing",
-        "Revestimento de Ferro Enferrujada"
+        "Piso de Ferro Enferrujado"
     ],
     [
         "Column",
@@ -184,16 +184,32 @@
         "Coluna Esculpida"
     ],
     [
+        "Torch",
+        "Tocha"
+    ],
+    [
         "Flashlight",
         "Lanterna"
     ],
     [
+        "NightVision",
+        "Visão Noturna"
+    ],
+    [
+        "AdvancedNightVision",
+        "Visão Noturna Hi-Tech"
+    ],
+    [
         "Steampack",
-        "Propulsor a Vapor"
+        "Mochila de Impulso"
     ],
     [
         "Jetpack",
         "Jetpack"
+    ],
+    [
+        "AdvancedJetpack",
+        "Jetpack Avançado"
     ],
     [
         "AntigravityUnit",
@@ -201,6 +217,6 @@
     ],
     [
         "Scanner",
-        "Scanner"
+        "Sonda de Depósitos"
     ]
 ]

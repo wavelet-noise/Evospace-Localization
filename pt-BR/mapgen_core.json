@@ -1,4 +1,4 @@
-﻿[
+[
     [
         "SandSurface",
         "Areia"
@@ -13,19 +13,19 @@
     ],
     [
         "DesertSandSurface",
-        "Areia Seca"
+        "Areia Desértica"
     ],
     [
         "GrassSurface",
-        "Gramado"
+        "Grama"
     ],
     [
         "BogFogSurface",
-        "Neblina"
+        "Nevoa de Pantano"
     ],
     [
         "LavaSmokeSurface",
-        "Fumaça"
+        "Chumaça de Lava"
     ],
     [
         "LavaSurface",
@@ -41,11 +41,11 @@
     ],
     [
         "PineForestSurface",
-        "Floresta de Pinheiros"
+        "Floresta de Pinos"
     ],
     [
         "CoralBubbleEmitterSurface",
-        "Coral"
+        "Coral Borbulhante"
     ],
     [
         "DirtSurface",
@@ -57,11 +57,11 @@
     ],
     [
         "DryGrassSurface",
-        "Gramado Seco"
+        "Grama Seca"
     ],
     [
         "LimestoneSurface",
-        "Calcario"
+        "Calcário"
     ],
     [
         "RedStoneSurface",

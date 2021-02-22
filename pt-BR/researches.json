@@ -1,231 +1,67 @@
-﻿[
+[
     [
-        "InitialScan",
-        "Primeiro Passo"
+        "InventoryUpgrade",
+        "Expansão de Inventario"
     ],
     [
-        "MineralsScan",
-        "Minerios"
+        "PlutoniumReaction",
+        "Reações de Plutonium"
     ],
     [
-        "Electricity",
-        "Eletricidade"
+        "ThoriumReaction",
+        "Reações de Thorium"
     ],
     [
-        "Smelting",
-        "Fundição"
+        "UraniumReactionBoosting",
+        "Melhoria na Reação de Uranium"
     ],
     [
-        "Metalwork",
-        "Metais"
-    ],
-    [
-        "PlantsScan",
-        "Plantas"
-    ],
-    [
-        "DecorativeWood",
-        "Entalho em Madeira"
-    ],
-    [
-        "DecorativePlastic",
-        "Decoração com Plastico"
-    ],
-    [
-        "DecorativeStone",
-        "Pedra Decorada"
-    ],
-    [
-        "DecorativeConcrete",
-        "Concreto Decorativo"
-    ],
-    [
-        "DecorationClay",
-        "Decoração em Argila"
-    ],
-    [
-        "Scanner",
-        "Scanner"
-    ],
-    [
-        "Steampack",
-        "Mochila a vapor"
-    ],
-    [
-        "Screwdriver",
-        "Chave Philips"
-    ],
-    [
-        "StainlessSteelProduction",
-        "Produção de aço Inox"
-    ],
-    [
-        "Jetpack",
-        "Jetpack"
-    ],
-    [
-        "TitaniumProduction",
-        "Produção de Titanium"
-    ],
-    [
-        "HardMetalProduction",
-        "Produção de Liga de Aço de Tungstenio"
-    ],
-    [
-        "AntigravityUnit",
-        "Unidade Anti-Gravidade"
-    ],
-    [
-        "NeutroniumProduction",
-        "Produção de Neutronium"
-    ],
-    [
-        "CircuitBoard",
-        "Placa de circuitos"
-    ],
-    [
-        "AdvancedCircuitBoard",
-        "Placa de Circuitos Avançados"
-    ],
-    [
-        "QuantumCore",
-        "Nucleo Quantico"
-    ],
-    [
-        "FineWire",
-        "Fios Preciosos"
-    ],
-    [
-        "BasicCircuit",
-        "Circuitos"
-    ],
-    [
-        "AdvancedCircuit",
-        "Circuitos Avançados"
-    ],
-    [
-        "Processor",
-        "Processador"
-    ],
-    [
-        "QuantumCircuit",
-        "Circuitos Quanticos"
-    ],
-    [
-        "QuantumProcessor",
-        "Processador Quantico"
-    ],
-    [
-        "QuantumBrain",
-        "Cerebro Quantico"
-    ],
-    [
-        "Flywheel",
-        "Acumulador de Corda"
-    ],
-    [
-        "ElectricalSwitch",
-        "Interruptor"
-    ],
-    [
-        "Valve",
-        "Valvula"
-    ],
-    [
-        "Terminal",
-        "Terminal"
-    ],
-    [
-        "FlatTerminal",
-        "Terminal Fino"
-    ],
-    [
-        "BigTerminal",
-        "Terminal Grande"
-    ],
-    [
-        "BigFlatTerminal",
-        "Terminal Fino Grande"
-    ],
-    [
-        "HugeTerminal",
-        "Terminal XL"
-    ],
-    [
-        "HugeFlatTerminal",
-        "Terminal Fino XL"
+        "UraniumReactionThrottling",
+        "Controle na Reação de Uranium"
     ],
     [
         "Drying",
-        "Secagem"
+        "Desidratação"
     ],
     [
         "PowerGeneration",
-        "Geração de Energia"
+        "Geração de Eletricidade"
     ],
     [
         "Automatization",
         "Automatização"
     ],
     [
-        "Pump",
-        "Bomba Hidraulica"
-    ],
-    [
-        "FilteringArm",
-        "Braço Robotico com filtro"
-    ],
-    [
-        "FilteringPump",
-        "Filtro Hidraulico"
-    ],
-    [
         "AdditionalStorage",
-        "Armazenagem"
+        "Armazenagem de Sólidos"
     ],
     [
         "HeatTransferring",
-        "Transferir Calor"
-    ],
-    [
-        "HeatConversion",
-        "Conversão de Calor"
+        "Conduzir Calor"
     ],
     [
         "BasicMachines",
-        "Maquinario"
+        "Maquinário Básico"
     ],
     [
-        "Refining",
-        "Refinamento"
-    ],
-    [
-        "FluidStorage",
-        "Reservatorio"
+        "Container",
+        "Armazenagem de não Sólidos"
     ],
     [
         "FluidDumping",
-        "Fossa"
-    ],
-    [
-        "Pumpjack",
-        "Pumpjack"
+        "Fossa de Dejetos"
     ],
     [
         "Pyrolysis",
-        "Pyrolysis"
+        "Refinamento de Óleos"
     ],
     [
         "SingleTypeStorage",
-        "Estoque de item"
-    ],
-    [
-        "Multitool",
-        "Multitool"
+        "Armazenagem de Sólidos Individual"
     ],
     [
         "DistributedComputing",
-        "Computar"
+        "Rede de Computação"
     ],
     [
         "Electrolysis",
@@ -237,7 +73,7 @@
     ],
     [
         "Cutting",
-        "Corte"
+        "Cortes e Entalhes"
     ],
     [
         "SteelProduction",
@@ -245,75 +81,39 @@
     ],
     [
         "AutomaticMining",
-        "Mineração Automatica"
+        "Extração Automática"
     ],
     [
         "FluidFurnace",
-        "Fornalha a combustivel"
+        "Fornalha á Fluidos"
     ],
     [
         "MetalConstructions",
-        "Peças de Metal"
+        "Construções a base de Metais"
     ],
     [
         "Scaffold",
-        "Andaime"
+        "Andaimes"
     ],
     [
         "Lamp",
-        "Lampada"
+        "Iluminação"
     ],
     [
         "Chemistry",
-        "Quimica"
+        "Reações Químicas"
     ],
     [
         "MassivePowerGeneration",
-        "Geração de Energia Em Massa"
+        "Produção Massiva de Eletricidade"
     ],
     [
         "AdvancedSmelting",
         "Fundição Avançada"
     ],
     [
-        "Separation",
-        "Separação"
-    ],
-    [
-        "Assembler",
-        "Montadora"
-    ],
-    [
-        "ElectricEngine",
-        "Motor Eletrico"
-    ],
-    [
-        "Diode",
-        "Diode"
-    ],
-    [
-        "Mixer",
-        "Misturador"
-    ],
-    [
-        "ElectricFurnace",
-        "Fornalha Eletrica"
-    ],
-    [
-        "AtmosphericCondenser",
-        "Condensador"
-    ],
-    [
-        "Furnace",
-        "Fornalha"
-    ],
-    [
         "IndustrialSmelting",
         "Fundição Industrial"
-    ],
-    [
-        "AutomaticFarm",
-        "Estufa Automatica"
     ],
     [
         "Fermentation",
@@ -324,15 +124,79 @@
         "Separação Avançada"
     ],
     [
-        "BatteryBox",
-        "Caixa de Baterias"
+        "NeutroniumProduction",
+        "Neutronium Production"
     ],
     [
-        "SolarPanel",
-        "Painel Solar"
+        "AluminiumProduction",
+        "Produção de Aluminium"
     ],
     [
-        "FissionReactor",
-        "Reator de Fissão"
+        "StainlessSteelProduction",
+        "Produção de Aço Inox"
+    ],
+    [
+        "TitaniumProduction",
+        "Produção de Titânio"
+    ],
+    [
+        "HardMetalProduction",
+        "Produção de Liga de Aço Durável"
+    ],
+    [
+        "PlantsScan",
+        "Conhecimento de Vegetação"
+    ],
+    [
+        "InitialScan",
+        "Conhecimento Primordial"
+    ],
+    [
+        "MineralsScan",
+        "Conhecimento de Minérios"
+    ],
+    [
+        "Electricity",
+        "Eletricidade"
+    ],
+    [
+        "Smelting",
+        "Fundição"
+    ],
+    [
+        "Metalwork",
+        "Metalurgia"
+    ],
+    [
+        "Steelwork",
+        "Trabalho em Aço"
+    ],
+    [
+        "Filtering",
+        "Seleção"
+    ],
+    [
+        "DecorativeWood",
+        "Decoração em Madeira"
+    ],
+    [
+        "DecorativePlastic",
+        "Decoração em Plástico"
+    ],
+    [
+        "DecorativeStone",
+        "Decoração em Rocha"
+    ],
+    [
+        "DecorativeConcrete",
+        "Decoração em Concreto"
+    ],
+    [
+        "DecorationClay",
+        "Decoração em Argila"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Decoração em Concreto Reforçado"
     ]
 ]

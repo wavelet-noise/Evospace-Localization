@@ -1,74 +1,74 @@
-﻿[
+[
     [
         "CopperOre",
-        "Minerio de Cobre"
+        "Minério de Cobre"
     ],
     [
         "CopperImpureOreGravel",
-        "Cascalho de Cobre Sujo"
+        "Cascalho Bruto de Cobre"
     ],
     [
         "CopperOreGravel",
         "Cascalho de Cobre"
     ],
     [
-        "CopperImpureOreDust",
-        "Pó de Cobre Impuro"
+        "CopperOreDust",
+        "Pó Bruto de Cobre"
     ],
     [
         "IronOre",
-        "Minerio de Ferro"
+        "Minério de Ferro"
     ],
     [
         "IronImpureOreGravel",
-        "Cascalho de Ferro Sujo"
+        "Cascalho Bruto de Ferro"
     ],
     [
         "IronOreGravel",
         "Cascalho de Ferro"
     ],
     [
-        "IronImpureOreDust",
-        "Pó de Ferro Impuro"
+        "IronOreDust",
+        "Pó Bruto de Ferro"
     ],
     [
         "UraniumOre",
-        "Minerio de Uranium"
+        "Minério de Uranium"
     ],
     [
         "UraniumImpureOreGravel",
-        "Cascalho de Uranium Sujo"
+        "Cascalho Bruto de Uranium"
     ],
     [
         "UraniumOreGravel",
         "Cascalho de Uranium"
     ],
     [
-        "UraniumImpureOreDust",
-        "Pó de Uranium Impuro"
+        "UraniumOreDust",
+        "Pó Bruto de Uranium"
     ],
     [
         "AluminiumOre",
-        "Minerio de Aluminio"
+        "Minério de Aluminium"
     ],
     [
         "AluminiumImpureOreGravel",
-        "Cascalho de Aluminio Sujo"
+        "Cascalho Bruto de Aluminium"
     ],
     [
         "AluminiumOreGravel",
-        "Cascalho de Aluminio"
+        "Cascalho de Aluminium"
     ],
     [
-        "AluminiumImpureOreDust",
-        "Pó de Aluminio Impuro"
+        "AluminiumOreDust",
+        "Pó Bruto de Aluminium"
     ],
     [
         "CoalOre",
-        "Carvão Crú"
+        "Carvão Mineral"
     ],
     [
         "ClayOre",
-        "Argila"
+        "Argila Natural"
     ]
 ]
