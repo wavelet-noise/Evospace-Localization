@@ -61,7 +61,7 @@
     ],
     [
         "Connector",
-        ""
+        "Conector"
     ],
     [
         "Chest",
@@ -101,7 +101,7 @@
     ],
     [
         "Press",
-        ""
+        "Prensa"
     ],
     [
         "StirlingEngine",
@@ -161,7 +161,7 @@
     ],
     [
         "ChemicalBath",
-        ""
+        "Tratamiento químico"
     ],
     [
         "Sifter",
@@ -325,11 +325,11 @@
     ],
     [
         "FusionReactor",
-        ""
+        "Reactor de fusión"
     ],
     [
         "ResearchReactor",
-        ""
+        "Investigación del Reactor"
     ],
     [
         "SolarPanel",
