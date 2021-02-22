@@ -1,135 +1,23 @@
 [
     [
-        "InitialScan",
-        "Escaneo Inicial"
+        "InventoryUpgrade",
+        "Mejora del inventario"
     ],
     [
-        "MineralsScan",
-        "Escaneo de Minerales"
+        "PlutoniumReaction",
+        "Reacción del plutonio"
     ],
     [
-        "Electricity",
-        "Electricidad"
+        "ThoriumReaction",
+        "Reacción del torio"
     ],
     [
-        "Smelting",
-        "Fundición"
+        "UraniumReactionBoosting",
+        "Refuerzo de la reacción del uranio"
     ],
     [
-        "Metalwork",
-        "Metalurgia"
-    ],
-    [
-        "PlantsScan",
-        "Escaneo de Plantas"
-    ],
-    [
-        "AluminiumProduction",
-        "Producción del Aluminio"
-    ],
-    [
-        "StainlessSteelProduction",
-        "Producción de Acero Inoxidable"
-    ],
-    [
-        "TitaniumProduction",
-        "Producción de Titanio"
-    ],
-    [
-        "HardMetalProduction",
-        "Producción de metal duro"
-    ],
-    [
-        "NeutroniumProduction",
-        "Producción de Neutronio"
-    ],
-    [
-        "Dumping",
-        "Vertido"
-    ],
-    [
-        "GasDump",
-        "Descarga de Gas"
-    ],
-    [
-        "SolidDump",
-        "Vertedero de sólidos"
-    ],
-    [
-        "CircuitBoard",
-        "Placa de Circuitos"
-    ],
-    [
-        "AdvancedCircuitBoard",
-        "Placa de Circuitos Avanzados"
-    ],
-    [
-        "QuantumCore",
-        "Núcleo Cuántico"
-    ],
-    [
-        "FineWire",
-        "Alambres Finos"
-    ],
-    [
-        "BasicCircuit",
-        "Circuito Básico"
-    ],
-    [
-        "AdvancedCircuit",
-        "Circuito Avanzado"
-    ],
-    [
-        "Processor",
-        "Procesador"
-    ],
-    [
-        "QuantumCircuit",
-        "Circuito Cuántico"
-    ],
-    [
-        "QuantumProcessor",
-        "Procesador Cuántico"
-    ],
-    [
-        "QuantumBrain",
-        "Cerebro Cuántico"
-    ],
-    [
-        "Flywheel",
-        "Volante de Inercia"
-    ],
-    [
-        "ElectricalSwitch",
-        "Interruptor Eléctrico"
-    ],
-    [
-        "Valve",
-        "Válvula"
-    ],
-    [
-        "Terminal",
-        "Terminal"
-    ],
-    [
-        "FlatTerminal",
-        "Terminal Plano"
-    ],
-    [
-        "BigTerminal",
-        "Terminal Grande"
-    ],
-    [
-        "BigFlatTerminal",
-        "Terminal Grande Plano"
-    ],
-    [
-        "HugeTerminal",
-        "Terminal Enorme"
-    ],
-    [
-        "HugeFlatTerminal",
-        "Terminal Enorme Plano"
+        "UraniumReactionThrottling",
+        "Aceleración de la reacción del uranio"
     ],
     [
         "Drying",
@@ -144,18 +32,6 @@
         "Automatización"
     ],
     [
-        "Pump",
-        "Bomba"
-    ],
-    [
-        "FilteringArm",
-        "Brazo Robot con Filtro"
-    ],
-    [
-        "FilteringPump",
-        "Bomba con Filtro"
-    ],
-    [
         "AdditionalStorage",
         "Almacén Avanzado"
     ],
@@ -164,28 +40,16 @@
         "Transferencia de Calor"
     ],
     [
-        "HeatConversion",
-        "Conversión de Calor"
-    ],
-    [
         "BasicMachines",
         "Máquinas Básicas"
     ],
     [
-        "Refining",
-        "Refinamiento"
-    ],
-    [
-        "FluidStorage",
-        "Depósito de Líquidos"
+        "Container",
+        "Depósito de líquidos"
     ],
     [
         "FluidDumping",
         "Vertido de Líquidos"
-    ],
-    [
-        "Pumpjack",
-        "Bomba Extractora"
     ],
     [
         "Pyrolysis",
@@ -194,10 +58,6 @@
     [
         "SingleTypeStorage",
         "Almacén de tipo Único"
-    ],
-    [
-        "Multitool",
-        "Multi-Herramienta"
     ],
     [
         "DistributedComputing",
@@ -210,14 +70,6 @@
     [
         "Sign",
         "Cartel"
-    ],
-    [
-        "Constructor",
-        "Constructor"
-    ],
-    [
-        "Deconstructor",
-        "Deconstructor"
     ],
     [
         "Cutting",
@@ -260,48 +112,8 @@
         "Fundición Avanzada"
     ],
     [
-        "Separation",
-        "Separación"
-    ],
-    [
-        "Assembler",
-        "Ensambladora"
-    ],
-    [
-        "ElectricEngine",
-        "Motor Eléctrico"
-    ],
-    [
-        "Diode",
-        "Diodo"
-    ],
-    [
-        "Mixer",
-        "Máquina Mezcladora"
-    ],
-    [
-        "ElectricFurnace",
-        "Horno Eléctrico"
-    ],
-    [
-        "AdvancedSign",
-        "Cartel Avanzado"
-    ],
-    [
-        "AtmosphericCondenser",
-        "Condensador Atmosférico"
-    ],
-    [
-        "Furnace",
-        "Horno"
-    ],
-    [
         "IndustrialSmelting",
-        "Fundición Industrial"
-    ],
-    [
-        "AutomaticFarm",
-        "Granja Automática"
+        "Fundición industrial"
     ],
     [
         "Fermentation",
@@ -309,35 +121,59 @@
     ],
     [
         "AdvancedSeparation",
-        "Separación Avanzada"
+        "Separación avanzada"
     ],
     [
-        "BatteryBox",
-        "Batería"
+        "NeutroniumProduction",
+        "Producción de Neutronio"
     ],
     [
-        "SolarPanel",
-        "Panel Solar"
+        "AluminiumProduction",
+        "Producción de aluminio"
     ],
     [
-        "GasTurbine",
-        "Turbina de Gas"
+        "StainlessSteelProduction",
+        "Producción de acero inoxidable"
     ],
     [
-        "FissionReactor",
-        "Reactor de Fisión"
+        "TitaniumProduction",
+        "Producción de titanio"
     ],
     [
-        "InductionCoil",
-        "Bobina de inducción"
+        "HardMetalProduction",
+        "Producción de metal duro"
     ],
     [
-        "Freezer",
-        "Freezer"
+        "PlantsScan",
+        "Escaneo de plantas"
     ],
     [
-        "FusionReactor",
-        "Reactor de Fusión"
+        "InitialScan",
+        "Escaneo inicial"
+    ],
+    [
+        "MineralsScan",
+        "Escaneo de minerales"
+    ],
+    [
+        "Electricity",
+        "Electricidad"
+    ],
+    [
+        "Smelting",
+        "Fundición"
+    ],
+    [
+        "Metalwork",
+        "Metalurgia"
+    ],
+    [
+        "Steelwork",
+        "Acería"
+    ],
+    [
+        "Filtering",
+        "Filtración"
     ],
     [
         "DecorativeWood",
@@ -356,11 +192,11 @@
         "Hormigón Decorativo"
     ],
     [
-        "ReinforcedConcrete",
-        "Hormigón Armado Decorativo"
+        "DecorationClay",
+        "Arcilla decorativa"
     ],
     [
-        "DecorationClay",
-        "Arcilla Decorativa"
+        "ReinforcedConcrete",
+        "Hormigón armado decorativo"
     ]
 ]
