@@ -1,18 +1,10 @@
 [
     [
-        "Initial",
-        "Inicial"
+        "Production",
+        "Producción"
     ],
     [
-        "InitialDescription",
-        ""
-    ],
-    [
-        "Logistics",
-        "Logística"
-    ],
-    [
-        "LogisticsDescription",
+        "ProductionDescription",
         ""
     ],
     [
@@ -20,39 +12,11 @@
         "Otros"
     ],
     [
-        "Circuits",
-        "Circuitos"
-    ],
-    [
         "Decorations",
-        "Decoración"
+        "Decoracción"
     ],
     [
         "DecorationsDescription",
-        ""
-    ],
-    [
-        "Nuclear",
-        "Reacciones Nucleares"
-    ],
-    [
-        "NuclearDescription",
-        ""
-    ],
-    [
-        "Equipment",
-        "Equipamiento"
-    ],
-    [
-        "EquipmentDescription",
-        ""
-    ],
-    [
-        "Global",
-        "Global"
-    ],
-    [
-        "GlobalDescription",
         ""
     ]
 ]
