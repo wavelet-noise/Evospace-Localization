@@ -116,32 +116,12 @@
         "Bloque de Neutronio"
     ],
     [
-        "BasicComputations",
-        "Computación Básica"
+        "Hand",
+        "Mano"
     ],
     [
-        "AdvancedComputations",
-        "Computación Avanzada"
-    ],
-    [
-        "ComplexComputations",
-        "Computación Compleja"
-    ],
-    [
-        "DeepComputations",
-        "Computación Profunda"
-    ],
-    [
-        "QuantumComputations",
-        "Computación Cuántica"
-    ],
-    [
-        "UltimateComputations",
-        "Computación Ultimate"
-    ],
-    [
-        "FinalComputations",
-        "Computaciones Finales"
+        "Computations",
+        "Computadoras"
     ],
     [
         "Heat",
