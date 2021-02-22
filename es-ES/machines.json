@@ -88,6 +88,14 @@
         "Transportador"
     ],
     [
+        "Splitter",
+        "Divisor"
+    ],
+    [
+        "Sorter",
+        "Clasificador"
+    ],
+    [
         "Container",
         "Deposito"
     ],
@@ -185,7 +193,11 @@
     ],
     [
         "BatteryBox",
-        "Batería"
+        "Batería Grande"
+    ],
+    [
+        "SmallBattery",
+        "Batería Pequeña"  
     ],
     [
         "DrillingRig",
@@ -290,6 +302,10 @@
     [
         "Computer",
         "Ordenador"
+    ],
+    [
+        "QuantumComputer",
+        "Computador Cuantica"
     ],
     [
         "IndustrialSeparator",
