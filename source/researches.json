@@ -12,14 +12,6 @@
         "Thorium Reaction"
     ],
     [
-        "UraniumReactionBoosting",
-        "Uranium Reaction Boosting"
-    ],
-    [
-        "UraniumReactionThrottling",
-        "Uranium Reaction Throttling"
-    ],
-    [
         "Drying",
         "Drying"
     ],
@@ -198,5 +190,13 @@
     [
         "ReinforcedConcrete",
         "Decorative Reinforced Concrete"
+    ],
+    [
+        "AdvancedReflection",
+        "Advanced Reflection"
+    ],
+    [
+        "ReactionThrottling",
+        "Reaction Throttling"
     ]
 ]

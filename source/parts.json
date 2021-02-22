@@ -572,10 +572,6 @@
         "Rutile Crystal"
     ],
     [
-        "FlawlessRuby",
-        "Flawless Ruby"
-    ],
-    [
         "UraniniteCrystal",
         "Uraninite Crystal"
     ],
@@ -614,6 +610,22 @@
     [
         "FilteringCell",
         "Filtering Cell"
+    ],
+    [
+        "BoronDust",
+        "Boron Dust"
+    ],
+    [
+        "BoraxDust",
+        "Borax Dust"
+    ],
+    [
+        "Emerald",
+        "Emerald"
+    ],
+    [
+        "EmeraldDust",
+        "Emerald Dust"
     ],
     [
         "A",
