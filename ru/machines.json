@@ -93,7 +93,7 @@
     ],
     [
         "StirlingEngine",
-        "Двигатель стирлинга"
+        "Двигатель Стирлинга"
     ],
     [
         "CombustionEngine",
@@ -121,7 +121,7 @@
     ],
     [
         "FilteringRobotArm",
-        "Фильтрующая робо-рука"
+        "Фильтрующая роборука"
     ],
     [
         "Pump",
@@ -305,71 +305,71 @@
     ],
     [
         "AdvancedSign",
-        "Advanced Sign"
+        "Улучшенная табличка"
     ],
     [
         "Splitter",
-        "Splitter"
+        "Разделитель"
     ],
     [
         "Sorter",
-        "Sorter"
+        "Сортировщик"
     ],
     [
         "IndustrialElectricEngine",
-        "Industrial Electric Engine"
+        "Промышленный электродвигатель"
     ],
     [
         "IndustrialSteamTurbine",
-        "Industrial Steam Turbine"
+        "Промышленная паровая турбина"
     ],
     [
         "Riteg",
-        "Riteg"
+        "Ритег"
     ],
     [
         "Sifter",
-        "Sifter"
+        "Грохот"
     ],
     [
         "FilteringUnit",
-        "Filtering Unit"
+        "Фильтрационная установка"
     ],
     [
         "SmallBattery",
-        "Small Battery"
+        "Маленький аккумулятор"
     ],
     [
         "Constructor",
-        "Constructor"
+        "Конструктор"
     ],
     [
         "Deconstructor",
-        "Deconstructor"
+        "Деконструктор"
     ],
     [
         "GasDump",
-        "Gas Dump"
+        "Уничтожитель газов"
     ],
     [
         "SolidDump",
-        "Solid Dump"
+        "Уничтожитель предметов"
     ],
     [
         "Freezer",
-        "Freezer"
+        "Морозильник"
     ],
     [
         "QuantumComputer",
-        "Quantum Computer"
+        "Квантовый компьютер" 
     ],
     [
         "FusionReactor",
-        "Fusion Reactor"
-    ],
+        "Реактор синтеза"
+    ]
     [
         "IndustrialBoiler",
-        "Industrial Boiler"
+        "Промышленный бойлер"
     ],
     [
         "ResearchReactor",
@@ -377,6 +377,6 @@
     ],
     [
         "CreativeController",
-        "Creative Controller"
+        "Креативный контроллер"
     ]
 ]

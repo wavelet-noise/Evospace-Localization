@@ -161,62 +161,62 @@
     ],
     [
         "PlasticWindow",
-        "Plastic Window"
+        "Пластиковое окно"
     ],
     [
         "TerracottaTiles",
-        "Terracotta Tiles"
+        "Терракотовые плитки"
     ],
     [
         "TerracottaBricks",
-        "Terracotta Bricks"
+        "Терракотовые кирпичи"
     ],
     [
         "ConcreteBricks",
-        "Concrete Bricks"
+        "Бетонные кирпичи"
     ],
     [
         "ConcreteTiles",
-        "Concrete Tiles"
+        "Бетонные плитки"
     ],
     [
         "ConcreteSmallTiles",
-        "Concrete Small Tiles"
+        "Маленькие бетонные плитки"
     ],
     [
         "ReinforcedConcreteTiles",
-        "Reinforced Concrete Tiles"
+        "Плитки из укрепленного бетона"
     ],
     [
         "ReinforcedConcreteSmallTiles",
-        "Reinforced Concrete Small Tiles"
+        "Маленькие плитки из укрепленного бетона"
     ],
     [
         "ReinforcedConcreteBricks",
-        "Reinforced Concrete Bricks"
+        "Кирпичи из укрепленного бетона"
     ],
     [
         "Torch",
-        "Torch"
+        "Факел"
     ],
     [
         "NightVision",
-        "Night Vision"
+        "Прибор ночного видения"
     ],
     [
         "AdvancedNightVision",
-        "Advanced Night Vision"
+        "Улучшенный прибор ночного видения"
     ],
     [
         "AdvancedJetpack",
-        "Advanced Jetpack"
+        "Улучшенный джетпак"
     ],
     [
         "AntigravityUnit",
-        "Antigravity Unit"
+        "Антигравитационное устройство"
     ],
     [
         "Scanner",
-        "Scanner"
+        "Сканер"
     ]
 ]

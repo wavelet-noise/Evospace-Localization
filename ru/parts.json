@@ -409,11 +409,11 @@
     ],
     [
         "BerylliumDust",
-        "Пыль берилия"
+        "Пыль бериллия"
     ],
     [
         "YttriumDust",
-        "Yttrium Dust"
+        "Пыль иттрия"
     ],
     [
         "Helium",
@@ -425,11 +425,11 @@
     ],
     [
         "PortalBase",
-        "Portal Base"
+        "Основание портала"
     ],
     [
         "Signal",
-        "Signal"
+        "Сигнал"
     ],
     [
         "CopperWire",
@@ -585,202 +585,202 @@
     ],
     [
         "AluminiumPlate",
-        "Aluminium Plate"
+        "Алюминиевая пластина"
     ],
     [
         "AluminiumParts",
-        "Aluminium Parts"
+        "Алюминиевые детали"
     ],
     [
         "AluminiumCasing",
-        "Aluminium Casing"
+        "Алюминиевый корпус"
     ],
     [
         "Hand",
-        "Hand"
+        "Рука"
     ],
     [
         "Computations",
-        "Computations"
+        "Вычисления"
     ],
     [
         "SuperconductorIngot",
-        "Superconductor Ingot"
+        "Слиток сверхпроводника"
     ],
     [
         "SuperconductorDust",
-        "Superconductor Dust"
+        "Пыль сверхпроводника"
     ],
     [
         "IronIngot",
-        "Iron Ingot"
+        "Слиток железа"
     ],
     [
         "AluminiumIngot",
-        "Aluminium Ingot"
+        "Слиток алюминия"
     ],
     [
         "TitaniumTetrachloride",
-        "Titanium Tetrachloride"
+        "Тетрахлорид титана"
     ],
     [
         "TitaniumSponge",
-        "Titanium Sponge"
+        "Титановая губка"
     ],
     [
         "ZinkDust",
-        "Zink Dust"
+        "Пыль цинка"
     ],
     [
         "LithiumDust",
-        "Lithium Dust"
+        "Пыль лития"
     ],
     [
         "HotHardMetalIngot",
-        "Hot Hard Metal Ingot"
+        "Раскаленный слиток победита"
     ],
     [
         "HotNeutroniumIngot",
-        "Hot Neutronium Ingot"
+        "Раскаленный слиток нейтрония"
     ],
     [
         "ChromiumDust",
-        "Chromium Dust"
+        "Пыль хрома"
     ],
     [
         "Uranium233Dust",
-        "Uranium-233 Dust"
+        "Пыль урана-233"
     ],
     [
         "Uranium233Cell",
-        "Uranium 233 Cell"
+        "Ячейка с ураном-233"
     ],
     [
         "UraniumCell",
-        "Uranium Cell"
+        "Ячейка с ураном"
     ],
     [
         "PlutoniumCell",
-        "Plutonium Cell"
+        "Ячейка с плутонием"
     ],
     [
         "DepletedUraniumCell",
-        "Depleted Uranium Cell"
+        "Отработанная урановая ячейка"
     ],
     [
         "SodiumDust",
-        "Sodium Dust"
+        "Пыль натрия"
     ],
     [
         "PotassiumDust",
-        "Potassium Dust"
+        "Пыль калия"
     ],
     [
         "Creosote",
-        "Creosote"
+        "Креозот"
     ],
     [
         "CarbonMonoxide",
-        "Carbon Monoxide"
+        "Угарный газ"
     ],
     [
         "ChromiumOxideDust",
-        "Chromium Oxide Dust"
+        "Пыль оксида хрома"
     ],
     [
         "PotassiumChlorideDust",
-        "Potassium Chloride Dust"
+        "Пыль хлорида натрия"
     ],
     [
         "SuperconductorWire",
-        "Superconductor Wire"
+        "Проволока из сверхпроводника"
     ],
     [
         "SingularityCore",
-        "Singularity Core"
+        "Ядро сингулярности"
     ],
     [
         "QuantumBrain",
-        "Quantum Brain"
+        "Квантовый мозг"
     ],
     [
         "Catalyst",
-        "Catalyst Cell"
+        "Ячейка катализатор"
     ],
     [
         "ControlCell",
-        "Control Cell"
+        "Ячейка поглотитель"
     ],
     [
         "ReflectorCell",
-        "Reflector Cell"
+        "Ячейка отражатель"
     ],
     [
         "ThoriumCell",
-        "Thorium Cell"
+        "Ячейка тория"
     ],
     [
         "MixedOxideCell",
-        "Mixed-Oxide Cell"
+        "Ячейка MOX"
     ],
     [
         "RutileCrystal",
-        "Rutile Crystal"
+        "Кристал рутила"
     ],
     [
         "UraniniteCrystal",
-        "Uraninite Crystal"
+        "Кристал уранита"
     ],
     [
         "UraniniteCluster",
-        "Uraninite Cluster"
+        "Уранитовый кластер"
     ],
     [
         "CinnabarDust",
-        "Cinnabar Dust"
+        "Пыль сульфида ртути"
     ],
     [
         "CinnabarCrystal",
-        "Cinnabar Crystal"
+        "Кристалл сульфида ртути"
     ],
     [
         "CinnabarCluster",
-        "Cinnabar Cluster"
+        "Кластер сульфида ртути"
     ],
     [
         "MalachiteDust",
-        "Malachite Dust"
+        "Пыль малахита"
     ],
     [
         "MalachiteCrystal",
-        "Malachite Crystal"
+        "Кристалл малахита"
     ],
     [
         "MalachiteCluster",
-        "Malachite Cluster"
+        "Малахитовый кластер"
     ],
     [
         "Mercury",
-        "Mercury"
+        "Ртуть"
     ],
     [
         "FilteringCell",
-        "Filtering Cell"
+        "Фильтрующая ячейка"
     ],
     [
         "BoronDust",
-        "Boron Dust"
+        "Пыль бора"
     ],
     [
         "BoraxDust",
-        "Borax Dust"
+        "Пыль буры"
     ],
     [
         "Emerald",
-        "Emerald"
+        "Изумруд"
     ],
     [
         "EmeraldDust",
-        "Emerald Dust"
+        "Пыль изумруда"
     ]
 ]

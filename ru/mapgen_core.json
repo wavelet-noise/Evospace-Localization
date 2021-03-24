@@ -1,86 +1,86 @@
 [
     [
         "SandSurface",
-        "Sand"
+        "Песок"
     ],
     [
         "SandstoneSurface",
-        "Sandstone"
+        "Песчаник"
     ],
     [
         "StoneSurface",
-        "Stone"
+        "Камень"
     ],
     [
         "DesertSandSurface",
-        "Desert Sand"
+        "Песок пустыни"
     ],
     [
         "GrassSurface",
-        "Grass"
+        "Трава"
     ],
     [
         "BogFogSurface",
-        "Bog Fog"
+        "Болото"
     ],
     [
         "LavaSmokeSurface",
-        "Lava Smoke"
+        "Лава"
     ],
     [
         "LavaSurface",
-        "Lava"
+        "Лава"
     ],
     [
         "BasaltSurface",
-        "Basalt"
+        "Базальт"
     ],
     [
         "BogSurface",
-        "Bog"
+        "Болото"
     ],
     [
         "PineForestSurface",
-        "Pine Forest"
+        "Земля"
     ],
     [
         "CoralBubbleEmitterSurface",
-        "Coral Bubble Emitter"
+        "Песок"
     ],
     [
         "DirtSurface",
-        "Dirt"
+        "Земля"
     ],
     [
         "GravelSurface",
-        "Gravel"
+        "Гравий"
     ],
     [
         "DryGrassSurface",
-        "Dry Grass"
+        "Сухая трава"
     ],
     [
         "LimestoneSurface",
-        "Limestone"
+        "Известняк"
     ],
     [
         "RedStoneSurface",
-        "Red Stone"
+        "Красный камень"
     ],
     [
         "DarkStoneSurface",
-        "Dark Stone"
+        "Темный камень"
     ],
     [
         "SnowSurface",
-        "Snow"
+        "Снег"
     ],
     [
         "GraniteSurface",
-        "Granite"
+        "Гранит"
     ],
     [
         "PeatSurface",
-        "Peat"
+        "Торф"
     ]
 ]

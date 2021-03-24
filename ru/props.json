@@ -1,99 +1,99 @@
 [
     [
         "Cactus",
-        "Cactus"
+        "Кактус"
     ],
     [
         "Dandaleon",
-        "Dandaleon"
+        "Одуванчик"
     ],
     [
         "Fern",
-        "Fern"
+        "Папоротник"
     ],
     [
         "LongGrass",
-        "Long Grass"
+        "Длинная трава"
     ],
     [
         "SeaPlant",
-        "Sea Plant"
+        "Водное растение"
     ],
     [
         "SeaGrass",
-        "Sea Grass"
+        "Водное растение"
     ],
     [
         "TallGrass",
-        "Tall Grass"
+        "Высокая трава"
     ],
     [
         "Broadleaf",
-        "Broadleaf"
+        "Широколист"
     ],
     [
         "Noleafes",
-        "Noleafes"
+        "Сухое дерево"
     ],
     [
         "Shrub",
-        "Shrub"
+        "Куст"
     ],
     [
         "Rock",
-        "Rock"
+        "Камень"
     ],
     [
         "Pine",
-        "Pine"
+        "Сосна"
     ],
     [
         "SnowyPine",
-        "Snowy Pine"
+        "Заснеженная сосна"
     ],
     [
         "Birch",
-        "Birch"
+        "Береза"
     ],
     [
         "Palm",
-        "Palm"
+        "Пальма"
     ],
     [
         "Rogoz",
-        "Rogoz"
+        "Рогоз"
     ],
     [
         "Lily",
-        "Lily"
+        "Кувшинка"
     ],
     [
         "LilyFlower",
-        "Lily Flower"
+        "Цветок кувшинки"
     ],
     [
         "Shroom",
-        "Shroom"
+        "Гриб"
     ],
     [
         "YellowFlower",
-        "Yellow Flower"
+        "Желтый цветок"
     ],
     [
         "RedFlower",
-        "Red Flower"
+        "Красный цветок"
     ],
     [
         "WhiteFlower",
-        "White Flower"
+        "Белый цветок"
     ],
     [
         "BigBush",
-        "Big Bush"
+        "Большой куст"
     ],
     [
         "SmallRock",
-        "Small Rock"
+        "Маленький камень"
     ],
     [
         "Diptero",
@@ -101,18 +101,18 @@
     ],
     [
         "DryGrass",
-        "Dry Grass"
+        "Сухая трава"
     ],
     [
         "VolcanicRock",
-        "Volcanic Rock"
+        "Базальтовая глыба"
     ],
     [
         "SnowyRock",
-        "Snowy Rock"
+        "Заснеженный камень"
     ],
     [
         "SnowyGrass",
-        "Snowy Grass"
+        "Мерзлая трава"
     ]
 ]

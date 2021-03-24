@@ -13,7 +13,7 @@
     ],
     [
         "DecorationWood",
-        "Декоративная двересина"
+        "Декоративная древесина"
     ],
     [
         "DecorationStone",
@@ -33,7 +33,7 @@
     ],
     [
         "Metalwork",
-        "Работа с металом"
+        "Работа с металлом"
     ],
     [
         "Screwdriver",
@@ -237,78 +237,78 @@
     ],
     [
         "InventoryUpgrade",
-        "Inventory Upgrade"
+        "Увеличение инвентаря"
     ],
     [
         "PlutoniumReaction",
-        "Plutonium Reaction"
+        "Реакции с плутонием"
     ],
     [
         "ThoriumReaction",
-        "Thorium Reaction"
+        "Реакции с торием"
     ],
     [
         "Container",
-        "Fluid Storage"
+        "Хранилище жидкостей"
     ],
     [
         "SingleTypeStorage",
-        "Single Type Storage"
+        "Улучшенное хранение"
     ],
     [
         "Sign",
-        "Sign"
+        "Знак"
     ],
     [
         "FluidFurnace",
-        "FluidFurnace"
+        "Жидкостная печь"
     ],
     [
         "Scaffold",
-        "Scaffold"
+        "Строительные леса"
     ],
     [
         "Lamp",
-        "Lamp"
+        "Лампа"
     ],
     [
         "AluminiumProduction",
-        "Aluminium Production"
+        "Производство алюминия"
     ],
     [
         "Steelwork",
-        "Steelwork"
+        "Литье стали"
     ],
     [
         "Filtering",
-        "Filtering"
+        "Фильтрация"
     ],
     [
         "DecorativeWood",
-        "Decorative Wood"
+        "Декоративное дерево"
     ],
     [
         "DecorativePlastic",
-        "Decorative Plastic"
+        "Декоративный пластик"
     ],
     [
         "DecorativeStone",
-        "Decorative Stone"
+        "Декоративный камень"
     ],
     [
         "DecorativeConcrete",
-        "Decorative Concrete"
+        "Декоративный бетон"
     ],
     [
         "ReinforcedConcrete",
-        "Decorative Reinforced Concrete"
+        "Декоративный укрепленный бетон"
     ],
     [
         "AdvancedReflection",
-        "Advanced Reflection"
+        "Улучшенные отражатели"
     ],
     [
         "ReactionThrottling",
-        "Reaction Throttling"
+        "Замедление ядерных реакций"
     ]
 ]
