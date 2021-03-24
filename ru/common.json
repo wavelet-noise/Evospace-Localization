@@ -102,5 +102,41 @@
     [
         "ElectricStorage",
         "Хранит электричество<img id=\"Electricity2\"></>"
-    ]
+    ],
+	[
+        "Stone",
+        "из камня"
+    ],
+    [
+        "Copper",
+        "из меди"
+    ],
+    [
+        "Steel",
+        "из стали"
+    ],
+    [
+        "Aluminium",
+        "из алюминия"
+    ],
+    [
+        "StainlessSteel",
+        "из нержавеющей стали"
+    ],
+    [
+        "Titanium",
+        "из титана"
+    ],
+    [
+        "HardMetal",
+        "из победита"
+    ],
+    [
+        "Neutronium",
+        "из нейтрония"
+    ],
+	[
+		"machines_label_formal",
+		"{1} {0}"
+	]
 ]

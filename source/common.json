@@ -250,5 +250,9 @@
     [
         "WorldGeneratorPlains",
         "Plains and coast"
+    ],
+    [
+        "machines_label_formal",
+        "{0} {1}"
     ]
 ]

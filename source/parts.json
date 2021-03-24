@@ -1,37 +1,5 @@
 [
     [
-        "Stone",
-        "Stone"
-    ],
-    [
-        "Copper",
-        "Copper"
-    ],
-    [
-        "Steel",
-        "Steel"
-    ],
-    [
-        "Aluminium",
-        "Aluminium"
-    ],
-    [
-        "StainlessSteel",
-        "Stainless Steel"
-    ],
-    [
-        "Titanium",
-        "Titanium"
-    ],
-    [
-        "HardMetal",
-        "Hard Metal"
-    ],
-    [
-        "Neutronium",
-        "Neutronium"
-    ],
-    [
         "CopperPlate",
         "Copper Plate"
     ],
@@ -150,6 +118,14 @@
     [
         "GoldDust",
         "Gold Dust"
+    ],
+    [
+        "SuperconductorIngot",
+        "Superconductor Ingot"
+    ],
+    [
+        "SuperconductorDust",
+        "Superconductor Dust"
     ],
     [
         "IronIngot",
@@ -510,6 +486,10 @@
     [
         "GoldWire",
         "Gold Wire"
+    ],
+    [
+        "SuperconductorWire",
+        "Superconductor Wire"
     ],
     [
         "Circuit",

@@ -128,6 +128,10 @@
         ""
     ],
     [
+        "IndustrialElectricEngine",
+        ""
+    ],
+    [
         "RobotArm",
         ""
     ],
@@ -149,6 +153,10 @@
     ],
     [
         "SteamTurbine",
+        ""
+    ],
+    [
+        "IndustrialSteamTurbine",
         ""
     ],
     [
@@ -329,6 +337,10 @@
     ],
     [
         "FusionReactor",
+        ""
+    ],
+    [
+        "IndustrialBoiler",
         ""
     ],
     [
