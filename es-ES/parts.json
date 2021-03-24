@@ -280,7 +280,7 @@
         "Polvo de Neutronio"
     ],
     [
-        "ChromeDust",
+        "ChromiumDust",
         "Polvo de cromo"
     ],
     [
@@ -472,7 +472,7 @@
         "Nitrógeno"
     ],
     [
-        "ChromeOxideDust",
+        "ChromiumOxideDust",
         "Polvo de óxido de cromo"
     ],
     [
@@ -572,10 +572,6 @@
         "Cristal de Rutilo"
     ],
     [
-        "FlawlessRuby",
-        "Rubí Perfecto"
-    ],
-    [
         "UraniniteCrystal",
         "Cristal de Uraninita"
     ],
@@ -614,6 +610,22 @@
     [
         "FilteringCell",
         "Celda de Filtrado"
+    ],
+    [
+        "BoronDust",
+        "Polvo de Boro"
+    ],
+    [
+        "BoraxDust",
+        "Polvo de Bórax"
+    ],
+    [
+        "Emerald",
+        "Esmeralda"
+    ],
+    [
+        "EmeraldDust",
+        "Polvo de Esmeralda"
     ],
     [
         "A",
@@ -721,7 +733,7 @@
     ],
     [
         "ErrorString",
-        "Cadena de error"
+        "Errod de cadena"
     ],
     [
         "Multitool",
