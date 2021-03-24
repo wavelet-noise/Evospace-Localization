@@ -153,87 +153,87 @@
     ],
     [
         "Fluid",
-        "Fluid"
+        "Жидкость"
     ],
     [
         "Gas",
-        "Gas"
+        "Газ"
     ],
     [
         "ByPipes",
-        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+        "Может перемещаться по трубам.\nДля входа/выхода из машины используется помпа."
     ],
     [
         "WorldObject",
-        "Can't be crafted\nAppears in world"
+        "Не может быть произведено.\nПоявляется в мире"
     ],
     [
         "Circuit",
-        "Part of smart devices\nUsed by computers to produce science points"
+        "Часть умных устройств.\nИспользуется компьютерами для производтва очков науки."
     ],
     [
         "FluidConductor",
-        "Conducts fluids"
+        "Перемещает жидкости"
     ],
     [
         "FluidStorage",
-        "Stores fluids"
+        "Хранит жидкости"
     ],
     [
         "ips",
-        "Items per second: %s"
+        "Предметов в секунду: %s"
     ],
     [
         "dps",
-        "Degrees per second: %s"
+        "Градусов в секунду: %s"
     ],
     [
         "power_limit",
-        "Power limit: %sW"
+        "Ограничение мощности: %sВт"
     ],
     [
         "power_output",
-        "Power output: %sW"
+        "Производство энергии: %sВт"
     ],
     [
         "power_input",
-        "Power input: %sW"
+        "Потребление энергии: %sВт"
     ],
     [
         "container",
-        "Capacity: %s L"
+        "Емкость: %s л"
     ],
     [
         "battery",
-        "Capacity: %s J"
+        "Заряд: %s Дж"
     ],
     [
         "chest",
-        "Capacity: %s stacks"
+        "Емкость: %s слотов"
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+        "Горючее<img id=\"Heat2\"></>\nВсего тепла: %sДж"
     ],
     [
         "speedbonus",
-        "Speed bonus: x%s"
+        "Бонус скорости: x%s"
     ],
     [
         "electric_drain",
-        "Electricity drain: %sW"
+        "Потери электроэнергии: %sW"
     ],
     [
         "heat_drain",
-        "Heat drain: %sW"
+        "Потери тепла: %sW"
     ],
     [
         "kinetic_drain",
-        "Kinetic drain: %sW"
+        "Потери кинетической энергии: %sW"
     ],
     [
         "computations",
-        "Computations per second: %s"
+        "Вычислений в секунду: %s"
     ],
     [
         "calculations",
@@ -241,18 +241,18 @@
     ],
     [
         "WorldGeneratorRivers",
-        "Rivers and isles"
+        "Реки и острова"
     ],
     [
         "WorldGeneratorBiome",
-        "Rocky islands"
+        "Скалистые острова"
     ],
     [
         "FlatWorldGenerator",
-        "Concrete world"
+        "Бетонный мир"
     ],
     [
         "WorldGeneratorPlains",
-        "Plains and coast"
+        "Равнины и побережья"
     ]
 ]
