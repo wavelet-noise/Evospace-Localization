@@ -250,5 +250,9 @@
     [
         "WorldGeneratorPlains",
         "Planícies Costeiras"
+    ],
+    [
+        "machines_label_formal",
+        "{0} {1}"
     ]
 ]

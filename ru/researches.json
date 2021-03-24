@@ -234,5 +234,81 @@
     [
         "AdvancedSeparation",
         "Продвинутая сепарация"
+    ],
+    [
+        "InventoryUpgrade",
+        "Inventory Upgrade"
+    ],
+    [
+        "PlutoniumReaction",
+        "Plutonium Reaction"
+    ],
+    [
+        "ThoriumReaction",
+        "Thorium Reaction"
+    ],
+    [
+        "Container",
+        "Fluid Storage"
+    ],
+    [
+        "SingleTypeStorage",
+        "Single Type Storage"
+    ],
+    [
+        "Sign",
+        "Sign"
+    ],
+    [
+        "FluidFurnace",
+        "FluidFurnace"
+    ],
+    [
+        "Scaffold",
+        "Scaffold"
+    ],
+    [
+        "Lamp",
+        "Lamp"
+    ],
+    [
+        "AluminiumProduction",
+        "Aluminium Production"
+    ],
+    [
+        "Steelwork",
+        "Steelwork"
+    ],
+    [
+        "Filtering",
+        "Filtering"
+    ],
+    [
+        "DecorativeWood",
+        "Decorative Wood"
+    ],
+    [
+        "DecorativePlastic",
+        "Decorative Plastic"
+    ],
+    [
+        "DecorativeStone",
+        "Decorative Stone"
+    ],
+    [
+        "DecorativeConcrete",
+        "Decorative Concrete"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Decorative Reinforced Concrete"
+    ],
+    [
+        "AdvancedReflection",
+        "Advanced Reflection"
+    ],
+    [
+        "ReactionThrottling",
+        "Reaction Throttling"
     ]
 ]

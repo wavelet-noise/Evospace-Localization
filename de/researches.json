@@ -7,15 +7,15 @@
         "MineralsScan",
         "Mineralien Erfassung"
     ],
-	[
+    [
         "Electricity",
         "Elektricität"
     ],
-	[
+    [
         "Smelting",
         "Schmelzofen"
     ],
-	[
+    [
         "Metalwork",
         "Schmiedekunst"
     ],
@@ -27,7 +27,7 @@
         "DecorationWood",
         "Dekoratives Holz"
     ],
-	[
+    [
         "DecorativePlastic",
         "Dekorativer Kunststoff"
     ],
@@ -35,7 +35,7 @@
         "DecorationStone",
         "Dekorativer Stein"
     ],
-	[
+    [
         "DecorativeConcrete",
         "Decorativer Beton"
     ],
@@ -71,7 +71,7 @@
         "HardMetalProduction",
         "Hartmetall Produktion"
     ],
-	[
+    [
         "AntigravityUnit",
         "Antigravititäts-Einheit"
     ],
@@ -131,11 +131,11 @@
         "Valve",
         "Ventil"
     ],
-	[
+    [
         "Terminal",
         "Bildschirme"
     ],
-	[
+    [
         "FlatTerminal",
         "Flachbildschirme"
     ],
@@ -251,11 +251,11 @@
         "FluidFurnace",
         "Flüssigkeits-Ofen"
     ],
-	[
+    [
         "MetalConstructions",
         "Metal Konstruktionen"
     ],
-	[
+    [
         "Scaffold",
         "Gerüst"
     ],
@@ -334,5 +334,53 @@
     [
         "FissionReactor",
         "Atom-Zerfall"
+    ],
+    [
+        "InventoryUpgrade",
+        "Inventory Upgrade"
+    ],
+    [
+        "PlutoniumReaction",
+        "Plutonium Reaction"
+    ],
+    [
+        "ThoriumReaction",
+        "Thorium Reaction"
+    ],
+    [
+        "Container",
+        "Fluid Storage"
+    ],
+    [
+        "AluminiumProduction",
+        "Aluminium Production"
+    ],
+    [
+        "Steelwork",
+        "Steelwork"
+    ],
+    [
+        "Filtering",
+        "Filtering"
+    ],
+    [
+        "DecorativeWood",
+        "Decorative Wood"
+    ],
+    [
+        "DecorativeStone",
+        "Decorative Stone"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Decorative Reinforced Concrete"
+    ],
+    [
+        "AdvancedReflection",
+        "Advanced Reflection"
+    ],
+    [
+        "ReactionThrottling",
+        "Reaction Throttling"
     ]
 ]

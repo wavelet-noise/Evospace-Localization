@@ -103,7 +103,7 @@
         "ElectricStorage",
         "Хранит электричество<img id=\"Electricity2\"></>"
     ],
-	[
+    [
         "Stone",
         "из камня"
     ],
@@ -135,8 +135,124 @@
         "Neutronium",
         "из нейтрония"
     ],
-	[
-		"machines_label_formal",
-		"{1} {0}"
-	]
+    [
+        "machines_label_formal",
+        "{1} {0}"
+    ],
+    [
+        "Organics",
+        "Mixed organics mass"
+    ],
+    [
+        "BuildingBlock",
+        "Building block"
+    ],
+    [
+        "NuclearFuel",
+        "Fuel for Fission Reactor"
+    ],
+    [
+        "Fluid",
+        "Fluid"
+    ],
+    [
+        "Gas",
+        "Gas"
+    ],
+    [
+        "ByPipes",
+        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+    ],
+    [
+        "WorldObject",
+        "Can't be crafted\nAppears in world"
+    ],
+    [
+        "Circuit",
+        "Part of smart devices\nUsed by computers to produce science points"
+    ],
+    [
+        "FluidConductor",
+        "Conducts fluids"
+    ],
+    [
+        "FluidStorage",
+        "Stores fluids"
+    ],
+    [
+        "ips",
+        "Items per second: %s"
+    ],
+    [
+        "dps",
+        "Degrees per second: %s"
+    ],
+    [
+        "power_limit",
+        "Power limit: %sW"
+    ],
+    [
+        "power_output",
+        "Power output: %sW"
+    ],
+    [
+        "power_input",
+        "Power input: %sW"
+    ],
+    [
+        "container",
+        "Capacity: %s L"
+    ],
+    [
+        "battery",
+        "Capacity: %s J"
+    ],
+    [
+        "chest",
+        "Capacity: %s stacks"
+    ],
+    [
+        "burnable",
+        "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+    ],
+    [
+        "speedbonus",
+        "Speed bonus: x%s"
+    ],
+    [
+        "electric_drain",
+        "Electricity drain: %sW"
+    ],
+    [
+        "heat_drain",
+        "Heat drain: %sW"
+    ],
+    [
+        "kinetic_drain",
+        "Kinetic drain: %sW"
+    ],
+    [
+        "computations",
+        "Computations per second: %s"
+    ],
+    [
+        "calculations",
+        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
+    ],
+    [
+        "WorldGeneratorRivers",
+        "Rivers and isles"
+    ],
+    [
+        "WorldGeneratorBiome",
+        "Rocky islands"
+    ],
+    [
+        "FlatWorldGenerator",
+        "Concrete world"
+    ],
+    [
+        "WorldGeneratorPlains",
+        "Plains and coast"
+    ]
 ]

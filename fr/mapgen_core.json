@@ -1,0 +1,86 @@
+[
+    [
+        "SandSurface",
+        "Sand"
+    ],
+    [
+        "SandstoneSurface",
+        "Sandstone"
+    ],
+    [
+        "StoneSurface",
+        "Stone"
+    ],
+    [
+        "DesertSandSurface",
+        "Desert Sand"
+    ],
+    [
+        "GrassSurface",
+        "Grass"
+    ],
+    [
+        "BogFogSurface",
+        "Bog Fog"
+    ],
+    [
+        "LavaSmokeSurface",
+        "Lava Smoke"
+    ],
+    [
+        "LavaSurface",
+        "Lava"
+    ],
+    [
+        "BasaltSurface",
+        "Basalt"
+    ],
+    [
+        "BogSurface",
+        "Bog"
+    ],
+    [
+        "PineForestSurface",
+        "Pine Forest"
+    ],
+    [
+        "CoralBubbleEmitterSurface",
+        "Coral Bubble Emitter"
+    ],
+    [
+        "DirtSurface",
+        "Dirt"
+    ],
+    [
+        "GravelSurface",
+        "Gravel"
+    ],
+    [
+        "DryGrassSurface",
+        "Dry Grass"
+    ],
+    [
+        "LimestoneSurface",
+        "Limestone"
+    ],
+    [
+        "RedStoneSurface",
+        "Red Stone"
+    ],
+    [
+        "DarkStoneSurface",
+        "Dark Stone"
+    ],
+    [
+        "SnowSurface",
+        "Snow"
+    ],
+    [
+        "GraniteSurface",
+        "Granite"
+    ],
+    [
+        "PeatSurface",
+        "Peat"
+    ]
+]

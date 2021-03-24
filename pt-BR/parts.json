@@ -730,5 +730,33 @@
     [
         "Screwdriver",
         "Chave Philips"
+    ],
+    [
+        "SuperconductorIngot",
+        "Superconductor Ingot"
+    ],
+    [
+        "SuperconductorDust",
+        "Superconductor Dust"
+    ],
+    [
+        "SuperconductorWire",
+        "Superconductor Wire"
+    ],
+    [
+        "BoronDust",
+        "Boron Dust"
+    ],
+    [
+        "BoraxDust",
+        "Borax Dust"
+    ],
+    [
+        "Emerald",
+        "Emerald"
+    ],
+    [
+        "EmeraldDust",
+        "Emerald Dust"
     ]
 ]

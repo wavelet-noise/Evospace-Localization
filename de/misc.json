@@ -51,7 +51,7 @@
         "FireCup",
         "Feuer-Schale"
     ],
-	[
+    [
         "PlasticWindow",
         "Kunststoff Fenster"
     ],
@@ -127,7 +127,7 @@
         "DarkBricks",
         "Dunkle Ziegel"
     ],
-	[
+    [
         "TerracottaBricks",
         "Back-Ziegel"
     ],
@@ -135,11 +135,11 @@
         "Concrete",
         "Beton"
     ],
-	[
+    [
         "ConcreteBricks",
         "Beton-Ziegel"
     ],
-	[
+    [
         "ConcreteTiles",
         "Beton-Fließen"
     ],
@@ -202,5 +202,29 @@
     [
         "Scanner",
         "Scanner"
+    ],
+    [
+        "WoodenStairs",
+        "Wooden Stairs"
+    ],
+    [
+        "WoodenPlanks",
+        "Wooden Planks"
+    ],
+    [
+        "Torch",
+        "Torch"
+    ],
+    [
+        "NightVision",
+        "Night Vision"
+    ],
+    [
+        "AdvancedNightVision",
+        "Advanced Night Vision"
+    ],
+    [
+        "AdvancedJetpack",
+        "Advanced Jetpack"
     ]
 ]

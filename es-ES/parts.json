@@ -742,5 +742,17 @@
     [
         "Screwdriver",
         "Destornillador"
+    ],
+    [
+        "SuperconductorIngot",
+        "Superconductor Ingot"
+    ],
+    [
+        "SuperconductorDust",
+        "Superconductor Dust"
+    ],
+    [
+        "SuperconductorWire",
+        "Superconductor Wire"
     ]
 ]

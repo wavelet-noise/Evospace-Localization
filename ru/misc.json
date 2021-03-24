@@ -158,5 +158,65 @@
     [
         "Jetpack",
         "Джетпак"
+    ],
+    [
+        "PlasticWindow",
+        "Plastic Window"
+    ],
+    [
+        "TerracottaTiles",
+        "Terracotta Tiles"
+    ],
+    [
+        "TerracottaBricks",
+        "Terracotta Bricks"
+    ],
+    [
+        "ConcreteBricks",
+        "Concrete Bricks"
+    ],
+    [
+        "ConcreteTiles",
+        "Concrete Tiles"
+    ],
+    [
+        "ConcreteSmallTiles",
+        "Concrete Small Tiles"
+    ],
+    [
+        "ReinforcedConcreteTiles",
+        "Reinforced Concrete Tiles"
+    ],
+    [
+        "ReinforcedConcreteSmallTiles",
+        "Reinforced Concrete Small Tiles"
+    ],
+    [
+        "ReinforcedConcreteBricks",
+        "Reinforced Concrete Bricks"
+    ],
+    [
+        "Torch",
+        "Torch"
+    ],
+    [
+        "NightVision",
+        "Night Vision"
+    ],
+    [
+        "AdvancedNightVision",
+        "Advanced Night Vision"
+    ],
+    [
+        "AdvancedJetpack",
+        "Advanced Jetpack"
+    ],
+    [
+        "AntigravityUnit",
+        "Antigravity Unit"
+    ],
+    [
+        "Scanner",
+        "Scanner"
     ]
 ]

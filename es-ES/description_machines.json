@@ -350,5 +350,21 @@
     [
         "CreativeController",
         "Consola Creativo"
+    ],
+    [
+        "IndustrialElectricEngine",
+        ""
+    ],
+    [
+        "IndustrialSteamTurbine",
+        ""
+    ],
+    [
+        "Riteg",
+        ""
+    ],
+    [
+        "IndustrialBoiler",
+        ""
     ]
 ]

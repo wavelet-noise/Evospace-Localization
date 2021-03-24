@@ -1,0 +1,198 @@
+[
+    [
+        "InventoryUpgrade",
+        "Inventory Upgrade"
+    ],
+    [
+        "PlutoniumReaction",
+        "Plutonium Reaction"
+    ],
+    [
+        "ThoriumReaction",
+        "Thorium Reaction"
+    ],
+    [
+        "Drying",
+        "Drying"
+    ],
+    [
+        "PowerGeneration",
+        "Power Generation"
+    ],
+    [
+        "Automatization",
+        "Automatization"
+    ],
+    [
+        "AdditionalStorage",
+        "Additional Storage"
+    ],
+    [
+        "HeatTransferring",
+        "Heat Transferring"
+    ],
+    [
+        "BasicMachines",
+        "Basic Machines"
+    ],
+    [
+        "Container",
+        "Fluid Storage"
+    ],
+    [
+        "FluidDumping",
+        "Fluid Dumping"
+    ],
+    [
+        "SingleTypeStorage",
+        "Single Type Storage"
+    ],
+    [
+        "DistributedComputing",
+        "Distributed Computing"
+    ],
+    [
+        "Electrolysis",
+        "Electrolysis"
+    ],
+    [
+        "Sign",
+        "Sign"
+    ],
+    [
+        "Cutting",
+        "Cutting"
+    ],
+    [
+        "SteelProduction",
+        "Steel Production"
+    ],
+    [
+        "AutomaticMining",
+        "Automatic Mining"
+    ],
+    [
+        "FluidFurnace",
+        "FluidFurnace"
+    ],
+    [
+        "MetalConstructions",
+        "Metal Constructions"
+    ],
+    [
+        "Scaffold",
+        "Scaffold"
+    ],
+    [
+        "Lamp",
+        "Lamp"
+    ],
+    [
+        "Chemistry",
+        "Chemistry"
+    ],
+    [
+        "MassivePowerGeneration",
+        "Massive Power Generation"
+    ],
+    [
+        "AdvancedSmelting",
+        "Advanced Smelting"
+    ],
+    [
+        "IndustrialSmelting",
+        "Industrial Smelting"
+    ],
+    [
+        "Fermentation",
+        "Fermentation"
+    ],
+    [
+        "AdvancedSeparation",
+        "Advanced Separation"
+    ],
+    [
+        "NeutroniumProduction",
+        "Neutronium Production"
+    ],
+    [
+        "AluminiumProduction",
+        "Aluminium Production"
+    ],
+    [
+        "StainlessSteelProduction",
+        "Stainless Steel Production"
+    ],
+    [
+        "TitaniumProduction",
+        "Titanium Production"
+    ],
+    [
+        "HardMetalProduction",
+        "Hard Metal Production"
+    ],
+    [
+        "PlantsScan",
+        "Plants Scan"
+    ],
+    [
+        "InitialScan",
+        "Initial Scan"
+    ],
+    [
+        "MineralsScan",
+        "Minerals Scan"
+    ],
+    [
+        "Electricity",
+        "Electricity"
+    ],
+    [
+        "Smelting",
+        "Smelting"
+    ],
+    [
+        "Metalwork",
+        "Metalwork"
+    ],
+    [
+        "Steelwork",
+        "Steelwork"
+    ],
+    [
+        "Filtering",
+        "Filtering"
+    ],
+    [
+        "DecorativeWood",
+        "Decorative Wood"
+    ],
+    [
+        "DecorativePlastic",
+        "Decorative Plastic"
+    ],
+    [
+        "DecorativeStone",
+        "Decorative Stone"
+    ],
+    [
+        "DecorativeConcrete",
+        "Decorative Concrete"
+    ],
+    [
+        "DecorationClay",
+        "Decoration Clay"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Decorative Reinforced Concrete"
+    ],
+    [
+        "AdvancedReflection",
+        "Advanced Reflection"
+    ],
+    [
+        "ReactionThrottling",
+        "Reaction Throttling"
+    ]
+]

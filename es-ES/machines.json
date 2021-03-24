@@ -197,7 +197,7 @@
     ],
     [
         "SmallBattery",
-        "Batería Pequeña"  
+        "Batería Pequeña"
     ],
     [
         "DrillingRig",
@@ -350,5 +350,21 @@
     [
         "CreativeController",
         "Consola Creativo"
+    ],
+    [
+        "IndustrialElectricEngine",
+        "Industrial Electric Engine"
+    ],
+    [
+        "IndustrialSteamTurbine",
+        "Industrial Steam Turbine"
+    ],
+    [
+        "Riteg",
+        "Riteg"
+    ],
+    [
+        "IndustrialBoiler",
+        "Industrial Boiler"
     ]
 ]

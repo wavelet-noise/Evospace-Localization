@@ -350,5 +350,21 @@
     [
         "CreativeController",
         "Controle"
+    ],
+    [
+        "IndustrialElectricEngine",
+        "Industrial Electric Engine"
+    ],
+    [
+        "IndustrialSteamTurbine",
+        "Industrial Steam Turbine"
+    ],
+    [
+        "Riteg",
+        "Riteg"
+    ],
+    [
+        "IndustrialBoiler",
+        "Industrial Boiler"
     ]
 ]

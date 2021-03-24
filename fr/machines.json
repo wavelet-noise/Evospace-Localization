@@ -1,0 +1,370 @@
+[
+    [
+        "Macerator",
+        "Macerator"
+    ],
+    [
+        "CuttingMachine",
+        "Cutting Machine"
+    ],
+    [
+        "Fermenter",
+        "Fermenter"
+    ],
+    [
+        "ChemReactor",
+        "Chemical Reactor"
+    ],
+    [
+        "Separator",
+        "Separator"
+    ],
+    [
+        "Beam",
+        "Beam"
+    ],
+    [
+        "Corner",
+        "Corner"
+    ],
+    [
+        "AutomaticHammer",
+        "Automatic Hammer"
+    ],
+    [
+        "Boiler",
+        "Boiler"
+    ],
+    [
+        "Pipe",
+        "Pipe"
+    ],
+    [
+        "HeatPipe",
+        "Heat Pipe"
+    ],
+    [
+        "Flywheel",
+        "Flywheel"
+    ],
+    [
+        "Scaffold",
+        "Scaffold"
+    ],
+    [
+        "Sign",
+        "Sign"
+    ],
+    [
+        "AdvancedSign",
+        "Advanced Sign"
+    ],
+    [
+        "Connector",
+        "Cable"
+    ],
+    [
+        "Chest",
+        "Chest"
+    ],
+    [
+        "ItemRack",
+        "Item Rack"
+    ],
+    [
+        "Vent",
+        "Valve"
+    ],
+    [
+        "ElectricalSwitch",
+        "Switch"
+    ],
+    [
+        "OreWasher",
+        "Ore Washer"
+    ],
+    [
+        "Conveyor",
+        "Conveyor"
+    ],
+    [
+        "Splitter",
+        "Splitter"
+    ],
+    [
+        "Sorter",
+        "Sorter"
+    ],
+    [
+        "Container",
+        "Container"
+    ],
+    [
+        "Press",
+        "Press"
+    ],
+    [
+        "StirlingEngine",
+        "Stirling Engine"
+    ],
+    [
+        "CombustionEngine",
+        "Combustion Engine"
+    ],
+    [
+        "PyrolysisUnit",
+        "Pyrolysis Unit"
+    ],
+    [
+        "Generator",
+        "Generator"
+    ],
+    [
+        "CompactGenerator",
+        "Compact Generator"
+    ],
+    [
+        "ElectricEngine",
+        "Electric Engine"
+    ],
+    [
+        "IndustrialElectricEngine",
+        "Industrial Electric Engine"
+    ],
+    [
+        "RobotArm",
+        "Robot Arm"
+    ],
+    [
+        "FilteringRobotArm",
+        "Filtering Robot Arm"
+    ],
+    [
+        "Pump",
+        "Pump"
+    ],
+    [
+        "FilteringPump",
+        "Filtering Pump"
+    ],
+    [
+        "Smelter",
+        "Smelter"
+    ],
+    [
+        "SteamTurbine",
+        "Steam Turbine"
+    ],
+    [
+        "IndustrialSteamTurbine",
+        "Industrial Steam Turbine"
+    ],
+    [
+        "GasTurbine",
+        "Gas Turbine"
+    ],
+    [
+        "Riteg",
+        "Riteg"
+    ],
+    [
+        "ArcSmelter",
+        "Arc Smelter"
+    ],
+    [
+        "ChemicalBath",
+        "Chemical Bath"
+    ],
+    [
+        "Sifter",
+        "Sifter"
+    ],
+    [
+        "FilteringUnit",
+        "Filtering Unit"
+    ],
+    [
+        "Furnace",
+        "Furnace"
+    ],
+    [
+        "Oven",
+        "Oven"
+    ],
+    [
+        "BlastFurnace",
+        "Blast Furnace"
+    ],
+    [
+        "FluidFurnace",
+        "Fluid Furnace"
+    ],
+    [
+        "ElectricFurnace",
+        "Electric Furnace"
+    ],
+    [
+        "BatteryBox",
+        "Battery Box"
+    ],
+    [
+        "SmallBattery",
+        "Small Battery"
+    ],
+    [
+        "DrillingRig",
+        "Drilling Rig"
+    ],
+    [
+        "Assembler",
+        "Assembler"
+    ],
+    [
+        "Constructor",
+        "Constructor"
+    ],
+    [
+        "Deconstructor",
+        "Deconstructor"
+    ],
+    [
+        "FluidDump",
+        "Fluid Dump"
+    ],
+    [
+        "GasDump",
+        "Gas Dump"
+    ],
+    [
+        "SolidDump",
+        "Solid Dump"
+    ],
+    [
+        "Lamp",
+        "Lamp"
+    ],
+    [
+        "AdminElectricGenerator",
+        "Creative Electric Generator"
+    ],
+    [
+        "AdminItemGenerator",
+        "Creative Item Generator"
+    ],
+    [
+        "AdminKineticGenerator",
+        "Creative Kinetic Generator"
+    ],
+    [
+        "AdminHeatGenerator",
+        "Creative Heat Generator"
+    ],
+    [
+        "AdminFluidGenerator",
+        "Creative Fluid Generator"
+    ],
+    [
+        "AdminExterminator",
+        "Creative Exterminator"
+    ],
+    [
+        "Electrolyzer",
+        "Electrolyzer"
+    ],
+    [
+        "Mixer",
+        "Mixer"
+    ],
+    [
+        "Freezer",
+        "Freezer"
+    ],
+    [
+        "AutomaticFarm",
+        "Automatic Farm"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Atmospheric Condenser"
+    ],
+    [
+        "Terminal",
+        "Terminal"
+    ],
+    [
+        "BigTerminal",
+        "Big Terminal"
+    ],
+    [
+        "HugeTerminal",
+        "Huge Terminal"
+    ],
+    [
+        "FlatTerminal",
+        "Flat Terminal"
+    ],
+    [
+        "BigFlatTerminal",
+        "Big Flat Terminal"
+    ],
+    [
+        "HugeFlatTerminal",
+        "Huge Flat Terminal"
+    ],
+    [
+        "Computer",
+        "Computer"
+    ],
+    [
+        "QuantumComputer",
+        "Quantum Computer"
+    ],
+    [
+        "IndustrialSeparator",
+        "Industrial Separator"
+    ],
+    [
+        "Radiator",
+        "Radiator"
+    ],
+    [
+        "Diode",
+        "Diode"
+    ],
+    [
+        "FissionReactor",
+        "Fission Reactor"
+    ],
+    [
+        "FusionReactor",
+        "Fusion Reactor"
+    ],
+    [
+        "IndustrialBoiler",
+        "Industrial Boiler"
+    ],
+    [
+        "ResearchReactor",
+        "Research Reactor"
+    ],
+    [
+        "SolarPanel",
+        "Solar Panel"
+    ],
+    [
+        "Pumpjack",
+        "Pumpjack"
+    ],
+    [
+        "IndustrialSmelter",
+        "Industrial Smelter"
+    ],
+    [
+        "InductionCoil",
+        "Induction Coil"
+    ],
+    [
+        "CreativeController",
+        "Creative Controller"
+    ]
+]

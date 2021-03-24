@@ -290,5 +290,81 @@
     [
         "InductionCoil",
         "Induktions-Spule"
+    ],
+    [
+        "AdvancedSign",
+        "Advanced Sign"
+    ],
+    [
+        "Splitter",
+        "Splitter"
+    ],
+    [
+        "Sorter",
+        "Sorter"
+    ],
+    [
+        "IndustrialElectricEngine",
+        "Industrial Electric Engine"
+    ],
+    [
+        "IndustrialSteamTurbine",
+        "Industrial Steam Turbine"
+    ],
+    [
+        "Riteg",
+        "Riteg"
+    ],
+    [
+        "Sifter",
+        "Sifter"
+    ],
+    [
+        "FilteringUnit",
+        "Filtering Unit"
+    ],
+    [
+        "SmallBattery",
+        "Small Battery"
+    ],
+    [
+        "Constructor",
+        "Constructor"
+    ],
+    [
+        "Deconstructor",
+        "Deconstructor"
+    ],
+    [
+        "GasDump",
+        "Gas Dump"
+    ],
+    [
+        "SolidDump",
+        "Solid Dump"
+    ],
+    [
+        "Freezer",
+        "Freezer"
+    ],
+    [
+        "QuantumComputer",
+        "Quantum Computer"
+    ],
+    [
+        "FusionReactor",
+        "Fusion Reactor"
+    ],
+    [
+        "IndustrialBoiler",
+        "Industrial Boiler"
+    ],
+    [
+        "ResearchReactor",
+        "Research Reactor"
+    ],
+    [
+        "CreativeController",
+        "Creative Controller"
     ]
 ]

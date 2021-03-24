@@ -1,0 +1,222 @@
+[
+    [
+        "Chair",
+        "Wooden Chair"
+    ],
+    [
+        "Table",
+        "Wooden Table"
+    ],
+    [
+        "Rack",
+        "Wooden Rack"
+    ],
+    [
+        "Bed",
+        "Wooden Bed"
+    ],
+    [
+        "Ladder",
+        "Wooden Ladder"
+    ],
+    [
+        "Door",
+        "Wooden Door"
+    ],
+    [
+        "Fence",
+        "Wooden Fence"
+    ],
+    [
+        "Window",
+        "Wooden Window"
+    ],
+    [
+        "CeramicRoof",
+        "Ceramic Roof"
+    ],
+    [
+        "Stairs",
+        "Stairs"
+    ],
+    [
+        "WoodenStairs",
+        "Wooden Stairs"
+    ],
+    [
+        "CopperChair",
+        "Copper Chair"
+    ],
+    [
+        "FireCup",
+        "Fire Cup"
+    ],
+    [
+        "PlasticWindow",
+        "Plastic Window"
+    ],
+    [
+        "Firefly",
+        "Firefly"
+    ],
+    [
+        "Flies",
+        "Flies"
+    ],
+    [
+        "Birds",
+        "Birds"
+    ],
+    [
+        "DesertSound",
+        "Desert Sound"
+    ],
+    [
+        "SwampSound",
+        "Swamp Sound"
+    ],
+    [
+        "Butterfly",
+        "Butterfly"
+    ],
+    [
+        "Leafes",
+        "Leafes"
+    ],
+    [
+        "Bugs",
+        "Bugs"
+    ],
+    [
+        "WoodenPlanks",
+        "Wooden Planks"
+    ],
+    [
+        "AdminBlocks",
+        "Admin Blocks"
+    ],
+    [
+        "StoneTiles",
+        "Stone Tiles"
+    ],
+    [
+        "RedTiles",
+        "Red Tiles"
+    ],
+    [
+        "DarkTiles",
+        "Dark Tiles"
+    ],
+    [
+        "Terracotta",
+        "Terracotta"
+    ],
+    [
+        "TerracottaTiles",
+        "Terracotta Tiles"
+    ],
+    [
+        "Bricks",
+        "Bricks"
+    ],
+    [
+        "RedBricks",
+        "Red Bricks"
+    ],
+    [
+        "DarkBricks",
+        "Dark Bricks"
+    ],
+    [
+        "TerracottaBricks",
+        "Terracotta Bricks"
+    ],
+    [
+        "Concrete",
+        "Concrete"
+    ],
+    [
+        "ConcreteBricks",
+        "Concrete Bricks"
+    ],
+    [
+        "ConcreteTiles",
+        "Concrete Tiles"
+    ],
+    [
+        "ConcreteSmallTiles",
+        "Concrete Small Tiles"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Reinforced Concrete"
+    ],
+    [
+        "ReinforcedConcreteTiles",
+        "Reinforced Concrete Tiles"
+    ],
+    [
+        "ReinforcedConcreteSmallTiles",
+        "Reinforced Concrete Small Tiles"
+    ],
+    [
+        "ReinforcedConcreteBricks",
+        "Reinforced Concrete Bricks"
+    ],
+    [
+        "DangerBlock",
+        "Danger Block"
+    ],
+    [
+        "RustyCopperCasing",
+        "Rusty Copper Casing"
+    ],
+    [
+        "RustyIronCasing",
+        "Rusty Iron Casing"
+    ],
+    [
+        "Column",
+        "Column"
+    ],
+    [
+        "FluetedColumn",
+        "Flueted Column"
+    ],
+    [
+        "Torch",
+        "Torch"
+    ],
+    [
+        "Flashlight",
+        "Flashlight"
+    ],
+    [
+        "NightVision",
+        "Night Vision"
+    ],
+    [
+        "AdvancedNightVision",
+        "Advanced Night Vision"
+    ],
+    [
+        "Steampack",
+        "Steampack"
+    ],
+    [
+        "Jetpack",
+        "Jetpack"
+    ],
+    [
+        "AdvancedJetpack",
+        "Advanced Jetpack"
+    ],
+    [
+        "AntigravityUnit",
+        "Antigravity Unit"
+    ],
+    [
+        "Scanner",
+        "Scanner"
+    ]
+]

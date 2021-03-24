@@ -350,5 +350,21 @@
     [
         "CreativeController",
         "Controlador /nem sei do que/"
+    ],
+    [
+        "IndustrialElectricEngine",
+        ""
+    ],
+    [
+        "IndustrialSteamTurbine",
+        ""
+    ],
+    [
+        "Riteg",
+        ""
+    ],
+    [
+        "IndustrialBoiler",
+        ""
     ]
 ]

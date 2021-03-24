@@ -43,42 +43,42 @@
         "ItemInput",
         "<img id=\"ItemInput\"></>Eingang für Gegenstände"
     ],
-	[
-		"ItemOutput",
-		"<img id=\"ItemOutput\"></>Ausgang für Gegenstände"
-	],
-	[
-		"FluidInput",
-		"<img id=\"FluidInput\"></>Eingang für Flüssigkeiten"
-	],
-	[
-		"FluidOutput",
-		"<img id=\"FluidOutput\"></>Ausgang für Flüssigkeiten"
-	],
-	[
-		"FluidConductor",
-		"Transportiert Flüssigkeiten & Gase"
-	],
-	[
-		"FluidStorage",
-		"Speichert Flüssigkeiten & Gase"
-	],
-	[
-		"KineticInput",
-		"<img id=\"Kinetic\"></>Verbraucht Bewegungsenergie<img id=\"Kinetic2\"></>"
-	],
-	[
-		"KineticOutput",
-		"<img id=\"Kinetic\"></>Erzeugt Bewegungsenergie<img id=\"Kinetic2\"></>"
-	],
-	[
-		"KineticConductor",
-		"<img id=\"Kinetic\"></>Überträgt Bewegungsenergie<img id=\"Kinetic2\"></>"
-	],
-	[
-		"KineticStorage",
-		"Speichert Bewegungsenergie<img id=\"Kinetic2\"></>"
-	],
+    [
+        "ItemOutput",
+        "<img id=\"ItemOutput\"></>Ausgang für Gegenstände"
+    ],
+    [
+        "FluidInput",
+        "<img id=\"FluidInput\"></>Eingang für Flüssigkeiten"
+    ],
+    [
+        "FluidOutput",
+        "<img id=\"FluidOutput\"></>Ausgang für Flüssigkeiten"
+    ],
+    [
+        "FluidConductor",
+        "Transportiert Flüssigkeiten & Gase"
+    ],
+    [
+        "FluidStorage",
+        "Speichert Flüssigkeiten & Gase"
+    ],
+    [
+        "KineticInput",
+        "<img id=\"Kinetic\"></>Verbraucht Bewegungsenergie<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticOutput",
+        "<img id=\"Kinetic\"></>Erzeugt Bewegungsenergie<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticConductor",
+        "<img id=\"Kinetic\"></>Überträgt Bewegungsenergie<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticStorage",
+        "Speichert Bewegungsenergie<img id=\"Kinetic2\"></>"
+    ],
     [
         "HeatInput",
         "<img id=\"Heat\"></>Verbraucht Wärme<img id=\"Heat2\"></>"
@@ -111,7 +111,7 @@
         "ElectricStorage",
         "Speichert Strom<img id=\"Electricity2\"></>"
     ],
-	[
+    [
         "05ips",
         "0.5 Gegenstände pro Sekunde"
     ],
@@ -222,5 +222,149 @@
     [
         "chest7",
         "Lagerplatz 55 VPE"
+    ],
+    [
+        "Organics",
+        "Mixed organics mass"
+    ],
+    [
+        "BuildingBlock",
+        "Building block"
+    ],
+    [
+        "NuclearFuel",
+        "Fuel for Fission Reactor"
+    ],
+    [
+        "Fluid",
+        "Fluid"
+    ],
+    [
+        "Gas",
+        "Gas"
+    ],
+    [
+        "ByPipes",
+        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+    ],
+    [
+        "WorldObject",
+        "Can't be crafted\nAppears in world"
+    ],
+    [
+        "Circuit",
+        "Part of smart devices\nUsed by computers to produce science points"
+    ],
+    [
+        "Stone",
+        "Stone"
+    ],
+    [
+        "Copper",
+        "Copper"
+    ],
+    [
+        "Steel",
+        "Steel"
+    ],
+    [
+        "Aluminium",
+        "Aluminium"
+    ],
+    [
+        "StainlessSteel",
+        "Stainless Steel"
+    ],
+    [
+        "Titanium",
+        "Titanium"
+    ],
+    [
+        "HardMetal",
+        "Hard Metal"
+    ],
+    [
+        "Neutronium",
+        "Neutronium"
+    ],
+    [
+        "ips",
+        "Items per second: %s"
+    ],
+    [
+        "dps",
+        "Degrees per second: %s"
+    ],
+    [
+        "power_limit",
+        "Power limit: %sW"
+    ],
+    [
+        "power_output",
+        "Power output: %sW"
+    ],
+    [
+        "power_input",
+        "Power input: %sW"
+    ],
+    [
+        "container",
+        "Capacity: %s L"
+    ],
+    [
+        "battery",
+        "Capacity: %s J"
+    ],
+    [
+        "chest",
+        "Capacity: %s stacks"
+    ],
+    [
+        "burnable",
+        "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+    ],
+    [
+        "speedbonus",
+        "Speed bonus: x%s"
+    ],
+    [
+        "electric_drain",
+        "Electricity drain: %sW"
+    ],
+    [
+        "heat_drain",
+        "Heat drain: %sW"
+    ],
+    [
+        "kinetic_drain",
+        "Kinetic drain: %sW"
+    ],
+    [
+        "computations",
+        "Computations per second: %s"
+    ],
+    [
+        "calculations",
+        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
+    ],
+    [
+        "WorldGeneratorRivers",
+        "Rivers and isles"
+    ],
+    [
+        "WorldGeneratorBiome",
+        "Rocky islands"
+    ],
+    [
+        "FlatWorldGenerator",
+        "Concrete world"
+    ],
+    [
+        "WorldGeneratorPlains",
+        "Plains and coast"
+    ],
+    [
+        "machines_label_formal",
+        "{0} {1}"
     ]
 ]

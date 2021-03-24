@@ -70,5 +70,9 @@
     [
         "ClayOre",
         "Mineral de arcilla"
+    ],
+    [
+        "AluminiumOreDust",
+        "Aluminium Impure Ore Dust"
     ]
 ]

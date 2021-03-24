@@ -70,5 +70,21 @@
     [
         "ClayOre",
         "TonErde"
+    ],
+    [
+        "CopperOreDust",
+        "Copper Impure Ore Dust"
+    ],
+    [
+        "IronOreDust",
+        "Iron Impure Ore Dust"
+    ],
+    [
+        "UraniumOreDust",
+        "Uranium Impure Ore Dust"
+    ],
+    [
+        "AluminiumOreDust",
+        "Aluminium Impure Ore Dust"
     ]
 ]

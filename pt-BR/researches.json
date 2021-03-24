@@ -198,5 +198,13 @@
     [
         "ReinforcedConcrete",
         "Decoração em Concreto Reforçado"
+    ],
+    [
+        "AdvancedReflection",
+        "Advanced Reflection"
+    ],
+    [
+        "ReactionThrottling",
+        "Reaction Throttling"
     ]
 ]

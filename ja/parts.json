@@ -1,0 +1,726 @@
+[
+    [
+        "CopperPlate",
+        "Copper Plate"
+    ],
+    [
+        "SteelPlate",
+        "Steel Plate"
+    ],
+    [
+        "AluminiumPlate",
+        "Aluminium Plate"
+    ],
+    [
+        "StainlessSteelPlate",
+        "Stainless Steel Plate"
+    ],
+    [
+        "TitaniumPlate",
+        "Titanium Plate"
+    ],
+    [
+        "HardMetalPlate",
+        "Hard Metal Plate"
+    ],
+    [
+        "NeutroniumPlate",
+        "Neutronium Plate"
+    ],
+    [
+        "CopperParts",
+        "Copper Parts"
+    ],
+    [
+        "SteelParts",
+        "Steel Parts"
+    ],
+    [
+        "AluminiumParts",
+        "Aluminium Parts"
+    ],
+    [
+        "StainlessSteelParts",
+        "Stainless Steel Parts"
+    ],
+    [
+        "TitaniumParts",
+        "Titanium Parts"
+    ],
+    [
+        "HardMetalParts",
+        "Hard Metal Parts"
+    ],
+    [
+        "NeutroniumParts",
+        "Neutronium Parts"
+    ],
+    [
+        "CopperCasing",
+        "Copper Casing"
+    ],
+    [
+        "SteelCasing",
+        "Steel Casing"
+    ],
+    [
+        "AluminiumCasing",
+        "Aluminium Casing"
+    ],
+    [
+        "StainlessSteelCasing",
+        "Stainless Steel Casing"
+    ],
+    [
+        "TitaniumCasing",
+        "Titanium Casing"
+    ],
+    [
+        "HardMetalCasing",
+        "Hard Metal Casing"
+    ],
+    [
+        "NeutroniumCasing",
+        "Neutronium Casing"
+    ],
+    [
+        "Hand",
+        "Hand"
+    ],
+    [
+        "Computations",
+        "Computations"
+    ],
+    [
+        "Heat",
+        "Heat"
+    ],
+    [
+        "Electricity",
+        "Electricity"
+    ],
+    [
+        "Kinetic",
+        "Kinetic"
+    ],
+    [
+        "CopperIngot",
+        "Copper Ingot"
+    ],
+    [
+        "CopperDust",
+        "Copper Dust"
+    ],
+    [
+        "GoldIngot",
+        "Gold Ingot"
+    ],
+    [
+        "GoldDust",
+        "Gold Dust"
+    ],
+    [
+        "SuperconductorIngot",
+        "Superconductor Ingot"
+    ],
+    [
+        "SuperconductorDust",
+        "Superconductor Dust"
+    ],
+    [
+        "IronIngot",
+        "Iron Ingot"
+    ],
+    [
+        "IronDust",
+        "Iron Dust"
+    ],
+    [
+        "CircuitBoard",
+        "Circuit Board"
+    ],
+    [
+        "AdvancedCircuitBoard",
+        "Advanced Circuit Board"
+    ],
+    [
+        "Plastic",
+        "Plastic"
+    ],
+    [
+        "SteelIngot",
+        "Steel Ingot"
+    ],
+    [
+        "SteelDust",
+        "Steel Dust"
+    ],
+    [
+        "AluminiumIngot",
+        "Aluminium Ingot"
+    ],
+    [
+        "AluminiumDust",
+        "Aluminium Dust"
+    ],
+    [
+        "AluminiumOxideDust",
+        "Aluminium Oxide Dust"
+    ],
+    [
+        "StainlessSteelIngot",
+        "Stainless Steel Ingot"
+    ],
+    [
+        "StainlessSteelDust",
+        "Stainless Steel Dust"
+    ],
+    [
+        "TitaniumIngot",
+        "Titanium Ingot"
+    ],
+    [
+        "TitaniumDust",
+        "Titanium Dust"
+    ],
+    [
+        "TitaniumTetrachloride",
+        "Titanium Tetrachloride"
+    ],
+    [
+        "TitaniumSponge",
+        "Titanium Sponge"
+    ],
+    [
+        "TitaniumOxideDust",
+        "Titanium Oxide Dust"
+    ],
+    [
+        "PreparedTitaniumOxideDust",
+        "Prepared Titanium Oxide Dust"
+    ],
+    [
+        "ZinkDust",
+        "Zink Dust"
+    ],
+    [
+        "LithiumDust",
+        "Lithium Dust"
+    ],
+    [
+        "TungstenDust",
+        "Tungsten Dust"
+    ],
+    [
+        "TungstenOxideDust",
+        "Tungsten Oxide Dust"
+    ],
+    [
+        "TungstenCarbideDust",
+        "Tungsten Carbide Dust"
+    ],
+    [
+        "HardMetalIngot",
+        "Hard Metal Ingot"
+    ],
+    [
+        "HardMetalDust",
+        "Hard Metal Dust"
+    ],
+    [
+        "HotHardMetalIngot",
+        "Hot Hard Metal Ingot"
+    ],
+    [
+        "HotNeutroniumIngot",
+        "Hot Neutronium Ingot"
+    ],
+    [
+        "CobaltDust",
+        "Cobalt Dust"
+    ],
+    [
+        "CobaltOxideDust",
+        "Cobalt Oxide Dust"
+    ],
+    [
+        "CementDust",
+        "Cement Dust"
+    ],
+    [
+        "NeutroniumIngot",
+        "Neutronium Ingot"
+    ],
+    [
+        "NeutroniumDust",
+        "Neutronium Dust"
+    ],
+    [
+        "ChromiumDust",
+        "Chromium Dust"
+    ],
+    [
+        "PlutoniumDust",
+        "Plutonium Dust"
+    ],
+    [
+        "UraniumDust",
+        "Uranium-238 Dust"
+    ],
+    [
+        "Uranium235Dust",
+        "Uranium-235 Dust"
+    ],
+    [
+        "Uranium233Dust",
+        "Uranium-233 Dust"
+    ],
+    [
+        "Uranium233Cell",
+        "Uranium 233 Cell"
+    ],
+    [
+        "UraniumCell",
+        "Uranium Cell"
+    ],
+    [
+        "PlutoniumCell",
+        "Plutonium Cell"
+    ],
+    [
+        "DepletedUraniumCell",
+        "Depleted Uranium Cell"
+    ],
+    [
+        "ThoriumDust",
+        "Thorium Dust"
+    ],
+    [
+        "SodiumDust",
+        "Sodium Dust"
+    ],
+    [
+        "PotassiumDust",
+        "Potassium Dust"
+    ],
+    [
+        "Sulfur",
+        "Sulfur"
+    ],
+    [
+        "Steam",
+        "Steam"
+    ],
+    [
+        "Chlorine",
+        "Chlorine"
+    ],
+    [
+        "Peat",
+        "Peat"
+    ],
+    [
+        "Coal",
+        "Coal"
+    ],
+    [
+        "Coke",
+        "Coke"
+    ],
+    [
+        "Creosote",
+        "Creosote"
+    ],
+    [
+        "ProducerGas",
+        "Producer Gas"
+    ],
+    [
+        "CarbonMonoxide",
+        "Carbon Monoxide"
+    ],
+    [
+        "AshDust",
+        "Ash Dust"
+    ],
+    [
+        "Hydrogen",
+        "Hydrogen"
+    ],
+    [
+        "Methane",
+        "Methane"
+    ],
+    [
+        "Ethylene",
+        "Ethylene"
+    ],
+    [
+        "Water",
+        "Water"
+    ],
+    [
+        "Glass",
+        "Glass"
+    ],
+    [
+        "Lense",
+        "Lense"
+    ],
+    [
+        "Organics",
+        "Organics"
+    ],
+    [
+        "Biomass",
+        "Biomass"
+    ],
+    [
+        "Clay",
+        "Clay"
+    ],
+    [
+        "OreWater",
+        "Ore Water"
+    ],
+    [
+        "RareEarthElement",
+        "Rare Earth Element"
+    ],
+    [
+        "Log",
+        "Log"
+    ],
+    [
+        "StoneLog",
+        "Stone Log"
+    ],
+    [
+        "Plank",
+        "Plank"
+    ],
+    [
+        "Silicon",
+        "Silicon"
+    ],
+    [
+        "SiliconWafer",
+        "Silicon Wafer"
+    ],
+    [
+        "SulfuricAcid",
+        "Sulfuric Acid"
+    ],
+    [
+        "RawOil",
+        "Raw Oil"
+    ],
+    [
+        "MineralWater",
+        "Mineral Water"
+    ],
+    [
+        "Gasoline",
+        "Gasoline"
+    ],
+    [
+        "HeavyOil",
+        "Heavy Oil"
+    ],
+    [
+        "Battery",
+        "Battery"
+    ],
+    [
+        "SiliconOxide",
+        "Silicon Oxide"
+    ],
+    [
+        "Pumpkin",
+        "Pumpkin"
+    ],
+    [
+        "Oxygen",
+        "Oxygen"
+    ],
+    [
+        "Nitrogen",
+        "Nitrogen"
+    ],
+    [
+        "ChromiumOxideDust",
+        "Chromium Oxide Dust"
+    ],
+    [
+        "PotassiumChlorideDust",
+        "Potassium Chloride Dust"
+    ],
+    [
+        "BerylliumDust",
+        "Beryllium Dust"
+    ],
+    [
+        "YttriumDust",
+        "Yttrium Dust"
+    ],
+    [
+        "Helium",
+        "Helium"
+    ],
+    [
+        "SaltDust",
+        "Salt Dust"
+    ],
+    [
+        "PortalBase",
+        "Portal Base"
+    ],
+    [
+        "Signal",
+        "Signal"
+    ],
+    [
+        "CopperWire",
+        "Copper Wire"
+    ],
+    [
+        "GoldWire",
+        "Gold Wire"
+    ],
+    [
+        "SuperconductorWire",
+        "Superconductor Wire"
+    ],
+    [
+        "Circuit",
+        "Circuit"
+    ],
+    [
+        "AdvancedCircuit",
+        "Advanced Circuit"
+    ],
+    [
+        "Processor",
+        "Processor"
+    ],
+    [
+        "QuantumCircuit",
+        "Quantum Circuit"
+    ],
+    [
+        "QuantumProcessor",
+        "Quantum Processor"
+    ],
+    [
+        "QuantumCore",
+        "Quantum Core"
+    ],
+    [
+        "SingularityCore",
+        "Singularity Core"
+    ],
+    [
+        "QuantumBrain",
+        "Quantum Brain"
+    ],
+    [
+        "Cell",
+        "Cell"
+    ],
+    [
+        "Catalyst",
+        "Catalyst Cell"
+    ],
+    [
+        "ControlCell",
+        "Control Cell"
+    ],
+    [
+        "ReflectorCell",
+        "Reflector Cell"
+    ],
+    [
+        "ThoriumCell",
+        "Thorium Cell"
+    ],
+    [
+        "MixedOxideCell",
+        "Mixed-Oxide Cell"
+    ],
+    [
+        "RutileCrystal",
+        "Rutile Crystal"
+    ],
+    [
+        "UraniniteCrystal",
+        "Uraninite Crystal"
+    ],
+    [
+        "UraniniteCluster",
+        "Uraninite Cluster"
+    ],
+    [
+        "CinnabarDust",
+        "Cinnabar Dust"
+    ],
+    [
+        "CinnabarCrystal",
+        "Cinnabar Crystal"
+    ],
+    [
+        "CinnabarCluster",
+        "Cinnabar Cluster"
+    ],
+    [
+        "MalachiteDust",
+        "Malachite Dust"
+    ],
+    [
+        "MalachiteCrystal",
+        "Malachite Crystal"
+    ],
+    [
+        "MalachiteCluster",
+        "Malachite Cluster"
+    ],
+    [
+        "Mercury",
+        "Mercury"
+    ],
+    [
+        "FilteringCell",
+        "Filtering Cell"
+    ],
+    [
+        "BoronDust",
+        "Boron Dust"
+    ],
+    [
+        "BoraxDust",
+        "Borax Dust"
+    ],
+    [
+        "Emerald",
+        "Emerald"
+    ],
+    [
+        "EmeraldDust",
+        "Emerald Dust"
+    ],
+    [
+        "A",
+        "A"
+    ],
+    [
+        "B",
+        "B"
+    ],
+    [
+        "C",
+        "C"
+    ],
+    [
+        "D",
+        "D"
+    ],
+    [
+        "E",
+        "E"
+    ],
+    [
+        "F",
+        "F"
+    ],
+    [
+        "G",
+        "G"
+    ],
+    [
+        "H",
+        "H"
+    ],
+    [
+        "I",
+        "I"
+    ],
+    [
+        "J",
+        "J"
+    ],
+    [
+        "K",
+        "K"
+    ],
+    [
+        "L",
+        "L"
+    ],
+    [
+        "M",
+        "M"
+    ],
+    [
+        "N",
+        "N"
+    ],
+    [
+        "O",
+        "O"
+    ],
+    [
+        "P",
+        "P"
+    ],
+    [
+        "Q",
+        "Q"
+    ],
+    [
+        "R",
+        "R"
+    ],
+    [
+        "S",
+        "S"
+    ],
+    [
+        "T",
+        "T"
+    ],
+    [
+        "U",
+        "U"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "W",
+        "W"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "Y",
+        "Y"
+    ],
+    [
+        "Z",
+        "Z"
+    ],
+    [
+        "ErrorString",
+        "Error String"
+    ],
+    [
+        "Multitool",
+        "Multitool"
+    ],
+    [
+        "Screwdriver",
+        "Screwdriver"
+    ]
+]

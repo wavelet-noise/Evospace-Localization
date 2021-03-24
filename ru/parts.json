@@ -582,5 +582,205 @@
     [
         "Screwdriver",
         "Отвертка"
+    ],
+    [
+        "AluminiumPlate",
+        "Aluminium Plate"
+    ],
+    [
+        "AluminiumParts",
+        "Aluminium Parts"
+    ],
+    [
+        "AluminiumCasing",
+        "Aluminium Casing"
+    ],
+    [
+        "Hand",
+        "Hand"
+    ],
+    [
+        "Computations",
+        "Computations"
+    ],
+    [
+        "SuperconductorIngot",
+        "Superconductor Ingot"
+    ],
+    [
+        "SuperconductorDust",
+        "Superconductor Dust"
+    ],
+    [
+        "IronIngot",
+        "Iron Ingot"
+    ],
+    [
+        "AluminiumIngot",
+        "Aluminium Ingot"
+    ],
+    [
+        "TitaniumTetrachloride",
+        "Titanium Tetrachloride"
+    ],
+    [
+        "TitaniumSponge",
+        "Titanium Sponge"
+    ],
+    [
+        "ZinkDust",
+        "Zink Dust"
+    ],
+    [
+        "LithiumDust",
+        "Lithium Dust"
+    ],
+    [
+        "HotHardMetalIngot",
+        "Hot Hard Metal Ingot"
+    ],
+    [
+        "HotNeutroniumIngot",
+        "Hot Neutronium Ingot"
+    ],
+    [
+        "ChromiumDust",
+        "Chromium Dust"
+    ],
+    [
+        "Uranium233Dust",
+        "Uranium-233 Dust"
+    ],
+    [
+        "Uranium233Cell",
+        "Uranium 233 Cell"
+    ],
+    [
+        "UraniumCell",
+        "Uranium Cell"
+    ],
+    [
+        "PlutoniumCell",
+        "Plutonium Cell"
+    ],
+    [
+        "DepletedUraniumCell",
+        "Depleted Uranium Cell"
+    ],
+    [
+        "SodiumDust",
+        "Sodium Dust"
+    ],
+    [
+        "PotassiumDust",
+        "Potassium Dust"
+    ],
+    [
+        "Creosote",
+        "Creosote"
+    ],
+    [
+        "CarbonMonoxide",
+        "Carbon Monoxide"
+    ],
+    [
+        "ChromiumOxideDust",
+        "Chromium Oxide Dust"
+    ],
+    [
+        "PotassiumChlorideDust",
+        "Potassium Chloride Dust"
+    ],
+    [
+        "SuperconductorWire",
+        "Superconductor Wire"
+    ],
+    [
+        "SingularityCore",
+        "Singularity Core"
+    ],
+    [
+        "QuantumBrain",
+        "Quantum Brain"
+    ],
+    [
+        "Catalyst",
+        "Catalyst Cell"
+    ],
+    [
+        "ControlCell",
+        "Control Cell"
+    ],
+    [
+        "ReflectorCell",
+        "Reflector Cell"
+    ],
+    [
+        "ThoriumCell",
+        "Thorium Cell"
+    ],
+    [
+        "MixedOxideCell",
+        "Mixed-Oxide Cell"
+    ],
+    [
+        "RutileCrystal",
+        "Rutile Crystal"
+    ],
+    [
+        "UraniniteCrystal",
+        "Uraninite Crystal"
+    ],
+    [
+        "UraniniteCluster",
+        "Uraninite Cluster"
+    ],
+    [
+        "CinnabarDust",
+        "Cinnabar Dust"
+    ],
+    [
+        "CinnabarCrystal",
+        "Cinnabar Crystal"
+    ],
+    [
+        "CinnabarCluster",
+        "Cinnabar Cluster"
+    ],
+    [
+        "MalachiteDust",
+        "Malachite Dust"
+    ],
+    [
+        "MalachiteCrystal",
+        "Malachite Crystal"
+    ],
+    [
+        "MalachiteCluster",
+        "Malachite Cluster"
+    ],
+    [
+        "Mercury",
+        "Mercury"
+    ],
+    [
+        "FilteringCell",
+        "Filtering Cell"
+    ],
+    [
+        "BoronDust",
+        "Boron Dust"
+    ],
+    [
+        "BoraxDust",
+        "Borax Dust"
+    ],
+    [
+        "Emerald",
+        "Emerald"
+    ],
+    [
+        "EmeraldDust",
+        "Emerald Dust"
     ]
 ]

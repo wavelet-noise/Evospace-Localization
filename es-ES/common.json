@@ -214,7 +214,7 @@
     [
         "speedbonus",
         "Bono de Velocidad: x%s"
-   ],
+    ],
     [
         "electric_drain",
         "Pérdida de electricidad: %sW"
@@ -250,5 +250,9 @@
     [
         "WorldGeneratorPlains",
         "Llanuras y costas"
+    ],
+    [
+        "machines_label_formal",
+        "{0} {1}"
     ]
 ]
