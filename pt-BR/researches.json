@@ -5,15 +5,15 @@
     ],
     [
         "PlutoniumReaction",
-        "Reações de Plutonium"
+        "Reações com Plutonium"
     ],
     [
         "ThoriumReaction",
-        "Reações de Thorium"
+        "Reações com Thorium"
     ],
     [
         "UraniumReactionBoosting",
-        "Melhoria na Reação de Uranium"
+        "Melhorias na Reação de Uranium"
     ],
     [
         "UraniumReactionThrottling",
@@ -21,7 +21,7 @@
     ],
     [
         "Drying",
-        "Desidratação"
+        "Fornos de Carvão"
     ],
     [
         "PowerGeneration",
@@ -125,7 +125,7 @@
     ],
     [
         "NeutroniumProduction",
-        "Neutronium Production"
+        "Produção de Neutronium"
     ],
     [
         "AluminiumProduction",
