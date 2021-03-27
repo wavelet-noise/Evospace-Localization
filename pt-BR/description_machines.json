@@ -25,7 +25,7 @@
     ],
     [
         "Corner",
-        "Cosmético\nNão da pra usar como escada!"
+        "Cosmético\nNão da pra usar como rampa!"
     ],
     [
         "AutomaticHammer",
@@ -41,7 +41,7 @@
     ],
     [
         "HeatPipe",
-        "Calor é direcionado para onde precisa\nHa perda de Calor!"
+        "Calor é direcionado para onde precisa"
     ],
     [
         "Flywheel",
@@ -81,7 +81,7 @@
     ],
     [
         "OreWasher",
-        "Lava Cascalho Bruto para obter recursos raros"
+        "Lava Cascalho Bruto para obter recursos raros\nProduz Dejetos que precisa ser lidado\nRequer água!"
     ],
     [
         "Conveyor",
@@ -89,11 +89,11 @@
     ],
     [
         "Splitter",
-        "Divide um linha em varias direções\nQuando se precisa em locais diferentes"
+        "Divide um linha em varias direções\nQuando se precisa em locais diferentes\nPode-se escolher a quantia!"
     ],
     [
         "Sorter",
-        "Remove/aceita um item escolhido\nEu escolho você!"
+        "Direciona os itens escolhidos\nEu escolho você!"
     ],
     [
         "Container",
@@ -117,15 +117,15 @@
     ],
     [
         "Generator",
-        "Transforma Energia Mecânica em Eletricidade\nA União faz a Força!!!\n5Kg"
+        "Transforma Energia Mecânica em Eletricidade\nA União faz a Força!!!"
     ],
     [
         "CompactGenerator",
-        "Transforma Energia Mecânica em Eletricidade\nA União faz a Força!!!\n1Kg"
+        "Transforma Energia Mecânica em Eletricidade\nNão muito potente"
     ],
     [
         "ElectricEngine",
-        "Transforma Eletricidade em Energia Mecânica\nPratico!"
+        "Transforma Eletricidade em Energia Mecânica\nPrático!"
     ],
     [
         "RobotArm",
@@ -141,7 +141,7 @@
     ],
     [
         "FilteringPump",
-        "Extrai/injeta Fluidos/Gases S de Maquinário"
+        "Extrai/injeta Fluidos/Gases Selecionado de Maquinário"
     ],
     [
         "Smelter",
@@ -169,11 +169,11 @@
     ],
     [
         "FilteringUnit",
-        "Pode Obter materiais de Dejetos da Lavagem\nConsome Célula de Filtragem!"
+        "Pode Obter materiais de Dejetos da Lavagem\nPrecisa Célula de Filtragem para metais\nPode filtrar argila!"
     ],
     [
         "Furnace",
-        "Queima materiais para gerar Calor\nVai ter churrasco?"
+        "Queima materiais para gerar Calor\nMaterial da Fornalha aumenta a eficiência!"
     ],
     [
         "Oven",
@@ -189,7 +189,7 @@
     ],
     [
         "ElectricFurnace",
-        "Usa Eletricidade para gerar Calor"
+        "Usa Eletricidade para gerar Calor\nNão é muito eficiente"
     ],
     [
         "BatteryBox",
@@ -305,7 +305,7 @@
     ],
     [
         "QuantumComputer",
-        "O futuro chegou Velhote!"
+        "O futuro chegou Velhote!\nAceita circuitos Complexos"
     ],
     [
         "IndustrialSeparator",
@@ -321,11 +321,11 @@
     ],
     [
         "FissionReactor",
-        "Usa Uranium para gerar quantias Absurdas de Calor\nÉ seguro , eu juro!!!"
+        "Usa Uranium para gerar quantias Absurdas de Calor\nÉ seguro , eu juro!!!\nPode combinar materiais radioativos"
     ],
     [
         "FusionReactor",
-        "Usa Uranium para gerar quantias Absurdas de Calor\nAinda é seguro ... eu acho..."
+        "Fundi Materiais para criar Materiais Extremos"
     ],
     [
         "ResearchReactor",
@@ -353,18 +353,18 @@
     ],
     [
         "IndustrialElectricEngine",
-        ""
+        "Produz muita energia Mecânica para maquinas pesadas\nCuidado com seu cabelo!"
     ],
     [
         "IndustrialSteamTurbine",
-        ""
+        "Produz Eletricidade em escala Industrial\nUse seu EPI!"
     ],
     [
         "Riteg",
-        ""
+        "Gera Calor de material radioativo\nNão é muito mais é sem fim!"
     ],
     [
         "IndustrialBoiler",
-        ""
+        "Produz muito Vapor usando muita Água e Calor!\nAinda não explode!!!"
     ]
 ]
