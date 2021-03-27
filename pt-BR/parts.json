@@ -1,35 +1,35 @@
 [
     [
         "Stone",
-        "Produto de Rocha -"
+        "Produto de Rocha"
     ],
     [
         "Copper",
-        "Produto de Cobre -"
+        "Produto de Cobre"
     ],
     [
         "Steel",
-        "Produto de Aço -"
+        "Produto de Aço"
     ],
     [
         "Aluminium",
-        "Produto de Aluminium -"
+        "Produto de Aluminium"
     ],
     [
         "StainlessSteel",
-        "Produto de Aço Inox -"
+        "Produto de Aço Inox"
     ],
     [
         "Titanium",
-        "Produto de Titânio -"
+        "Produto de Titânio"
     ],
     [
         "HardMetal",
-        "Produto de Liga de Aço Durável -"
+        "Produto de Liga de Aço Durável"
     ],
     [
         "Neutronium",
-        "Neutronium"
+        "Produto de Neutronium"
     ],
     [
         "CopperPlate",
@@ -57,7 +57,7 @@
     ],
     [
         "NeutroniumPlate",
-        "Neutronium Plate"
+        "Placa de Neutronium"
     ],
     [
         "CopperParts",
@@ -85,7 +85,7 @@
     ],
     [
         "NeutroniumParts",
-        "Neutronium Parts"
+        "Peças de Neutronium"
     ],
     [
         "CopperCasing",
@@ -113,7 +113,7 @@
     ],
     [
         "NeutroniumCasing",
-        "Neutronium Casing"
+        "Involucro Neutronium"
     ],
     [
         "Hand",
@@ -257,7 +257,7 @@
     ],
     [
         "HotNeutroniumIngot",
-        "Hot Neutronium Ingot"
+        "Barra Quente de  Neutronium"
     ],
     [
         "CobaltDust",
@@ -273,11 +273,11 @@
     ],
     [
         "NeutroniumIngot",
-        "Neutronium Ingot"
+        "Barra de Neutronium"
     ],
     [
         "NeutroniumDust",
-        "Neutronium Dust"
+        "Pó de Neutronium"
     ],
     [
         "ChromiumDust",
@@ -517,7 +517,7 @@
     ],
     [
         "AdvancedCircuit",
-        "Circuito Complexo"
+        "Circuito Avançado"
     ],
     [
         "Processor",
@@ -733,30 +733,30 @@
     ],
     [
         "SuperconductorIngot",
-        "Superconductor Ingot"
+        "Material Supercondutor"
     ],
     [
         "SuperconductorDust",
-        "Superconductor Dust"
+        "Pó de Supercondutor"
     ],
     [
         "SuperconductorWire",
-        "Superconductor Wire"
+        "Fio Supercondutor"
     ],
     [
         "BoronDust",
-        "Boron Dust"
+        "Pó de Boron"
     ],
     [
         "BoraxDust",
-        "Borax Dust"
+        "Pó de Borax"
     ],
     [
         "Emerald",
-        "Emerald"
+        "Esmeralda"
     ],
     [
         "EmeraldDust",
-        "Emerald Dust"
+        "Esmeralda em Pó"
     ]
 ]
