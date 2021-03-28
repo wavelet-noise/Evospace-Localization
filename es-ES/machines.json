@@ -353,11 +353,11 @@
     ],
     [
         "IndustrialElectricEngine",
-        "Industrial Electric Engine"
+        "Motor eléctrico industrial"
     ],
     [
         "IndustrialSteamTurbine",
-        "Industrial Steam Turbine"
+        "Turbina de vapor industrial"
     ],
     [
         "Riteg",
@@ -365,6 +365,6 @@
     ],
     [
         "IndustrialBoiler",
-        "Industrial Boiler"
+        "Caldera industrial"
     ]
 ]
