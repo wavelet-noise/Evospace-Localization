@@ -733,7 +733,7 @@
     ],
     [
         "ErrorString",
-        "Errod de cadena"
+        "Error de cadena"
     ],
     [
         "Multitool",
@@ -745,14 +745,14 @@
     ],
     [
         "SuperconductorIngot",
-        "Superconductor Ingot"
+        "Lingote superconductor"
     ],
     [
         "SuperconductorDust",
-        "Superconductor Dust"
+        "Polvo superconductor"
     ],
     [
         "SuperconductorWire",
-        "Superconductor Wire"
+        "Alambre superconductor"
     ]
 ]
