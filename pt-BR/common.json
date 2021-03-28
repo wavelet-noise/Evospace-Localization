@@ -1,15 +1,15 @@
 [
     [
         "I",
-        "Protótipo"
+        "Genérico"
     ],
     [
         "II",
-        "Improvisado"
+        "Protótipo"
     ],
     [
         "III",
-        "Genérico"
+        "Melhorado"
     ],
     [
         "IV",
@@ -49,7 +49,7 @@
     ],
     [
         "NuclearFuel",
-        "Combustível para o Reator de Fissão"
+        "Combustível Nuclear"
     ],
     [
         "Fluid",
@@ -145,35 +145,35 @@
     ],
     [
         "Stone",
-        "Pedra 101"
+        "- Pedra"
     ],
     [
         "Copper",
-        "Cobre 101"
+        "- Cobre"
     ],
     [
         "Steel",
-        "Aço 101"
+        "- Aço"
     ],
     [
         "Aluminium",
-        "Aluminium 101"
+        "- Aluminium"
     ],
     [
         "StainlessSteel",
-        "Aço Inox 101"
+        "- Aço Inox"
     ],
     [
         "Titanium",
-        "Titânio 101"
+        "- Titânio"
     ],
     [
         "HardMetal",
-        "Liga de Aço Durável 101"
+        "- Liga de Aço Durável"
     ],
     [
         "Neutronium",
-        "Neutronium"
+        "- Neutronium"
     ],
     [
         "ips",
@@ -217,15 +217,15 @@
     ],
     [
         "electric_drain",
-        "Consumo passivo: %sW"
+        "Gasto passivo: %sW"
     ],
     [
         "heat_drain",
-        "Consumo passivo: %sW"
+        "Gasto passivo: %sW"
     ],
     [
         "kinetic_drain",
-        "Consumo passivo: %sW"
+        "Gasto passivo: %sW"
     ],
     [
         "computations",
@@ -253,6 +253,6 @@
     ],
     [
         "machines_label_formal",
-        "{0} {1}"
+        "{1} {0}"
     ]
 ]

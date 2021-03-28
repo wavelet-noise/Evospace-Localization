@@ -341,7 +341,7 @@
     ],
     [
         "IndustrialSmelter",
-        "Forja Industrial"
+        "Forja Avançada"
     ],
     [
         "InductionCoil",
@@ -353,18 +353,18 @@
     ],
     [
         "IndustrialElectricEngine",
-        "Industrial Electric Engine"
+        "Motor Elétrico Industrial"
     ],
     [
         "IndustrialSteamTurbine",
-        "Industrial Steam Turbine"
+        "Turbina à Vapor Industrial"
     ],
     [
         "Riteg",
-        "Riteg"
+        "RadioThermo Gerador"
     ],
     [
         "IndustrialBoiler",
-        "Industrial Boiler"
+        "Caldeira Industrial"
     ]
 ]
