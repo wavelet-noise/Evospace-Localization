@@ -1,4 +1,4 @@
-﻿{
+{
 	"FormatVersion": 2,
 	"Namespace": "",
 	"Children": [
@@ -240,7 +240,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Blocos1"
+				"Text": "Blocos"
 			},
 			"Key": "F51FEED6446C4212272A6D8BEE23B419"
 		},
@@ -416,7 +416,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Chance de Degradar"
+				"Text": "Chance de Degradar {0}"
 			},
 			"Key": "2E2C7E8A46C131D6EBF109BC39F711D8"
 		},
@@ -713,7 +713,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Mão Livre1"
+				"Text": "Guardar Item da Mão"
 			},
 			"Key": "AAE15A4E41A8A475222743889E03E578"
 		},
@@ -724,7 +724,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Mão Livre2"
+				"Text": "Nada na Mão"
 			},
 			"Key": "AC554709463E229D744EE4AD1380D7C0"
 		},
@@ -856,7 +856,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Levitar1"
+				"Text": "Levitar"
 			},
 			"Key": "E4392E0D4C87D8818207759C18B5BF79"
 		},
@@ -867,7 +867,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Levitar2"
+				"Text": "Ativar Mochila/Jetpack"
 			},
 			"Key": "7948BDCB42309DF81A999C901B9689D6"
 		},
@@ -988,7 +988,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Cano de Calor transfere e armazena Calor. Rosca sem Fim armazenam e transferem Energia Mecânica 'Corda' , Baterias ficam disponíveis em níveis mais avançados de tecnologia , no inicio é melhor fazer um trilho de Roscas sem Fim em vez de transformar em Eletricidade para depois em Mecânica , pois o gasto de transformar entre eles é maior que o gasto passivo"
+				"Text": "Cano de Calor transfere e armazena Calor. Rosca sem Fim armazenam e transferem Energia Mecânica , Baterias ficam disponíveis em níveis mais avançados de tecnologia , no inicio é melhor fazer um trilho de Roscas sem Fim em vez de transformar em Eletricidade para depois em Mecânica , pois o gasto de transformar entre eles é maior que o gasto passivo"
 			},
 			"Key": "AF28E43240CC0A9B3804F4ABB0867EFE"
 		},
@@ -1175,7 +1175,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Load Map1"
+				"Text": "Carregar Mapa"
 			},
 			"Key": "C32E5D5A48EDD4D6CACD6FA03A4144D4"
 		},
@@ -1472,7 +1472,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Saída1"
+				"Text": "Porta"
 			},
 			"Key": "417D59204D07AB23855096ADE72352A4"
 		},
@@ -1505,7 +1505,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pausar2"
+				"Text": "Mundo Estático\nZa warudo!"
 			},
 			"Key": "1F5B65CD4CA2839B519D328E61AEECAC"
 		},
@@ -1637,7 +1637,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Produção2"
+				"Text": "Disponível"
 			},
 			"Key": "545D9FF34C45BD7A5CF0DCAA93664F2F"
 		},
@@ -1681,7 +1681,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Receita"
+				"Text": "Produtos"
 			},
 			"Key": "F41DF59B4D9CA534BE7D9CAEA2BA91DF"
 		},
@@ -1692,7 +1692,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Processos1"
+				"Text": "Usos"
 			},
 			"Key": "46DACDF048343426E049EA92B9C7E506"
 		},
@@ -1703,7 +1703,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Processos2"
+				"Text": "Uso/Criação"
 			},
 			"Key": "FFFDA85244772A961C551A92364479A9"
 		},
@@ -1747,7 +1747,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Ainda Falta1"
+				"Text": "Ainda requer"
 			},
 			"Key": "9D9E35AA42BD804CC9BB9BAF7CE478DC"
 		},
@@ -1758,7 +1758,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Ainda Falta2"
+				"Text": "Material em Falta"
 			},
 			"Key": "465DA57B474122FC6CB69F982BE1DCBF"
 		},
@@ -1824,7 +1824,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pesquisa1"
+				"Text": "Catalogo de Pesquisas"
 			},
 			"Key": "96C265FF421821E7F013BA8103DE607C"
 		},
@@ -1835,7 +1835,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pesquisa2"
+				"Text": "Catalogo de Projetos"
 			},
 			"Key": "DD8F991E42330F2AFF99BC9A96E6D123"
 		},
@@ -1846,7 +1846,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pesquisas3"
+				"Text": "Tabela de Pesquisas"
 			},
 			"Key": "1949967C45E081CDAB43138500202566"
 		},
@@ -1901,7 +1901,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Materiais"
+				"Text": "Jazidas"
 			},
 			"Key": "B0B985FE4FDF58E447CACE8F058A1D34"
 		},
@@ -2121,7 +2121,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Selecionar2"
+				"Text": "Começar Pesquisa"
 			},
 			"Key": "7797F6B746C0D5C1B01DD9AE88BB981A"
 		},
@@ -2462,7 +2462,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Sair do Pause"
+				"Text": "Mundo Continuo"
 			},
 			"Key": "8CD090C148D7B3DC76B05EB3FA79000D"
 		},
