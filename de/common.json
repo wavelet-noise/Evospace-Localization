@@ -1,4 +1,4 @@
-[
+﻿[
     [
         "I",
         "I"
@@ -225,19 +225,19 @@
     ],
     [
         "Organics",
-        "Mixed organics mass"
+        "Verschiedene organische Stoffe"
     ],
     [
         "BuildingBlock",
-        "Building block"
+        "Baustein"
     ],
     [
         "NuclearFuel",
-        "Fuel for Fission Reactor"
+        "Brennstoff für Spaltreaktor"
     ],
     [
         "Fluid",
-        "Fluid"
+        "Flüssigkeit"
     ],
     [
         "Gas",
@@ -245,27 +245,27 @@
     ],
     [
         "ByPipes",
-        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+        "Kann durch Rohre transportiert werden\nKann durch Pumpen in Maschinen eingespritzt/abgesaugt werden"
     ],
     [
         "WorldObject",
-        "Can't be crafted\nAppears in world"
+        "Kann nicht hergestellt werden\nFindet sich in der Natur."
     ],
     [
         "Circuit",
-        "Part of smart devices\nUsed by computers to produce science points"
+        "Teil eines Smart-Devices\nWird von Computern zur Erzeugung von Wissenschaftspunkten verwendet"
     ],
     [
         "Stone",
-        "Stone"
+        "Stein"
     ],
     [
         "Copper",
-        "Copper"
+        "Kupfer"
     ],
     [
         "Steel",
-        "Steel"
+        "Stahl"
     ],
     [
         "Aluminium",
@@ -273,15 +273,15 @@
     ],
     [
         "StainlessSteel",
-        "Stainless Steel"
+        "Edelstahl"
     ],
     [
         "Titanium",
-        "Titanium"
+        "Titan"
     ],
     [
         "HardMetal",
-        "Hard Metal"
+        "Hardmetall"
     ],
     [
         "Neutronium",
@@ -289,82 +289,82 @@
     ],
     [
         "ips",
-        "Items per second: %s"
+        "Gegenstände pro Sekunde: %s"
     ],
     [
         "dps",
-        "Degrees per second: %s"
+        "Grad pro Sekunde: %s"
     ],
     [
         "power_limit",
-        "Power limit: %sW"
+        "Strombegrenzung: %sW"
     ],
     [
         "power_output",
-        "Power output: %sW"
+        "Stromausgabe: %sW"
     ],
     [
         "power_input",
-        "Power input: %sW"
+        "Stromeingang: %sW"
     ],
     [
         "container",
-        "Capacity: %s L"
+        "Kapazität: %s L"
     ],
     [
         "battery",
-        "Capacity: %s J"
+        "Kapazität: %s J"
     ],
     [
         "chest",
-        "Capacity: %s stacks"
+        "Kapazität: %s Stapel"
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+        "Brennbar<img id=\"Heat2\"></>\nGesamtenergie: %sJ"
     ],
     [
         "speedbonus",
-        "Speed bonus: x%s"
+        "Geschwindigkeitsbonus: x%s"
     ],
     [
         "electric_drain",
-        "Electricity drain: %sW"
+        "Stromverbrauch: %sW"
     ],
     [
         "heat_drain",
-        "Heat drain: %sW"
+        "Verbrauch an Wärmeenergie: %sW"
     ],
     [
         "kinetic_drain",
-        "Kinetic drain: %sW"
+        "Verbrauch an Bewegungsenergie: %sW"
     ],
     [
         "computations",
-        "Computations per second: %s"
+        "Berechnungen pro Sekunde: %s"
     ],
     [
         "calculations",
-        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
+        "Produziert von Computern\nBauen Sie einen Computer und versorgen Sie ihn mit Strom, um Berechnungen durchzuführen"
     ],
     [
         "WorldGeneratorRivers",
-        "Rivers and isles"
+        "Flüsse und Inseln"
     ],
     [
         "WorldGeneratorBiome",
-        "Rocky islands"
+        "Felsige Inseln"
     ],
     [
         "FlatWorldGenerator",
-        "Concrete world"
+        "Alles nur Beton"
     ],
     [
         "WorldGeneratorPlains",
-        "Plains and coast"
+        "Flachland und Küste"
     ],
     [
         "machines_label_formal",
-        "{0} {1}"
+        "{1} ({0})"
     ]
 ]

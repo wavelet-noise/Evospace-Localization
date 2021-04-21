@@ -1,11 +1,11 @@
 [
     [
         "Macerator",
-        "Mahlwerk"
+        "Zerkleinerer"
     ],
     [
         "CuttingMachine",
-        "Sägewerk"
+        "Zerhacker"
     ],
     [
         "Fermenter",
@@ -13,11 +13,11 @@
     ],
     [
         "ChemReactor",
-        "Chemie-Reaktor"
+        "Chemiereaktor"
     ],
     [
         "Separator",
-        "Abscheider"
+        "Abscheideranlage"
     ],
     [
         "Beam",
@@ -29,11 +29,11 @@
     ],
     [
         "AutomaticHammer",
-        "Fallhammer"
+        "Automatischer Hammer"
     ],
     [
         "Boiler",
-        "Dampf-Kessel"
+        "Heizkessel"
     ],
     [
         "Pipe",
@@ -41,7 +41,7 @@
     ],
     [
         "HeatPipe",
-        "Wärmerohr"
+        "Wärmeleiter"
     ],
     [
         "Flywheel",
@@ -49,19 +49,23 @@
     ],
     [
         "Scaffold",
-        "Baugerüst"
+        "Gerüst"
     ],
     [
         "Sign",
         "Schild"
     ],
     [
+        "AdvancedSign",
+        "Anzeige"
+    ],
+    [
         "Connector",
-        "Stromkabel"
+        "Kabel"
     ],
     [
         "Chest",
-        "Truhe"
+        "Lagerkiste"
     ],
     [
         "ItemRack",
@@ -69,15 +73,15 @@
     ],
     [
         "Vent",
-        "Regelventil"
+        "Ventil"
     ],
     [
         "ElectricalSwitch",
-        "Stromschalter"
+        "Schalter"
     ],
     [
         "OreWasher",
-        "Erzwäscher"
+        "Erzwaschanlage"
     ],
     [
         "Conveyor",
@@ -85,7 +89,7 @@
     ],
     [
         "Container",
-        "Gebinde"
+        "Tank"
     ],
     [
         "Press",
@@ -93,15 +97,15 @@
     ],
     [
         "StirlingEngine",
-        "Stirling-Motor"
+        "Stirlingmotor"
     ],
     [
         "CombustionEngine",
-        "Verbrennungs-Motor"
+        "Verbrennungsmotor"
     ],
     [
         "PyrolysisUnit",
-        "Pyrolyse-Anlage"
+        "Pyrolyseanlage"
     ],
     [
         "Generator",
@@ -109,19 +113,19 @@
     ],
     [
         "CompactGenerator",
-        "Dynamo"
+        "Generator (Kompakt)"
     ],
     [
         "ElectricEngine",
-        "Elektro-Motor"
+        "Eletromotor"
     ],
     [
         "RobotArm",
-        "Roboter-Arm"
+        "Greifarm"
     ],
     [
         "FilteringRobotArm",
-        "Filter-Roboter-Arm"
+        "Greifarm (mit Filterfunktion)"
     ],
     [
         "Pump",
@@ -129,51 +133,55 @@
     ],
     [
         "FilteringPump",
-        "Filter-Pumpe"
+        "Pumpe (mit Filterfunktion)"
+    ],
+    [
+        "OverflowValve",
+        "Überlaufventil"
     ],
     [
         "Smelter",
-        "Schmelze"
+        "Schmelzofen"
     ],
     [
         "SteamTurbine",
-        "Dampf-Turbine"
+        "Dampfturbine"
     ],
     [
         "GasTurbine",
-        "Gas-Turbine"
+        "Gasturbine"
     ],
     [
         "ArcSmelter",
-        "Lichtbogen-Ofen"
+        "Lichtbogenofen"
     ],
     [
         "ChemicalBath",
-        "Chemie-Bad"
+        "Chemikalienbad"
     ],
     [
         "Furnace",
-        "Brenn-Ofen"
+        "Brennofen"
     ],
     [
         "Oven",
-        "Feuer-Ofen"
+        "Koksofen"
     ],
     [
         "BlastFurnace",
-        "Hoch-Ofen"
+        "Hochofen"
     ],
     [
         "FluidFurnace",
-        "Flüssigkeits-Ofen"
+        "Brennofen für Flüssigtreibstoff"
     ],
     [
         "ElectricFurnace",
-        "Elekro-Ofen"
+        "Eletro-Ofen"
     ],
     [
         "BatteryBox",
-        "Akkumulator"
+        "Batteriepack"
     ],
     [
         "DrillingRig",
@@ -188,40 +196,44 @@
         "Sickergrube"
     ],
     [
+        "GasDump",
+        "Abfackelung"
+    ],
+    [
         "Lamp",
         "Lampe"
     ],
     [
         "AdminElectricGenerator",
-        "Kreativ Elektro-Generator"
+        "Unendlich Strom"
     ],
     [
         "AdminItemGenerator",
-        "Kreativ Gegenstands-Generator"
+        "Unendlicher Lieferant für Gegenstände"
     ],
     [
         "AdminKineticGenerator",
-        "Kreativ Kinetik-Generator"
+        "Unbegrenzte Bewegungsenergie"
     ],
     [
         "AdminHeatGenerator",
-        "Kreativ Wärme-Erzeuger"
+        "Unbegrenzte Wärmeenergie"
     ],
     [
         "AdminFluidGenerator",
-        "Kreativ Flüssigkeits-Generator"
+        "Unendlicher Lieferant für Flüssigkeiten"
     ],
     [
         "AdminExterminator",
-        "Kreativ Vernichter"
+        "Universalvernichter"
     ],
     [
         "Electrolyzer",
-        "Elektrolyseur"
+        "Electrolysanlage"
     ],
     [
         "Mixer",
-        "Mischwerk"
+        "Mischmaschine"
     ],
     [
         "AutomaticFarm",
@@ -229,43 +241,43 @@
     ],
     [
         "AtmosphericCondenser",
-        "Atmosphären-Kondenser"
+        "Atmosphärenkondensator"
     ],
     [
         "Terminal",
-        "Bildschirm"
+        "Terminal (alt, klein)"
     ],
     [
         "BigTerminal",
-        "Große Bildschirm"
+        "Terminal (alt)"
     ],
     [
         "HugeTerminal",
-        "Riesige Bildschirm"
+        "Terminal (alt, groß)"
     ],
     [
         "FlatTerminal",
-        "Flachbildschirm"
+        "Terminal (klein)"
     ],
     [
         "BigFlatTerminal",
-        "Großer Flachbildschirm"
+        "Terminal"
     ],
     [
         "HugeFlatTerminal",
-        "Riesiger Flachbildschirm"
+        "Terminal (groß)"
     ],
     [
         "Computer",
-        "Rechner"
+        "Computer"
     ],
     [
         "IndustrialSeparator",
-        "Industrieller Abscheider"
+        "Industrielle Abscheideanlage"
     ],
     [
         "Radiator",
-        "Kühlrippe"
+        "Kühlkörper"
     ],
     [
         "Diode",
@@ -277,39 +289,39 @@
     ],
     [
         "SolarPanel",
-        "Photovoltaik-Panel"
+        "Solarpanel"
     ],
     [
         "Pumpjack",
-        "Pferdekopf-Pumpe"
+        "Förderpumpe"
     ],
     [
         "IndustrialSmelter",
-        "Induktions-Ofen"
+        "Industrielle Schmelzanlage"
     ],
     [
         "InductionCoil",
-        "Induktions-Spule"
+        "Induktionsspule"
     ],
     [
         "AdvancedSign",
-        "Advanced Sign"
+        "Erweiterte Anzeige"
     ],
     [
         "Splitter",
-        "Splitter"
+        "Förderband-Teiler"
     ],
     [
         "Sorter",
-        "Sorter"
+        "Sortierer"
     ],
     [
         "IndustrialElectricEngine",
-        "Industrial Electric Engine"
+        "Industrieller Elektromotor"
     ],
     [
         "IndustrialSteamTurbine",
-        "Industrial Steam Turbine"
+        "Industrieller Dampfturbine"
     ],
     [
         "Riteg",
@@ -317,51 +329,51 @@
     ],
     [
         "Sifter",
-        "Sifter"
+        "Sieb"
     ],
     [
         "FilteringUnit",
-        "Filtering Unit"
+        "Filtereinheit"
     ],
     [
         "SmallBattery",
-        "Small Battery"
+        "Batterie (klein)"
     ],
     [
         "Constructor",
-        "Constructor"
+        "Assembler"
     ],
     [
         "Deconstructor",
-        "Deconstructor"
+        "Dekonstruktor"
     ],
     [
         "GasDump",
-        "Gas Dump"
+        "Abfackelung von Gasen"
     ],
     [
         "SolidDump",
-        "Solid Dump"
+        "Entsorgung"
     ],
     [
         "Freezer",
-        "Freezer"
+        "Vereiser"
     ],
     [
         "QuantumComputer",
-        "Quantum Computer"
+        "Quantencomputer"
     ],
     [
         "FusionReactor",
-        "Fusion Reactor"
+        "Fusionsreaktor"
     ],
     [
         "IndustrialBoiler",
-        "Industrial Boiler"
+        "Industrieller Erhitzer"
     ],
     [
         "ResearchReactor",
-        "Research Reactor"
+        "Forschungsreaktor"
     ],
     [
         "CreativeController",
