@@ -108,12 +108,20 @@
         "Copper Ingot"
     ],
     [
+        "CopperBlock",
+        "Copper Block"
+    ],
+    [
         "CopperDust",
         "Copper Dust"
     ],
     [
         "GoldIngot",
         "Gold Ingot"
+    ],
+    [
+        "GoldBlock",
+        "Gold Block"
     ],
     [
         "GoldDust",
@@ -124,12 +132,20 @@
         "Superconductor Ingot"
     ],
     [
+        "SuperconductorBlock",
+        "Superconductor Block"
+    ],
+    [
         "SuperconductorDust",
         "Superconductor Dust"
     ],
     [
         "IronIngot",
         "Iron Ingot"
+    ],
+    [
+        "IronBlock",
+        "Iron Block"
     ],
     [
         "IronDust",
@@ -152,6 +168,10 @@
         "Steel Ingot"
     ],
     [
+        "SteelBlock",
+        "Steel Block"
+    ],
+    [
         "SteelDust",
         "Steel Dust"
     ],
@@ -160,8 +180,16 @@
         "Aluminium Ingot"
     ],
     [
+        "AluminiumBlock",
+        "Aluminium Block"
+    ],
+    [
         "AluminiumDust",
         "Aluminium Dust"
+    ],
+    [
+        "AluminiumOxideBlock",
+        "Aluminium Oxide Block"
     ],
     [
         "AluminiumOxideDust",
@@ -172,12 +200,20 @@
         "Stainless Steel Ingot"
     ],
     [
+        "StainlessSteelBlock",
+        "Stainless Steel Block"
+    ],
+    [
         "StainlessSteelDust",
         "Stainless Steel Dust"
     ],
     [
         "TitaniumIngot",
         "Titanium Ingot"
+    ],
+    [
+        "TitaniumBlock",
+        "Titanium Block"
     ],
     [
         "TitaniumDust",
@@ -200,8 +236,16 @@
         "Prepared Titanium Oxide Dust"
     ],
     [
+        "ZinkBlock",
+        "Zink Block"
+    ],
+    [
         "ZinkDust",
         "Zink Dust"
+    ],
+    [
+        "LithiumBlock",
+        "Lithium Block"
     ],
     [
         "LithiumDust",
@@ -224,6 +268,10 @@
         "Hard Metal Ingot"
     ],
     [
+        "HardMetalBlock",
+        "Hard Metal Block"
+    ],
+    [
         "HardMetalDust",
         "Hard Metal Dust"
     ],
@@ -234,6 +282,10 @@
     [
         "HotNeutroniumIngot",
         "Hot Neutronium Ingot"
+    ],
+    [
+        "CobaltBlock",
+        "Cobalt Block"
     ],
     [
         "CobaltDust",
@@ -260,16 +312,32 @@
         "Chromium Dust"
     ],
     [
+        "PlutoniumBlock",
+        "Plutonium Block"
+    ],
+    [
         "PlutoniumDust",
         "Plutonium Dust"
+    ],
+    [
+        "UraniumBlock",
+        "Uranium-238 Block"
     ],
     [
         "UraniumDust",
         "Uranium-238 Dust"
     ],
     [
+        "Uranium235Block",
+        "Uranium-235 Block"
+    ],
+    [
         "Uranium235Dust",
         "Uranium-235 Dust"
+    ],
+    [
+        "Uranium233Block",
+        "Uranium-233 Block"
     ],
     [
         "Uranium233Dust",
@@ -292,12 +360,24 @@
         "Depleted Uranium Cell"
     ],
     [
+        "ThoriumBlock",
+        "Thorium Block"
+    ],
+    [
         "ThoriumDust",
         "Thorium Dust"
     ],
     [
+        "SodiumBlock",
+        "Sodium Block"
+    ],
+    [
         "SodiumDust",
         "Sodium Dust"
+    ],
+    [
+        "PotassiumBlock",
+        "Potassium Block"
     ],
     [
         "PotassiumDust",
