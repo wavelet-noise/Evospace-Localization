@@ -1,230 +1,230 @@
 [
-    [
-        "Chair",
-        "Holz Stuhl"
-    ],
-    [
-        "Table",
-        "Holz Tisch"
-    ],
-    [
-        "Rack",
-        "Holz Regal"
-    ],
-    [
-        "Bed",
-        "Holz Bett"
-    ],
-    [
-        "Ladder",
-        "Holz Leiter"
-    ],
-    [
-        "Door",
-        "Holz Tür"
-    ],
-    [
-        "Fence",
-        "Holz Zaun"
-    ],
-    [
-        "Window",
-        "Holz Fenster"
-    ],
-    [
-        "CeramicRoof",
-        "Dachziegel"
-    ],
-    [
-        "Stairs",
-        "Stiegen"
-    ],
-    [
-        "WoodStairs",
-        "Holz Stiegen"
-    ],
-    [
-        "CopperChair",
-        "Kupfer Stuhl"
-    ],
-    [
-        "FireCup",
-        "Feuer-Schale"
-    ],
-    [
-        "PlasticWindow",
-        "Kunststoff Fenster"
-    ],
-    [
-        "Firefly",
-        "Glühwürmchen"
-    ],
-    [
-        "Flies",
-        "Fliegen"
-    ],
-    [
-        "Birds",
-        "Vögel"
-    ],
-    [
-        "DesertSound",
-        "Wüsten Geräusche"
-    ],
-    [
-        "SwampSound",
-        "Sumpf Geräusche"
-    ],
-    [
-        "Butterfly",
-        "Schmetterlinge"
-    ],
-    [
-        "Leafes",
-        "Blätter"
-    ],
-    [
-        "Bugs",
-        "Käfer"
-    ],
-    [
-        "WoodPlanks",
-        "Holz Bretter"
-    ],
-    [
-        "AdminBlocks",
-        "Admin Block"
-    ],
-    [
-        "StoneTiles",
-        "Stein Fließen"
-    ],
-    [
-        "RedTiles",
-        "Rote Fließen"
-    ],
-    [
-        "DarkTiles",
-        "Dunkle Fließen"
-    ],
-    [
-        "Terracotta",
-        "Ton"
-    ],
-    [
-        "TerracottaTiles",
-        "Ton Fließen"
-    ],
-    [
-        "Bricks",
-        "Stein-Ziegel"
-    ],
-    [
-        "RedBricks",
-        "Rote Ziegel"
-    ],
-    [
-        "DarkBricks",
-        "Dunkle Ziegel"
-    ],
-    [
-        "TerracottaBricks",
-        "Back-Ziegel"
-    ],
-    [
-        "Concrete",
-        "Beton"
-    ],
-    [
-        "ConcreteBricks",
-        "Beton-Ziegel"
-    ],
-    [
-        "ConcreteTiles",
-        "Beton-Fließen"
-    ],
-    [
-        "ConcreteSmallTiles",
-        "Kleine Beton-Fließen"
-    ],
-    [
-        "ReinforcedConcrete",
-        "Stahl-Beton"
-    ],
-    [
-        "ReinforcedConcreteTiles",
-        "Stahl-Beton-Fließen"
-    ],
-    [
-        "ReinforcedConcreteSmallTiles",
-        "Kleine Stahl-Beton-Fließen"
-    ],
-    [
-        "ReinforcedConcreteBricks",
-        "Stahl-Beton-Ziegel"
-    ],
-    [
-        "DangerBlock",
-        "Gefahrenblock"
-    ],
-    [
-        "RustyCopperCasing",
-        "Rostige Kupfer Schalung"
-    ],
-    [
-        "RustyIronCasing",
-        "Rostige Stahl Schalung"
-    ],
-    [
-        "Column",
-        "Säule"
-    ],
-    [
-        "FluetedColumn",
-        "gerillte Säule"
-    ],
-    [
-        "Flashlight",
-        "Taschenlampe"
-    ],
-    [
-        "Steampack",
-        "Dampfdüsenrucksack"
-    ],
-    [
-        "Jetpack",
-        "Raketenrucksack"
-    ],
-    [
-        "AntigravityUnit",
-        "Antigravititäts-Einheit"
-    ],
-    [
+  [
+    "Chair",
+    "Holzstuhl"
+  ],
+  [
+    "Table",
+    "Holztisch"
+  ],
+  [
+    "Rack",
+    "Holzregal"
+  ],
+  [
+    "Bed",
+    "Holzbett"
+  ],
+  [
+    "Ladder",
+    "Holzleiter"
+  ],
+  [
+    "Door",
+    "Holztür"
+  ],
+  [
+    "Fence",
+    "Holzzaun"
+  ],
+  [
+    "Window",
+    "Fenster"
+  ],
+  [
+    "CeramicRoof",
+    "Ziegeldach"
+  ],
+  [
+    "Stairs",
+    "Treppe"
+  ],
+  [
+    "WoodenStairs",
+    "Holztreppe"
+  ],
+  [
+    "CopperChair",
+    "Kupferstuhl"
+  ],
+  [
+    "FireCup",
+    "Feuerkelch"
+  ],
+  [
+    "PlasticWindow",
+    "Kunststofffenster"
+  ],
+  [
+    "Firefly",
+    "Glühwürmchen"
+  ],
+  [
+    "Flies",
+    "Fliegen"
+  ],
+  [
+    "Birds",
+    "Vögel"
+  ],
+  [
+    "DesertSound",
+    "Wüstenwind"
+  ],
+  [
+    "SwampSound",
+    "Sumpfgeräusche"
+  ],
+  [
+    "Butterfly",
+    "Schmetterling"
+  ],
+  [
+    "Leafes",
+    "Blätter"
+  ],
+  [
+    "Bugs",
+    "Insekten"
+  ],
+  [
+    "WoodenPlanks",
+    "Holzbretter"
+  ],
+  [
+    "AdminBlocks",
+    "Blöcke mit administrativer Macht"
+  ],
+  [
+    "StoneTiles",
+    "Steinfliesen"
+  ],
+  [
+    "RedTiles",
+    "Rote Fliesen"
+  ],
+  [
+    "DarkTiles",
+    "Dunkle Fliesen"
+  ],
+  [
+    "Terracotta",
+    "Terracotta"
+  ],
+  [
+    "TerracottaTiles",
+    "Terracottafliesen"
+  ],
+  [
+    "Bricks",
+    "Ziegel"
+  ],
+  [
+    "RedBricks",
+    "Rote Ziegel"
+  ],
+  [
+    "DarkBricks",
+    "Dunkle Ziegel"
+  ],
+  [
+    "TerracottaBricks",
+    "Terracottaziegel"
+  ],
+  [
+    "Concrete",
+    "Beton"
+  ],
+  [
+    "ConcreteBricks",
+    "Betonziegel"
+  ],
+  [
+    "ConcreteTiles",
+    "Betonfliesen"
+  ],
+  [
+    "ConcreteSmallTiles",
+    "Kleine Betonfliesen"
+  ],
+  [
+    "ReinforcedConcrete",
+    "Stahlbeton"
+  ],
+  [
+    "ReinforcedConcreteTiles",
+    "Stahlbetonfliesen"
+  ],
+  [
+    "ReinforcedConcreteSmallTiles",
+    "Kleine Stahlbetonfliesen"
+  ],
+  [
+    "ReinforcedConcreteBricks",
+    "Stahlbetonziegel"
+  ],
+  [
+    "DangerBlock",
+    "Block mit Gefahrenmarkierung"
+  ],
+  [
+    "RustyCopperCasing",
+    "Verrostetes Kupfergehäuse"
+  ],
+  [
+    "RustyIronCasing",
+    "Verrostetes Eisengehäuse"
+  ],
+  [
+    "Column",
+    "Säule"
+  ],
+  [
+    "FluetedColumn",
+    "Leicht verschmutzte Säule"
+  ],
+  [
+    "Flashlight",
+    "Taschenlampe"
+  ],
+  [
+    "Steampack",
+    "Jetpack (Dampf)"
+  ],
+  [
+    "Jetpack",
+    "Jetpack"
+  ],
+  [
+    "AntigravityUnit",
+    "Antigravitationseinheit"
+  ],
+  [
         "Scanner",
         "Scanner"
     ],
     [
         "WoodenStairs",
-        "Wooden Stairs"
+        "Holztreppe"
     ],
     [
         "WoodenPlanks",
-        "Wooden Planks"
+        "Holzplanke"
     ],
     [
         "Torch",
-        "Torch"
+        "Fackel"
     ],
     [
         "NightVision",
-        "Night Vision"
+        "Nachtsicht"
     ],
     [
         "AdvancedNightVision",
-        "Advanced Night Vision"
+        "Verbesserte Nachtsicht"
     ],
     [
         "AdvancedJetpack",
-        "Advanced Jetpack"
+        "Verbessertes Jetpack"
     ]
 ]

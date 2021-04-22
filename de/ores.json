@@ -1,90 +1,90 @@
 [
-    [
-        "CopperOre",
-        "Kupfer Erz"
-    ],
-    [
-        "CopperImpureOreGravel",
-        "unreiner Kupfer Erz Kies"
-    ],
-    [
-        "CopperOreGravel",
-        "Kupfer Erz Kies"
-    ],
-    [
-        "CopperImpureOreDust",
-        "unreiner Kupfer Erz Staub"
-    ],
-    [
-        "IronOre",
-        "Eisen Erz"
-    ],
-    [
-        "IronImpureOreGravel",
-        "unreiner Eisen Erz Kies"
-    ],
-    [
-        "IronOreGravel",
-        "Eisen Erz Kies"
-    ],
-    [
-        "IronImpureOreDust",
-        "unreiner Eisen Erz Staub"
-    ],
-    [
-        "UraniumOre",
-        "Uran Erz"
-    ],
-    [
-        "UraniumImpureOreGravel",
-        "unreiner Uran Erz Kies"
-    ],
-    [
-        "UraniumOreGravel",
-        "Uran Erz Kies"
-    ],
-    [
-        "UraniumImpureOreDust",
-        "unreiner Uran Erz Staub"
-    ],
-    [
-        "AluminiumOre",
-        "Aluminium Erz"
-    ],
-    [
-        "AluminiumImpureOreGravel",
-        "unreiner Aluminium Erz Kies"
-    ],
-    [
-        "AluminiumOreGravel",
-        "Aluminium Erz Kies"
-    ],
-    [
-        "AluminiumImpureOreDust",
-        "unreiner Aluminium Erz Staub"
-    ],
-    [
-        "CoalOre",
-        "Stein-Kohle"
-    ],
-    [
-        "ClayOre",
-        "TonErde"
-    ],
-    [
-        "CopperOreDust",
-        "Copper Impure Ore Dust"
-    ],
-    [
-        "IronOreDust",
-        "Iron Impure Ore Dust"
-    ],
-    [
-        "UraniumOreDust",
-        "Uranium Impure Ore Dust"
-    ],
-    [
-        "AluminiumOreDust",
-        "Aluminium Impure Ore Dust"
-    ]
+  [
+    "CopperOre",
+    "Kupfererz"
+  ],
+  [
+    "CopperImpureOreGravel",
+    "Ungereinigter Schotter aus Kupfererz"
+  ],
+  [
+    "CopperOreGravel",
+    "Schotter aus Kupfererz"
+  ],
+  [
+    "CopperImpureOreDust",
+    "Ungereinigter Staub aus Kupfererz"
+  ],
+  [
+    "IronOre",
+    "Eisenerz"
+  ],
+  [
+    "IronImpureOreGravel",
+    "Ungereinigter Schotter aus Eisenerz"
+  ],
+  [
+    "IronOreGravel",
+    "Schotter aus Eisenerz"
+  ],
+  [
+    "IronImpureOreDust",
+    "Ungereinigter Staub aus Eisenerz"
+  ],
+  [
+    "UraniumOre",
+    "Uranerz"
+  ],
+  [
+    "UraniumImpureOreGravel",
+    "Ungereinigter Schotter aus Uranerz"
+  ],
+  [
+    "UraniumOreGravel",
+    "Schotter aus Uranierz"
+  ],
+  [
+    "UraniumImpureOreDust",
+    "Ungereinigter Staub aus Uranerz"
+  ],
+  [
+    "AluminiumOre",
+    "Aluminiumerz"
+  ],
+  [
+    "AluminiumImpureOreGravel",
+    "Ungereinigter Schotter aus Aluminiumerz"
+  ],
+  [
+    "AluminiumOreGravel",
+    "Schotter aus Aluminiumerz"
+  ],
+  [
+    "AluminiumImpureOreDust",
+    "Ungereinigter Staub aus Aluminiumerz"
+  ],
+  [
+    "CoalOre",
+    "Kohle"
+  ],
+  [
+    "ClayOre",
+    "Ton"
+  ],
+  [
+    "CopperOreDust",
+    "Kupferpulver"
+  ],
+  [
+    "IronOreDust",
+    "Eisenpulver"
+  ],
+  [
+    "UraniumOreDust",
+    "Uranstaub"
+  ],
+  [
+    "AluminiumOreDust",
+    "Aluminiumpulver"
+  ]
 ]

@@ -1,7 +1,7 @@
 [
     [
         "Macerator",
-        "Zerkleinert Gestein zur weiteren Verarbeitung. Verwandelt Platten und Teile zu Staub."
+        "Zerkleinert verschiedene Arten von Schotter. Zerschreddert Platten und andere Metallteile zu Staub."
     ],
     [
         "CuttingMachine",
@@ -17,67 +17,67 @@
     ],
     [
         "Separator",
-        "Zerlegt Staub in seine Einzelteile."
+        "Zerlegt Staub in weitere Bestandteile."
     ],
     [
         "Beam",
-        ""
+        "Balken"
     ],
     [
         "Corner",
-        ""
+        "Winkel"
     ],
     [
         "AutomaticHammer",
-        "Hämmert Barren zu Platten. Zerkleinert Erz."
+        "Erzeugt Platten aus Metallbarren. Zerkleinert Erze."
     ],
     [
         "Boiler",
-        "Erhitzt Wasser zu Wasserdampf."
+        "Wärmeenergie und Wasser => Dampf."
     ],
     [
         "Pipe",
-        ""
+        "Verteilt eine Flüssigkeit"
     ],
     [
         "HeatPipe",
-        ""
+        "Verteilt Wärme"
     ],
     [
         "Flywheel",
-        ""
+        "Verteilt Bewegungsenergie"
     ],
     [
         "Scaffold",
-        ""
+        "Gerüstartige Bauteile"
     ],
     [
         "Sign",
-        "Hinterlassen Sie eine Nachricht"
+        ""
     ],
     [
         "Connector",
         "Leitet Strom"
     ],
     [
-        "Tuhe",
-        ""
+        "Chest",
+        "Speichert Gegenstände"
     ],
     [
         "ItemRack",
-        "Speichert große Mengen eines Gegenständes"
+        "Speichert große Mengen eines Gegenstandes"
     ],
     [
         "Vent",
-        "Manuelles trennen von Rohrleitungen"
+        "Trennt Rohrleitungsabschnitte"
     ],
     [
         "ElectricalSwitch",
-        "manuelles trennen von Stromleitungen"
+        "Trennt Stromleitungsabschnitte"
     ],
     [
         "OreWasher",
-        "Extrahiert zusätzliche Stoffe aus dem Erz."
+        "Extrahiert weitere Materialien aus Erzen."
     ],
     [
         "Conveyor",
@@ -89,7 +89,7 @@
     ],
     [
         "Press",
-        "Presst Dinge zusammen."
+        "Stellt durch Pressdruck Gegenstände her."
     ],
     [
         "Compressor",
@@ -97,23 +97,23 @@
     ],
     [
         "StirlingEngine",
-        "Wandelt Wärme zu Bewegungsarbeit."
+        "Erzeugt Bewegungsenergie aus Wärmeenergie"
     ],
     [
         "CombustionEngine",
-        "Verbrennt flüssigen Treibstoff um Bewegungsenergie zu erzeugen."
+        "Erzeugt Bewegungsenergie durch Verbrennung von Flüssigtreibstoff."
     ],
     [
         "PyrolysisUnit",
-        "Spaltet langkettige Kohlenwasserstoffe zu kurzkettigen."
+        "Zersetzt Brennstoff in kleinere Komponenten."
     ],
     [
         "Generator",
-        "Wandelt mechanische Arbeit zu Strom um."
+        "Erzeugt Strom aus Bewegungsenergie."
     ],
     [
         "CompactGenerator",
-        "Wandelt kleine Mengen mechanische Arbeit zu Strom um."
+        "Erzeugt Strom aus Bewegungsenergie."
     ],
     [
         "ElectricEngine",
@@ -121,59 +121,59 @@
     ],
     [
         "RobotArm",
-        "Bewegt Gegenstände zwischen Maschinen und Förderbänder."
+        "Bewegt Gegenstände zwischen verschiedenen Vorrichtungen und Fließbändern."
     ],
     [
         "FilteringRobotArm",
-        "Bewegt festgelegte Gegenstände zwischen Maschinen und Förderbänder."
+        "Bewegt Gegenstände zwischen verschiedenen Vorrichtungen und Fließbändern."
     ],
     [
         "Pump",
-        "Bewegt Flüssigkeiten zwischen Maschinen und Förderbänder."
+        "Bewegt Füssigkeiten zwischen verschiedenen Vorrichtungen und Rohren."
     ],
     [
         "FilteringPump",
-        "Bewegt festgelegte Flüssigkeiten zwischen Maschinen und Förderbänder."
+        "Bewegt Füssigkeiten zwischen verschiedenen Vorrichtungen und Rohren."
     ],
     [
         "Smelter",
-        "Ein einfache Erzschmelze. Kann auch zur Glasserzeugung verwendet werden."
+        "Primitiver Schmelzofen. Wird zum Herstellen von Kupfer, Glas und Gold verwendet."
     ],
     [
         "SteamTurbine",
-        "Wandelt Dampf in mechanische Bewegungenergie um."
+        "Erzeugt Bewegungsenergie aus Dampf."
     ],
     [
         "GasTurbine",
-        "Erzeugt mechanische Energie bei der Verbrennung von Treibstoffen."
+        "Erzeugt Bewegungsenergie durch Verbrennung von Treibstoff."
     ],
     [
         "ArcSmelter",
-        "Moderner Schmelzofen. Perfekt zum Schmelzen von hochwertigen Stahl."
+        "Hochentwickelter Schmelzofen. Geeignet für das Herstellen von Edelstahl."
     ],
     [
         "ChemicalBath",
-        "Chemiebad NaN"
+        "Chemiebad"
     ],
     [
         "Furnace",
-        "Verwendet Brennstoffe um Wärme zu erzeugen."
+        "Erzeugt Wärmeenergie aus Festbrennstoff."
     ],
     [
         "Oven",
-        "Ein Gerät zur Produktion von Holzkohle, Koks oder gebrannte Ziegel."
+        "Vorrichtung zur Herstellung von Holzkohle, Koks und gebranntem Ton."
     ],
     [
         "BlastFurnace",
-        "Ofen für die Stahlschmelze"
+        "Schmelzofen für Stahl."
     ],
     [
         "FluidFurnace",
-        "Verbrennt Flüssigkeiten um Wärme zu erzeugen"
+        "Erzeugt Wärmeenergie aus Flüssigtreibstoff."
     ],
     [
         "ElectricFurnace",
-        "Verwendet Strom zu erzeugung von Wärme"
+        "Erzeugt Wärmeenergie aus Strom."
     ],
     [
         "BatteryBox",
@@ -181,19 +181,19 @@
     ],
     [
         "DrillingRig",
-        "Automatisiertes Bauwerk zum Schürfen von Erzen und Gestein. Lagerstätten sind auf der Karte markiert. Verwende den Scanner um weitere zu finden."
+        "Automatisiertes Gerät zum Abbau von Erzen und Gestein. Die Lagerstätten sind auf der Weltkarte markiert. Mit dem Scanner kann nach neuen Lagerstätten gesucht werden."
     ],
     [
         "Assembler",
-        "Eine Maschine zum zusammenbauen von kleinen Gegenständen und Mikrochips."
+        "Vorrichtung zur Herstellung von kleineren Gegenständen und Microchips."
     ],
     [
         "FluidDump",
-        "Läßt Flüssigkeiten im Boden verschwinden"
+        "Entsorgt Flüssigkeiten."
     ],
     [
         "Lamp",
-        "Erhellt den Raum."
+        "Leuchtet in der Nacht."
     ],
     [
         "AdminElectricGenerator",
@@ -225,11 +225,11 @@
     ],
     [
         "Mixer",
-        "Gerät zum Erzeugen von Gemischen, sowie Beton."
+        "Anlage zum Herstellen von Gemischen und Betonblöcken."
     ],
     [
         "AutomaticFarm",
-        "Automatisiertes Anbauen von Nutzplanzen"
+        "Automatisierte Anlage zum Anbauen von Pflanzen."
     ],
     [
         "AtmosphericCondenser",
@@ -237,47 +237,47 @@
     ],
     [
         "Terminal",
-        "Läst die graphische Oberfläche eines Gerätes anzeigen."
+        "Zeigt die grafische Oberfläche davor befindlichen Geräte an."
     ],
     [
         "BigTerminal",
-        "Läst die graphische Oberfläche eines Gerätes groß anzeigen."
+        "Zeigt die grafische Oberfläche davor befindlichen Geräte an."
     ],
     [
         "HugeTerminal",
-        "Läst die graphische Oberfläche eines Gerätes riesig anzeigen."
+        "Zeigt die grafische Oberfläche davor befindlichen Geräte an."
     ],
     [
         "FlatTerminal",
-        "Läst die graphische Oberfläche eines Gerätes anzeigen."
+        "Zeigt die grafische Oberfläche davor befindlichen Geräte an."
     ],
     [
         "BigFlatTerminal",
-        "Läst die graphische Oberfläche eines Gerätes groß anzeigen."
+        "Zeigt die grafische Oberfläche davor befindlichen Geräte an."
     ],
     [
         "HugeFlatTerminal",
-        "Läst die graphische Oberfläche eines Gerätes riesig anzeigen."
+        "Zeigt die grafische Oberfläche davor befindlichen Geräte an."
     ],
     [
         "Computer",
-        "Erzeugt Forschungspunkte."
+        "Generiert Wissen für Forschung."
     ],
     [
         "IndustrialSeparator",
-        "Zerlegt Staub in seine Einzelteile. Noch effizienter!"
+        "Spaltet Mineralstaub in weitere Bestandteile."
     ],
     [
         "Radiator",
-        "Gibt Wärme an die Atmossphäre ab."
+        "Entsorgt Wärmeenergie."
     ],
     [
         "Diode",
-        "Läst Strom nur in eine Richtung durch."
+        "Läßt Strom in nur eine Richtung durch."
     ],
     [
         "FissionReactor",
-        "Erzeugt riesige Mengen an Wärme die beim Zerfall von Atomen ensteht."
+        "Erzeugt riesige Mengen an Energie durch Kernspaltung."
     ],
     [
         "SolarPanel",
@@ -285,7 +285,7 @@
     ],
     [
         "Pumpjack",
-        "Automatisiertes Bauwerk zur Extraktion von Flüssigkeiten aus dem Untergrund. Lagerstätten sind auf der Karte markiert. Verwende den Scanner um weitere zu finden."
+        "Automatisiertes Gerät für die Förderung von Flüssigkeiten. Die Lagerstätten sind auf der Weltkarte markiert. Mit dem Scanner kann nach neuen Lagerstätten gesucht werden."
     ],
     [
         "HeatExchanger",
@@ -293,11 +293,11 @@
     ],
     [
         "IndustrialSmelter",
-        "Moderner Schmelzofen. Verwendet die Hitze einer Induktionsspule zum schmeltzen harter Metalle wie Titan oder Wolframcarbid."
+        "Hochentwickelte Schmelzhütte. Wird zum Herstellen von Titan und Graphit verwendet."
     ],
     [
         "InductionCoil",
-        "Strom durch die Spule erzeugt große Mengen an Wärme."
+        "Erzeugt Wärmeenergie aus Strom."
     ],
     [
         "AdvancedSign",
