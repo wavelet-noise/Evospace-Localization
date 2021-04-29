@@ -722,5 +722,85 @@
     [
         "Screwdriver",
         "Screwdriver"
+    ],
+    [
+        "CopperBlock",
+        "Copper Block"
+    ],
+    [
+        "GoldBlock",
+        "Gold Block"
+    ],
+    [
+        "SuperconductorBlock",
+        "Superconductor Block"
+    ],
+    [
+        "IronBlock",
+        "Iron Block"
+    ],
+    [
+        "SteelBlock",
+        "Steel Block"
+    ],
+    [
+        "AluminiumBlock",
+        "Aluminium Block"
+    ],
+    [
+        "AluminiumOxideBlock",
+        "Aluminium Oxide Block"
+    ],
+    [
+        "StainlessSteelBlock",
+        "Stainless Steel Block"
+    ],
+    [
+        "TitaniumBlock",
+        "Titanium Block"
+    ],
+    [
+        "ZinkBlock",
+        "Zink Block"
+    ],
+    [
+        "LithiumBlock",
+        "Lithium Block"
+    ],
+    [
+        "HardMetalBlock",
+        "Hard Metal Block"
+    ],
+    [
+        "CobaltBlock",
+        "Cobalt Block"
+    ],
+    [
+        "PlutoniumBlock",
+        "Plutonium Block"
+    ],
+    [
+        "UraniumBlock",
+        "Uranium-238 Block"
+    ],
+    [
+        "Uranium235Block",
+        "Uranium-235 Block"
+    ],
+    [
+        "Uranium233Block",
+        "Uranium-233 Block"
+    ],
+    [
+        "ThoriumBlock",
+        "Thorium Block"
+    ],
+    [
+        "SodiumBlock",
+        "Sodium Block"
+    ],
+    [
+        "PotassiumBlock",
+        "Potassium Block"
     ]
 ]

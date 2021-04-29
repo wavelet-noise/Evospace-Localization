@@ -24,10 +24,6 @@
         "Wooden Door"
     ],
     [
-        "Fence",
-        "Wooden Fence"
-    ],
-    [
         "Window",
         "Wooden Window"
     ],
@@ -62,6 +58,10 @@
     [
         "StainlessSteelFence",
         "Stainless Steel Fence"
+    ],
+    [
+        "Fence",
+        "Fence"
     ],
     [
         "Firefly",

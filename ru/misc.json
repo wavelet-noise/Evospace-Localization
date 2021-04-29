@@ -218,5 +218,13 @@
     [
         "Scanner",
         "Сканер"
+    ],
+    [
+        "SteelFence",
+        "Steel Fence"
+    ],
+    [
+        "StainlessSteelFence",
+        "Stainless Steel Fence"
     ]
 ]
