@@ -121,7 +121,7 @@
     ],
     [
         "GoldBlock",
-        "Bloque de oro"			
+        "Bloque de oro"
     ],
     [
         "GoldDust",
@@ -181,7 +181,7 @@
     ],
     [
         "AluminiumBlock",
-        "Bloque de aluminio" 
+        "Bloque de aluminio"
     ],
     [
         "AluminiumDust",
@@ -189,7 +189,7 @@
     ],
     [
         "AluminiumOxideBlock",
-        "Bloque de óxido de aluminio"		   
+        "Bloque de óxido de aluminio"
     ],
     [
         "AluminiumOxideDust",
@@ -313,7 +313,7 @@
     ],
     [
         "PlutoniumBlock",
-        "Bloque de plutonio"		 
+        "Bloque de plutonio"
     ],
     [
         "PlutoniumDust",
@@ -321,7 +321,7 @@
     ],
     [
         "UraniumBlock",
-        "Bloque de uranio-238"		   
+        "Bloque de uranio-238"
     ],
     [
         "UraniumDust",
@@ -329,7 +329,7 @@
     ],
     [
         "Uranium235Block",
-        "Bloque de Uranio-235"		   
+        "Bloque de Uranio-235"
     ],
     [
         "Uranium235Dust",
@@ -337,7 +337,7 @@
     ],
     [
         "Uranium233Block",
-        "Bloque de Uranio-233"		   
+        "Bloque de Uranio-233"
     ],
     [
         "Uranium233Dust",
@@ -377,7 +377,7 @@
     ],
     [
         "PotassiumBlock",
-        "Bloqueo de potasio"	 
+        "Bloqueo de potasio"
     ],
     [
         "PotassiumDust",
@@ -569,7 +569,7 @@
     ],
     [
         "SuperconductorWire",
-        "Alambre superconductor"				 
+        "Alambre superconductor"
     ],
     [
         "Circuit",
