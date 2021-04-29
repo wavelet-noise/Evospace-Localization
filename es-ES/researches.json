@@ -44,10 +44,6 @@
         "Vertido de Líquidos"
     ],
     [
-        "Pyrolysis",
-        "Pirólisis"
-    ],
-    [
         "SingleTypeStorage",
         "Almacén de tipo Único"
     ],
@@ -86,10 +82,6 @@
     [
         "Scaffold",
         "Andamio"
-    ],
-    [
-        "Lamp",
-        "Lámpara"
     ],
     [
         "Chemistry",
@@ -197,6 +189,6 @@
     ],
     [
         "ReactionThrottling",
-        "Reaction Throttling"
+        "Aceleración por reacción"
     ]
 ]
