@@ -105,7 +105,7 @@
     ],
     [
         "PyrolysisUnit",
-        "Breaks down the fuel into smaller components."
+        "Breaks down a fuel into smaller components."
     ],
     [
         "Generator",
@@ -129,11 +129,11 @@
     ],
     [
         "Pump",
-        "Moves the liquid between the devices and pipes."
+        "Moves liquids between devices and pipes. Can be placed underwater to collect water."
     ],
     [
         "FilteringPump",
-        "Moves the liquid between the devices and pipes."
+        "Moves liquids between devices and pipes."
     ],
     [
         "Smelter",
@@ -177,7 +177,7 @@
     ],
     [
         "BatteryBox",
-        ""
+        "Big and efficient energy storage."
     ],
     [
         "DrillingRig",
@@ -193,7 +193,7 @@
     ],
     [
         "Lamp",
-        ""
+        "Light source. Configuratible."
     ],
     [
         "AdminElectricGenerator",
@@ -237,27 +237,27 @@
     ],
     [
         "Terminal",
-        "Displays the graphical interface of the devices in front of it."
+        "Displays the graphical interface of the device in front of it."
     ],
     [
         "BigTerminal",
-        "Displays the graphical interface of the devices in front of it."
+        "Displays the graphical interface of the device in front of it."
     ],
     [
         "HugeTerminal",
-        "Displays the graphical interface of the devices in front of it."
+        "Displays the graphical interface of the device in front of it."
     ],
     [
         "FlatTerminal",
-        "Displays the graphical interface of the devices in front of it."
+        "Displays the graphical interface of the device in front of it."
     ],
     [
         "BigFlatTerminal",
-        "Displays the graphical interface of the devices in front of it."
+        "Displays the graphical interface of the device in front of it."
     ],
     [
         "HugeFlatTerminal",
-        "Displays the graphical interface of the devices in front of it."
+        "Displays the graphical interface of the device in front of it."
     ],
     [
         "Computer",
@@ -317,19 +317,19 @@
     ],
     [
         "Sorter",
-        ""
+        "Can divite item flow into parts."
     ],
     [
         "IndustrialElectricEngine",
-        ""
+        "Very powerfull electric engine."
     ],
     [
         "IndustrialSteamTurbine",
-        ""
+        "Very powerful hybrid of steam turbine and generator."
     ],
     [
         "Riteg",
-        ""
+        "Infinite radioisotope heat source."
     ],
     [
         "Sifter",
@@ -365,15 +365,11 @@
     ],
     [
         "FusionReactor",
-        ""
+        "Neutronium source."
     ],
     [
         "IndustrialBoiler",
-        ""
-    ],
-    [
-        "ResearchReactor",
-        ""
+        "Very powerful boiler with big internal buffer."
     ],
     [
         "CreativeController",
