@@ -254,5 +254,17 @@
     [
         "machines_label_formal",
         "{0} {1}"
+    ],
+    [
+        "Splitter",
+        "Can divite item flow into parts."
+    ],
+    [
+        "Sorter",
+        "Allowing to set white filter."
+    ],
+    [
+        "machines_label_format",
+        "{0} {1}"
     ]
 ]

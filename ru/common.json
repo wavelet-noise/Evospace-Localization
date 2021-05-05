@@ -254,5 +254,17 @@
     [
         "WorldGeneratorPlains",
         "Равнины и побережья"
+    ],
+    [
+        "Splitter",
+        "Can divite item flow into parts."
+    ],
+    [
+        "Sorter",
+        "Allowing to set white filter."
+    ],
+    [
+        "machines_label_format",
+        "{1} {0}"
     ]
 ]

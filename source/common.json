@@ -176,6 +176,14 @@
         "Neutronium"
     ],
     [
+        "Splitter",
+        "Can divite item flow into parts."
+    ],
+    [
+        "Sorter",
+        "Allowing to set white filter."
+    ],
+    [
         "ips",
         "Items per second: %s"
     ],
