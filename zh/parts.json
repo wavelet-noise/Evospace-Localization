@@ -1,203 +1,203 @@
 [
     [
         "CopperPlate",
-        "Copper Plate"
+        "铜板"
     ],
     [
         "SteelPlate",
-        "Steel Plate"
+        "钢板"
     ],
     [
         "AluminiumPlate",
-        "Aluminium Plate"
+        "铝板"
     ],
     [
         "StainlessSteelPlate",
-        "Stainless Steel Plate"
+        "不锈钢板"
     ],
     [
         "TitaniumPlate",
-        "Titanium Plate"
+        "钛板"
     ],
     [
         "HardMetalPlate",
-        "Hard Metal Plate"
+        "硬质板"
     ],
     [
         "NeutroniumPlate",
-        "Neutronium Plate"
+        "中子板"
     ],
     [
         "CopperParts",
-        "Copper Parts"
+        "铜组件"
     ],
     [
         "SteelParts",
-        "Steel Parts"
+        "钢组件"
     ],
     [
         "AluminiumParts",
-        "Aluminium Parts"
+        "铝组件"
     ],
     [
         "StainlessSteelParts",
-        "Stainless Steel Parts"
+        "不锈钢组件"
     ],
     [
         "TitaniumParts",
-        "Titanium Parts"
+        "钛组件"
     ],
     [
         "HardMetalParts",
-        "Hard Metal Parts"
+        "硬质组件"
     ],
     [
         "NeutroniumParts",
-        "Neutronium Parts"
+        "中子组件"
     ],
     [
         "CopperCasing",
-        "Copper Casing"
+        "铜壳"
     ],
     [
         "SteelCasing",
-        "Steel Casing"
+        "钢壳"
     ],
     [
         "AluminiumCasing",
-        "Aluminium Casing"
+        "铝壳"
     ],
     [
         "StainlessSteelCasing",
-        "Stainless Steel Casing"
+        "不锈钢壳"
     ],
     [
         "TitaniumCasing",
-        "Titanium Casing"
+        "钛壳"
     ],
     [
         "HardMetalCasing",
-        "Hard Metal Casing"
+        "硬质壳"
     ],
     [
         "NeutroniumCasing",
-        "Neutronium Casing"
+        "中子壳"
     ],
     [
         "Hand",
-        "Hand"
+        "手"
     ],
     [
         "Computations",
-        "Computations"
+        "计算点"
     ],
     [
         "Heat",
-        "Heat"
+        "热能"
     ],
     [
         "Electricity",
-        "Electricity"
+        "电能"
     ],
     [
         "Kinetic",
-        "Kinetic"
+        "动能"
     ],
     [
         "CopperIngot",
-        "Copper Ingot"
+        "铜锭"
     ],
     [
         "CopperDust",
-        "Copper Dust"
+        "铜粉"
     ],
     [
         "GoldIngot",
-        "Gold Ingot"
+        "金锭"
     ],
     [
         "GoldDust",
-        "Gold Dust"
+        "金粉"
     ],
     [
         "SuperconductorIngot",
-        "Superconductor Ingot"
+        "超导体锭"
     ],
     [
         "SuperconductorDust",
-        "Superconductor Dust"
+        "超导体粉"
     ],
     [
         "IronIngot",
-        "Iron Ingot"
+        "铁锭"
     ],
     [
         "IronDust",
-        "Iron Dust"
+        "铁粉"
     ],
     [
         "CircuitBoard",
-        "Circuit Board"
+        "电路板"
     ],
     [
         "AdvancedCircuitBoard",
-        "Advanced Circuit Board"
+        "先进电路板"
     ],
     [
         "Plastic",
-        "Plastic"
+        "塑料"
     ],
     [
         "SteelIngot",
-        "Steel Ingot"
+        "钢锭"
     ],
     [
         "SteelDust",
-        "Steel Dust"
+        "钢粉"
     ],
     [
         "AluminiumIngot",
-        "Aluminium Ingot"
+        "铝锭"
     ],
     [
         "AluminiumDust",
-        "Aluminium Dust"
+        "铝粉"
     ],
     [
         "AluminiumOxideDust",
-        "Aluminium Oxide Dust"
+        "氧化铝粉"
     ],
     [
         "StainlessSteelIngot",
-        "Stainless Steel Ingot"
+        "不锈钢锭"
     ],
     [
         "StainlessSteelDust",
-        "Stainless Steel Dust"
+        "不锈钢粉"
     ],
     [
         "TitaniumIngot",
-        "Titanium Ingot"
+        "钛锭"
     ],
     [
         "TitaniumDust",
-        "Titanium Dust"
+        "钛粉"
     ],
     [
         "TitaniumTetrachloride",
-        "Titanium Tetrachloride"
+        "四氯化钛"
     ],
     [
         "TitaniumSponge",
-        "Titanium Sponge"
+        "海绵钛"
     ],
     [
         "TitaniumOxideDust",
-        "Titanium Oxide Dust"
+        "氧化钛粉"
     ],
     [
         "PreparedTitaniumOxideDust",
-        "Prepared Titanium Oxide Dust"
+        "处理后氧化钛粉"
     ],
     [
         "ZinkDust",
@@ -205,407 +205,407 @@
     ],
     [
         "LithiumDust",
-        "Lithium Dust"
+        "锂粉"
     ],
     [
         "TungstenDust",
-        "Tungsten Dust"
+        "钨粉"
     ],
     [
         "TungstenOxideDust",
-        "Tungsten Oxide Dust"
+        "氧化钨粉"
     ],
     [
         "TungstenCarbideDust",
-        "Tungsten Carbide Dust"
+        "碳化钨粉"
     ],
     [
         "HardMetalIngot",
-        "Hard Metal Ingot"
+        "硬质锭"
     ],
     [
         "HardMetalDust",
-        "Hard Metal Dust"
+        "硬质"
     ],
     [
         "HotHardMetalIngot",
-        "Hot Hard Metal Ingot"
+        "高温硬质锭"
     ],
     [
         "HotNeutroniumIngot",
-        "Hot Neutronium Ingot"
+        "高温中子锭"
     ],
     [
         "CobaltDust",
-        "Cobalt Dust"
+        "钴粉"
     ],
     [
         "CobaltOxideDust",
-        "Cobalt Oxide Dust"
+        "氧化钴粉"
     ],
     [
         "CementDust",
-        "Cement Dust"
+        "水泥粉"
     ],
     [
         "NeutroniumIngot",
-        "Neutronium Ingot"
+        "中子锭"
     ],
     [
         "NeutroniumDust",
-        "Neutronium Dust"
+        "中子粉"
     ],
     [
         "ChromiumDust",
-        "Chromium Dust"
+        "铬粉"
     ],
     [
         "PlutoniumDust",
-        "Plutonium Dust"
+        "钚粉"
     ],
     [
         "UraniumDust",
-        "Uranium-238 Dust"
+        "铀-238粉"
     ],
     [
         "Uranium235Dust",
-        "Uranium-235 Dust"
+        "铀-235粉"
     ],
     [
         "Uranium233Dust",
-        "Uranium-233 Dust"
+        "铀-233粉"
     ],
     [
         "Uranium233Cell",
-        "Uranium 233 Cell"
+        "铀-233棒"
     ],
     [
         "UraniumCell",
-        "Uranium Cell"
+        "铀棒"
     ],
     [
         "PlutoniumCell",
-        "Plutonium Cell"
+        "钚棒"
     ],
     [
         "DepletedUraniumCell",
-        "Depleted Uranium Cell"
+        "乏铀棒"
     ],
     [
         "ThoriumDust",
-        "Thorium Dust"
+        "钍粉"
     ],
     [
         "SodiumDust",
-        "Sodium Dust"
+        "钠粉"
     ],
     [
         "PotassiumDust",
-        "Potassium Dust"
+        "钾粉"
     ],
     [
         "Sulfur",
-        "Sulfur"
+        "硫磺"
     ],
     [
         "Steam",
-        "Steam"
+        "蒸汽"
     ],
     [
         "Chlorine",
-        "Chlorine"
+        "氯"
     ],
     [
         "Peat",
-        "Peat"
+        "泥炭"
     ],
     [
         "Coal",
-        "Coal"
+        "煤"
     ],
     [
         "Coke",
-        "Coke"
+        "焦炭"
     ],
     [
         "Creosote",
-        "Creosote"
+        "杂酚油"
     ],
     [
         "ProducerGas",
-        "Producer Gas"
+        "煤气"
     ],
     [
         "CarbonMonoxide",
-        "Carbon Monoxide"
+        "一氧化碳"
     ],
     [
         "AshDust",
-        "Ash Dust"
+        "灰"
     ],
     [
         "Hydrogen",
-        "Hydrogen"
+        "氢气"
     ],
     [
         "Methane",
-        "Methane"
+        "甲烷"
     ],
     [
         "Ethylene",
-        "Ethylene"
+        "乙烯"
     ],
     [
         "Water",
-        "Water"
+        "水"
     ],
     [
         "Glass",
-        "Glass"
+        "玻璃"
     ],
     [
         "Lense",
-        "Lense"
+        "透镜"
     ],
     [
         "Organics",
-        "Organics"
+        "有机物"
     ],
     [
         "Biomass",
-        "Biomass"
+        "生物质"
     ],
     [
         "Clay",
-        "Clay"
+        "粘土"
     ],
     [
         "OreWater",
-        "Ore Water"
+        "洗矿水"
     ],
     [
         "RareEarthElement",
-        "Rare Earth Element"
+        "稀土元素"
     ],
     [
         "Log",
-        "Log"
+        "原木"
     ],
     [
         "StoneLog",
-        "Stone Log"
+        "石木"
     ],
     [
         "Plank",
-        "Plank"
+        "木板"
     ],
     [
         "Silicon",
-        "Silicon"
+        "硅"
     ],
     [
         "SiliconWafer",
-        "Silicon Wafer"
+        "硅晶体"
     ],
     [
         "SulfuricAcid",
-        "Sulfuric Acid"
+        "硫酸"
     ],
     [
         "RawOil",
-        "Raw Oil"
+        "原油"
     ],
     [
         "MineralWater",
-        "Mineral Water"
+        "矿泉水"
     ],
     [
         "Gasoline",
-        "Gasoline"
+        "汽油"
     ],
     [
         "HeavyOil",
-        "Heavy Oil"
+        "重油"
     ],
     [
         "Battery",
-        "Battery"
+        "电池"
     ],
     [
         "SiliconOxide",
-        "Silicon Oxide"
+        "氧化硅"
     ],
     [
         "Pumpkin",
-        "Pumpkin"
+        "南瓜"
     ],
     [
         "Oxygen",
-        "Oxygen"
+        "氧气"
     ],
     [
         "Nitrogen",
-        "Nitrogen"
+        "氮气"
     ],
     [
         "ChromiumOxideDust",
-        "Chromium Oxide Dust"
+        "氧化铬粉"
     ],
     [
         "PotassiumChlorideDust",
-        "Potassium Chloride Dust"
+        "氯化钾粉"
     ],
     [
         "BerylliumDust",
-        "Beryllium Dust"
+        "铍粉"
     ],
     [
         "YttriumDust",
-        "Yttrium Dust"
+        "钇粉"
     ],
     [
         "Helium",
-        "Helium"
+        "氦气"
     ],
     [
         "SaltDust",
-        "Salt Dust"
+        "盐粉"
     ],
     [
         "PortalBase",
-        "Portal Base"
+        "门座"
     ],
     [
         "Signal",
-        "Signal"
+        "信号"
     ],
     [
         "CopperWire",
-        "Copper Wire"
+        "铜线"
     ],
     [
         "GoldWire",
-        "Gold Wire"
+        "金线"
     ],
     [
         "SuperconductorWire",
-        "Superconductor Wire"
+        "超导线"
     ],
     [
         "Circuit",
-        "Circuit"
+        "芯片"
     ],
     [
         "AdvancedCircuit",
-        "Advanced Circuit"
+        "先进芯片"
     ],
     [
         "Processor",
-        "Processor"
+        "处理器"
     ],
     [
         "QuantumCircuit",
-        "Quantum Circuit"
+        "量子芯片"
     ],
     [
         "QuantumProcessor",
-        "Quantum Processor"
+        "量子处理器"
     ],
     [
         "QuantumCore",
-        "Quantum Core"
+        "量子核心"
     ],
     [
         "SingularityCore",
-        "Singularity Core"
+        "奇点核心"
     ],
     [
         "QuantumBrain",
-        "Quantum Brain"
+        "量子脑"
     ],
     [
         "Cell",
-        "Cell"
+        "单元"
     ],
     [
         "Catalyst",
-        "Catalyst Cell"
+        "催化剂"
     ],
     [
         "ControlCell",
-        "Control Cell"
+        "控制单元"
     ],
     [
         "ReflectorCell",
-        "Reflector Cell"
+        "反射单元"
     ],
     [
         "ThoriumCell",
-        "Thorium Cell"
+        "钍棒"
     ],
     [
         "MixedOxideCell",
-        "Mixed-Oxide Cell"
+        "混合氧化物剂"
     ],
     [
         "RutileCrystal",
-        "Rutile Crystal"
+        "金红石晶体"
     ],
     [
         "UraniniteCrystal",
-        "Uraninite Crystal"
+        "铀晶体"
     ],
     [
         "UraniniteCluster",
-        "Uraninite Cluster"
+        "铀矿簇"
     ],
     [
         "CinnabarDust",
-        "Cinnabar Dust"
+        "朱砂粉"
     ],
     [
         "CinnabarCrystal",
-        "Cinnabar Crystal"
+        "朱砂晶体"
     ],
     [
         "CinnabarCluster",
-        "Cinnabar Cluster"
+        "朱砂矿簇"
     ],
     [
         "MalachiteDust",
-        "Malachite Dust"
+        "孔雀石粉"
     ],
     [
         "MalachiteCrystal",
-        "Malachite Crystal"
+        "孔雀石晶体"
     ],
     [
         "MalachiteCluster",
-        "Malachite Cluster"
+        "孔雀石矿簇"
     ],
     [
         "Mercury",
-        "Mercury"
+        "汞"
     ],
     [
         "FilteringCell",
-        "Filtering Cell"
+        "过滤剂"
     ],
     [
         "BoronDust",
-        "Boron Dust"
+        "硼粉"
     ],
     [
         "BoraxDust",
-        "Borax Dust"
+        "硼砂粉"
     ],
     [
         "Emerald",
-        "Emerald"
+        "翡翠"
     ],
     [
         "EmeraldDust",
-        "Emerald Dust"
+        "翡翠粉"
     ],
     [
         "A",
@@ -713,94 +713,94 @@
     ],
     [
         "ErrorString",
-        "Error String"
+        "错误字符串"
     ],
     [
         "Multitool",
-        "Multitool"
+        "多用途工具"
     ],
     [
         "Screwdriver",
-        "Screwdriver"
+        "螺丝起子"
     ],
     [
         "CopperBlock",
-        "Copper Block"
+        "铜块"
     ],
     [
         "GoldBlock",
-        "Gold Block"
+        "金块"
     ],
     [
         "SuperconductorBlock",
-        "Superconductor Block"
+        "超导体块"
     ],
     [
         "IronBlock",
-        "Iron Block"
+        "铁块"
     ],
     [
         "SteelBlock",
-        "Steel Block"
+        "钢块"
     ],
     [
         "AluminiumBlock",
-        "Aluminium Block"
+        "铝块"
     ],
     [
         "AluminiumOxideBlock",
-        "Aluminium Oxide Block"
+        "氧化铝块"
     ],
     [
         "StainlessSteelBlock",
-        "Stainless Steel Block"
+        "不锈钢块"
     ],
     [
         "TitaniumBlock",
-        "Titanium Block"
+        "钛块"
     ],
     [
         "ZinkBlock",
-        "Zink Block"
+        "锌块"
     ],
     [
         "LithiumBlock",
-        "Lithium Block"
+        "锂块"
     ],
     [
         "HardMetalBlock",
-        "Hard Metal Block"
+        "硬质块"
     ],
     [
         "CobaltBlock",
-        "Cobalt Block"
+        "钴块"
     ],
     [
         "PlutoniumBlock",
-        "Plutonium Block"
+        "钚块"
     ],
     [
         "UraniumBlock",
-        "Uranium-238 Block"
+        "铀-238块"
     ],
     [
         "Uranium235Block",
-        "Uranium-235 Block"
+        "铀-235块"
     ],
     [
         "Uranium233Block",
-        "Uranium-233 Block"
+        "铀-233块"
     ],
     [
         "ThoriumBlock",
-        "Thorium Block"
+        "钍块"
     ],
     [
         "SodiumBlock",
-        "Sodium Block"
+        "钠块"
     ],
     [
         "PotassiumBlock",
-        "Potassium Block"
+        "钾块"
     ]
 ]
