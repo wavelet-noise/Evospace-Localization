@@ -1,198 +1,198 @@
 [
     [
         "InventoryUpgrade",
-        "Inventory Upgrade"
+        "库存升级"
     ],
     [
         "PlutoniumReaction",
-        "Plutonium Reaction"
+        "钚反应"
     ],
     [
         "ThoriumReaction",
-        "Thorium Reaction"
+        "钍反应"
     ],
     [
         "Drying",
-        "Drying"
+        "干燥"
     ],
     [
         "PowerGeneration",
-        "Power Generation"
+        "发电"
     ],
     [
         "Automatization",
-        "Automatization"
+        "自动化"
     ],
     [
         "AdditionalStorage",
-        "Additional Storage"
+        "额外储存"
     ],
     [
         "HeatTransferring",
-        "Heat Transferring"
+        "热转移"
     ],
     [
         "BasicMachines",
-        "Basic Machines"
+        "基础设备"
     ],
     [
         "Container",
-        "Fluid Storage"
+        "流体储存"
     ],
     [
         "FluidDumping",
-        "Fluid Dumping"
+        "流体处理"
     ],
     [
         "SingleTypeStorage",
-        "Single Type Storage"
+        "单类储存"
     ],
     [
         "DistributedComputing",
-        "Distributed Computing"
+        "分布式计算"
     ],
     [
         "Electrolysis",
-        "Electrolysis"
+        "电解"
     ],
     [
         "Sign",
-        "Sign"
+        "标志"
     ],
     [
         "Cutting",
-        "Cutting"
+        "切割"
     ],
     [
         "SteelProduction",
-        "Steel Production"
+        "炼钢"
     ],
     [
         "AutomaticMining",
-        "Automatic Mining"
+        "自动采矿"
     ],
     [
         "FluidFurnace",
-        "FluidFurnace"
+        "燃油加热器"
     ],
     [
         "MetalConstructions",
-        "Metal Constructions"
+        "金属结构"
     ],
     [
         "Scaffold",
-        "Scaffold"
+        "脚手架"
     ],
     [
         "Lamp",
-        "Lamp"
+        "灯"
     ],
     [
         "Chemistry",
-        "Chemistry"
+        "化学"
     ],
     [
         "MassivePowerGeneration",
-        "Massive Power Generation"
+        "规模发电"
     ],
     [
         "AdvancedSmelting",
-        "Advanced Smelting"
+        "先进冶炼"
     ],
     [
         "IndustrialSmelting",
-        "Industrial Smelting"
+        "工业冶炼"
     ],
     [
         "Fermentation",
-        "Fermentation"
+        "发酵"
     ],
     [
         "AdvancedSeparation",
-        "Advanced Separation"
+        "先进分离"
     ],
     [
         "NeutroniumProduction",
-        "Neutronium Production"
+        "中子生产"
     ],
     [
         "AluminiumProduction",
-        "Aluminium Production"
+        "铝生产"
     ],
     [
         "StainlessSteelProduction",
-        "Stainless Steel Production"
+        "不锈钢生产"
     ],
     [
         "TitaniumProduction",
-        "Titanium Production"
+        "钛生产"
     ],
     [
         "HardMetalProduction",
-        "Hard Metal Production"
+        "硬质生产"
     ],
     [
         "PlantsScan",
-        "Plants Scan"
+        "植物扫描"
     ],
     [
         "InitialScan",
-        "Initial Scan"
+        "初始扫描"
     ],
     [
         "MineralsScan",
-        "Minerals Scan"
+        "矿物扫描"
     ],
     [
         "Electricity",
-        "Electricity"
+        "电力"
     ],
     [
         "Smelting",
-        "Smelting"
+        "冶炼"
     ],
     [
         "Metalwork",
-        "Metalwork"
+        "金属制品"
     ],
     [
         "Steelwork",
-        "Steelwork"
+        "钢制品"
     ],
     [
         "Filtering",
-        "Filtering"
+        "筛选"
     ],
     [
         "DecorativeWood",
-        "Decorative Wood"
+        "装饰木制品"
     ],
     [
         "DecorativePlastic",
-        "Decorative Plastic"
+        "装饰塑料制品"
     ],
     [
         "DecorativeStone",
-        "Decorative Stone"
+        "装饰石制品"
     ],
     [
         "DecorativeConcrete",
-        "Decorative Concrete"
+        "装饰混凝土制品"
     ],
     [
         "DecorationClay",
-        "Decoration Clay"
+        "装饰粘土制品"
     ],
     [
         "ReinforcedConcrete",
-        "Decorative Reinforced Concrete"
+        "装饰钢筋混凝土制品"
     ],
     [
         "AdvancedReflection",
-        "Advanced Reflection"
+        "先进反射"
     ],
     [
         "ReactionThrottling",
-        "Reaction Throttling"
+        "反应限流"
     ]
 ]
