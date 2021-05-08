@@ -1,86 +1,86 @@
 [
     [
         "SandSurface",
-        "Sand"
+        "沙"
     ],
     [
         "SandstoneSurface",
-        "Sandstone"
+        "沙石"
     ],
     [
         "StoneSurface",
-        "Stone"
+        "石"
     ],
     [
         "DesertSandSurface",
-        "Desert Sand"
+        "沙漠沙"
     ],
     [
         "GrassSurface",
-        "Grass"
+        "草"
     ],
     [
         "BogFogSurface",
-        "Bog Fog"
+        "沼泽雾"
     ],
     [
         "LavaSmokeSurface",
-        "Lava Smoke"
+        "岩浆烟雾"
     ],
     [
         "LavaSurface",
-        "Lava"
+        "岩浆"
     ],
     [
         "BasaltSurface",
-        "Basalt"
+        "玄武岩"
     ],
     [
         "BogSurface",
-        "Bog"
+        "沼泽"
     ],
     [
         "PineForestSurface",
-        "Pine Forest"
+        "针叶林"
     ],
     [
         "CoralBubbleEmitterSurface",
-        "Coral Bubble Emitter"
+        "珊瑚气泡发射器"
     ],
     [
         "DirtSurface",
-        "Dirt"
+        "尘土"
     ],
     [
         "GravelSurface",
-        "Gravel"
+        "砾石"
     ],
     [
         "DryGrassSurface",
-        "Dry Grass"
+        "干草"
     ],
     [
         "LimestoneSurface",
-        "Limestone"
+        "石灰石"
     ],
     [
         "RedStoneSurface",
-        "Red Stone"
+        "红石"
     ],
     [
         "DarkStoneSurface",
-        "Dark Stone"
+        "黑石"
     ],
     [
         "SnowSurface",
-        "Snow"
+        "雪"
     ],
     [
         "GraniteSurface",
-        "Granite"
+        "花岗岩"
     ],
     [
         "PeatSurface",
-        "Peat"
+        "泥炭"
     ]
 ]
