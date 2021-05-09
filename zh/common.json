@@ -41,215 +41,215 @@
     ],
     [
         "Organics",
-        "Mixed organics mass"
+        "混合有机质"
     ],
     [
         "BuildingBlock",
-        "Building block"
+        "建造方块"
     ],
     [
         "NuclearFuel",
-        "Fuel for Fission Reactor"
+        "裂变反应堆燃料"
     ],
     [
         "Fluid",
-        "Fluid"
+        "流体"
     ],
     [
         "Gas",
-        "Gas"
+        "气体"
     ],
     [
         "ByPipes",
-        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+        "可以用管道运输\n可通过泵从机器中注入/提取"
     ],
     [
         "WorldObject",
-        "Can't be crafted\nAppears in world"
+        "无法被制作\n出现在世界中"
     ],
     [
         "Circuit",
-        "Part of smart devices\nUsed by computers to produce science points"
+        "智能设备的一部分\n利用电脑生产科技点"
     ],
     [
         "ItemInput",
-        "<img id=\"ItemInput\"></>Has item input"
+        "<img id=\"ItemInput\"></>输入物品"
     ],
     [
         "ItemOutput",
-        "<img id=\"ItemOutput\"></>Has item ouput"
+        "<img id=\"ItemOutput\"></>输出物品"
     ],
     [
         "FluidInput",
-        "<img id=\"FluidInput\"></>Has fluid input"
+        "<img id=\"FluidInput\"></>输入流体"
     ],
     [
         "FluidOutput",
-        "<img id=\"FluidOutput\"></>Has fluid ouput"
+        "<img id=\"FluidOutput\"></>输出流体"
     ],
     [
         "FluidConductor",
-        "Conducts fluids"
+        "传输流体"
     ],
     [
         "FluidStorage",
-        "Stores fluids"
+        "储存流体"
     ],
     [
         "KineticInput",
-        "<img id=\"Kinetic\"></>Consumes kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>消耗动能<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticOutput",
-        "<img id=\"Kinetic\"></>Produces kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>生产动能<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticConductor",
-        "<img id=\"Kinetic\"></>Conducts kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>传输动能<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticStorage",
-        "Stores kinetic energy<img id=\"Kinetic2\"></>"
+        "储存动能<img id=\"Kinetic2\"></>"
     ],
     [
         "HeatInput",
-        "<img id=\"Heat\"></>Consumes heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>消耗热能<img id=\"Heat2\"></>"
     ],
     [
         "HeatOutput",
-        "<img id=\"Heat\"></>Produces heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>生产热能<img id=\"Heat2\"></>"
     ],
     [
         "HeatConductor",
-        "<img id=\"Heat\"></>Conducts heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>传输热能<img id=\"Heat2\"></>"
     ],
     [
         "HeatStorage",
-        "Stores heat energy<img id=\"Heat2\"></>"
+        "储存热能<img id=\"Heat2\"></>"
     ],
     [
         "ElectricInput",
-        "<img id=\"Electricity\"></>Consumes electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>消耗电能<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricOutput",
-        "<img id=\"Electricity\"></>Produces electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>产生电能<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricConductor",
-        "<img id=\"Electricity\"></>Conducts electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>传输电能<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricStorage",
-        "Stores electricity<img id=\"Electricity2\"></>"
+        "储存电能<img id=\"Electricity2\"></>"
     ],
     [
         "Stone",
-        "Stone"
+        "石"
     ],
     [
         "Copper",
-        "Copper"
+        "铜"
     ],
     [
         "Steel",
-        "Steel"
+        "钢"
     ],
     [
         "Aluminium",
-        "Aluminium"
+        "铝"
     ],
     [
         "StainlessSteel",
-        "Stainless Steel"
+        "不锈钢"
     ],
     [
         "Titanium",
-        "Titanium"
+        "钛"
     ],
     [
         "HardMetal",
-        "Hard Metal"
+        "硬质"
     ],
     [
         "Neutronium",
-        "Neutronium"
+        "中子"
     ],
     [
         "ips",
-        "Items per second: %s"
+        "每秒物品数: %s"
     ],
     [
         "dps",
-        "Degrees per second: %s"
+        "每秒旋转角度: %s"
     ],
     [
         "power_limit",
-        "Power limit: %sW"
+        "能量限制: %sW"
     ],
     [
         "power_output",
-        "Power output: %sW"
+        "能量输出: %sW"
     ],
     [
         "power_input",
-        "Power input: %sW"
+        "能量输入: %sW"
     ],
     [
         "container",
-        "Capacity: %s L"
+        "容量: %s L"
     ],
     [
         "battery",
-        "Capacity: %s J"
+        "容量: %s J"
     ],
     [
         "chest",
-        "Capacity: %s stacks"
+        "容量: %s 槽"
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+        "燃烧率<img id=\"Heat2\"></>\n总热能: %sJ"
     ],
     [
         "speedbonus",
-        "Speed bonus: x%s"
+        "加速: x%s"
     ],
     [
         "electric_drain",
-        "Electricity drain: %sW"
+        "电能损失: %sW"
     ],
     [
         "heat_drain",
-        "Heat drain: %sW"
+        "热能损失: %sW"
     ],
     [
         "kinetic_drain",
-        "Kinetic drain: %sW"
+        "动能损失: %sW"
     ],
     [
         "computations",
-        "Computations per second: %s"
+        "每秒计算点: %s"
     ],
     [
         "calculations",
-        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
+        "由计算机生产\n建造计算机并且供能来生产计算点"
     ],
     [
         "WorldGeneratorRivers",
-        "Rivers and isles"
+        "河流和岛屿"
     ],
     [
         "WorldGeneratorBiome",
-        "Rocky islands"
+        "乱石岛屿"
     ],
     [
         "FlatWorldGenerator",
-        "Concrete world"
+        "水泥世界"
     ],
     [
         "WorldGeneratorPlains",
-        "Plains and coast"
+        "平原和海岸"
     ],
     [
         "machines_label_formal",
