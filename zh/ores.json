@@ -1,74 +1,74 @@
 [
     [
         "CopperOre",
-        "Copper Ore"
+        "铜矿"
     ],
     [
         "CopperImpureOreGravel",
-        "Copper Impure Ore Gravel"
+        "不纯碎铜矿"
     ],
     [
         "CopperOreGravel",
-        "Copper Ore Gravel"
+        "碎铜矿"
     ],
     [
         "CopperOreDust",
-        "Copper Impure Ore Dust"
+        "不纯铜粉"
     ],
     [
         "IronOre",
-        "Iron Ore"
+        "铁矿"
     ],
     [
         "IronImpureOreGravel",
-        "Iron Impure Ore Gravel"
+        "不纯碎铁矿"
     ],
     [
         "IronOreGravel",
-        "Iron Ore Gravel"
+        "碎铁矿"
     ],
     [
         "IronOreDust",
-        "Iron Impure Ore Dust"
+        "不纯铁粉"
     ],
     [
         "UraniumOre",
-        "Uranium Ore"
+        "铀矿"
     ],
     [
         "UraniumImpureOreGravel",
-        "Uranium Impure Ore Gravel"
+        "不纯碎铀矿"
     ],
     [
         "UraniumOreGravel",
-        "Uranium Ore Gravel"
+        "碎铀矿"
     ],
     [
         "UraniumOreDust",
-        "Uranium Impure Ore Dust"
+        "不纯铀粉"
     ],
     [
         "AluminiumOre",
-        "Aluminium Ore"
+        "铝矿"
     ],
     [
         "AluminiumImpureOreGravel",
-        "Aluminium Impure Ore Gravel"
+        "不纯碎铝矿"
     ],
     [
         "AluminiumOreGravel",
-        "Aluminium Ore Gravel"
+        "碎铝矿"
     ],
     [
         "AluminiumOreDust",
-        "Aluminium Impure Ore Dust"
+        "不纯铝粉"
     ],
     [
         "CoalOre",
-        "Coal Ore"
+        "煤矿"
     ],
     [
         "ClayOre",
-        "Clay Ore"
+        "粘土"
     ]
 ]
