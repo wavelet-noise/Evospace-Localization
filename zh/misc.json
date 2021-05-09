@@ -1,230 +1,230 @@
 [
     [
         "Chair",
-        "Wooden Chair"
+        "木椅"
     ],
     [
         "Table",
-        "Wooden Table"
+        "木桌"
     ],
     [
         "Rack",
-        "Wooden Rack"
+        "木架"
     ],
     [
         "Bed",
-        "Wooden Bed"
+        "木床"
     ],
     [
         "Ladder",
-        "Wooden Ladder"
+        "木台阶"
     ],
     [
         "Door",
-        "Wooden Door"
+        "木门"
     ],
     [
         "Fence",
-        "Wooden Fence"
+        "木栅栏"
     ],
     [
         "Window",
-        "Wooden Window"
+        "木窗"
     ],
     [
         "CeramicRoof",
-        "Ceramic Roof"
+        "陶瓷地板"
     ],
     [
         "Stairs",
-        "Stairs"
+        "梯子"
     ],
     [
         "WoodenStairs",
-        "Wooden Stairs"
+        "木梯"
     ],
     [
         "CopperChair",
-        "Copper Chair"
+        "铜椅"
     ],
     [
         "FireCup",
-        "Fire Cup"
+        "火盆"
     ],
     [
         "PlasticWindow",
-        "Plastic Window"
+        "塑料窗"
     ],
     [
         "Firefly",
-        "Firefly"
+        "萤火虫"
     ],
     [
         "Flies",
-        "Flies"
+        "苍蝇"
     ],
     [
         "Birds",
-        "Birds"
+        "鸟"
     ],
     [
         "DesertSound",
-        "Desert Sound"
+        "沙漠音效"
     ],
     [
         "SwampSound",
-        "Swamp Sound"
+        "沼泽音效"
     ],
     [
         "Butterfly",
-        "Butterfly"
+        "蝴蝶"
     ],
     [
         "Leafes",
-        "Leafes"
+        "落叶"
     ],
     [
         "Bugs",
-        "Bugs"
+        "虫子"
     ],
     [
         "WoodenPlanks",
-        "Wooden Planks"
+        "木板"
     ],
     [
         "AdminBlocks",
-        "Admin Blocks"
+        "创造方块"
     ],
     [
         "StoneTiles",
-        "Stone Tiles"
+        "石砖"
     ],
     [
         "RedTiles",
-        "Red Tiles"
+        "红砖"
     ],
     [
         "DarkTiles",
-        "Dark Tiles"
+        "黑砖"
     ],
     [
         "Terracotta",
-        "Terracotta"
+        "陶土"
     ],
     [
         "TerracottaTiles",
-        "Terracotta Tiles"
+        "陶土砖"
     ],
     [
         "Bricks",
-        "Bricks"
+        "砖块"
     ],
     [
         "RedBricks",
-        "Red Bricks"
+        "红砖块"
     ],
     [
         "DarkBricks",
-        "Dark Bricks"
+        "黑砖块"
     ],
     [
         "TerracottaBricks",
-        "Terracotta Bricks"
+        "陶土砖块"
     ],
     [
         "Concrete",
-        "Concrete"
+        "混凝土"
     ],
     [
         "ConcreteBricks",
-        "Concrete Bricks"
+        "混凝土砖块"
     ],
     [
         "ConcreteTiles",
-        "Concrete Tiles"
+        "混凝土砖"
     ],
     [
         "ConcreteSmallTiles",
-        "Concrete Small Tiles"
+        "小混凝土砖"
     ],
     [
         "ReinforcedConcrete",
-        "Reinforced Concrete"
+        "钢筋混凝土"
     ],
     [
         "ReinforcedConcreteTiles",
-        "Reinforced Concrete Tiles"
+        "钢筋混凝土砖"
     ],
     [
         "ReinforcedConcreteSmallTiles",
-        "Reinforced Concrete Small Tiles"
+        "小钢筋混凝土砖"
     ],
     [
         "ReinforcedConcreteBricks",
-        "Reinforced Concrete Bricks"
+        "钢筋混凝土砖块"
     ],
     [
         "DangerBlock",
-        "Danger Block"
+        "危险标志方块"
     ],
     [
         "RustyCopperCasing",
-        "Rusty Copper Casing"
+        "锈铜壳"
     ],
     [
         "RustyIronCasing",
-        "Rusty Iron Casing"
+        "锈铁壳"
     ],
     [
         "Column",
-        "Column"
+        "柱"
     ],
     [
         "FluetedColumn",
-        "Flueted Column"
+        "雕柱"
     ],
     [
         "Torch",
-        "Torch"
+        "火把"
     ],
     [
         "Flashlight",
-        "Flashlight"
+        "手电筒"
     ],
     [
         "NightVision",
-        "Night Vision"
+        "夜视仪"
     ],
     [
         "AdvancedNightVision",
-        "Advanced Night Vision"
+        "先进夜视仪"
     ],
     [
         "Steampack",
-        "Steampack"
+        "蒸汽背包"
     ],
     [
         "Jetpack",
-        "Jetpack"
+        "喷气背包"
     ],
     [
         "AdvancedJetpack",
-        "Advanced Jetpack"
+        "先进喷气背包"
     ],
     [
         "AntigravityUnit",
-        "Antigravity Unit"
+        "反重力背包"
     ],
     [
         "Scanner",
-        "Scanner"
+        "扫描器"
     ],
     [
         "SteelFence",
-        "Steel Fence"
+        "钢栅栏"
     ],
     [
         "StainlessSteelFence",
-        "Stainless Steel Fence"
+        "不锈钢栅栏"
     ]
 ]

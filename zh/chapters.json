@@ -1,22 +1,22 @@
 [
     [
         "Production",
-        "Production"
+        "生产"
     ],
     [
         "ProductionDescription",
-        ""
+        "产品描述"
     ],
     [
         "Other",
-        "Other"
+        "其他"
     ],
     [
         "Decorations",
-        "Decorations"
+        "装饰"
     ],
     [
         "DecorationsDescription",
-        ""
+        "装饰描述"
     ]
 ]
