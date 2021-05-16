@@ -257,10 +257,10 @@
     ],
     [
         "Splitter",
-        "Can divite item flow into parts."
+        "Puede dividir el movimiento de artículos por separado."
     ],
     [
         "Sorter",
-        "Allowing to set white filter."
+        "Permite configurar el filtro."
     ]
 ]
