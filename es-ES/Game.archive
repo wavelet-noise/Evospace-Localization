@@ -1,4 +1,4 @@
-﻿{
+{
 	"FormatVersion": 2,
 	"Namespace": "",
 	"Children": [
@@ -163,7 +163,7 @@
 			},
 			"Translation":
 			{
-				"Text": ""
+				"Text": "Tipo de Anti-Aliasing"
 			},
 			"Key": "2299DE8E4A2283D7256080AB73EBCB9C"
 		},
@@ -262,7 +262,7 @@
 			},
 			"Translation":
 			{
-				"Text": ""
+				"Text": "Impulso"
 			},
 			"Key": "1202EB3B408CC7E0BA960C86A73AC2E7"
 		},
@@ -1076,7 +1076,7 @@
 			},
 			"Translation":
 			{
-				"Text": ""
+				"Text": "Artículos en la tierra"
 			},
 			"Key": "64E79413402AD71074660CA8A657F5E1"
 		},
@@ -1714,7 +1714,7 @@
 			},
 			"Translation":
 			{
-				"Text": ""
+				"Text": "Cruceta roja"
 			},
 			"Key": "3CBFE9C946AF9499336ABAAF98D7F09C"
 		},
@@ -2106,11 +2106,11 @@
 		{
 			"Source":
 			{
-				"Text": "Seleccione"
+				"Text": "Select"
 			},
 			"Translation":
 			{
-				"Text": ""
+				"Text": "Seleccione"
 			},
 			"Key": "535AF80749EB1EB45832FB89935D7218"
 		},
@@ -2462,7 +2462,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Desactivar"
+				"Text": "Desactivar la pausa"
 			},
 			"Key": "8CD090C148D7B3DC76B05EB3FA79000D"
 		},
