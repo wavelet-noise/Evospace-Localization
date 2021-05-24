@@ -378,5 +378,9 @@
     [
         "CreativeController",
         "Креативный контроллер"
+    ],
+    [
+        "Portal",
+        "Portal"
     ]
 ]
