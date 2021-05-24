@@ -53,7 +53,7 @@
 			},
 			"Translation":
 			{
-				"Text": "1 por unidade"
+				"Text": "1 unidade a cada "
 			},
 			"Key": "BCCE4286498DC182B0DF35A490851204"
 		},
@@ -361,7 +361,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Progresso"
+				"Text": "Concluído"
 			},
 			"Key": "0E8220ED4BB24CD8FDFFE09A4552C0D7"
 		},
@@ -1087,7 +1087,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Espaço para mochilas"
+				"Text": "Costas"
 			},
 			"Key": "4352A5EF42A5E1FFBE1C048CA43C9ACE"
 		},
@@ -1109,7 +1109,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Força Mecânica"
+				"Text": "Força Mecânica Abastecida "
 			},
 			"Key": "BC95CF57429E17372BC2E79D34A86034"
 		},
@@ -1483,7 +1483,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Saída2"
+				"Text": "Acesso"
 			},
 			"Key": "45C795F84FE012D5C43C2F868A5CAEAD"
 		},
@@ -1571,7 +1571,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pressione1"
+				"Text": "Clique"
 			},
 			"Key": "2945B6654076BBBF30FBB0BBF00C83AE"
 		},
@@ -1593,7 +1593,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pressione3"
+				"Text": "Aperte"
 			},
 			"Key": "AD7706D141195F2659875E8442E380C6"
 		},
@@ -2033,7 +2033,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Procurar1"
+				"Text": "Destacar"
 			},
 			"Key": "43E4E75A45754FF6F946D48DE7B322D0"
 		},
@@ -2110,7 +2110,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Selecionar1"
+				"Text": "Começar"
 			},
 			"Key": "535AF80749EB1EB45832FB89935D7218"
 		},
@@ -2781,7 +2781,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Saída Indisponível!"
+				"Text": "Saída Bloqueada"
 			},
 			"Key": "232B0BFB4881A11EA8BAA3A7A30E8F32"
 		},
