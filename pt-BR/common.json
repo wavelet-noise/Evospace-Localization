@@ -177,59 +177,59 @@
     ],
     [
         "ips",
-        "Itens por segundo: %s"
+        "Itens por segundo: {0}"
     ],
     [
         "dps",
-        "Grãos por segundo: %s"
+        "Grãos por segundo: {0}"
     ],
     [
         "power_limit",
-        "Limite de Força: %sW"
+        "Limite de Força: {0}W"
     ],
     [
         "power_output",
-        "Saída de Força: %sW"
+        "Saída de Força: {0}W"
     ],
     [
         "power_input",
-        "Consumo de Força: %sW"
+        "Consumo de Força: {0}W"
     ],
     [
         "container",
-        "Capacidade: %s L"
+        "Capacidade: {0} L"
     ],
     [
         "battery",
-        "Capacidade: %s J"
+        "Capacidade: {0} J"
     ],
     [
         "chest",
-        "Capacidade: %s Conjuntos"
+        "Capacidade: {0} Conjuntos"
     ],
     [
         "burnable",
-        "Inflamável<img id=\"Heat2\"></>\nTotal em Calor: %sJ"
+        "Inflamável<img id=\"Heat2\"></>\nTotal em Calor: {0}J"
     ],
     [
         "speedbonus",
-        "Velocidade: x%s"
+        "Velocidade: x{0}"
     ],
     [
         "electric_drain",
-        "Gasto passivo: %sW"
+        "Gasto passivo: {0}W"
     ],
     [
         "heat_drain",
-        "Gasto passivo: %sW"
+        "Gasto passivo: {0}W"
     ],
     [
         "kinetic_drain",
-        "Gasto passivo: %sW"
+        "Gasto passivo: {0}W"
     ],
     [
         "computations",
-        "Computações por segundo: %s"
+        "Computações por segundo: {0}"
     ],
     [
         "calculations",
@@ -262,5 +262,13 @@
     [
         "Sorter",
         ""
+    ],
+    [
+        "furnace_desc",
+        "Burning speed: x{0}"
+    ],
+    [
+        "furnace_desc2",
+        "Heat output: x{0}"
     ]
 ]

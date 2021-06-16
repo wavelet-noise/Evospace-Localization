@@ -177,59 +177,59 @@
     ],
     [
         "ips",
-        "每秒物品数: %s"
+        "每秒物品数: {0}"
     ],
     [
         "dps",
-        "每秒旋转角度: %s"
+        "每秒旋转角度: {0}"
     ],
     [
         "power_limit",
-        "能量限制: %sW"
+        "能量限制: {0}W"
     ],
     [
         "power_output",
-        "能量输出: %sW"
+        "能量输出: {0}W"
     ],
     [
         "power_input",
-        "能量输入: %sW"
+        "能量输入: {0}W"
     ],
     [
         "container",
-        "容量: %s L"
+        "容量: {0} L"
     ],
     [
         "battery",
-        "容量: %s J"
+        "容量: {0} J"
     ],
     [
         "chest",
-        "容量: %s 槽"
+        "容量: {0} 槽"
     ],
     [
         "burnable",
-        "燃烧率<img id=\"Heat2\"></>\n总热能: %sJ"
+        "燃烧率<img id=\"Heat2\"></>\n总热能: {0}J"
     ],
     [
         "speedbonus",
-        "加速: x%s"
+        "加速: x{0}"
     ],
     [
         "electric_drain",
-        "电能损失: %sW"
+        "电能损失: {0}W"
     ],
     [
         "heat_drain",
-        "热能损失: %sW"
+        "热能损失: {0}W"
     ],
     [
         "kinetic_drain",
-        "动能损失: %sW"
+        "动能损失: {0}W"
     ],
     [
         "computations",
-        "每秒计算点: %s"
+        "每秒计算点: {0}"
     ],
     [
         "calculations",
@@ -266,5 +266,13 @@
     [
         "machines_label_format",
         "{0} {1}"
+    ],
+    [
+        "furnace_desc",
+        "Burning speed: x{0}"
+    ],
+    [
+        "furnace_desc2",
+        "Heat output: x{0}"
     ]
 ]

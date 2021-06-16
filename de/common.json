@@ -289,59 +289,59 @@
     ],
     [
         "ips",
-        "Gegenstände pro Sekunde: %s"
+        "Gegenstände pro Sekunde: {0}"
     ],
     [
         "dps",
-        "Grad pro Sekunde: %s"
+        "Grad pro Sekunde: {0}"
     ],
     [
         "power_limit",
-        "Strombegrenzung: %sW"
+        "Strombegrenzung: {0}W"
     ],
     [
         "power_output",
-        "Stromausgabe: %sW"
+        "Stromausgabe: {0}W"
     ],
     [
         "power_input",
-        "Stromeingang: %sW"
+        "Stromeingang: {0}W"
     ],
     [
         "container",
-        "Kapazität: %s L"
+        "Kapazität: {0} L"
     ],
     [
         "battery",
-        "Kapazität: %s J"
+        "Kapazität: {0} J"
     ],
     [
         "chest",
-        "Kapazität: %s Stapel"
+        "Kapazität: {0} Stapel"
     ],
     [
         "burnable",
-        "Brennbar<img id=\"Heat2\"></>\nGesamtenergie: %sJ"
+        "Brennbar<img id=\"Heat2\"></>\nGesamtenergie: {0}J"
     ],
     [
         "speedbonus",
-        "Geschwindigkeitsbonus: x%s"
+        "Geschwindigkeitsbonus: x{0}"
     ],
     [
         "electric_drain",
-        "Stromverbrauch: %sW"
+        "Stromverbrauch: {0}W"
     ],
     [
         "heat_drain",
-        "Verbrauch an Wärmeenergie: %sW"
+        "Verbrauch an Wärmeenergie: {0}W"
     ],
     [
         "kinetic_drain",
-        "Verbrauch an Bewegungsenergie: %sW"
+        "Verbrauch an Bewegungsenergie: {0}W"
     ],
     [
         "computations",
-        "Berechnungen pro Sekunde: %s"
+        "Berechnungen pro Sekunde: {0}"
     ],
     [
         "calculations",
@@ -374,5 +374,13 @@
     [
         "Sorter",
         "Allowing to set white filter."
+    ],
+    [
+        "furnace_desc",
+        "Burning speed: x{0}"
+    ],
+    [
+        "furnace_desc2",
+        "Heat output: x{0}"
     ]
 ]

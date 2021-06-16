@@ -177,59 +177,59 @@
     ],
     [
         "ips",
-        "Artículos por segundo: %s"
+        "Artículos por segundo: {0}"
     ],
     [
         "dps",
-        "Grados por segundo: %s"
+        "Grados por segundo: {0}"
     ],
     [
         "power_limit",
-        "Límite de energía: %sW"
+        "Límite de energía: {0}W"
     ],
     [
         "power_output",
-        "Salida de energía: %sW"
+        "Salida de energía: {0}W"
     ],
     [
         "power_input",
-        "Entrada de energía: %sW"
+        "Entrada de energía: {0}W"
     ],
     [
         "container",
-        "Capacidad: %s L"
+        "Capacidad: {0} L"
     ],
     [
         "battery",
-        "Batería: %s J"
+        "Batería: {0} J"
     ],
     [
         "chest",
-        "Capacidad: %s stacks"
+        "Capacidad: {0} stacks"
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal Calor: %sJ"
+        "Burnable<img id=\"Heat2\"></>\nTotal Calor: {0}J"
     ],
     [
         "speedbonus",
-        "Bono de Velocidad: x%s"
+        "Bono de Velocidad: x{0}"
     ],
     [
         "electric_drain",
-        "Pérdida de electricidad: %sW"
+        "Pérdida de electricidad: {0}W"
     ],
     [
         "heat_drain",
-        "Pérdida de calor: %sW"
+        "Pérdida de calor: {0}W"
     ],
     [
         "kinetic_drain",
-        "Pérdida cinética: %sW"
+        "Pérdida cinética: {0}W"
     ],
     [
         "computations",
-        "Cálculos por segundo: %s"
+        "Cálculos por segundo: {0}"
     ],
     [
         "calculations",
@@ -262,5 +262,13 @@
     [
         "Sorter",
         "Permite configurar el filtro."
+    ],
+    [
+        "furnace_desc",
+        "Burning speed: x{0}"
+    ],
+    [
+        "furnace_desc2",
+        "Heat output: x{0}"
     ]
 ]

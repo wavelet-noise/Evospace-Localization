@@ -177,59 +177,59 @@
     ],
     [
         "ips",
-        "Items per second: %s"
+        "Items per second: {0}"
     ],
     [
         "dps",
-        "Degrees per second: %s"
+        "Degrees per second: {0}"
     ],
     [
         "power_limit",
-        "Power limit: %sW"
+        "Power limit: {0}W"
     ],
     [
         "power_output",
-        "Power output: %sW"
+        "Power output: {0}W"
     ],
     [
         "power_input",
-        "Power input: %sW"
+        "Power input: {0}W"
     ],
     [
         "container",
-        "Capacity: %s L"
+        "Capacity: {0} L"
     ],
     [
         "battery",
-        "Capacity: %s J"
+        "Capacity: {0} J"
     ],
     [
         "chest",
-        "Capacity: %s stacks"
+        "Capacity: {0} stacks"
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal heat: %sJ"
+        "Burnable<img id=\"Heat2\"></>\nTotal heat: {0}J"
     ],
     [
         "speedbonus",
-        "Speed bonus: x%s"
+        "Speed bonus: x{0}"
     ],
     [
         "electric_drain",
-        "Electricity drain: %sW"
+        "Electricity drain: {0}W"
     ],
     [
         "heat_drain",
-        "Heat drain: %sW"
+        "Heat drain: {0}W"
     ],
     [
         "kinetic_drain",
-        "Kinetic drain: %sW"
+        "Kinetic drain: {0}W"
     ],
     [
         "computations",
-        "Computations per second: %s"
+        "Computations per second: {0}"
     ],
     [
         "calculations",
@@ -266,5 +266,13 @@
     [
         "machines_label_format",
         "{0} {1}"
+    ],
+    [
+        "furnace_desc",
+        "Burning speed: x{0}"
+    ],
+    [
+        "furnace_desc2",
+        "Heat output: x{0}"
     ]
 ]
