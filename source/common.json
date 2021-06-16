@@ -232,6 +232,10 @@
         "Heat output: x{0}"
     ],
     [
+        "furnace_desc3",
+        "Kinetic output: x{0}"
+    ],
+    [
         "electric_drain",
         "Electricity drain: {0}W"
     ],
