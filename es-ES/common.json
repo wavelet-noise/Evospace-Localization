@@ -265,14 +265,15 @@
     ],
     [
         "furnace_desc",
-        "Burning speed: x{0}"
+        "Velocidad de quemado: x{0}"
     ],
     [
         "furnace_desc2",
-        "Heat output: x{0}"
+
+        "Potencia calórica: x{0}"
     ],
     [
         "furnace_desc3",
-        "Kinetic output: x{0}"
+        "Salida cinética: x{0}"
     ]
 ]
