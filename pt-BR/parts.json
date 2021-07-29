@@ -838,5 +838,13 @@
     [
         "PotassiumBlock",
         "Bloco Sólido de Potássio"
+    ],
+    [
+        "UltimateCatalyst",
+        "Ultimate Catalyst Cell"
+    ],
+    [
+        "MothershipPing",
+        "Mothership Ping"
     ]
 ]

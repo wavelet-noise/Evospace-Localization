@@ -269,6 +269,11 @@
     ],
     [
         "furnace_desc2",
-        "Salida de calor: x{0}"
+
+        "Potencia calórica: x{0}"
+    ],
+    [
+        "furnace_desc3",
+        "Salida cinética: x{0}"
     ]
 ]

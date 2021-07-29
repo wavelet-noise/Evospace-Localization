@@ -274,5 +274,9 @@
     [
         "furnace_desc2",
         "Heat output: x{0}"
+    ],
+    [
+        "furnace_desc3",
+        "Kinetic output: x{0}"
     ]
 ]
