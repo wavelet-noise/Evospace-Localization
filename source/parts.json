@@ -596,10 +596,6 @@
         "Quantum Core"
     ],
     [
-        "SingularityCore",
-        "Singularity Core"
-    ],
-    [
         "QuantumBrain",
         "Quantum Brain"
     ],
@@ -810,5 +806,9 @@
     [
         "Screwdriver",
         "Screwdriver"
+    ],
+    [
+        "PaintTool",
+        "Paint Tool"
     ]
 ]
