@@ -188,6 +188,14 @@
         "Antorcha"
     ],
     [
+        "PlasticBlock",
+        "Bloque de Plastico"
+    ],
+    [
+        "GlassBlock",
+        "Bloque de Cristal"
+    ],
+    [
         "Flashlight",
         "Linterna"
     ],
