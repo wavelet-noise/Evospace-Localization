@@ -238,5 +238,57 @@
     [
         "BasicPlatform",
         "Basic Platform"
+    ],
+    [
+        "PlasticBlock",
+        "Plastic Block"
+    ],
+    [
+        "GlassBlock",
+        "Glass Block"
+    ],
+    [
+        "PaintWhite",
+        "Paint White"
+    ],
+    [
+        "PaintGray",
+        "Paint Gray"
+    ],
+    [
+        "PaintBlack",
+        "Paint Black"
+    ],
+    [
+        "PaintGreen",
+        "Paint Green"
+    ],
+    [
+        "PaintRed",
+        "Paint Red"
+    ],
+    [
+        "PaintBlue",
+        "Paint Blue"
+    ],
+    [
+        "PaintCopper",
+        "Paint Copper"
+    ],
+    [
+        "PaintSteel",
+        "Paint Steel"
+    ],
+    [
+        "PaintStainlessSteel",
+        "Paint Stainless Steel"
+    ],
+    [
+        "PaintTitanium",
+        "Paint Titanium"
+    ],
+    [
+        "PaintHardMetal",
+        "Paint Hard Metal"
     ]
 ]
