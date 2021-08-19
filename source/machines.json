@@ -366,5 +366,45 @@
     [
         "CreativeController",
         "Creative Controller"
+    ],
+    [
+        "LogicCircuit",
+        "Logic Circuit"
+    ],
+    [
+        "Led",
+        "LED"
+    ],
+    [
+        "LogicDisplay",
+        "Logic Display"
+    ],
+    [
+        "LogicWire",
+        "Logic Wire"
+    ],
+    [
+        "LogicVent",
+        "Logic Vent"
+    ],
+    [
+        "LogicSwitch",
+        "Logic Switch"
+    ],
+    [
+        "Button",
+        "Button"
+    ],
+    [
+        "ToggleButton",
+        "Toggle Button"
+    ],
+    [
+        "Detector",
+        "Work Detector"
+    ],
+    [
+        "FillDetector",
+        "Counter"
     ]
 ]
