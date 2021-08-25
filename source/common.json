@@ -144,6 +144,18 @@
         "Stores electricity<img id=\"Electricity2\"></>"
     ],
     [
+        "DataInput",
+        "Read data"
+    ],
+    [
+        "DataOutput",
+        "Write data"
+    ],
+    [
+        "DataConductor",
+        "Conducts data"
+    ],
+    [
         "Stone",
         "Stone"
     ],

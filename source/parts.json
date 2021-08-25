@@ -692,6 +692,30 @@
         "Emerald Dust"
     ],
     [
+        "Capacity",
+        "Capacity"
+    ],
+    [
+        "Busy",
+        "Busy"
+    ],
+    [
+        "InputError",
+        "Input Error"
+    ],
+    [
+        "OutputError",
+        "Output Error"
+    ],
+    [
+        "Progress",
+        "Progress"
+    ],
+    [
+        "SwitchedOn",
+        "Switched On"
+    ],
+    [
         "A",
         "A"
     ],

@@ -372,7 +372,11 @@
         ""
     ],
     [
-        "Led",
+        "LogicInterface",
+        ""
+    ],
+    [
+        "LogicController",
         ""
     ],
     [
@@ -384,27 +388,11 @@
         ""
     ],
     [
-        "LogicVent",
-        ""
-    ],
-    [
-        "LogicSwitch",
-        ""
-    ],
-    [
         "Button",
         ""
     ],
     [
         "ToggleButton",
-        ""
-    ],
-    [
-        "Detector",
-        ""
-    ],
-    [
-        "FillDetector",
         ""
     ]
 ]

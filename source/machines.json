@@ -372,8 +372,12 @@
         "Logic Circuit"
     ],
     [
-        "Led",
-        "LED"
+        "LogicInterface",
+        "Logic Interface"
+    ],
+    [
+        "LogicController",
+        "Logic Controller"
     ],
     [
         "LogicDisplay",
@@ -384,27 +388,11 @@
         "Logic Wire"
     ],
     [
-        "LogicVent",
-        "Logic Vent"
-    ],
-    [
-        "LogicSwitch",
-        "Logic Switch"
-    ],
-    [
         "Button",
         "Button"
     ],
     [
         "ToggleButton",
         "Toggle Button"
-    ],
-    [
-        "Detector",
-        "Work Detector"
-    ],
-    [
-        "FillDetector",
-        "Counter"
     ]
 ]
