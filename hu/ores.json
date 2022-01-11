@@ -1,0 +1,74 @@
+[
+    [
+        "CopperOre",
+        "Réz érc"
+    ],
+    [
+        "CopperImpureOreGravel",
+        "Szennyezett réz érckavics"
+    ],
+    [
+        "CopperOreGravel",
+        "Rézérc kavics"
+    ],
+    [
+        "CopperOreDust",
+        "Szennyezett réz ércpor"
+    ],
+    [
+        "IronOre",
+        "Vasérc"
+    ],
+    [
+        "IronImpureOreGravel",
+        "Szennyezett vas érckavics"
+    ],
+    [
+        "IronOreGravel",
+        "Vas érckavics"
+    ],
+    [
+        "IronOreDust",
+        "Szennyezett vas ércpor"
+    ],
+    [
+        "UraniumOre",
+        "Uránérc"
+    ],
+    [
+        "UraniumImpureOreGravel",
+        "Szennyezett urán érckavics"
+    ],
+    [
+        "UraniumOreGravel",
+        "Uránérc kavics"
+    ],
+    [
+        "UraniumOreDust",
+        "Szennyezett urán ércpor"
+    ],
+    [
+        "AluminiumOre",
+        "Alumínium érc"
+    ],
+    [
+        "AluminiumImpureOreGravel",
+        "Szennyezett alumínium érckavics"
+    ],
+    [
+        "AluminiumOreGravel",
+        "Alumínium kavics"
+    ],
+    [
+        "AluminiumOreDust",
+        "Szennyezett alumínium ércpor"
+    ],
+    [
+        "CoalOre",
+        "Szénérc"
+    ],
+    [
+        "ClayOre",
+        "Agyagérc"
+    ]
+]
