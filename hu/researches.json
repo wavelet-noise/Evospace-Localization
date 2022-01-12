@@ -1,0 +1,194 @@
+[
+    [
+        "InventoryUpgrade",
+        "Tároló növelése"
+    ],
+    [
+        "PlutoniumReaction",
+        "Plutónium fűtőanyag"
+    ],
+    [
+        "ThoriumReaction",
+        "Tórium fűtőanyag"
+    ],
+    [
+        "Drying",
+        "Anyag égető"
+    ],
+    [
+        "PowerGeneration",
+        "Energiatermelés"
+    ],
+    [
+        "Automatization",
+        "Automatizálás"
+    ],
+    [
+        "AdditionalStorage",
+        "Tárgy tárolás"
+    ],
+    [
+        "HeatTransferring",
+        "Hőátadás"
+    ],
+    [
+        "BasicMachines",
+        "Alap gépek"
+    ],
+    [
+        "Container",
+        "Folyadék tárolás"
+    ],
+    [
+        "FluidDumping",
+        "Folyadék megsemmisítés"
+    ],
+    [
+        "SingleTypeStorage",
+        "Egyszerű tároló"
+    ],
+    [
+        "DistributedComputing",
+        "Kutatás számítás"
+    ],
+    [
+        "Electrolysis",
+        "Elektrolízis"
+    ],
+    [
+        "Sign",
+        "Jel"
+    ],
+    [
+        "Cutting",
+        "Vágás"
+    ],
+    [
+        "SteelProduction",
+        "Acélgyártás"
+    ],
+    [
+        "AutomaticMining",
+        "Automatikus bányászat"
+    ],
+    [
+        "MetalConstructions",
+        "Fém szerkezetek"
+    ],
+    [
+        "Chemistry",
+        "Kémia"
+    ],
+    [
+        "MassivePowerGeneration",
+        "Villamos energia termelés"
+    ],
+    [
+        "AdvancedSmelting",
+        "Fejlett olvasztás"
+    ],
+    [
+        "IndustrialSmelting",
+        "Ipari olvasztás"
+    ],
+    [
+        "Fermentation",
+        "Erjesztés"
+    ],
+    [
+        "AdvancedSeparation",
+        "Fejlett elválasztás"
+    ],
+    [
+        "NeutroniumProduction",
+        "Neutronium termelés"
+    ],
+    [
+        "AluminiumProduction",
+        "Alumínium gyártás"
+    ],
+    [
+        "StainlessSteelProduction",
+        "Rozsdamentes acél gyártás"
+    ],
+    [
+        "TitaniumProduction",
+        "Titán gyártás"
+    ],
+    [
+        "HardMetalProduction",
+        "Keményfém gyártás"
+    ],
+    [
+        "InitialScan",
+        "Kezdeti szkennelés"
+    ],
+    [
+        "MineralsScan",
+        "Ásvány szkennelés"
+    ],
+    [
+        "Electricity",
+        "Elektromosság"
+    ],
+    [
+        "Smelting",
+        "Olvasztás"
+    ],
+    [
+        "Metalwork",
+        "Fém munka"
+    ],
+    [
+        "Steelwork",
+        "Acéláru"
+    ],
+    [
+        "Filtering",
+        "Szűrés"
+    ],
+    [
+        "DecorativeWood",
+        "Dekoratív fa"
+    ],
+    [
+        "DecorativePlastic",
+        "Dekoratív műanyag"
+    ],
+    [
+        "DecorativeStone",
+        "Díszkő"
+    ],
+    [
+        "DecorativeConcrete",
+        "Díszbeton"
+    ],
+    [
+        "DecorationClay",
+        "Díszítő agyag"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Dekoratív vasbeton"
+    ],
+    [
+        "AdvancedReflection",
+        "Fejlett reflexió"
+    ],
+    [
+        "ReactionThrottling",
+        "Reakció fékezés"
+    ],
+    [
+        "FluidFurnace",
+        "Folyadék égető kemence"
+    ],
+    [
+        "Scaffold",
+        "Állvány"
+    ],
+    [
+        "Lamp",
+        "Lámpa"
+    ]
+]

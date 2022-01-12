@@ -1,0 +1,286 @@
+[
+    [
+        "Chair",
+        "Fa szék"
+    ],
+    [
+        "Table",
+        "Faasztal"
+    ],
+    [
+        "Rack",
+        "Fából készült állvány"
+    ],
+    [
+        "Bed",
+        "Fa ágy"
+    ],
+    [
+        "Ladder",
+        "Fa létra"
+    ],
+    [
+        "Door",
+        "Fa ajtó"
+    ],
+    [
+        "Window",
+        "Faablak"
+    ],
+    [
+        "CeramicRoof",
+        "Kerámia tető"
+    ],
+    [
+        "Stairs",
+        "Lépcsők"
+    ],
+    [
+        "WoodenStairs",
+        "Fa lépcsők"
+    ],
+    [
+        "CopperChair",
+        "Réz szék"
+    ],
+    [
+        "FireCup",
+        "Tűzcsésze"
+    ],
+    [
+        "PlasticWindow",
+        "Műanyag ablak"
+    ],
+    [
+        "SteelFence",
+        "Acél kerítés"
+    ],
+    [
+        "StainlessSteelFence",
+        "Rozsdamentes acél kerítés"
+    ],
+    [
+        "Fence",
+        "Kerítés"
+    ],
+    [
+        "Firefly",
+        "Szentjánosbogár"
+    ],
+    [
+        "Flies",
+        "Legyek"
+    ],
+    [
+        "Birds",
+        "Madarak"
+    ],
+    [
+        "DesertSound",
+        "Sivatag hangja"
+    ],
+    [
+        "SwampSound",
+        "Mocsár hangja"
+    ],
+    [
+        "Butterfly",
+        "Pillangó"
+    ],
+    [
+        "Leafes",
+        "Levelek"
+    ],
+    [
+        "Bugs",
+        "Bogarak"
+    ],
+    [
+        "WoodenPlanks",
+        "Fadeszkák"
+    ],
+    [
+        "AdminBlocks",
+        "Rendszergazdai blokkok"
+    ],
+    [
+        "StoneTiles",
+        "Kőcsempe"
+    ],
+    [
+        "RedTiles",
+        "Piros csempe"
+    ],
+    [
+        "DarkTiles",
+        "Sötét csempe"
+    ],
+    [
+        "Terracotta",
+        "Terrakotta"
+    ],
+    [
+        "TerracottaTiles",
+        "Terrakotta csempe"
+    ],
+    [
+        "Bricks",
+        "Tégla"
+    ],
+    [
+        "RedBricks",
+        "Vörös tégla"
+    ],
+    [
+        "DarkBricks",
+        "Sötét tégla"
+    ],
+    [
+        "TerracottaBricks",
+        "Terakotta tégla"
+    ],
+    [
+        "Concrete",
+        "Beton"
+    ],
+    [
+        "ConcreteBricks",
+        "Beton tégla"
+    ],
+    [
+        "ConcreteTiles",
+        "Betonlap"
+    ],
+    [
+        "ConcreteSmallTiles",
+        "Beton kis csempe"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Vasbeton"
+    ],
+    [
+        "ReinforcedConcreteTiles",
+        "Vasbeton csempe"
+    ],
+    [
+        "ReinforcedConcreteSmallTiles",
+        "Kis vasbeton csempe"
+    ],
+    [
+        "ReinforcedConcreteBricks",
+        "Vasbeton tégla"
+    ],
+    [
+        "DangerBlock",
+        "Veszélyblokk"
+    ],
+    [
+        "RustyCopperCasing",
+        "Rozsdás réz burkolat"
+    ],
+    [
+        "RustyIronCasing",
+        "Rozsdás vas burkolat"
+    ],
+    [
+        "BasicPlatform",
+        "Alap platform"
+    ],
+    [
+        "PlasticBlock",
+        "Műanyag blokk"
+    ],
+    [
+        "GlassBlock",
+        "Üvegtömb"
+    ],
+    [
+        "PaintWhite",
+        "Fehér festék"
+    ],
+    [
+        "PaintGray",
+        "Szürke festék"
+    ],
+    [
+        "PaintBlack",
+        "Fekete festék"
+    ],
+    [
+        "PaintGreen",
+        "Zöld festék"
+    ],
+    [
+        "PaintRed",
+        "Piros festék"
+    ],
+    [
+        "PaintBlue",
+        "Kék festék"
+    ],
+    [
+        "PaintCopper",
+        "Réz színű festék"
+    ],
+    [
+        "PaintSteel",
+        "Acél színű festék"
+    ],
+    [
+        "PaintStainlessSteel",
+        "Rosdamentes acél színű festék"
+    ],
+    [
+        "PaintTitanium",
+        "Titán színű festék"
+    ],
+    [
+        "PaintHardMetal",
+        "Keményfém színű festék"
+    ],
+    [
+      "Column",
+      "Oszlop"
+    ],
+    [
+      "FluetedColumn",
+      "Hornyolt oszlop"
+    ],
+    [
+      "Torch",
+      "Fáklya"
+    ],
+    [
+      "Flashlight",
+      "Zseblámpa"
+    ],
+    [
+      "NightVision",
+      "Éjjellátó"
+    ],
+    [
+      "AdvancedNightVision",
+      "Fejlett éjjellátó"
+    ],
+    [
+      "Steampack",
+      "Gőzhajtómű"
+    ],
+    [
+      "Jetpack",
+      "Jetpack"
+    ],
+    [
+      "AdvancedJetpack",
+      "Fejlett jetpack"
+    ],
+    [
+      "AntigravityUnit",
+      "Antigravitációs egység"
+    ],
+    [
+      "Scanner",
+      "Szkenner"
+    ]
+]
