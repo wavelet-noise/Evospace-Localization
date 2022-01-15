@@ -33,7 +33,7 @@
     ],
     [
         "Boiler",
-        "Kazán"
+        "Bojler"
     ],
     [
         "Pipe",
@@ -57,7 +57,7 @@
     ],
     [
         "AdvancedSign",
-        "Speciális jel"
+        "Díszes jel"
     ],
     [
         "Connector",
@@ -69,7 +69,7 @@
     ],
     [
         "ItemRack",
-        "Elem raktár"
+        "Tárgy raktár"
     ],
     [
         "Vent",
@@ -212,6 +212,10 @@
         "Kis akkumulátor"
     ],
     [
+        "Portal",
+        "Portál"
+    ],
+    [
         "DrillingRig",
         "Bányászgép"
     ],
@@ -237,7 +241,7 @@
     ],
     [
         "SolidDump",
-        "Egység megsemmisítő"
+        "Tárgy megsemmisítő"
     ],
     [
         "Lamp",
@@ -249,7 +253,7 @@
     ],
     [
         "AdminItemGenerator",
-        "Kreatív elem generátor"
+        "Kreatív tárgy generátor"
     ],
     [
         "AdminKineticGenerator",
@@ -273,11 +277,11 @@
     ],
     [
         "Mixer",
-        "Keverő"
+        "Keverő gép"
     ],
     [
         "Freezer",
-        "Mélyhűtő"
+        "Mélyhűtő gép"
     ],
     [
         "AutomaticFarm",
@@ -341,11 +345,7 @@
     ],
     [
         "IndustrialBoiler",
-        "Ipari kazán"
-    ],
-    [
-        "ResearchReactor",
-        "Kutatóreaktor"
+        "Ipari bojler"
     ],
     [
         "SolarPanel",
@@ -353,7 +353,7 @@
     ],
     [
         "Pumpjack",
-        "Olajkút"
+        "Folyadék kitermelő"
     ],
     [
         "IndustrialSmelter",
@@ -368,7 +368,31 @@
         "Kreatív vezérlő"
     ],
     [
-        "Portal",
-        "Portál"
+        "LogicCircuit",
+        "Vezérlő logika"
+    ],
+    [
+        "LogicInterface",
+        "Adat olvasó egység"
+    ],
+    [
+        "LogicController",
+        "Vezérlő egység"
+    ],
+    [
+        "LogicDisplay",
+        "Vezérlés képernyő"
+    ],
+    [
+        "LogicWire",
+        "Vezérlés vezeték"
+    ],
+    [
+        "Button",
+        "Nyomógomb"
+    ],
+    [
+        "ToggleButton",
+        "Váltó kapcsoló"
     ]
 ]

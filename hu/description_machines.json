@@ -9,7 +9,7 @@
     ],
     [
         "Fermenter",
-        ""
+        "Biológia anyagot erjeszt és gázt készít belőle"
     ],
     [
         "ChemReactor",
@@ -33,7 +33,7 @@
     ],
     [
         "Boiler",
-        "Gőzt állít elő vízből hő segítségével."
+        "Hőenergia felhasználásával gőzt állít elő vízből."
     ],
     [
         "Pipe",
@@ -45,7 +45,7 @@
     ],
     [
         "Flywheel",
-        ""
+        "Mozgási energia tárolása és vezetése"
     ],
     [
         "Scafold",
@@ -53,47 +53,55 @@
     ],
     [
         "Sign",
-        ""
+        "Felirat elhelyezése"
+    ],
+    [
+        "AdvancedSign",
+        "Felirat elhelyezése"
     ],
     [
         "Connector",
-        ""
+        "Elektromos energia vezeték"
     ],
     [
         "Chest",
-        ""
+        "Általános célú tárgy tároló"
     ],
     [
         "ItemRack",
-        ""
+        "Egy fajta tárgy nagy mennyiségű tárolója"
     ],
     [
         "Vent",
-        ""
+        "Folyadék áramlás elzárására szolgáló eszköz"
     ],
     [
         "ElectricalSwitch",
-        ""
+        "Elektromos vezeték megszakítására szolgáló kapcsoló"
     ],
     [
         "OreWasher",
-        "Ércből további anyagokat választ ki."
+        "Szennyezett kavicsokat tisztít meg."
     ],
     [
         "Conveyor",
-        ""
+        "Tárgyakat szállít"
+    ],
+    [
+        "Splitter",
+        "Szállított tárgyak szétosztása több irányba."
+    ],
+    [
+        "Sorter",
+        "Tárgyak szállításának szabályozása szűrökkel."
     ],
     [
         "Container",
-        ""
+        "Csővezetékhez csatlakoztatható tároló tartály"
     ],
     [
         "Press",
-        ""
-    ],
-    [
-        "Compressor",
-        ""
+        "Blokkok készítésére használható"
     ],
     [
         "StirlingEngine",
@@ -105,7 +113,7 @@
     ],
     [
         "PyrolysisUnit",
-        "Üzemanyagot kisebb alkatrészekre bontja."
+        "Üzemanyagot alakít át."
     ],
     [
         "Generator",
@@ -120,12 +128,16 @@
         "Elektromos energiából mozgási energiát állít elő."
     ],
     [
+        "IndustrialElectricEngine",
+        "Nagyon erős elektromos motor."
+    ],
+    [
         "RobotArm",
-        "Elemeket helyez át gépek és szállítószallagok között."
+        "Tárgyakat helyez át gépek és szállítószallagok között."
     ],
     [
         "FilteringRobotArm",
-        "Kiválasztott elemeket helyez át gépek és szállítószallagok között."
+        "Kiválasztott tárgyakat helyez át gépek és szállítószallagok között."
     ],
     [
         "Pump",
@@ -144,8 +156,16 @@
         "Mozgási energiát állít elő gőz segítségével."
     ],
     [
+        "IndustrialSteamTurbine",
+        "A gőzturbina és a generátor nagyon erős hibridje."
+    ],
+    [
         "GasTurbine",
         "Mozgási energiát állít elő üzemanyag égetésével."
+    ],
+    [
+        "Riteg",
+        "Radioizotópos hőenergia forrás."
     ],
     [
         "ArcSmelter",
@@ -153,11 +173,19 @@
     ],
     [
         "ChemicalBath",
+        "Ércporból értékes anyagokat állít elő katalizátor segítségével"
+    ],
+    [
+        "Sifter",
+        "Kavicsból port és speciális anyagokat szitál ki"
+    ],
+    [
+        "FilteringUnit",
         ""
     ],
     [
         "Furnace",
-        "Szilárd üzemanyag elégetésével hőt termel."
+        "Szilárd üzemanyag elégetésével hőenergiát termel."
     ],
     [
         "Oven",
@@ -180,6 +208,14 @@
         "Nagy kapacitású elektromos energia tároló."
     ],
     [
+        "SmallBattery",
+        "Elektromos energia tároló."
+    ],
+    [
+        "Portal",
+        ""
+    ],
+    [
         "DrillingRig",
         "Automatikus érkitermelő eszköz. Meg vannak jelölve a lelőhelyek a térképen. Szkenner segítségével keress új lelőhelyeket."
     ],
@@ -188,8 +224,24 @@
         "Eszköz kis tárgyak és mikrochipek összeszerelésére."
     ],
     [
+        "Constructor",
+        "Gépek gyártása"
+    ],
+    [
+        "Deconstructor",
+        "Tárgyak, készülékek szétbontása összetevőkre."
+    ],
+    [
         "FluidDump",
         "Elpusztítja a folyadékot."
+    ],
+    [
+        "GasDump",
+        "Elpusztítja a csöveken érkező anyagokat."
+    ],
+    [
+        "SolidDump",
+        "Elpusztítja a bele helyezett tárgyakat."
     ],
     [
         "Lamp",
@@ -226,6 +278,10 @@
     [
         "Mixer",
         "Keverékek és betontömbök előállítására szolgáló készülék."
+    ],
+    [
+        "Freezer",
+        "Forró fémeket hűt le ruddá"
     ],
     [
         "AutomaticFarm",
@@ -284,16 +340,20 @@
         ""
     ],
     [
-        "SolarPanel",
+        "FusionReactor",
         ""
+    ],
+    [
+        "IndustrialBoiler",
+        "Nagyon erős kazán nagy belső pufferrel"
+    ],
+    [
+        "SolarPanel",
+        "Napelemből ingyen energia nyerhető"
     ],
     [
         "Pumpjack",
         "Automatikus készülék folyadékok kitermelésére. A lelőhelyek a térképen vannak jelölve. Szkenner segítségével új lelőhelyeket kereshet."
-    ],
-    [
-        "HeatExchanger",
-        ""
     ],
     [
         "IndustrialSmelter",
@@ -301,82 +361,38 @@
     ],
     [
         "InductionCoil",
-        "Hőenergiát állít elő elektromos energia segítségével."
-    ],
-    [
-        "Scaffold",
-        ""
-    ],
-    [
-        "AdvancedSign",
-        ""
-    ],
-    [
-        "Splitter",
-        ""
-    ],
-    [
-        "Sorter",
-        ""
-    ],
-    [
-        "IndustrialElectricEngine",
-        "Nagyon erős elektromos motor."
-    ],
-    [
-        "IndustrialSteamTurbine",
-        "A gőzturbina és a generátor nagyon erős hibridje."
-    ],
-    [
-        "Riteg",
-        "Végtelen radioizotópos hőforrás."
-    ],
-    [
-        "Sifter",
-        ""
-    ],
-    [
-        "FilteringUnit",
-        ""
-    ],
-    [
-        "SmallBattery",
-        ""
-    ],
-    [
-        "Constructor",
-        ""
-    ],
-    [
-        "Deconstructor",
-        ""
-    ],
-    [
-        "GasDump",
-        ""
-    ],
-    [
-        "SolidDump",
-        ""
-    ],
-    [
-        "Freezer",
-        ""
-    ],
-    [
-        "FusionReactor",
-        "Neutrónium forrás."
-    ],
-    [
-        "IndustrialBoiler",
-        "Nagyon erős kazán nagy belső pufferrel"
+        "Nagy mennyiségű hőenergiát állít elő elektromos energiából."
     ],
     [
         "CreativeController",
         ""
     ],
     [
-        "Portal",
+        "LogicCircuit",
+        "Vezérlő logikákat készthet"
+    ],
+    [
+        "LogicInterface",
+        "Adatot olvas ki eszközökből"
+    ],
+    [
+        "LogicController",
+        "Vezérli az eszközök működését"
+    ],
+    [
+        "LogicDisplay",
+        "Vezérlés adatait jeleníti meg"
+    ],
+    [
+        "LogicWire",
+        "Vezérlés adatait továbbító vezeték"
+    ],
+    [
+        "Button",
+        ""
+    ],
+    [
+        "ToggleButton",
         ""
     ]
 ]

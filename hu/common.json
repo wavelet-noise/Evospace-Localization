@@ -65,7 +65,7 @@
     ],
     [
         "WorldObject",
-        "Nem gyártható\nMegjelenik a világon"
+        "Nem gyártható\nA bolygón található"
     ],
     [
         "Circuit",
@@ -73,19 +73,19 @@
     ],
     [
         "ItemInput",
-        "<img id=\"ItemInput\"></>Van elem elfogadás"
+        "<img id=\"ItemInput\"></>Tárgyakat fogad"
     ],
     [
         "ItemOutput",
-        "<img id=\"ItemOutput\"></>Van elem kibocsátás"
+        "<img id=\"ItemOutput\"></>Tárgyakat bocsát ki"
     ],
     [
         "FluidInput",
-        "<img id=\"FluidInput\"></>Van folyadék elfogadás"
+        "<img id=\"FluidInput\"></>Folyadékot fogad"
     ],
     [
         "FluidOutput",
-        "<img id=\"FluidOutput\"></>Van folyadék kibocsátás"
+        "<img id=\"FluidOutput\"></>Folyadékot bocsát ki"
     ],
     [
         "FluidConductor",
@@ -97,51 +97,63 @@
     ],
     [
         "KineticInput",
-        "<img id=\"Kinetic\"></>Mozgási energiát fogyaszt<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic2\"></>Mozgási energiát használ<img id=\"Kinetic\"></>"
     ],
     [
         "KineticOutput",
-        "<img id=\"Kinetic\"></>Mozgási energiát termel<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic2\"></>Mozgási energiát termel<img id=\"Kinetic\"></>"
     ],
     [
         "KineticConductor",
-        "<img id=\"Kinetic\"></>Mozgási energiát vezet<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic2\"></>Mozgási energiát vezet<img id=\"Kinetic\"></>"
     ],
     [
         "KineticStorage",
-        "Mozgási energiát tárol<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic2\"></>Mozgási energiát tárol"
     ],
     [
         "HeatInput",
-        "<img id=\"Heat\"></>Hőenergiát fogyaszt<img id=\"Heat2\"></>"
+        "<img id=\"Heat2\"></>Hőenergiát használ<img id=\"Heat\"></>"
     ],
     [
         "HeatOutput",
-        "<img id=\"Heat\"></>Hőenergiát termel<img id=\"Heat2\"></>"
+        "<img id=\"Heat2\"></>Hőenergiát termel<img id=\"Heat\"></>"
     ],
     [
         "HeatConductor",
-        "<img id=\"Heat\"></>Hőenergiát vezet<img id=\"Heat2\"></>"
+        "<img id=\"Heat2\"></>Hőenergiát vezet<img id=\"Heat\"></>"
     ],
     [
         "HeatStorage",
-        "Hőenergiát tárol<img id=\"Heat2\"></>"
+        "<img id=\"Heat2\"></>Hőenergiát tárol"
     ],
     [
         "ElectricInput",
-        "<img id=\"Electricity\"></>Elektromos energiát fogyaszt<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity2\"></>Elektromos energiát használ<img id=\"Electricity\"></>"
     ],
     [
         "ElectricOutput",
-        "<img id=\"Electricity\"></>Elektromos energiát termel<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity2\"></>Elektromos energiát termel<img id=\"Electricity\"></>"
     ],
     [
         "ElectricConductor",
-        "<img id=\"Electricity\"></>Elektromos energiát vezet<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity2\"></>Elektromos energiát vezet<img id=\"Electricity\"></>"
     ],
     [
         "ElectricStorage",
-        "Elektromos energiát tárol<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity2\"></>Elektromos energiát tárol"
+    ],
+    [
+        "DataInput",
+        "Adatot olvas"
+    ],
+    [
+        "DataOutput",
+        "Adatot ír"
+    ],
+    [
+        "DataConductor",
+        "Adatot vezet"
     ],
     [
         "Stone",
@@ -176,8 +188,16 @@
         "Neutrónium"
     ],
     [
+        "Splitter",
+        ""
+    ],
+    [
+        "Sorter",
+        ""
+    ],
+    [
         "ips",
-        "{0} eleme másodpercenként"
+        "{0} tárgy másodpercenként"
     ],
     [
         "dps",
@@ -185,15 +205,15 @@
     ],
     [
         "power_limit",
-        "{0}W maximális áram termelés"
+        "{0}W maximális energia termelés"
     ],
     [
         "power_output",
-        "{0}W áram termelés"
+        "{0}W energia termelés"
     ],
     [
         "power_input",
-        "{0}W áram fogyasztás"
+        "{0}W energia fogyasztás"
     ],
     [
         "container",
@@ -205,15 +225,27 @@
     ],
     [
         "chest",
-        "Tárolható {0} egység"
+        "Tárolható {0} db tárgy"
     ],
     [
         "burnable",
-        "Éghető<img id=\"Heat2\"></>\n{0}J hőenergia"
+        "Éghető anyag"
     ],
     [
         "speedbonus",
         "{0}x sebesség"
+    ],
+    [
+        "furnace_desc",
+        "{0}x égetési sebesség"
+    ],
+    [
+        "furnace_desc2",
+        "{0}x hőenergia termelés"
+    ],
+    [
+        "furnace_desc3",
+        "{0}x mozgási energia"
     ],
     [
         "electric_drain",
@@ -221,11 +253,11 @@
     ],
     [
         "heat_drain",
-        "{0}W hőelvezetés"
+        "{0}W hőenergia"
     ],
     [
         "kinetic_drain",
-        "{0}W mozgási energia elvezetés"
+        "{0}W mozgási energia"
     ],
     [
         "computations",
@@ -254,25 +286,5 @@
     [
         "machines_label_format",
         "{0} {1}"
-    ],
-    [
-        "Splitter",
-        "Szállított árufolyam szétosztása több irányba."
-    ],
-    [
-        "Sorter",
-        "Elem szűrő beállítása."
-    ],
-    [
-        "furnace_desc",
-        "{0}x égetési sebesség"
-    ],
-    [
-        "furnace_desc2",
-        "{0}x hőenergia termelés"
-    ],
-    [
-        "furnace_desc3",
-        "{0}x mozgási energia"
     ]
 ]
