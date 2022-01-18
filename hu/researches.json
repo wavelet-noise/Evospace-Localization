@@ -178,17 +178,5 @@
     [
         "ReactionThrottling",
         "Reakció fékezés"
-    ],
-    [
-        "FluidFurnace",
-        "Folyadék égető kemence"
-    ],
-    [
-        "Scaffold",
-        "Állvány"
-    ],
-    [
-        "Lamp",
-        "Lámpa"
     ]
 ]
