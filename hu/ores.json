@@ -5,7 +5,7 @@
     ],
     [
         "CopperImpureOreGravel",
-        "Szennyezett réz érckavics"
+        "Szennyezett rézérc kavics"
     ],
     [
         "CopperOreGravel",
@@ -13,7 +13,7 @@
     ],
     [
         "CopperOreDust",
-        "Szennyezett réz ércpor"
+        "Szennyezett rézérc por"
     ],
     [
         "IronOre",
@@ -21,15 +21,15 @@
     ],
     [
         "IronImpureOreGravel",
-        "Szennyezett vas érckavics"
+        "Szennyezett vasérc kavics"
     ],
     [
         "IronOreGravel",
-        "Vas érckavics"
+        "Vasérc kavics"
     ],
     [
         "IronOreDust",
-        "Szennyezett vas ércpor"
+        "Szennyezett vasérc por"
     ],
     [
         "UraniumOre",
@@ -37,7 +37,7 @@
     ],
     [
         "UraniumImpureOreGravel",
-        "Szennyezett urán érckavics"
+        "Szennyezett uránérc kavics"
     ],
     [
         "UraniumOreGravel",
@@ -45,23 +45,23 @@
     ],
     [
         "UraniumOreDust",
-        "Szennyezett urán ércpor"
+        "Szennyezett uránérc por"
     ],
     [
         "AluminiumOre",
-        "Alumínium érc"
+        "Alumíniumérc"
     ],
     [
         "AluminiumImpureOreGravel",
-        "Szennyezett alumínium érckavics"
+        "Szennyezett alumíniumérc kavics"
     ],
     [
         "AluminiumOreGravel",
-        "Alumínium kavics"
+        "Alumíniumérc kavics"
     ],
     [
         "AluminiumOreDust",
-        "Szennyezett alumínium ércpor"
+        "Szennyezett alumíniumérc por"
     ],
     [
         "CoalOre",
