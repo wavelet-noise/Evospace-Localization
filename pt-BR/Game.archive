@@ -284,7 +284,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Cancelar1"
+				"Text": "Cancelar"
 			},
 			"Key": "08B8807D41278C767FA1069B2163C71E"
 		},
@@ -295,7 +295,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Cancelar2"
+				"Text": "Cancelar"
 			},
 			"Key": "4380231848A777CD3EDB789FFAACC2B8"
 		},
@@ -317,7 +317,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Categorias1"
+				"Text": "Categorias"
 			},
 			"Key": "2364A42B4D24FE032AAA0DB3436FE844"
 		},
@@ -328,7 +328,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Categorias2"
+				"Text": "Categorias"
 			},
 			"Key": "074A8BEC4884505A9CBD3C9C570FB349"
 		},
@@ -614,7 +614,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Descrição1"
+				"Text": "Descrição"
 			},
 			"Key": "6FB637F14BB4325CBDDB5DBEB5BA125A"
 		},
@@ -625,7 +625,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Descrição2"
+				"Text": "Descrição"
 			},
 			"Key": "05E0BBBE44E6C0D55D5EF99B434B1C2A"
 		},
@@ -658,7 +658,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Gasto: "
+				"Text": "Perda: "
 			},
 			"Key": "AE97F1364BC5DDE57E8ECDBC86495419"
 		},
@@ -746,7 +746,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Consumo de Força"
+				"Text": "Consumo de Energia"
 			},
 			"Key": "00039F2F48DD085504A2C3A1AA943444"
 		},
@@ -757,7 +757,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Produção de Força"
+				"Text": "Produção de Energia"
 			},
 			"Key": "3579F39D473B47653463EA825572D1D9"
 		},
@@ -922,7 +922,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Game"
+				"Text": "Jogo"
 			},
 			"Key": "D0CC45C0488E3B0792CC4F9118037C27"
 		},
@@ -1010,7 +1010,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Dicas de como jogar"
+				"Text": "Dicas do jogo"
 			},
 			"Key": "AAB3400245CC9BF089AF4EB05ABC874C"
 		},
@@ -1054,7 +1054,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Itens1"
+				"Text": "Itens"
 			},
 			"Key": "D04CF22E423375410F4C18BFEA4ACDE0"
 		},
@@ -1065,7 +1065,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Itens2"
+				"Text": "Itens"
 			},
 			"Key": "3A8B616247A8AC6F615B17B2BB0A2163"
 		},
@@ -1164,7 +1164,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Load"
+				"Text": "Carregar"
 			},
 			"Key": "02A2742F4D3BC728272BDD9B99D1AE07"
 		},
@@ -1186,7 +1186,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Load Map2"
+				"Text": "Load Map"
 			},
 			"Key": "D5E5EE28414F93BF04EE618F5D178DF9"
 		},
@@ -1494,7 +1494,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pausar1"
+				"Text": "Pausar"
 			},
 			"Key": "FB704C294B77BF84FF23EB9C8F83D975"
 		},
@@ -1505,7 +1505,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Mundo Estático\nZa warudo!"
+				"Text": "Pausar"
 			},
 			"Key": "1F5B65CD4CA2839B519D328E61AEECAC"
 		},
@@ -1527,7 +1527,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Copiar Objeto sendo Focado"
+				"Text": "Copiar Objeto Focado"
 			},
 			"Key": "EAA11DD1460F908E564829AC9AF6398C"
 		},
@@ -1582,7 +1582,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pressione2"
+				"Text": "Pressione"
 			},
 			"Key": "6CC9875B4A3500B672E8398DB9CF8968"
 		},
@@ -1626,7 +1626,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Produção1"
+				"Text": "Produção"
 			},
 			"Key": "912B2FD244BCA777490784A6C3A0CF1D"
 		},
@@ -1725,7 +1725,7 @@
 			},
 			"Translation":
 			{
-				"Text": ""
+				"Text": "Efeitos em reflexos"
 			},
 			"Key": "404525EF4B6C43585A2C3AA59A68B9ED"
 		},
@@ -1758,7 +1758,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Material em Falta"
+				"Text": "Material necessário"
 			},
 			"Key": "465DA57B474122FC6CB69F982BE1DCBF"
 		},
@@ -1978,7 +1978,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Girar Minimap"
+				"Text": "Girar Mini mapa"
 			},
 			"Key": "AC9EBDE94064F65825927398CE31F0D8"
 		},
@@ -2044,7 +2044,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Procurar2"
+				"Text": "Procurar"
 			},
 			"Key": "48E051B14DE3C1D6CA39089CC44CAC4C"
 		},
@@ -2055,7 +2055,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Procurar3"
+				"Text": "Procurar"
 			},
 			"Key": "96EC06D64769CE748A0BBCAA3E3FA64F"
 		},
@@ -2066,7 +2066,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Procurar4"
+				"Text": "Procurar"
 			},
 			"Key": "B1D0754047FDE54895271BAC80EFFA60"
 		},
@@ -2088,7 +2088,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Procurar6"
+				"Text": "Procurar"
 			},
 			"Key": "F11C88BD40A1809756CC31BAA809B2B7"
 		},
@@ -2132,7 +2132,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Selecionar3"
+				"Text": "Selecionar"
 			},
 			"Key": "03C98A0144ACAA3CDD4400A1C27798BD"
 		},
@@ -2220,7 +2220,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Acender Entrada/Saída"
+				"Text": "Destacar Entrada/Saída"
 			},
 			"Key": "0A21A4804CCA2A4F0C5B2091A4249F99"
 		},
@@ -2462,7 +2462,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Mundo Continuo"
+				"Text": "Sair do pause"
 			},
 			"Key": "8CD090C148D7B3DC76B05EB3FA79000D"
 		},
@@ -2792,7 +2792,7 @@
 			},
 			"Translation":
 			{
-				"Text": "Pressiona para Iniciar"
+				"Text": "Pressione para Iniciar"
 			},
 			"Key": "37ADA6604DF1CD4093D11A9C2360A3D6"
 		},

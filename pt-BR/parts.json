@@ -549,7 +549,7 @@
     ],
     [
         "Catalyst",
-        "Célula com Catalisador"
+        "Célula Catalisadora"
     ],
     [
         "ControlCell",
@@ -841,34 +841,14 @@
     ],
     [
         "UltimateCatalyst",
-        "Ultimate Catalyst Cell"
+        "Célula Catalisadora Avançada"
     ],
     [
         "MothershipPing",
-        "Mothership Ping"
+        "Sinal da Nave-Mãe"
     ],
     [
         "PaintTool",
-        "Paint Tool"
-    ],
-    [
-        "Capacity",
-        "Capacity"
-    ],
-    [
-        "InputError",
-        "Input Error"
-    ],
-    [
-        "OutputError",
-        "Output Error"
-    ],
-    [
-        "Progress",
-        "Progress"
-    ],
-    [
-        "SwitchedOn",
-        "Switched On"
+        "ferramenta de pintura"
     ]
 ]
