@@ -1,0 +1,290 @@
+[
+    [
+        "I",
+        "I"
+    ],
+    [
+        "II",
+        "II"
+    ],
+    [
+        "III",
+        "III"
+    ],
+    [
+        "IV",
+        "IV"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "VI",
+        "VI"
+    ],
+    [
+        "VII",
+        "VII"
+    ],
+    [
+        "VIII",
+        "VIII"
+    ],
+    [
+        "IX",
+        "IX"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "Organics",
+        "Szerves anyag"
+    ],
+    [
+        "BuildingBlock",
+        "Építőkocka"
+    ],
+    [
+        "NuclearFuel",
+        "Reaktor üzemanyag"
+    ],
+    [
+        "Fluid",
+        "Folyadék"
+    ],
+    [
+        "Gas",
+        "Gáz"
+    ],
+    [
+        "ByPipes",
+        "Csővezetéken szállítható\nA csővezeték szivattyúval csatlakoztatható a készülékekhez"
+    ],
+    [
+        "WorldObject",
+        "Nem gyártható\nA bolygón található"
+    ],
+    [
+        "Circuit",
+        "Intelligens eszközök része\nKutatási számítások előállítására használják a számítógépek"
+    ],
+    [
+        "ItemInput",
+        "<img id=\"ItemInput\"></>Tárgyakat fogad"
+    ],
+    [
+        "ItemOutput",
+        "<img id=\"ItemOutput\"></>Tárgyakat bocsát ki"
+    ],
+    [
+        "FluidInput",
+        "<img id=\"FluidInput\"></>Folyadékot fogad"
+    ],
+    [
+        "FluidOutput",
+        "<img id=\"FluidOutput\"></>Folyadékot bocsát ki"
+    ],
+    [
+        "FluidConductor",
+        "Folyadékot vezet"
+    ],
+    [
+        "FluidStorage",
+        "Folyadékot tárol"
+    ],
+    [
+        "KineticInput",
+        "<img id=\"Kinetic2\"></>Mozgási energiát használ<img id=\"Kinetic\"></>"
+    ],
+    [
+        "KineticOutput",
+        "<img id=\"Kinetic2\"></>Mozgási energiát termel<img id=\"Kinetic\"></>"
+    ],
+    [
+        "KineticConductor",
+        "<img id=\"Kinetic2\"></>Mozgási energiát vezet<img id=\"Kinetic\"></>"
+    ],
+    [
+        "KineticStorage",
+        "<img id=\"Kinetic2\"></>Mozgási energiát tárol"
+    ],
+    [
+        "HeatInput",
+        "<img id=\"Heat2\"></>Hőenergiát használ<img id=\"Heat\"></>"
+    ],
+    [
+        "HeatOutput",
+        "<img id=\"Heat2\"></>Hőenergiát termel<img id=\"Heat\"></>"
+    ],
+    [
+        "HeatConductor",
+        "<img id=\"Heat2\"></>Hőenergiát vezet<img id=\"Heat\"></>"
+    ],
+    [
+        "HeatStorage",
+        "<img id=\"Heat2\"></>Hőenergiát tárol"
+    ],
+    [
+        "ElectricInput",
+        "<img id=\"Electricity2\"></>Elektromos energiát használ<img id=\"Electricity\"></>"
+    ],
+    [
+        "ElectricOutput",
+        "<img id=\"Electricity2\"></>Elektromos energiát termel<img id=\"Electricity\"></>"
+    ],
+    [
+        "ElectricConductor",
+        "<img id=\"Electricity2\"></>Elektromos energiát vezet<img id=\"Electricity\"></>"
+    ],
+    [
+        "ElectricStorage",
+        "<img id=\"Electricity2\"></>Elektromos energiát tárol"
+    ],
+    [
+        "DataInput",
+        "Adatot olvas"
+    ],
+    [
+        "DataOutput",
+        "Adatot ír"
+    ],
+    [
+        "DataConductor",
+        "Adatot vezet"
+    ],
+    [
+        "Stone",
+        "Kő"
+    ],
+    [
+        "Copper",
+        "Réz"
+    ],
+    [
+        "Steel",
+        "Acél"
+    ],
+    [
+        "Aluminium",
+        "Alumínium"
+    ],
+    [
+        "StainlessSteel",
+        "Rozsdamentes acél"
+    ],
+    [
+        "Titanium",
+        "Titán"
+    ],
+    [
+        "HardMetal",
+        "Kemény fém"
+    ],
+    [
+        "Neutronium",
+        "Neutrónium"
+    ],
+    [
+        "Splitter",
+        ""
+    ],
+    [
+        "Sorter",
+        ""
+    ],
+    [
+        "ips",
+        "{0} tárgy másodpercenként"
+    ],
+    [
+        "dps",
+        "{0} fok fordulat másodpercenként"
+    ],
+    [
+        "power_limit",
+        "{0}W maximális energia termelés"
+    ],
+    [
+        "power_output",
+        "{0}W energia termelés"
+    ],
+    [
+        "power_input",
+        "{0}W energia fogyasztás"
+    ],
+    [
+        "container",
+        "Tárolható {0} L folyadék"
+    ],
+    [
+        "battery",
+        "Tárolható {0} J energia"
+    ],
+    [
+        "chest",
+        "Tárolható {0} db tárgy"
+    ],
+    [
+        "burnable",
+        "Éghető anyag"
+    ],
+    [
+        "speedbonus",
+        "{0}x sebesség"
+    ],
+    [
+        "furnace_desc",
+        "{0}x égetési sebesség"
+    ],
+    [
+        "furnace_desc2",
+        "{0}x hőenergia termelés"
+    ],
+    [
+        "furnace_desc3",
+        "{0}x mozgási energia"
+    ],
+    [
+        "electric_drain",
+        "{0}W elektromos energia elvezetés"
+    ],
+    [
+        "heat_drain",
+        "{0}W hőenergia"
+    ],
+    [
+        "kinetic_drain",
+        "{0}W mozgási energia"
+    ],
+    [
+        "computations",
+        "{0} számítás másodpercenként"
+    ],
+    [
+        "calculations",
+        "Számítógépek termelik\nÉpíts számítógépet, lásd el árammal, hogy kutatási számítást tudj elő állítani"
+    ],
+    [
+        "WorldGeneratorRivers",
+        "Folyók és szigetek"
+    ],
+    [
+        "WorldGeneratorBiome",
+        "Sziklás szigetek"
+    ],
+    [
+        "FlatWorldGenerator",
+        "Sík világ"
+    ],
+    [
+        "WorldGeneratorPlains",
+        "Síkság és tengerpart"
+    ],
+    [
+        "machines_label_format",
+        "{0} {1}"
+    ]
+]

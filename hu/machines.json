@@ -1,0 +1,398 @@
+[
+    [
+        "Macerator",
+        "Őrlő gép"
+    ],
+    [
+        "CuttingMachine",
+        "Vágó gép"
+    ],
+    [
+        "Fermenter",
+        "Erjesztő"
+    ],
+    [
+        "ChemReactor",
+        "Vegyi reaktor"
+    ],
+    [
+        "Separator",
+        "Szétválasztó"
+    ],
+    [
+        "Beam",
+        "Gerenda"
+    ],
+    [
+        "Corner",
+        "Sarok"
+    ],
+    [
+        "AutomaticHammer",
+        "Automatikus kalapács"
+    ],
+    [
+        "Boiler",
+        "Bojler"
+    ],
+    [
+        "Pipe",
+        "Cső"
+    ],
+    [
+        "HeatPipe",
+        "Hővezeték"
+    ],
+    [
+        "Flywheel",
+        "Lendkerék"
+    ],
+    [
+        "Scaffold",
+        "Állvány"
+    ],
+    [
+        "Sign",
+        "Jel"
+    ],
+    [
+        "AdvancedSign",
+        "Díszes jel"
+    ],
+    [
+        "Connector",
+        "Kábel"
+    ],
+    [
+        "Chest",
+        "Tároló"
+    ],
+    [
+        "ItemRack",
+        "Tárgy raktár"
+    ],
+    [
+        "Vent",
+        "Szelep"
+    ],
+    [
+        "ElectricalSwitch",
+        "Kapcsoló"
+    ],
+    [
+        "OreWasher",
+        "Ércmosó"
+    ],
+    [
+        "Conveyor",
+        "Szállítószalag"
+    ],
+    [
+        "Splitter",
+        "Osztó"
+    ],
+    [
+        "Sorter",
+        "Válogató"
+    ],
+    [
+        "Container",
+        "Tartály"
+    ],
+    [
+        "Press",
+        "Préselő gép"
+    ],
+    [
+        "StirlingEngine",
+        "Hőlégmotor"
+    ],
+    [
+        "CombustionEngine",
+        "Belső égésű motor"
+    ],
+    [
+        "PyrolysisUnit",
+        "Pirolízis gép"
+    ],
+    [
+        "Generator",
+        "Generátor"
+    ],
+    [
+        "CompactGenerator",
+        "Kompakt generátor"
+    ],
+    [
+        "ElectricEngine",
+        "Elektromos motor"
+    ],
+    [
+        "IndustrialElectricEngine",
+        "Ipari elektromos motor"
+    ],
+    [
+        "RobotArm",
+        "Robot kar"
+    ],
+    [
+        "FilteringRobotArm",
+        "Szűrő robot kar"
+    ],
+    [
+        "Pump",
+        "Szivattyú"
+    ],
+    [
+        "FilteringPump",
+        "Szűrő szivattyú"
+    ],
+    [
+        "Smelter",
+        "Kohó"
+    ],
+    [
+        "SteamTurbine",
+        "Gőzturbina"
+    ],
+    [
+        "IndustrialSteamTurbine",
+        "Ipari gőzturbina"
+    ],
+    [
+        "GasTurbine",
+        "Gázturbina"
+    ],
+    [
+        "Riteg",
+        "RTG"
+    ],
+    [
+        "ArcSmelter",
+        "Ívkohó"
+    ],
+    [
+        "ChemicalBath",
+        "Vegyi fürdő"
+    ],
+    [
+        "Sifter",
+        "Szitáló"
+    ],
+    [
+        "FilteringUnit",
+        "Szűrő egység"
+    ],
+    [
+        "Furnace",
+        "Kemence"
+    ],
+    [
+        "Oven",
+        "Sütő"
+    ],
+    [
+        "BlastFurnace",
+        "Nagyolvasztó kemence"
+    ],
+    [
+        "FluidFurnace",
+        "Folyadék égető kemence"
+    ],
+    [
+        "ElectricFurnace",
+        "Elektromos kemence"
+    ],
+    [
+        "BatteryBox",
+        "Akkumulátor doboz"
+    ],
+    [
+        "SmallBattery",
+        "Kis akkumulátor"
+    ],
+    [
+        "Portal",
+        "Portál"
+    ],
+    [
+        "DrillingRig",
+        "Bányászgép"
+    ],
+    [
+        "Assembler",
+        "Összeszerelő"
+    ],
+    [
+        "Constructor",
+        "Gépgyártó"
+    ],
+    [
+        "Deconstructor",
+        "Szétszerelő"
+    ],
+    [
+        "FluidDump",
+        "Folyadék megsemmisítő"
+    ],
+    [
+        "GasDump",
+        "Gázfáklya"
+    ],
+    [
+        "SolidDump",
+        "Tárgy megsemmisítő"
+    ],
+    [
+        "Lamp",
+        "Lámpa"
+    ],
+    [
+        "AdminElectricGenerator",
+        "Kreatív elektromos generátor"
+    ],
+    [
+        "AdminItemGenerator",
+        "Kreatív tárgy generátor"
+    ],
+    [
+        "AdminKineticGenerator",
+        "Kreatív mozgási energia generátor"
+    ],
+    [
+        "AdminHeatGenerator",
+        "Kreatív hőgenerátor"
+    ],
+    [
+        "AdminFluidGenerator",
+        "Kreatív folyadékgenerátor"
+    ],
+    [
+        "AdminExterminator",
+        "Kreatív irtó"
+    ],
+    [
+        "Electrolyzer",
+        "Elektrolizátor"
+    ],
+    [
+        "Mixer",
+        "Keverő gép"
+    ],
+    [
+        "Freezer",
+        "Mélyhűtő gép"
+    ],
+    [
+        "AutomaticFarm",
+        "Automatikus farm"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Légköri kondenzátor"
+    ],
+    [
+        "Terminal",
+        "Kijelző"
+    ],
+    [
+        "BigTerminal",
+        "Nagy kijelző"
+    ],
+    [
+        "HugeTerminal",
+        "Hatalmas kijelző"
+    ],
+    [
+        "FlatTerminal",
+        "Lapos kijelző"
+    ],
+    [
+        "BigFlatTerminal",
+        "Nagy lapos kijelző"
+    ],
+    [
+        "HugeFlatTerminal",
+        "Hatalmas lapos kijelző"
+    ],
+    [
+        "Computer",
+        "Számítógép"
+    ],
+    [
+        "QuantumComputer",
+        "Kvantum számítógép"
+    ],
+    [
+        "IndustrialSeparator",
+        "Ipari szétválasztó"
+    ],
+    [
+        "Radiator",
+        "Radiátor"
+    ],
+    [
+        "Diode",
+        "Dióda"
+    ],
+    [
+        "FissionReactor",
+        "Atomreaktor"
+    ],
+    [
+        "FusionReactor",
+        "Fúziós reaktor"
+    ],
+    [
+        "IndustrialBoiler",
+        "Ipari bojler"
+    ],
+    [
+        "SolarPanel",
+        "Napelem"
+    ],
+    [
+        "Pumpjack",
+        "Folyadék kitermelő"
+    ],
+    [
+        "IndustrialSmelter",
+        "Ipari kohó"
+    ],
+    [
+        "InductionCoil",
+        "Indukciós tekercs"
+    ],
+    [
+        "CreativeController",
+        "Kreatív vezérlő"
+    ],
+    [
+        "LogicCircuit",
+        "Vezérlő logika"
+    ],
+    [
+        "LogicInterface",
+        "Adat olvasó egység"
+    ],
+    [
+        "LogicController",
+        "Vezérlő egység"
+    ],
+    [
+        "LogicDisplay",
+        "Vezérlés képernyő"
+    ],
+    [
+        "LogicWire",
+        "Vezérlés vezeték"
+    ],
+    [
+        "Button",
+        "Nyomógomb"
+    ],
+    [
+        "ToggleButton",
+        "Váltó kapcsoló"
+    ]
+]
