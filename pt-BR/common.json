@@ -274,5 +274,17 @@
     [
         "furnace_desc3",
         "Força Mecânica gerada: x{0}"
+    ],
+    [
+        "DataInput",
+        "Read data"
+    ],
+    [
+        "DataOutput",
+        "Write data"
+    ],
+    [
+        "DataConductor",
+        "Conducts data"
     ]
 ]
