@@ -278,5 +278,17 @@
     [
         "furnace_desc3",
         "Kinetic output: x{0}"
+    ],
+    [
+        "DataInput",
+        "Read data"
+    ],
+    [
+        "DataOutput",
+        "Write data"
+    ],
+    [
+        "DataConductor",
+        "Conducts data"
     ]
 ]

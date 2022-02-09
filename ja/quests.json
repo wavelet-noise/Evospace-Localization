@@ -1,0 +1,222 @@
+[
+    [
+        "ChapterCompleted",
+        "Chapter complete."
+    ],
+    [
+        "Completed",
+        "Quest complete."
+    ],
+    [
+        "Collect",
+        "Collect this item."
+    ],
+    [
+        "Achievement",
+        "Achievement!"
+    ],
+    [
+        "RefiningMachine",
+        "RefiningMachineDescription"
+    ],
+    [
+        "FirstSteps",
+        "First Steps"
+    ],
+    [
+        "RoadToSteel",
+        "Road to Steel"
+    ],
+    [
+        "Farming",
+        "Farming"
+    ],
+    [
+        "Refining",
+        "Ore Refining"
+    ],
+    [
+        "Steam",
+        "Steam"
+    ],
+    [
+        "RoadToAluminium",
+        "Road to Aluminium"
+    ],
+    [
+        "RoadToSS",
+        "Road to Stainless Steel"
+    ],
+    [
+        "RoadToTitanium",
+        "Road to Titanium"
+    ],
+    [
+        "RoadToHardMetal",
+        "Road to Hard Metal"
+    ],
+    [
+        "RoadToNeutronium",
+        "Road to Neutronium"
+    ],
+    [
+        "Other",
+        "Other"
+    ],
+    [
+        "Decorative",
+        "Decorative"
+    ],
+    [
+        "Woodwork",
+        "Woodwork"
+    ],
+    [
+        "FasterRefining",
+        "Faster Refining"
+    ],
+    [
+        "Logistics",
+        "Logistics"
+    ],
+    [
+        "FastTravel",
+        "Fast Travel"
+    ],
+    [
+        "FasterSteel",
+        "Faster Steel"
+    ],
+    [
+        "AdvancedLogistics",
+        "Advanced Logistics"
+    ],
+    [
+        "HeatTransferring",
+        "Heat Transferring"
+    ],
+    [
+        "CoalPiece",
+        "CoalPieceDescription"
+    ],
+    [
+        "CoalDust",
+        "CoalDustDescription"
+    ],
+    [
+        "CokePiece",
+        "CokePieceDescription"
+    ],
+    [
+        "CokeDust",
+        "Faster way of producing a coke. Put a <item>Coal Dust</> into a <machine>Coke Oven</>."
+    ],
+    [
+        "HigherLevel",
+        "This is just improved version of machine. It can make complexer recipes without penalty and can use modules."
+    ],
+    [
+        "Jumppack",
+        "This is a really fast way to travel. You need to select it on the hotbar to use. Press jump to use."
+    ],
+    [
+        "Plate",
+        "While it is possible to create all machines directly from ingots - this is not the best way.\nIn a much more efficient way, it will create plates with the help of <machine>Automatic Hammer</>\nIt creates 1 plate of 1 ingot, while hands creates 1 plate of 2 ingots."
+    ],
+    [
+        "Refined",
+        "You will receive 1.5 times more metal from ore by making this item."
+    ],
+    [
+        "Furnace",
+        "Uses fuel to produce a <item>Heat</>. The Heat is fransferring into block on top of a furnace. Heat output is marked by flame icon."
+    ],
+    [
+        "Dryer",
+        "Uses heat to make recipes. Usable to increase fuel efficiency by producing Coal Dust from a <item>Log</>/<item>Stick</>/<item>Sawdust</>."
+    ],
+    [
+        "Smelter",
+        "Uses heat to make ingots. Ingots are smelted from ore very slowly. It is much more efficient to refine an ore before smelting."
+    ],
+    [
+        "AlloySmelter",
+        "AlloySmelterDescription"
+    ],
+    [
+        "CastIron",
+        "Used for advanced steel making process. Uses less coke in the process, and also has a much higher production rate.\nThe resulting cast iron must be melted in an <machine>Arc Furnace.</>"
+    ],
+    [
+        "CopperOre",
+        "Common ore. Occurs in all biomes. Plenty of <item>Copper Ore</> can be found at a coast. You can see a water from some hill."
+    ],
+    [
+        "IronOre",
+        "Common ore. Occurs in all biomes. Plenty of <item>Iron Ore</> can be found in the swamp."
+    ],
+    [
+        "Boiler",
+        "BoilerDescription"
+    ],
+    [
+        "Pump",
+        "Infinitely generates water."
+    ],
+    [
+        "Pipe",
+        "PipeDescription"
+    ],
+    [
+        "Bed",
+        "Right click on a Bed to update your Spawnpoint. You can travel to a Spawnpoint from the Pause Menu (Esc)."
+    ],
+    [
+        "Organics",
+        "Can be gathered from most of small plants in the world."
+    ],
+    [
+        "BambooFarm",
+        "Growing bamboo sprout. Break with a <item>Multitool</> to harvest."
+    ],
+    [
+        "PumpkinFarm",
+        "Growing pumpkin. Break with a <item>Multitool</> to harvest."
+    ],
+    [
+        "AutomaticHammer",
+        "AutomaticHammerDescription"
+    ],
+    [
+        "Macerator",
+        "MaceratorDescription"
+    ],
+    [
+        "OreWasher",
+        "OreWasherDescription"
+    ],
+    [
+        "BlastFurnace",
+        "It has 2 inputs: one for <item>Iron Ingots</>, the other for a coke. To output a production use a <machine>Robot Arm</>."
+    ],
+    [
+        "CokeOven",
+        "Has input for a coal and output for a coke. Has fluid output for an <item>Ore Water</> marked with drop icon."
+    ],
+    [
+        "RobotArm",
+        "Robot Arm"
+    ],
+    [
+        "FilteringRobotArm",
+        "FilteringRobotArm"
+    ],
+    [
+        "Conveyor",
+        "Conveyor"
+    ],
+    [
+        "ConveyorSplitter",
+        "Conveyor Splitter"
+    ]
+]
