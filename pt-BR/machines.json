@@ -370,5 +370,33 @@
     [
         "Portal",
         "Portal"
+    ],
+    [
+        "LogicCircuit",
+        "Logic Circuit"
+    ],
+    [
+        "LogicInterface",
+        "Logic Interface"
+    ],
+    [
+        "LogicController",
+        "Logic Controller"
+    ],
+    [
+        "LogicDisplay",
+        "Logic Display"
+    ],
+    [
+        "LogicWire",
+        "Logic Wire"
+    ],
+    [
+        "Button",
+        "Button"
+    ],
+    [
+        "ToggleButton",
+        "Toggle Button"
     ]
 ]

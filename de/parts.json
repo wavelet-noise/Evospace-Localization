@@ -866,5 +866,25 @@
     [
         "PaintTool",
         "Paint Tool"
+    ],
+    [
+        "Capacity",
+        "Capacity"
+    ],
+    [
+        "InputError",
+        "Input Error"
+    ],
+    [
+        "OutputError",
+        "Output Error"
+    ],
+    [
+        "Progress",
+        "Progress"
+    ],
+    [
+        "SwitchedOn",
+        "Switched On"
     ]
 ]
