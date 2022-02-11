@@ -277,11 +277,11 @@
     ],
     [
         "DataInput",
-        "Read data"
+        "Leer datos"
     ],
     [
         "DataOutput",
-        "Write data"
+        "Escribir datos"
     ],
     [
         "DataConductor",
