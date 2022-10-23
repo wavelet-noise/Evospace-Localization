@@ -817,22 +817,22 @@
     ],
     [
         "Capacity",
-        "Capacity"
+        "Capacidad"
     ],
     [
         "InputError",
-        "Input Error"
+        "Error de entrada"
     ],
     [
         "OutputError",
-        "Output Error"
+        "Error de salida"
     ],
     [
         "Progress",
-        "Progress"
+        "Progreso"
     ],
     [
         "SwitchedOn",
-        "Switched On"
+        "Conectado"
     ]
 ]
