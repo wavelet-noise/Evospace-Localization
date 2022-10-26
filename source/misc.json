@@ -240,6 +240,22 @@
         "Paint Hard Metal"
     ],
     [
+        "PaintGold",
+        "Paint Gold"
+    ],
+    [
+        "PaintYellow",
+        "Paint Yellow"
+    ],
+    [
+        "PaintMagenta",
+        "Paint Magenta"
+    ],
+    [
+        "PaintCyan",
+        "Paint Cyan"
+    ],
+    [
         "Column",
         "Column"
     ],
