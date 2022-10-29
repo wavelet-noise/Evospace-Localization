@@ -100,7 +100,7 @@
         "Advanced Separation"
     ],
     [
-        "NeutroniumProduction",
+        "NeutroniumSimulation",
         "Neutronium Production"
     ],
     [
@@ -112,11 +112,11 @@
         "Stainless Steel Production"
     ],
     [
-        "TitaniumProduction",
+        "TitaniumSimulation",
         "Titanium Production"
     ],
     [
-        "HardMetalProduction",
+        "HardMetalSimulation",
         "Hard Metal Production"
     ],
     [
