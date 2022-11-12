@@ -373,30 +373,30 @@
     ],
     [
         "LogicCircuit",
-        "Logic Circuit"
+        "Circuito lógico"
     ],
     [
         "LogicInterface",
-        "Logic Interface"
+        "Interfaz lógica"
     ],
     [
         "LogicController",
-        "Logic Controller"
+        "Controlador lógico"
     ],
     [
         "LogicDisplay",
-        "Logic Display"
+        "Pantalla lógica"
     ],
     [
         "LogicWire",
-        "Logic Wire"
+        "Cable lógico"
     ],
     [
         "Button",
-        "Button"
+        "Botón"
     ],
     [
         "ToggleButton",
-        "Toggle Button"
+        "Botón de alternar"
     ]
 ]
