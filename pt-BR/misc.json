@@ -282,5 +282,21 @@
     [
         "PaintHardMetal",
         "Tintura Cor de Liga Metálica"
+    ],
+    [
+        "PaintGold",
+        "Paint Gold"
+    ],
+    [
+        "PaintYellow",
+        "Paint Yellow"
+    ],
+    [
+        "PaintMagenta",
+        "Paint Magenta"
+    ],
+    [
+        "PaintCyan",
+        "Paint Cyan"
     ]
 ]

@@ -282,5 +282,21 @@
     [
         "Scanner",
         "Szkenner"
+    ],
+    [
+        "PaintGold",
+        "Paint Gold"
+    ],
+    [
+        "PaintYellow",
+        "Paint Yellow"
+    ],
+    [
+        "PaintMagenta",
+        "Paint Magenta"
+    ],
+    [
+        "PaintCyan",
+        "Paint Cyan"
     ]
 ]
