@@ -1,198 +1,198 @@
 [
     [
         "InventoryUpgrade",
-        "Inventory Upgrade"
+        "인벤토리 증가"
     ],
     [
         "PlutoniumReaction",
-        "Plutonium Reaction"
+        "플루토늄 반응"
     ],
     [
         "ThoriumReaction",
-        "Thorium Reaction"
+        "토륨 반응"
     ],
     [
         "Drying",
-        "Drying"
+        "건조"
     ],
     [
         "PowerGeneration",
-        "Power Generation"
+        "발전"
     ],
     [
         "Automatization",
-        "Automatization"
+        "자동화"
     ],
     [
         "AdditionalStorage",
-        "Additional Storage"
+        "추가 저장소"
     ],
     [
         "HeatTransferring",
-        "Heat Transferring"
+        "열 전달"
     ],
     [
         "BasicMachines",
-        "Basic Machines"
+        "기초 생산 기계"
     ],
     [
         "Container",
-        "Fluid Storage"
+        "유체 저장"
     ],
     [
         "FluidDumping",
-        "Fluid Dumping"
+        "유체 버리기"
     ],
     [
         "SingleTypeStorage",
-        "Single Type Storage"
+        "단일 유형 저장소"
     ],
     [
         "DistributedComputing",
-        "Distributed Computing"
+        "분산 연산"
     ],
     [
         "Electrolysis",
-        "Electrolysis"
+        "전기 분해"
     ],
     [
         "Sign",
-        "Sign"
+        "표지판"
     ],
     [
         "Cutting",
-        "Cutting"
+        "절단"
     ],
     [
         "SteelProduction",
-        "Steel Production"
+        "강철 생산"
     ],
     [
         "AutomaticMining",
-        "Automatic Mining"
+        "채굴 자동화"
     ],
     [
         "FluidFurnace",
-        "FluidFurnace"
+        "유체 연료 용광로"
     ],
     [
         "MetalConstructions",
-        "Metal Constructions"
+        "금속 구조물"
     ],
     [
         "Scaffold",
-        "Scaffold"
+        "비계"
     ],
     [
         "Lamp",
-        "Lamp"
+        "전등"
     ],
     [
         "Chemistry",
-        "Chemistry"
+        "화학"
     ],
     [
         "MassivePowerGeneration",
-        "Massive Power Generation"
+        "대규모 발전"
     ],
     [
         "AdvancedSmelting",
-        "Advanced Smelting"
+        "고급 제련"
     ],
     [
         "IndustrialSmelting",
-        "Industrial Smelting"
+        "공업 제련"
     ],
     [
         "Fermentation",
-        "Fermentation"
+        "발효"
     ],
     [
         "AdvancedSeparation",
-        "Advanced Separation"
+        "고급 분리"
     ],
     [
         "NeutroniumProduction",
-        "Neutronium Production"
+        "뉴트로늄 생산"
     ],
     [
         "AluminiumProduction",
-        "Aluminium Production"
+        "알루미늄 생산"
     ],
     [
         "StainlessSteelProduction",
-        "Stainless Steel Production"
+        "스테인리스 강 생산"
     ],
     [
         "TitaniumProduction",
-        "Titanium Production"
+        "티타늄 생산"
     ],
     [
         "HardMetalProduction",
-        "Hard Metal Production"
+        "하드 메탈 생산"
     ],
     [
         "PlantsScan",
-        "Plants Scan"
+        "식물 탐색"
     ],
     [
         "InitialScan",
-        "Initial Scan"
+        "초기 탐색"
     ],
     [
         "MineralsScan",
-        "Minerals Scan"
+        "자원 탐색"
     ],
     [
         "Electricity",
-        "Electricity"
+        "전력"
     ],
     [
         "Smelting",
-        "Smelting"
+        "제련"
     ],
     [
         "Metalwork",
-        "Metalwork"
+        "금속 가공"
     ],
     [
         "Steelwork",
-        "Steelwork"
+        "강철 가공"
     ],
     [
         "Filtering",
-        "Filtering"
+        "여과"
     ],
     [
         "DecorativeWood",
-        "Decorative Wood"
+        "장식용 목재"
     ],
     [
         "DecorativePlastic",
-        "Decorative Plastic"
+        "장식용 플라스틱"
     ],
     [
         "DecorativeStone",
-        "Decorative Stone"
+        "장식용 돌"
     ],
     [
         "DecorativeConcrete",
-        "Decorative Concrete"
+        "장식용 콘크리트"
     ],
     [
         "DecorationClay",
-        "Decoration Clay"
+        "장식용 점토"
     ],
     [
         "ReinforcedConcrete",
-        "Decorative Reinforced Concrete"
+        "장식용 강화 콘크리트"
     ],
     [
         "AdvancedReflection",
-        "Advanced Reflection"
+        "고급 반사"
     ],
     [
         "ReactionThrottling",
-        "Reaction Throttling"
+        "반응 조절"
     ]
 ]
