@@ -41,215 +41,215 @@
     ],
     [
         "Organics",
-        "Mixed organics mass"
+        "혼합된 유기물 덩어리"
     ],
     [
         "BuildingBlock",
-        "Building block"
+        "건축 블록"
     ],
     [
         "NuclearFuel",
-        "Fuel for Fission Reactor"
+        "핵분열 원자로 연료"
     ],
     [
         "Fluid",
-        "Fluid"
+        "유체"
     ],
     [
         "Gas",
-        "Gas"
+        "가스"
     ],
     [
         "ByPipes",
-        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+        "배관을 사용하여 수송이 가능합니다.\n펌프를 사용하여 기계에 급수 또는 배수가 가능합니다."
     ],
     [
         "WorldObject",
-        "Can't be crafted\nAppears in world"
+        "제작할 수 없습니다.\n자연적으로 세계에 있습니다."
     ],
     [
         "Circuit",
-        "Part of smart devices\nUsed by computers to produce science points"
+        "첨단 장치의 부품\n과학 포인트 생성을 위해 컴퓨터에 사용합니다."
     ],
     [
         "ItemInput",
-        "<img id=\"ItemInput\"></>Has item input"
+        "<img id=\"ItemInput\"></> 아이템 입력부 있음"
     ],
     [
         "ItemOutput",
-        "<img id=\"ItemOutput\"></>Has item ouput"
+        "<img id=\"ItemOutput\"></> 아이템 출력부 있음"
     ],
     [
         "FluidInput",
-        "<img id=\"FluidInput\"></>Has fluid input"
+        "<img id=\"FluidInput\"></> 유체 입력부 있음"
     ],
     [
         "FluidOutput",
-        "<img id=\"FluidOutput\"></>Has fluid ouput"
+        "<img id=\"FluidOutput\"></> 유체 출력부 있음"
     ],
     [
         "FluidConductor",
-        "Conducts fluids"
+        "유체 전달"
     ],
     [
         "FluidStorage",
-        "Stores fluids"
+        "유체 보관"
     ],
     [
         "KineticInput",
-        "<img id=\"Kinetic\"></>Consumes kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>운동 에너지 소비<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticOutput",
-        "<img id=\"Kinetic\"></>Produces kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>운동 에너지 생산<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticConductor",
-        "<img id=\"Kinetic\"></>Conducts kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic\"></>운동 에너지 전달<img id=\"Kinetic2\"></>"
     ],
     [
         "KineticStorage",
-        "Stores kinetic energy<img id=\"Kinetic2\"></>"
+        "운동 에너지 보관<img id=\"Kinetic2\"></>"
     ],
     [
         "HeatInput",
-        "<img id=\"Heat\"></>Consumes heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>열 에너지 소비<img id=\"Heat2\"></>"
     ],
     [
         "HeatOutput",
-        "<img id=\"Heat\"></>Produces heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>열 에너지 생산<img id=\"Heat2\"></>"
     ],
     [
         "HeatConductor",
-        "<img id=\"Heat\"></>Conducts heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat\"></>열 에너지 전달<img id=\"Heat2\"></>"
     ],
     [
         "HeatStorage",
-        "Stores heat energy<img id=\"Heat2\"></>"
+        "열 에너지 보관<img id=\"Heat2\"></>"
     ],
     [
         "ElectricInput",
-        "<img id=\"Electricity\"></>Consumes electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>전력 소비<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricOutput",
-        "<img id=\"Electricity\"></>Produces electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>전력 생산<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricConductor",
-        "<img id=\"Electricity\"></>Conducts electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>전력 전달<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricStorage",
-        "Stores electricity<img id=\"Electricity2\"></>"
+        "전력 보관<img id=\"Electricity2\"></>"
     ],
     [
         "Stone",
-        "Stone"
+        "돌"
     ],
     [
         "Copper",
-        "Copper"
+        "구리"
     ],
     [
         "Steel",
-        "Steel"
+        "강철"
     ],
     [
         "Aluminium",
-        "Aluminium"
+        "알루미늄"
     ],
     [
         "StainlessSteel",
-        "Stainless Steel"
+        "스테인리스 강"
     ],
     [
         "Titanium",
-        "Titanium"
+        "티타늄"
     ],
     [
         "HardMetal",
-        "Hard Metal"
+        "하드 메탈"
     ],
     [
         "Neutronium",
-        "Neutronium"
+        "뉴트로늄"
     ],
     [
         "ips",
-        "Items per second: {0}"
+        "초당 아이템 개수: {0}"
     ],
     [
         "dps",
-        "Degrees per second: {0}"
+        "초당 회전 각도: {0}"
     ],
     [
         "power_limit",
-        "Power limit: {0}W"
+        "동력 제한: {0}W"
     ],
     [
         "power_output",
-        "Power output: {0}W"
+        "동력 출력: {0}W"
     ],
     [
         "power_input",
-        "Power input: {0}W"
+        "동력 입력: {0}W"
     ],
     [
         "container",
-        "Capacity: {0} L"
+        "용량: {0} L"
     ],
     [
         "battery",
-        "Capacity: {0} J"
+        "용량: {0} J"
     ],
     [
         "chest",
-        "Capacity: {0} stacks"
+        "용량: {0} stacks"
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal heat: {0}J"
+        "연소 가능<img id=\"Heat2\"></>\n총 열량: {0}J"
     ],
     [
         "speedbonus",
-        "Speed bonus: x{0}"
+        "속도 보너스: x{0}"
     ],
     [
         "electric_drain",
-        "Electricity drain: {0}W"
+        "전력 손실: {0}W"
     ],
     [
         "heat_drain",
-        "Heat drain: {0}W"
+        "열 손실: {0}W"
     ],
     [
         "kinetic_drain",
-        "Kinetic drain: {0}W"
+        "운동 손실: {0}W"
     ],
     [
         "computations",
-        "Computations per second: {0}"
+        "초당 연산 수: {0}"
     ],
     [
         "calculations",
-        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
+        "컴퓨터에 의해 생산됨\n컴퓨터를 만들고 전력을 공급하면 연산능력이 확보됩니다."
     ],
     [
         "WorldGeneratorRivers",
-        "Rivers and isles"
+        "강과 섬"
     ],
     [
         "WorldGeneratorBiome",
-        "Rocky islands"
+        "바위와 섬"
     ],
     [
         "FlatWorldGenerator",
-        "Concrete world"
+        "평평한 세계"
     ],
     [
         "WorldGeneratorPlains",
-        "Plains and coast"
+        "평원과 해안"
     ],
     [
         "machines_label_format",
@@ -257,34 +257,34 @@
     ],
     [
         "Splitter",
-        "Can divite item flow into parts."
+        "아이템의 흐름을 나눌 수 있습니다."
     ],
     [
         "Sorter",
-        "Allowing to set white filter."
+        "필터를 설정할 수 있습니다."
     ],
     [
         "furnace_desc",
-        "Burning speed: x{0}"
+        "연소 속도: x{0}"
     ],
     [
         "furnace_desc2",
-        "Heat output: x{0}"
+        "열 출력: x{0}"
     ],
     [
         "furnace_desc3",
-        "Kinetic output: x{0}"
+        "운동 출력: x{0}"
     ],
     [
         "DataInput",
-        "Read data"
+        "데이터 읽기"
     ],
     [
         "DataOutput",
-        "Write data"
+        "데이터 쓰기"
     ],
     [
         "DataConductor",
-        "Conducts data"
+        "데이터 전달"
     ]
 ]
