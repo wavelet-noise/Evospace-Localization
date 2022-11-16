@@ -1,0 +1,290 @@
+[
+    [
+        "I",
+        "I"
+    ],
+    [
+        "II",
+        "II"
+    ],
+    [
+        "III",
+        "III"
+    ],
+    [
+        "IV",
+        "IV"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "VI",
+        "VI"
+    ],
+    [
+        "VII",
+        "VII"
+    ],
+    [
+        "VIII",
+        "VIII"
+    ],
+    [
+        "IX",
+        "IX"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "Organics",
+        "Mixed organics mass"
+    ],
+    [
+        "BuildingBlock",
+        "Building block"
+    ],
+    [
+        "NuclearFuel",
+        "Fuel for Fission Reactor"
+    ],
+    [
+        "Fluid",
+        "Fluid"
+    ],
+    [
+        "Gas",
+        "Gas"
+    ],
+    [
+        "ByPipes",
+        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+    ],
+    [
+        "WorldObject",
+        "Can't be crafted\nAppears in world"
+    ],
+    [
+        "Circuit",
+        "Part of smart devices\nUsed by computers to produce science points"
+    ],
+    [
+        "ItemInput",
+        "<img id=\"ItemInput\"></>Has item input"
+    ],
+    [
+        "ItemOutput",
+        "<img id=\"ItemOutput\"></>Has item ouput"
+    ],
+    [
+        "FluidInput",
+        "<img id=\"FluidInput\"></>Has fluid input"
+    ],
+    [
+        "FluidOutput",
+        "<img id=\"FluidOutput\"></>Has fluid ouput"
+    ],
+    [
+        "FluidConductor",
+        "Conducts fluids"
+    ],
+    [
+        "FluidStorage",
+        "Stores fluids"
+    ],
+    [
+        "KineticInput",
+        "<img id=\"Kinetic\"></>Consumes kinetic energy<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticOutput",
+        "<img id=\"Kinetic\"></>Produces kinetic energy<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticConductor",
+        "<img id=\"Kinetic\"></>Conducts kinetic energy<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticStorage",
+        "Stores kinetic energy<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "HeatInput",
+        "<img id=\"Heat\"></>Consumes heat energy<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatOutput",
+        "<img id=\"Heat\"></>Produces heat energy<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatConductor",
+        "<img id=\"Heat\"></>Conducts heat energy<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatStorage",
+        "Stores heat energy<img id=\"Heat2\"></>"
+    ],
+    [
+        "ElectricInput",
+        "<img id=\"Electricity\"></>Consumes electricity<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricOutput",
+        "<img id=\"Electricity\"></>Produces electricity<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductor",
+        "<img id=\"Electricity\"></>Conducts electricity<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricStorage",
+        "Stores electricity<img id=\"Electricity2\"></>"
+    ],
+    [
+        "Stone",
+        "Stone"
+    ],
+    [
+        "Copper",
+        "Copper"
+    ],
+    [
+        "Steel",
+        "Steel"
+    ],
+    [
+        "Aluminium",
+        "Aluminium"
+    ],
+    [
+        "StainlessSteel",
+        "Stainless Steel"
+    ],
+    [
+        "Titanium",
+        "Titanium"
+    ],
+    [
+        "HardMetal",
+        "Hard Metal"
+    ],
+    [
+        "Neutronium",
+        "Neutronium"
+    ],
+    [
+        "ips",
+        "Items per second: {0}"
+    ],
+    [
+        "dps",
+        "Degrees per second: {0}"
+    ],
+    [
+        "power_limit",
+        "Power limit: {0}W"
+    ],
+    [
+        "power_output",
+        "Power output: {0}W"
+    ],
+    [
+        "power_input",
+        "Power input: {0}W"
+    ],
+    [
+        "container",
+        "Capacity: {0} L"
+    ],
+    [
+        "battery",
+        "Capacity: {0} J"
+    ],
+    [
+        "chest",
+        "Capacity: {0} stacks"
+    ],
+    [
+        "burnable",
+        "Burnable<img id=\"Heat2\"></>\nTotal heat: {0}J"
+    ],
+    [
+        "speedbonus",
+        "Speed bonus: x{0}"
+    ],
+    [
+        "electric_drain",
+        "Electricity drain: {0}W"
+    ],
+    [
+        "heat_drain",
+        "Heat drain: {0}W"
+    ],
+    [
+        "kinetic_drain",
+        "Kinetic drain: {0}W"
+    ],
+    [
+        "computations",
+        "Computations per second: {0}"
+    ],
+    [
+        "calculations",
+        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
+    ],
+    [
+        "WorldGeneratorRivers",
+        "Rivers and isles"
+    ],
+    [
+        "WorldGeneratorBiome",
+        "Rocky islands"
+    ],
+    [
+        "FlatWorldGenerator",
+        "Concrete world"
+    ],
+    [
+        "WorldGeneratorPlains",
+        "Plains and coast"
+    ],
+    [
+        "machines_label_format",
+        "{0} {1}"
+    ],
+    [
+        "Splitter",
+        "Can divite item flow into parts."
+    ],
+    [
+        "Sorter",
+        "Allowing to set white filter."
+    ],
+    [
+        "furnace_desc",
+        "Burning speed: x{0}"
+    ],
+    [
+        "furnace_desc2",
+        "Heat output: x{0}"
+    ],
+    [
+        "furnace_desc3",
+        "Kinetic output: x{0}"
+    ],
+    [
+        "DataInput",
+        "Read data"
+    ],
+    [
+        "DataOutput",
+        "Write data"
+    ],
+    [
+        "DataConductor",
+        "Conducts data"
+    ]
+]
