@@ -1,302 +1,302 @@
 [
     [
         "Chair",
-        "Wooden Chair"
+        "나무 의자"
     ],
     [
         "Table",
-        "Wooden Table"
+        "나무 탁자"
     ],
     [
         "Rack",
-        "Wooden Rack"
+        "나무 선반"
     ],
     [
         "Bed",
-        "Wooden Bed"
+        "나무 침대"
     ],
     [
         "Ladder",
-        "Wooden Ladder"
+        "나무 사다리"
     ],
     [
         "Door",
-        "Wooden Door"
+        "나무 문"
     ],
     [
         "Fence",
-        "Fence"
+        "난간"
     ],
     [
         "Window",
-        "Wooden Window"
+        "나무 창문"
     ],
     [
         "CeramicRoof",
-        "Ceramic Roof"
+        "세라믹 지붕"
     ],
     [
         "Stairs",
-        "Stairs"
+        "돌 계단"
     ],
     [
         "WoodenStairs",
-        "Wooden Stairs"
+        "나무 계단"
     ],
     [
         "CopperChair",
-        "Copper Chair"
+        "구리 의자"
     ],
     [
         "FireCup",
-        "Fire Cup"
+        "Fire 컵"
     ],
     [
         "PlasticWindow",
-        "Plastic Window"
+        "플라스틱 창문"
     ],
     [
         "Firefly",
-        "Firefly"
+        "반딧불이"
     ],
     [
         "Flies",
-        "Flies"
+        "파리"
     ],
     [
         "Birds",
-        "Birds"
+        "새"
     ],
     [
         "DesertSound",
-        "Desert Sound"
+        "사막 소리"
     ],
     [
         "SwampSound",
-        "Swamp Sound"
+        "늪지 소리"
     ],
     [
         "Butterfly",
-        "Butterfly"
+        "나비"
     ],
     [
         "Leafes",
-        "Leafes"
+        "잎"
     ],
     [
         "Bugs",
-        "Bugs"
+        "벌레"
     ],
     [
         "WoodenPlanks",
-        "Wooden Planks"
+        "나무 널빤지"
     ],
     [
         "AdminBlocks",
-        "Admin Blocks"
+        "관리 블록"
     ],
     [
         "StoneTiles",
-        "Stone Tiles"
+        "돌 타일"
     ],
     [
         "RedTiles",
-        "Red Tiles"
+        "빨간 타일"
     ],
     [
         "DarkTiles",
-        "Dark Tiles"
+        "어두운 타일"
     ],
     [
         "Terracotta",
-        "Terracotta"
+        "테라코타"
     ],
     [
         "TerracottaTiles",
-        "Terracotta Tiles"
+        "테라코타 타일"
     ],
     [
         "Bricks",
-        "Bricks"
+        "벽돌"
     ],
     [
         "RedBricks",
-        "Red Bricks"
+        "빨간 벽돌"
     ],
     [
         "DarkBricks",
-        "Dark Bricks"
+        "어두운 벽돌"
     ],
     [
         "TerracottaBricks",
-        "Terracotta Bricks"
+        "테라코타 벽돌"
     ],
     [
         "Concrete",
-        "Concrete"
+        "콘크리트"
     ],
     [
         "ConcreteBricks",
-        "Concrete Bricks"
+        "콘크리트 벽돌"
     ],
     [
         "ConcreteTiles",
-        "Concrete Tiles"
+        "콘크리트 타일"
     ],
     [
         "ConcreteSmallTiles",
-        "Concrete Small Tiles"
+        "콘크리트 소형 타일"
     ],
     [
         "ReinforcedConcrete",
-        "Reinforced Concrete"
+        "강화 콘크리트"
     ],
     [
         "ReinforcedConcreteTiles",
-        "Reinforced Concrete Tiles"
+        "강화 콘크리트 타일"
     ],
     [
         "ReinforcedConcreteSmallTiles",
-        "Reinforced Concrete Small Tiles"
+        "강화 콘크리트 소형 타일"
     ],
     [
         "ReinforcedConcreteBricks",
-        "Reinforced Concrete Bricks"
+        "강화 콘크리트 벽돌"
     ],
     [
         "DangerBlock",
-        "Danger Block"
+        "위험 블록"
     ],
     [
         "RustyCopperCasing",
-        "Rusty Copper Casing"
+        "녹슨 구리 포장"
     ],
     [
         "RustyIronCasing",
-        "Rusty Iron Casing"
+        "녹슨 철 포장"
     ],
     [
         "Column",
-        "Column"
+        "기둥"
     ],
     [
         "FluetedColumn",
-        "Flueted Column"
+        "평평한 기둥"
     ],
     [
         "Torch",
-        "Torch"
+        "토치"
     ],
     [
         "Flashlight",
-        "Flashlight"
+        "손전등"
     ],
     [
         "NightVision",
-        "Night Vision"
+        "야시경"
     ],
     [
         "AdvancedNightVision",
-        "Advanced Night Vision"
+        "고급 야시경"
     ],
     [
         "Steampack",
-        "Steampack"
+        "스팀팩"
     ],
     [
         "Jetpack",
-        "Jetpack"
+        "제트팩"
     ],
     [
         "AdvancedJetpack",
-        "Advanced Jetpack"
+        "고급 제트팩"
     ],
     [
         "AntigravityUnit",
-        "Antigravity Unit"
+        "반중력 단위"
     ],
     [
         "Scanner",
-        "Scanner"
+        "스캐너"
     ],
     [
         "SteelFence",
-        "Steel Fence"
+        "강철 난간"
     ],
     [
         "StainlessSteelFence",
-        "Stainless Steel Fence"
+        "스테인리스 강 난간"
     ],
     [
         "BasicPlatform",
-        "Basic Platform"
+        "기본 플랫폼"
     ],
     [
         "PlasticBlock",
-        "Plastic Block"
+        "플라스틱 블록"
     ],
     [
         "GlassBlock",
-        "Glass Block"
+        "유리 블록"
     ],
     [
         "PaintWhite",
-        "Paint White"
+        "흰색 페인트"
     ],
     [
         "PaintGray",
-        "Paint Gray"
+        "회색 페인트"
     ],
     [
         "PaintBlack",
-        "Paint Black"
+        "검정 페인트"
     ],
     [
         "PaintGreen",
-        "Paint Green"
+        "초록 페인트"
     ],
     [
         "PaintRed",
-        "Paint Red"
+        "빨강 페인트"
     ],
     [
         "PaintBlue",
-        "Paint Blue"
+        "파랑 페인트"
     ],
     [
         "PaintCopper",
-        "Paint Copper"
+        "구리 페인트"
     ],
     [
         "PaintSteel",
-        "Paint Steel"
+        "강철 페인트"
     ],
     [
         "PaintStainlessSteel",
-        "Paint Stainless Steel"
+        "스테인리스 강 페인트"
     ],
     [
         "PaintTitanium",
-        "Paint Titanium"
+        "티타늄 페인트"
     ],
     [
         "PaintHardMetal",
-        "Paint Hard Metal"
+        "하드 메탈 페인트"
     ],
     [
         "PaintGold",
-        "Paint Gold"
+        "금 페인트"
     ],
     [
         "PaintYellow",
-        "Paint Yellow"
+        "노랑 페인트"
     ],
     [
         "PaintMagenta",
-        "Paint Magenta"
+        "자홍색 페인트"
     ],
     [
         "PaintCyan",
-        "Paint Cyan"
+        "청록색 페인트"
     ]
 ]
