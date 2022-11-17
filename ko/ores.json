@@ -1,74 +1,74 @@
 [
     [
         "CopperOre",
-        "Copper Ore"
+        "구리 광석"
     ],
     [
         "CopperImpureOreGravel",
-        "Copper Impure Ore Gravel"
+        "저순도 구리 광석 돌멩이"
     ],
     [
         "CopperOreGravel",
-        "Copper Ore Gravel"
+        "구리 광석 돌멩이"
     ],
     [
         "CopperOreDust",
-        "Copper Impure Ore Dust"
+        "저순도 구리 광석 부스러기"
     ],
     [
         "IronOre",
-        "Iron Ore"
+        "철 광석"
     ],
     [
         "IronImpureOreGravel",
-        "Iron Impure Ore Gravel"
+        "저순도 철 광석 돌멩이"
     ],
     [
         "IronOreGravel",
-        "Iron Ore Gravel"
+        "철 광석 돌멩이"
     ],
     [
         "IronOreDust",
-        "Iron Impure Ore Dust"
+        "저순도 철 광석 부스러기"
     ],
     [
         "UraniumOre",
-        "Uranium Ore"
+        "우라늄 광석"
     ],
     [
         "UraniumImpureOreGravel",
-        "Uranium Impure Ore Gravel"
+        "저순도 우라늄 광석 돌멩이"
     ],
     [
         "UraniumOreGravel",
-        "Uranium Ore Gravel"
+        "우라늄 광석 돌멩이"
     ],
     [
         "UraniumOreDust",
-        "Uranium Impure Ore Dust"
+        "저순도 우라늄 광석 부스러기"
     ],
     [
         "AluminiumOre",
-        "Aluminium Ore"
+        "알루미늄 광석"
     ],
     [
         "AluminiumImpureOreGravel",
-        "Aluminium Impure Ore Gravel"
+        "저순도 알루미늄 광석 돌멩이"
     ],
     [
         "AluminiumOreGravel",
-        "Aluminium Ore Gravel"
+        "알루미늄 광석 돌멩이"
     ],
     [
         "AluminiumOreDust",
-        "Aluminium Impure Ore Dust"
+        "저순도 알루미늄 광석 부스러기"
     ],
     [
         "CoalOre",
-        "Coal Ore"
+        "석탄"
     ],
     [
         "ClayOre",
-        "Clay Ore"
+        "점토"
     ]
 ]
