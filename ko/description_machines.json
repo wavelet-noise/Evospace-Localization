@@ -1,11 +1,11 @@
 [
     [
         "Macerator",
-        "Grinds gravel for further processing. Turns plates and parts to dust."
+        "추가 가공을 위해 자갈을 연마합니다. 판 또는 부품을 부스러기로 바꿉니다."
     ],
     [
         "CuttingMachine",
-        "Produces parts, boards and base circuit boards."
+        "부품, 보드 및 기초 회로 기판을 생산합니다."
     ],
     [
         "Fermenter",
@@ -17,7 +17,7 @@
     ],
     [
         "Separator",
-        "Separates the dust into components."
+        "부스러기를 각 요소로 분리합니다."
     ],
     [
         "Beam",
@@ -29,11 +29,11 @@
     ],
     [
         "AutomaticHammer",
-        "Produces plates from ingots. Grinds ore to gravel."
+        "주괴로 판을 생산합니다. 광석을 자갈로 파쇄할 수도 있습니다."
     ],
     [
         "Boiler",
-        "Turns heat and water into steam."
+        "열을 사용하여 물을 증기로 바꿉니다."
     ],
     [
         "Pipe",
@@ -77,7 +77,7 @@
     ],
     [
         "OreWasher",
-        "Extracts additional resources from ore."
+        "광석에서 추가 자원을 추출합니다."
     ],
     [
         "Conveyor",
@@ -97,59 +97,59 @@
     ],
     [
         "StirlingEngine",
-        "Converts thermal energy into kinetic energy."
+        "열 에너지를 운동 에너지로 변환합니다."
     ],
     [
         "CombustionEngine",
-        "Burns liquid fuel to generate kinetic energy."
+        "액체 연료를 연소하여 운동 에너지를 생성합니다."
     ],
     [
         "PyrolysisUnit",
-        "Breaks down a fuel into smaller components."
+        "연료를 더 작은 구성 요소로 분해합니다."
     ],
     [
         "Generator",
-        "Converts kinetic energy into electricity."
+        "운동 에너지를 전기로 변환합니다."
     ],
     [
         "CompactGenerator",
-        "Converts kinetic energy into electricity."
+        "운동 에너지를 전기로 변환합니다."
     ],
     [
         "ElectricEngine",
-        "Converts electricity into kinetic energy."
+        "전기를 운동 에너지로 변환합니다."
     ],
     [
         "RobotArm",
-        "Moves items between devices and conveyors."
+        "기계와 컨베이어 사이에서 아이템을 이동합니다."
     ],
     [
         "FilteringRobotArm",
-        "Moves items between devices and conveyors."
+        "장치와 컨베이어 사이에서 항목을 이동합니다."
     ],
     [
         "Pump",
-        "Moves liquids between devices and pipes. Can be placed underwater to collect water."
+        "장치와 파이프 사이에서 액체를 이동합니다. 물을 모으기 위해 물 속에 넣을 수 있습니다."
     ],
     [
         "FilteringPump",
-        "Moves liquids between devices and pipes."
+        "장치와 파이프 사이에서 액체를 이동합니다."
     ],
     [
         "Smelter",
-        "A primitive stone foundry. It is used for smelting copper, glass and gold."
+        "원시적인 석재 주조기입니다. 그것은 구리, 유리, 금을 제련하는 데 사용됩니다."
     ],
     [
         "SteamTurbine",
-        "Converts steam energy into kinetic energy."
+        "증기 에너지를 운동 에너지로 변환합니다."
     ],
     [
         "GasTurbine",
-        "Produces kinetic energy by burning fuel."
+        "연료를 연소하여 운동 에너지를 생성합니다."
     ],
     [
         "ArcSmelter",
-        "Advanced smelter. Suitable for stainless steel smelting."
+        "첨단 제련소. 스테인리스 제련에 적합합니다."
     ],
     [
         "ChemicalBath",
@@ -157,43 +157,43 @@
     ],
     [
         "Furnace",
-        "Burns solid fuel to generate heat."
+        "고체 연료를 연소시켜 열을 발생시킵니다."
     ],
     [
         "Oven",
-        "Device for the production of charcoal, coke and clay firing."
+        "숯, 코크스 및 점토 소성 장치"
     ],
     [
         "BlastFurnace",
-        "Furnace for smelting steel."
+        "강철을 제련하기 위한 용해로."
     ],
     [
         "FluidFurnace",
-        "Burns liquid fuel to generate heat."
+        "액체 연료를 연소시켜 열을 발생시킵니다."
     ],
     [
         "ElectricFurnace",
-        "Uses electricity to generate heat."
+        "열을 발생시키기 위해 전기를 사용합니다."
     ],
     [
         "BatteryBox",
-        "Big and efficient energy storage."
+        "크고 효율적인 에너지 저장시설."
     ],
     [
         "DrillingRig",
-        "Automated device for mining ore and stone. Deposits are marked on the global map. Use the scanner to search for new deposits."
+        "광석과 석재를 채굴하기 위한 자동화된 장치. 광맥은 세계 지도에 표시되어 있습니다. 스캐너를 사용하여 새 광맥을 탐사합니다."
     ],
     [
         "Assembler",
-        "A device for assembling small items and microchips."
+        "소형 물품 및 마이크로칩을 조립하기 위한 장치"
     ],
     [
         "FluidDump",
-        "Destroys the liquid."
+        "유체를 버립니다."
     ],
     [
         "Lamp",
-        "Light source. Configuratible."
+        "광원. 설정 가능."
     ],
     [
         "AdminElectricGenerator",
@@ -225,59 +225,59 @@
     ],
     [
         "Mixer",
-        "Device for producing mixes and blocks of concrete."
+        "혼합물 및 콘크리트 블록을 제조하기 위한 장치."
     ],
     [
         "AutomaticFarm",
-        "Automated device for growing plants. Consume water."
+        "식물을 재배하기 위한 자동화된 장치. 물을 소비합니다."
     ],
     [
         "AtmosphericCondenser",
-        "Collects liquids and gases from the atmosphere."
+        "대기에서 액체와 가스를 수집합니다."
     ],
     [
         "Terminal",
-        "Displays the graphical interface of the device in front of it."
+        "장치 앞에 있는 그래픽 인터페이스를 표시합니다."
     ],
     [
         "BigTerminal",
-        "Displays the graphical interface of the device in front of it."
+        "장치 앞에 있는 그래픽 인터페이스를 표시합니다."
     ],
     [
         "HugeTerminal",
-        "Displays the graphical interface of the device in front of it."
+        "장치 앞에 있는 그래픽 인터페이스를 표시합니다."
     ],
     [
         "FlatTerminal",
-        "Displays the graphical interface of the device in front of it."
+        "장치 앞에 있는 그래픽 인터페이스를 표시합니다."
     ],
     [
         "BigFlatTerminal",
-        "Displays the graphical interface of the device in front of it."
+        "장치 앞에 있는 그래픽 인터페이스를 표시합니다."
     ],
     [
         "HugeFlatTerminal",
-        "Displays the graphical interface of the device in front of it."
+        "장치 앞에 있는 그래픽 인터페이스를 표시합니다."
     ],
     [
         "Computer",
-        "Creates research points."
+        "연구 포인트를 생산합니다."
     ],
     [
         "QuantumComputer",
-        "Creates quantum research points."
+        "양자 연구 포인트를 생산합니다."
     ],
     [
         "IndustrialSeparator",
-        "Separates the dust into components."
+        "부스러기를 각 요소로 분리합니다."
     ],
     [
         "Radiator",
-        "Destroys heat energy."
+        "열 에너지를 파괴합니다."
     ],
     [
         "Diode",
-        "Conducts electricity only in one direction."
+        "한 방향으로만 전기를 전달합니다."
     ],
     [
         "FissionReactor",
@@ -289,7 +289,7 @@
     ],
     [
         "Pumpjack",
-        "Automated device for the extraction of liquids. Deposits are marked on the global map. Use the scanner to search for new deposits."
+        "액체 추출을 위한 자동화된 장치. 매장지는 세계 지도에 표시되어 있습니다. 스캐너를 사용하여 새 매장지를 탐사합니다."
     ],
     [
         "HeatExchanger",
@@ -297,11 +297,11 @@
     ],
     [
         "IndustrialSmelter",
-        "Advanced smelter. It is used for smelting titanium and graphite."
+        "첨단 제련소. 티타늄과 흑연을 제련하는 데 사용됩니다."
     ],
     [
         "InductionCoil",
-        "It uses electricity to generate heat."
+        "열을 발생시키기 위해 전기를 사용한다."
     ],
     [
         "Scaffold",
@@ -321,15 +321,15 @@
     ],
     [
         "IndustrialElectricEngine",
-        "Very powerfull electric engine."
+        "매우 강력한 전기 엔진입니다."
     ],
     [
         "IndustrialSteamTurbine",
-        "Very powerful hybrid of steam turbine and generator."
+        "증기 터빈과 발전기의 매우 강력한 하이브리드입니다."
     ],
     [
         "Riteg",
-        "Infinite radioisotope heat source."
+        "무한 방사성 동위원소 열원."
     ],
     [
         "Sifter",
@@ -365,11 +365,11 @@
     ],
     [
         "FusionReactor",
-        "Neutronium source."
+        "뉴트로늄 공급원."
     ],
     [
         "IndustrialBoiler",
-        "Very powerful boiler with big internal buffer."
+        "내부 완충재가 큰 매우 강력한 보일러입니다."
     ],
     [
         "CreativeController",
