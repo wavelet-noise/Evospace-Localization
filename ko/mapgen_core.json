@@ -1,86 +1,86 @@
 [
     [
         "SandSurface",
-        "Sand"
+        "모래"
     ],
     [
         "SandstoneSurface",
-        "Sandstone"
+        "사암"
     ],
     [
         "StoneSurface",
-        "Stone"
+        "돌"
     ],
     [
         "DesertSandSurface",
-        "Desert Sand"
+        "사막 모래"
     ],
     [
         "GrassSurface",
-        "Grass"
+        "잔디"
     ],
     [
         "BogFogSurface",
-        "Bog Fog"
+        "습지 안개"
     ],
     [
         "LavaSmokeSurface",
-        "Lava Smoke"
+        "용암 연기"
     ],
     [
         "LavaSurface",
-        "Lava"
+        "용암"
     ],
     [
         "BasaltSurface",
-        "Basalt"
+        "현무암"
     ],
     [
         "BogSurface",
-        "Bog"
+        "습지"
     ],
     [
         "PineForestSurface",
-        "Pine Forest"
+        "소나무 숲"
     ],
     [
         "CoralBubbleEmitterSurface",
-        "Coral Bubble Emitter"
+        "산호 물방울 방출"
     ],
     [
         "DirtSurface",
-        "Dirt"
+        "흙"
     ],
     [
         "GravelSurface",
-        "Gravel"
+        "자갈"
     ],
     [
         "DryGrassSurface",
-        "Dry Grass"
+        "마른 잔디"
     ],
     [
         "LimestoneSurface",
-        "Limestone"
+        "석회석"
     ],
     [
         "RedStoneSurface",
-        "Red Stone"
+        "빨간 돌"
     ],
     [
         "DarkStoneSurface",
-        "Dark Stone"
+        "어두운 돌"
     ],
     [
         "SnowSurface",
-        "Snow"
+        "눈"
     ],
     [
         "GraniteSurface",
-        "Granite"
+        "화강암"
     ],
     [
         "PeatSurface",
-        "Peat"
+        "토탄"
     ]
 ]
