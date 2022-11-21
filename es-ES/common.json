@@ -274,5 +274,17 @@
     [
         "furnace_desc3",
         "Salida cinética: x{0}"
+    ],
+    [
+        "DataInput",
+        "Leer datos"
+    ],
+    [
+        "DataOutput",
+        "Escribir datos"
+    ],
+    [
+        "DataConductor",
+        "Conducts data"
     ]
 ]

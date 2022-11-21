@@ -1,0 +1,402 @@
+[
+    [
+        "Macerator",
+        "분쇄기"
+    ],
+    [
+        "CuttingMachine",
+        "절단기"
+    ],
+    [
+        "Fermenter",
+        "발효조"
+    ],
+    [
+        "ChemReactor",
+        "화학 반응기"
+    ],
+    [
+        "Separator",
+        "분리기"
+    ],
+    [
+        "Beam",
+        "빔"
+    ],
+    [
+        "Corner",
+        "코너"
+    ],
+    [
+        "AutomaticHammer",
+        "자동 망치"
+    ],
+    [
+        "Boiler",
+        "보일러"
+    ],
+    [
+        "Pipe",
+        "배관"
+    ],
+    [
+        "HeatPipe",
+        "열 배관"
+    ],
+    [
+        "Flywheel",
+        "플라이휠"
+    ],
+    [
+        "Scaffold",
+        "비계"
+    ],
+    [
+        "Sign",
+        "표지판"
+    ],
+    [
+        "AdvancedSign",
+        "고급 표지판"
+    ],
+    [
+        "Connector",
+        "케이블"
+    ],
+    [
+        "Chest",
+        "상자"
+    ],
+    [
+        "ItemRack",
+        "아이템 선반"
+    ],
+    [
+        "Vent",
+        "밸브"
+    ],
+    [
+        "ElectricalSwitch",
+        "스위치"
+    ],
+    [
+        "OreWasher",
+        "광석 세척기"
+    ],
+    [
+        "Conveyor",
+        "컨베이어"
+    ],
+    [
+        "Splitter",
+        "분배기"
+    ],
+    [
+        "Sorter",
+        "분류기"
+    ],
+    [
+        "Container",
+        "컨테이너"
+    ],
+    [
+        "Press",
+        "프레스"
+    ],
+    [
+        "StirlingEngine",
+        "스털링 엔진"
+    ],
+    [
+        "CombustionEngine",
+        "연소 엔진"
+    ],
+    [
+        "PyrolysisUnit",
+        "열분해 장치"
+    ],
+    [
+        "Generator",
+        "발전기"
+    ],
+    [
+        "CompactGenerator",
+        "소형 발전기"
+    ],
+    [
+        "ElectricEngine",
+        "전력 엔진"
+    ],
+    [
+        "IndustrialElectricEngine",
+        "공업용 전력 엔진"
+    ],
+    [
+        "RobotArm",
+        "로봇 팔"
+    ],
+    [
+        "FilteringRobotArm",
+        "선별형 로봇 팔"
+    ],
+    [
+        "Pump",
+        "펌프"
+    ],
+    [
+        "FilteringPump",
+        "선별형 펌프"
+    ],
+    [
+        "Smelter",
+        "제련기"
+    ],
+    [
+        "SteamTurbine",
+        "증기 터빈"
+    ],
+    [
+        "IndustrialSteamTurbine",
+        "공업용 증기 터빈"
+    ],
+    [
+        "GasTurbine",
+        "가스 터빈"
+    ],
+    [
+        "Riteg",
+        "Riteg"
+    ],
+    [
+        "ArcSmelter",
+        "아크 제련기"
+    ],
+    [
+        "ChemicalBath",
+        "화학조"
+    ],
+    [
+        "Sifter",
+        "작은 체"
+    ],
+    [
+        "FilteringUnit",
+        "여과 장치"
+    ],
+    [
+        "Furnace",
+        "소형 용광로"
+    ],
+    [
+        "Oven",
+        "오븐"
+    ],
+    [
+        "BlastFurnace",
+        "용광로"
+    ],
+    [
+        "FluidFurnace",
+        "유체 용광로"
+    ],
+    [
+        "ElectricFurnace",
+        "전력 용광로"
+    ],
+    [
+        "BatteryBox",
+        "배터리 박스"
+    ],
+    [
+        "SmallBattery",
+        "소형 배터리"
+    ],
+    [
+        "DrillingRig",
+        "시추기"
+    ],
+    [
+        "Assembler",
+        "조립기"
+    ],
+    [
+        "Constructor",
+        "제작기"
+    ],
+    [
+        "Deconstructor",
+        "해체기"
+    ],
+    [
+        "FluidDump",
+        "유체 폐기장"
+    ],
+    [
+        "GasDump",
+        "가스 폐기 장치"
+    ],
+    [
+        "SolidDump",
+        "고체 폐기 시설"
+    ],
+    [
+        "Lamp",
+        "전등"
+    ],
+    [
+        "AdminElectricGenerator",
+        "Creative Electric Generator"
+    ],
+    [
+        "AdminItemGenerator",
+        "Creative Item Generator"
+    ],
+    [
+        "AdminKineticGenerator",
+        "Creative Kinetic Generator"
+    ],
+    [
+        "AdminHeatGenerator",
+        "Creative Heat Generator"
+    ],
+    [
+        "AdminFluidGenerator",
+        "Creative Fluid Generator"
+    ],
+    [
+        "AdminExterminator",
+        "Creative Exterminator"
+    ],
+    [
+        "Electrolyzer",
+        "전해조"
+    ],
+    [
+        "Mixer",
+        "혼합기"
+    ],
+    [
+        "Freezer",
+        "냉동고"
+    ],
+    [
+        "AutomaticFarm",
+        "자동 농장"
+    ],
+    [
+        "AtmosphericCondenser",
+        "대기 응축기"
+    ],
+    [
+        "Terminal",
+        "터미널"
+    ],
+    [
+        "BigTerminal",
+        "대형 터미널"
+    ],
+    [
+        "HugeTerminal",
+        "초대형 터미널"
+    ],
+    [
+        "FlatTerminal",
+        "평면 터미널"
+    ],
+    [
+        "BigFlatTerminal",
+        "대형 평면 터미널"
+    ],
+    [
+        "HugeFlatTerminal",
+        "초대형 평면 터미널"
+    ],
+    [
+        "Computer",
+        "컴퓨터"
+    ],
+    [
+        "QuantumComputer",
+        "양자 컴퓨터"
+    ],
+    [
+        "IndustrialSeparator",
+        "공업용 분리기"
+    ],
+    [
+        "Radiator",
+        "라디에이터"
+    ],
+    [
+        "Diode",
+        "다이오드"
+    ],
+    [
+        "FissionReactor",
+        "핵분열로"
+    ],
+    [
+        "FusionReactor",
+        "핵융합로"
+    ],
+    [
+        "IndustrialBoiler",
+        "공업용 보일러"
+    ],
+    [
+        "ResearchReactor",
+        "연구용 원자로"
+    ],
+    [
+        "SolarPanel",
+        "태양광 패널"
+    ],
+    [
+        "Pumpjack",
+        "펌프잭"
+    ],
+    [
+        "IndustrialSmelter",
+        "공업용 제련기"
+    ],
+    [
+        "InductionCoil",
+        "유도 코일"
+    ],
+    [
+        "CreativeController",
+        "크리에이티브 컨트롤러"
+    ],
+    [
+        "Portal",
+        "포탈"
+    ],
+    [
+        "LogicCircuit",
+        "논리 회로"
+    ],
+    [
+        "LogicInterface",
+        "논리 인터페이스"
+    ],
+    [
+        "LogicController",
+        "논리 컨트롤러"
+    ],
+    [
+        "LogicDisplay",
+        "논리 디스플레이"
+    ],
+    [
+        "LogicWire",
+        "논리 전선"
+    ],
+    [
+        "Button",
+        "버튼"
+    ],
+    [
+        "ToggleButton",
+        "토글 버튼"
+    ]
+]

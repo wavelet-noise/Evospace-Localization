@@ -25,11 +25,11 @@
     ],
     [
         "Fence",
-        "Cerca de Madeira"
+        "Cerca"
     ],
     [
         "Window",
-        "Janela em Moldura de Madeira"
+        "Janela"
     ],
     [
         "CeramicRoof",
@@ -37,15 +37,15 @@
     ],
     [
         "Stairs",
-        "Escadaria de Rocha"
+        "Escadaria"
     ],
     [
         "WoodenStairs",
-        "Escadaria de Madeira"
+        "Escadaria"
     ],
     [
         "CopperChair",
-        "Cadeira de Cobre"
+        "Cadeira"
     ],
     [
         "FireCup",
@@ -53,7 +53,7 @@
     ],
     [
         "PlasticWindow",
-        "Janela em Moldura de Plástico"
+        "Janela"
     ],
     [
         "Firefly",
@@ -233,54 +233,70 @@
     ],
     [
         "PlasticBlock",
-        "Plastic Block"
+        "Bloco Plástico"
     ],
     [
         "GlassBlock",
-        "Glass Block"
+        "Bloco de Vidro"
     ],
     [
         "PaintWhite",
-        "Paint White"
+        "Tintura Branca"
     ],
     [
         "PaintGray",
-        "Paint Gray"
+        "Tintura  Cinza"
     ],
     [
         "PaintBlack",
-        "Paint Black"
+        "Tintura Preta"
     ],
     [
         "PaintGreen",
-        "Paint Green"
+        "Tintura Verde"
     ],
     [
         "PaintRed",
-        "Paint Red"
+        "Tintura Vermelha"
     ],
     [
         "PaintBlue",
-        "Paint Blue"
+        "Tintura Azul"
     ],
     [
         "PaintCopper",
-        "Paint Copper"
+        "Tintura Cor de Cobre"
     ],
     [
         "PaintSteel",
-        "Paint Steel"
+        "Tintura Cor de Aço"
     ],
     [
         "PaintStainlessSteel",
-        "Paint Stainless Steel"
+        "Tintura Cor de Aço Inox"
     ],
     [
         "PaintTitanium",
-        "Paint Titanium"
+        "Tintura Cor de Titânio"
     ],
     [
         "PaintHardMetal",
-        "Paint Hard Metal"
+        "Tintura Cor de Liga Metálica"
+    ],
+    [
+        "PaintGold",
+        "Paint Gold"
+    ],
+    [
+        "PaintYellow",
+        "Paint Yellow"
+    ],
+    [
+        "PaintMagenta",
+        "Paint Magenta"
+    ],
+    [
+        "PaintCyan",
+        "Paint Cyan"
     ]
 ]

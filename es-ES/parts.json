@@ -814,5 +814,25 @@
     [
         "PaintTool",
         "Herramienta de pintura"
+    ],
+    [
+        "Capacity",
+        "Capacidad"
+    ],
+    [
+        "InputError",
+        "Error de entrada"
+    ],
+    [
+        "OutputError",
+        "Error de salida"
+    ],
+    [
+        "Progress",
+        "Progreso"
+    ],
+    [
+        "SwitchedOn",
+        "Conectado"
     ]
 ]

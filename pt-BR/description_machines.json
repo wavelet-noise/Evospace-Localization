@@ -45,7 +45,7 @@
     ],
     [
         "Flywheel",
-        "Armazena e transmite Energia Mecânica\nMuito útil! use mais!"
+        "Armazena e transmite Energia Mecânica\nMuito útil!"
     ],
     [
         "Scaffold",
@@ -69,23 +69,23 @@
     ],
     [
         "ItemRack",
-        "Armazenas quantias elevadas de um item \nSegure meus itens!"
+        "Armazenas quantias elevadas de um item"
     ],
     [
         "Vent",
-        "Abre/Fecha o fluxo de Fluidos/Gases\nUm registro basicamente\nFazia jogos no passado."
+        "Abre/Fecha o fluxo de Fluidos/Gases\nUm registro basicamente."
     ],
     [
         "ElectricalSwitch",
-        "Desliga e liga a transmissão de Eletricidade\nSe ligou Apague!\nUtil para evitar consumo Passivo."
+        "Desliga e liga a transmissão de Eletricidade\nUtil para evitar consumo Passivo."
     ],
     [
         "OreWasher",
-        "Lava Cascalho Bruto para obter recursos raros\nProduz Dejetos que precisa ser lidado\nRequer água!"
+        "Lava Cascalho Bruto para obter recursos raros\nProduz Dejetos que precisa ser removido\nRequer água!"
     ],
     [
         "Conveyor",
-        "Transporta Itens\nLeva itens para longe"
+        "Transporta Itens"
     ],
     [
         "Splitter",
@@ -101,7 +101,7 @@
     ],
     [
         "Press",
-        "Comprime Materiais\nSente a Pressão!"
+        "Comprime Materiais"
     ],
     [
         "StirlingEngine",
@@ -117,7 +117,7 @@
     ],
     [
         "Generator",
-        "Transforma Energia Mecânica em Eletricidade\nA União faz a Força!!!"
+        "Transforma Energia Mecânica em Eletricidade"
     ],
     [
         "CompactGenerator",
@@ -153,7 +153,7 @@
     ],
     [
         "GasTurbine",
-        "Transforma Gases em Energia Mecânica\nNão produz cheiros...\nAinda..."
+        "Transforma Gases em Energia Mecânica"
     ],
     [
         "ArcSmelter",
@@ -161,7 +161,7 @@
     ],
     [
         "ChemicalBath",
-        "Banha materiais em agentes químicos \nGera/modifica materiais\nNão é um Coxo!!!"
+        "Banha materiais em agentes químicos \nGera/modifica materiais"
     ],
     [
         "Sifter",
@@ -177,7 +177,7 @@
     ],
     [
         "Oven",
-        "Cozinha madeira em carvão\nCarvão em Coque\nArgila em Tijolos\nProduz Creosoto que deve ser lidado"
+        "Cozinha madeira em carvão\nCarvão em Coque\nArgila em Tijolos\nProduz Creosoto que deve ser removido"
     ],
     [
         "BlastFurnace",
@@ -249,7 +249,7 @@
     ],
     [
         "AdminFluidGenerator",
-        "Fluidos/Gases sem Fim\nCiclo sem fim !"
+        "Fluidos/Gases sem Fim"
     ],
     [
         "AdminExterminator",
@@ -305,7 +305,7 @@
     ],
     [
         "QuantumComputer",
-        "O futuro chegou Velhote!\nAceita circuitos Complexos"
+        "Aceita circuitos Complexos"
     ],
     [
         "IndustrialSeparator",
@@ -370,5 +370,33 @@
     [
         "Portal",
         "Portal"
+    ],
+    [
+        "LogicCircuit",
+        ""
+    ],
+    [
+        "LogicInterface",
+        ""
+    ],
+    [
+        "LogicController",
+        ""
+    ],
+    [
+        "LogicDisplay",
+        ""
+    ],
+    [
+        "LogicWire",
+        ""
+    ],
+    [
+        "Button",
+        ""
+    ],
+    [
+        "ToggleButton",
+        ""
     ]
 ]

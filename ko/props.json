@@ -1,0 +1,118 @@
+[
+    [
+        "Cactus",
+        "선인장"
+    ],
+    [
+        "Dandaleon",
+        "민들레"
+    ],
+    [
+        "Fern",
+        "양치식물"
+    ],
+    [
+        "LongGrass",
+        "긴 잔디"
+    ],
+    [
+        "SeaPlant",
+        "바다 식물"
+    ],
+    [
+        "SeaGrass",
+        "해초"
+    ],
+    [
+        "TallGrass",
+        "키 큰 잔디"
+    ],
+    [
+        "Broadleaf",
+        "잡초"
+    ],
+    [
+        "Noleafes",
+        "마른 나무"
+    ],
+    [
+        "Shrub",
+        "관목"
+    ],
+    [
+        "Rock",
+        "바위"
+    ],
+    [
+        "Pine",
+        "소나무"
+    ],
+    [
+        "SnowyPine",
+        "백설 소나무"
+    ],
+    [
+        "Birch",
+        "자작나무"
+    ],
+    [
+        "Palm",
+        "종려과"
+    ],
+    [
+        "Rogoz",
+        "갈대"
+    ],
+    [
+        "Lily",
+        "백합"
+    ],
+    [
+        "LilyFlower",
+        "백합꽃"
+    ],
+    [
+        "Shroom",
+        "버섯"
+    ],
+    [
+        "YellowFlower",
+        "노란꽃"
+    ],
+    [
+        "RedFlower",
+        "빨간꽃"
+    ],
+    [
+        "WhiteFlower",
+        "하얀꽃"
+    ],
+    [
+        "BigBush",
+        "큰 수풀"
+    ],
+    [
+        "SmallRock",
+        "작은 바위"
+    ],
+    [
+        "Diptero",
+        "아욱목"
+    ],
+    [
+        "DryGrass",
+        "마른 잔디"
+    ],
+    [
+        "VolcanicRock",
+        "화산 바위"
+    ],
+    [
+        "SnowyRock",
+        "눈 바위"
+    ],
+    [
+        "SnowyGrass",
+        "눈 잔디"
+    ]
+]

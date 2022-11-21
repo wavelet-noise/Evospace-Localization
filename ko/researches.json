@@ -1,0 +1,198 @@
+[
+    [
+        "InventoryUpgrade",
+        "인벤토리 증가"
+    ],
+    [
+        "PlutoniumReaction",
+        "플루토늄 반응"
+    ],
+    [
+        "ThoriumReaction",
+        "토륨 반응"
+    ],
+    [
+        "Drying",
+        "건조"
+    ],
+    [
+        "PowerGeneration",
+        "발전"
+    ],
+    [
+        "Automatization",
+        "자동화"
+    ],
+    [
+        "AdditionalStorage",
+        "추가 저장소"
+    ],
+    [
+        "HeatTransferring",
+        "열 전달"
+    ],
+    [
+        "BasicMachines",
+        "기초 생산 기계"
+    ],
+    [
+        "Container",
+        "유체 저장"
+    ],
+    [
+        "FluidDumping",
+        "유체 버리기"
+    ],
+    [
+        "SingleTypeStorage",
+        "단일 유형 저장소"
+    ],
+    [
+        "DistributedComputing",
+        "분산 연산"
+    ],
+    [
+        "Electrolysis",
+        "전기 분해"
+    ],
+    [
+        "Sign",
+        "표지판"
+    ],
+    [
+        "Cutting",
+        "절단"
+    ],
+    [
+        "SteelProduction",
+        "강철 생산"
+    ],
+    [
+        "AutomaticMining",
+        "채굴 자동화"
+    ],
+    [
+        "FluidFurnace",
+        "유체 연료 용광로"
+    ],
+    [
+        "MetalConstructions",
+        "금속 구조물"
+    ],
+    [
+        "Scaffold",
+        "비계"
+    ],
+    [
+        "Lamp",
+        "전등"
+    ],
+    [
+        "Chemistry",
+        "화학"
+    ],
+    [
+        "MassivePowerGeneration",
+        "대규모 발전"
+    ],
+    [
+        "AdvancedSmelting",
+        "고급 제련"
+    ],
+    [
+        "IndustrialSmelting",
+        "공업 제련"
+    ],
+    [
+        "Fermentation",
+        "발효"
+    ],
+    [
+        "AdvancedSeparation",
+        "고급 분리"
+    ],
+    [
+        "NeutroniumProduction",
+        "뉴트로늄 생산"
+    ],
+    [
+        "AluminiumProduction",
+        "알루미늄 생산"
+    ],
+    [
+        "StainlessSteelProduction",
+        "스테인리스 강 생산"
+    ],
+    [
+        "TitaniumProduction",
+        "티타늄 생산"
+    ],
+    [
+        "HardMetalProduction",
+        "하드 메탈 생산"
+    ],
+    [
+        "PlantsScan",
+        "식물 탐색"
+    ],
+    [
+        "InitialScan",
+        "초기 탐색"
+    ],
+    [
+        "MineralsScan",
+        "자원 탐색"
+    ],
+    [
+        "Electricity",
+        "전력"
+    ],
+    [
+        "Smelting",
+        "제련"
+    ],
+    [
+        "Metalwork",
+        "금속 가공"
+    ],
+    [
+        "Steelwork",
+        "강철 가공"
+    ],
+    [
+        "Filtering",
+        "여과"
+    ],
+    [
+        "DecorativeWood",
+        "장식용 목재"
+    ],
+    [
+        "DecorativePlastic",
+        "장식용 플라스틱"
+    ],
+    [
+        "DecorativeStone",
+        "장식용 돌"
+    ],
+    [
+        "DecorativeConcrete",
+        "장식용 콘크리트"
+    ],
+    [
+        "DecorationClay",
+        "장식용 점토"
+    ],
+    [
+        "ReinforcedConcrete",
+        "장식용 강화 콘크리트"
+    ],
+    [
+        "AdvancedReflection",
+        "고급 반사"
+    ],
+    [
+        "ReactionThrottling",
+        "반응 조절"
+    ]
+]

@@ -257,22 +257,34 @@
     ],
     [
         "Splitter",
-        ""
+        "Divisora"
     ],
     [
         "Sorter",
-        ""
+        "Separadora"
     ],
     [
         "furnace_desc",
-        "Burning speed: x{0}"
+        "Velocidade de queima: x{0}"
     ],
     [
         "furnace_desc2",
-        "Heat output: x{0}"
+        "Calor Gerado: x{0}"
     ],
     [
         "furnace_desc3",
-        "Kinetic output: x{0}"
+        "Força Mecânica gerada: x{0}"
+    ],
+    [
+        "DataInput",
+        "Read data"
+    ],
+    [
+        "DataOutput",
+        "Write data"
+    ],
+    [
+        "DataConductor",
+        "Conducts data"
     ]
 ]

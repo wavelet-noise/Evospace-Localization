@@ -1,0 +1,290 @@
+[
+    [
+        "I",
+        "I"
+    ],
+    [
+        "II",
+        "II"
+    ],
+    [
+        "III",
+        "III"
+    ],
+    [
+        "IV",
+        "IV"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "VI",
+        "VI"
+    ],
+    [
+        "VII",
+        "VII"
+    ],
+    [
+        "VIII",
+        "VIII"
+    ],
+    [
+        "IX",
+        "IX"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "Organics",
+        "혼합된 유기물 덩어리"
+    ],
+    [
+        "BuildingBlock",
+        "건축 블록"
+    ],
+    [
+        "NuclearFuel",
+        "핵분열 원자로 연료"
+    ],
+    [
+        "Fluid",
+        "유체"
+    ],
+    [
+        "Gas",
+        "가스"
+    ],
+    [
+        "ByPipes",
+        "배관을 사용하여 수송이 가능합니다.\n펌프를 사용하여 기계에 급수 또는 배수가 가능합니다."
+    ],
+    [
+        "WorldObject",
+        "제작할 수 없습니다.\n자연적으로 세계에 있습니다."
+    ],
+    [
+        "Circuit",
+        "첨단 장치의 부품\n과학 포인트 생성을 위해 컴퓨터에 사용합니다."
+    ],
+    [
+        "ItemInput",
+        "<img id=\"ItemInput\"></> 아이템 입력부 있음"
+    ],
+    [
+        "ItemOutput",
+        "<img id=\"ItemOutput\"></> 아이템 출력부 있음"
+    ],
+    [
+        "FluidInput",
+        "<img id=\"FluidInput\"></> 유체 입력부 있음"
+    ],
+    [
+        "FluidOutput",
+        "<img id=\"FluidOutput\"></> 유체 출력부 있음"
+    ],
+    [
+        "FluidConductor",
+        "유체 전달"
+    ],
+    [
+        "FluidStorage",
+        "유체 보관"
+    ],
+    [
+        "KineticInput",
+        "<img id=\"Kinetic\"></>운동 에너지 소비<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticOutput",
+        "<img id=\"Kinetic\"></>운동 에너지 생산<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticConductor",
+        "<img id=\"Kinetic\"></>운동 에너지 전달<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "KineticStorage",
+        "운동 에너지 보관<img id=\"Kinetic2\"></>"
+    ],
+    [
+        "HeatInput",
+        "<img id=\"Heat\"></>열 에너지 소비<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatOutput",
+        "<img id=\"Heat\"></>열 에너지 생산<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatConductor",
+        "<img id=\"Heat\"></>열 에너지 전달<img id=\"Heat2\"></>"
+    ],
+    [
+        "HeatStorage",
+        "열 에너지 보관<img id=\"Heat2\"></>"
+    ],
+    [
+        "ElectricInput",
+        "<img id=\"Electricity\"></>전력 소비<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricOutput",
+        "<img id=\"Electricity\"></>전력 생산<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductor",
+        "<img id=\"Electricity\"></>전력 전달<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricStorage",
+        "전력 보관<img id=\"Electricity2\"></>"
+    ],
+    [
+        "Stone",
+        "돌"
+    ],
+    [
+        "Copper",
+        "구리"
+    ],
+    [
+        "Steel",
+        "강철"
+    ],
+    [
+        "Aluminium",
+        "알루미늄"
+    ],
+    [
+        "StainlessSteel",
+        "스테인리스 강"
+    ],
+    [
+        "Titanium",
+        "티타늄"
+    ],
+    [
+        "HardMetal",
+        "하드 메탈"
+    ],
+    [
+        "Neutronium",
+        "뉴트로늄"
+    ],
+    [
+        "ips",
+        "초당 아이템 개수: {0}"
+    ],
+    [
+        "dps",
+        "초당 회전 각도: {0}"
+    ],
+    [
+        "power_limit",
+        "동력 제한: {0}W"
+    ],
+    [
+        "power_output",
+        "동력 출력: {0}W"
+    ],
+    [
+        "power_input",
+        "동력 입력: {0}W"
+    ],
+    [
+        "container",
+        "용량: {0} L"
+    ],
+    [
+        "battery",
+        "용량: {0} J"
+    ],
+    [
+        "chest",
+        "용량: {0} stacks"
+    ],
+    [
+        "burnable",
+        "연소 가능<img id=\"Heat2\"></>\n총 열량: {0}J"
+    ],
+    [
+        "speedbonus",
+        "속도 보너스: x{0}"
+    ],
+    [
+        "electric_drain",
+        "전력 손실: {0}W"
+    ],
+    [
+        "heat_drain",
+        "열 손실: {0}W"
+    ],
+    [
+        "kinetic_drain",
+        "운동 손실: {0}W"
+    ],
+    [
+        "computations",
+        "초당 연산 수: {0}"
+    ],
+    [
+        "calculations",
+        "컴퓨터에 의해 생산됨\n컴퓨터를 만들고 전력을 공급하면 연산능력이 확보됩니다."
+    ],
+    [
+        "WorldGeneratorRivers",
+        "강과 섬"
+    ],
+    [
+        "WorldGeneratorBiome",
+        "바위와 섬"
+    ],
+    [
+        "FlatWorldGenerator",
+        "평평한 세계"
+    ],
+    [
+        "WorldGeneratorPlains",
+        "평원과 해안"
+    ],
+    [
+        "machines_label_format",
+        "{0} {1}"
+    ],
+    [
+        "Splitter",
+        "아이템의 흐름을 나눌 수 있습니다."
+    ],
+    [
+        "Sorter",
+        "필터를 설정할 수 있습니다."
+    ],
+    [
+        "furnace_desc",
+        "연소 속도: x{0}"
+    ],
+    [
+        "furnace_desc2",
+        "열 출력: x{0}"
+    ],
+    [
+        "furnace_desc3",
+        "운동 출력: x{0}"
+    ],
+    [
+        "DataInput",
+        "데이터 읽기"
+    ],
+    [
+        "DataOutput",
+        "데이터 쓰기"
+    ],
+    [
+        "DataConductor",
+        "데이터 전달"
+    ]
+]

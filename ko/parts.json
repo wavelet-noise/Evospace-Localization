@@ -1,0 +1,838 @@
+[
+    [
+        "CopperPlate",
+        "구리 판"
+    ],
+    [
+        "SteelPlate",
+        "강철 판"
+    ],
+    [
+        "AluminiumPlate",
+        "알루미늄 판"
+    ],
+    [
+        "StainlessSteelPlate",
+        "스테인리스 강 판"
+    ],
+    [
+        "TitaniumPlate",
+        "티타늄 판"
+    ],
+    [
+        "HardMetalPlate",
+        "하드 메탈 판"
+    ],
+    [
+        "NeutroniumPlate",
+        "뉴트로늄 판"
+    ],
+    [
+        "CopperParts",
+        "구리 부품"
+    ],
+    [
+        "SteelParts",
+        "강철 부품"
+    ],
+    [
+        "AluminiumParts",
+        "알루미늄 부품"
+    ],
+    [
+        "StainlessSteelParts",
+        "스테인리스 강 부품"
+    ],
+    [
+        "TitaniumParts",
+        "티타늄 부품"
+    ],
+    [
+        "HardMetalParts",
+        "하드 메탈 부품"
+    ],
+    [
+        "NeutroniumParts",
+        "뉴트로늄 부품"
+    ],
+    [
+        "CopperCasing",
+        "구리 포장 블록"
+    ],
+    [
+        "SteelCasing",
+        "강철 포장 블록"
+    ],
+    [
+        "AluminiumCasing",
+        "알루미늄 포장 블록"
+    ],
+    [
+        "StainlessSteelCasing",
+        "스테인리스 강 포장 블록"
+    ],
+    [
+        "TitaniumCasing",
+        "티타늄 포장 블록"
+    ],
+    [
+        "HardMetalCasing",
+        "하드 메탈 포장 블록"
+    ],
+    [
+        "NeutroniumCasing",
+        "뉴트로늄 포장 블록"
+    ],
+    [
+        "Hand",
+        "손"
+    ],
+    [
+        "Computations",
+        "연산"
+    ],
+    [
+        "Heat",
+        "열"
+    ],
+    [
+        "Electricity",
+        "전력"
+    ],
+    [
+        "Kinetic",
+        "운동"
+    ],
+    [
+        "CopperIngot",
+        "구리 주괴"
+    ],
+    [
+        "CopperDust",
+        "구리 부스러기"
+    ],
+    [
+        "GoldIngot",
+        "금 주괴"
+    ],
+    [
+        "GoldDust",
+        "금 부스러기"
+    ],
+    [
+        "SuperconductorIngot",
+        "초전도체 주괴"
+    ],
+    [
+        "SuperconductorDust",
+        "초전도체 부스러기"
+    ],
+    [
+        "IronIngot",
+        "철 주괴"
+    ],
+    [
+        "IronDust",
+        "철 부스러기"
+    ],
+    [
+        "CircuitBoard",
+        "회로 기판"
+    ],
+    [
+        "AdvancedCircuitBoard",
+        "고급 회로 기판"
+    ],
+    [
+        "Plastic",
+        "플라스틱"
+    ],
+    [
+        "SteelIngot",
+        "강철 주괴"
+    ],
+    [
+        "SteelDust",
+        "강철 부스러기"
+    ],
+    [
+        "AluminiumIngot",
+        "알루미늄 주괴"
+    ],
+    [
+        "AluminiumDust",
+        "알루미늄 부스러기"
+    ],
+    [
+        "AluminiumOxideDust",
+        "산화 알루미늄 부스러기"
+    ],
+    [
+        "StainlessSteelIngot",
+        "스테인리스 강 주괴"
+    ],
+    [
+        "StainlessSteelDust",
+        "스테인리스 강 부스러기"
+    ],
+    [
+        "TitaniumIngot",
+        "티타늄 주괴"
+    ],
+    [
+        "TitaniumDust",
+        "티타늄 부스러기"
+    ],
+    [
+        "TitaniumTetrachloride",
+        "티타늄 사염화물"
+    ],
+    [
+        "TitaniumSponge",
+        "티타늄 스펀지"
+    ],
+    [
+        "TitaniumOxideDust",
+        "산화 티타늄 부스러기"
+    ],
+    [
+        "PreparedTitaniumOxideDust",
+        "준비된 산화 티타늄 부스러기"
+    ],
+    [
+        "ZinkDust",
+        "아연 부스러기"
+    ],
+    [
+        "LithiumDust",
+        "리튬 부스러기"
+    ],
+    [
+        "TungstenDust",
+        "텅스텐 부스러기"
+    ],
+    [
+        "TungstenOxideDust",
+        "산화 텅스텐 부스러기"
+    ],
+    [
+        "TungstenCarbideDust",
+        "탄화 텅스텐 부스러기"
+    ],
+    [
+        "HardMetalIngot",
+        "하드 메탈 주괴"
+    ],
+    [
+        "HardMetalDust",
+        "하드 메탈 부스러기"
+    ],
+    [
+        "HotHardMetalIngot",
+        "뜨거운 하드 메탈 주괴"
+    ],
+    [
+        "HotNeutroniumIngot",
+        "뜨거운 뉴트로늄 주괴"
+    ],
+    [
+        "CobaltDust",
+        "코발트 부스러기"
+    ],
+    [
+        "CobaltOxideDust",
+        "산화 코발트 부스러기"
+    ],
+    [
+        "CementDust",
+        "시멘트 부스러기"
+    ],
+    [
+        "NeutroniumIngot",
+        "뉴트로늄 주괴"
+    ],
+    [
+        "NeutroniumDust",
+        "뉴트로늄 부스러기"
+    ],
+    [
+        "ChromiumDust",
+        "크롬 부스러기"
+    ],
+    [
+        "PlutoniumDust",
+        "플루토늄 부스러기"
+    ],
+    [
+        "UraniumDust",
+        "우라늄-238 부스러기"
+    ],
+    [
+        "Uranium235Dust",
+        "우라늄-235 부스러기"
+    ],
+    [
+        "Uranium233Dust",
+        "우라늄-233 부스러기"
+    ],
+    [
+        "Uranium233Cell",
+        "우라늄 233 셀"
+    ],
+    [
+        "UraniumCell",
+        "우라늄 셀"
+    ],
+    [
+        "PlutoniumCell",
+        "플루토늄 셀"
+    ],
+    [
+        "DepletedUraniumCell",
+        "고갈된 우라늄 셀"
+    ],
+    [
+        "ThoriumDust",
+        "토륨 부스러기"
+    ],
+    [
+        "SodiumDust",
+        "나트륨 부스러기"
+    ],
+    [
+        "PotassiumDust",
+        "칼륨 부스러기"
+    ],
+    [
+        "Sulfur",
+        "유황"
+    ],
+    [
+        "Steam",
+        "증기"
+    ],
+    [
+        "Chlorine",
+        "염소"
+    ],
+    [
+        "Peat",
+        "토탄"
+    ],
+    [
+        "Coal",
+        "석탄"
+    ],
+    [
+        "Coke",
+        "코크스"
+    ],
+    [
+        "Creosote",
+        "크레오소트"
+    ],
+    [
+        "ProducerGas",
+        "발생로 가스"
+    ],
+    [
+        "CarbonMonoxide",
+        "일산화탄소"
+    ],
+    [
+        "AshDust",
+        "재 부스러기"
+    ],
+    [
+        "Hydrogen",
+        "수소"
+    ],
+    [
+        "Methane",
+        "메탄"
+    ],
+    [
+        "Ethylene",
+        "에틸렌"
+    ],
+    [
+        "Water",
+        "물"
+    ],
+    [
+        "Glass",
+        "유리"
+    ],
+    [
+        "Lense",
+        "렌즈"
+    ],
+    [
+        "Organics",
+        "유기물"
+    ],
+    [
+        "Biomass",
+        "바이오매스"
+    ],
+    [
+        "Clay",
+        "점토"
+    ],
+    [
+        "OreWater",
+        "광석 물"
+    ],
+    [
+        "RareEarthElement",
+        "희토류 원소"
+    ],
+    [
+        "Log",
+        "통나무"
+    ],
+    [
+        "StoneLog",
+        "Stone Log"
+    ],
+    [
+        "Plank",
+        "널빤지"
+    ],
+    [
+        "Silicon",
+        "실리콘"
+    ],
+    [
+        "SiliconWafer",
+        "실리콘 웨이퍼"
+    ],
+    [
+        "SulfuricAcid",
+        "황산"
+    ],
+    [
+        "RawOil",
+        "원유"
+    ],
+    [
+        "MineralWater",
+        "광천수"
+    ],
+    [
+        "Gasoline",
+        "가솔린"
+    ],
+    [
+        "HeavyOil",
+        "중유"
+    ],
+    [
+        "Battery",
+        "배터리"
+    ],
+    [
+        "SiliconOxide",
+        "산화 실리콘"
+    ],
+    [
+        "Pumpkin",
+        "호박"
+    ],
+    [
+        "Oxygen",
+        "산소"
+    ],
+    [
+        "Nitrogen",
+        "질소"
+    ],
+    [
+        "ChromiumOxideDust",
+        "산화 크롬 부스러기"
+    ],
+    [
+        "PotassiumChlorideDust",
+        "염화칼륨 부스러기"
+    ],
+    [
+        "BerylliumDust",
+        "베릴륨 부스러기"
+    ],
+    [
+        "YttriumDust",
+        "이트륨 부스러기"
+    ],
+    [
+        "Helium",
+        "헬륨"
+    ],
+    [
+        "SaltDust",
+        "소금 부스러기"
+    ],
+    [
+        "PortalBase",
+        "포탈 베이스"
+    ],
+    [
+        "Signal",
+        "신호"
+    ],
+    [
+        "CopperWire",
+        "구리선"
+    ],
+    [
+        "GoldWire",
+        "금선"
+    ],
+    [
+        "SuperconductorWire",
+        "초전도체 선"
+    ],
+    [
+        "Circuit",
+        "회로"
+    ],
+    [
+        "AdvancedCircuit",
+        "고급 회로"
+    ],
+    [
+        "Processor",
+        "프로세서"
+    ],
+    [
+        "QuantumCircuit",
+        "양자 회로"
+    ],
+    [
+        "QuantumProcessor",
+        "양자 프로세서"
+    ],
+    [
+        "QuantumCore",
+        "양자 코어"
+    ],
+    [
+        "SingularityCore",
+        "싱귤래리티 코어"
+    ],
+    [
+        "QuantumBrain",
+        "양자 뇌"
+    ],
+    [
+        "Cell",
+        "셀"
+    ],
+    [
+        "Catalyst",
+        "촉매 셀"
+    ],
+    [
+        "ControlCell",
+        "제어 셀"
+    ],
+    [
+        "ReflectorCell",
+        "반사면 셀"
+    ],
+    [
+        "ThoriumCell",
+        "토륨 셀"
+    ],
+    [
+        "MixedOxideCell",
+        "혼합 산화물 셀"
+    ],
+    [
+        "RutileCrystal",
+        "금홍석 결정체"
+    ],
+    [
+        "UraniniteCrystal",
+        "섬우라늄 결정체"
+    ],
+    [
+        "UraniniteCluster",
+        "섬우라늄 클러스터"
+    ],
+    [
+        "CinnabarDust",
+        "진사 부스러기"
+    ],
+    [
+        "CinnabarCrystal",
+        "진사 결정체"
+    ],
+    [
+        "CinnabarCluster",
+        "진사 클러스터"
+    ],
+    [
+        "MalachiteDust",
+        "공작석 부스러기"
+    ],
+    [
+        "MalachiteCrystal",
+        "공작석 결정체"
+    ],
+    [
+        "MalachiteCluster",
+        "공작석 클러스터"
+    ],
+    [
+        "Mercury",
+        "수은"
+    ],
+    [
+        "FilteringCell",
+        "필터링 셀"
+    ],
+    [
+        "BoronDust",
+        "붕소 부스러기"
+    ],
+    [
+        "BoraxDust",
+        "붕사 부스러기"
+    ],
+    [
+        "Emerald",
+        "에메랄드"
+    ],
+    [
+        "EmeraldDust",
+        "에메랄드 부스러기"
+    ],
+    [
+        "A",
+        "A"
+    ],
+    [
+        "B",
+        "B"
+    ],
+    [
+        "C",
+        "C"
+    ],
+    [
+        "D",
+        "D"
+    ],
+    [
+        "E",
+        "E"
+    ],
+    [
+        "F",
+        "F"
+    ],
+    [
+        "G",
+        "G"
+    ],
+    [
+        "H",
+        "H"
+    ],
+    [
+        "I",
+        "I"
+    ],
+    [
+        "J",
+        "J"
+    ],
+    [
+        "K",
+        "K"
+    ],
+    [
+        "L",
+        "L"
+    ],
+    [
+        "M",
+        "M"
+    ],
+    [
+        "N",
+        "N"
+    ],
+    [
+        "O",
+        "O"
+    ],
+    [
+        "P",
+        "P"
+    ],
+    [
+        "Q",
+        "Q"
+    ],
+    [
+        "R",
+        "R"
+    ],
+    [
+        "S",
+        "S"
+    ],
+    [
+        "T",
+        "T"
+    ],
+    [
+        "U",
+        "U"
+    ],
+    [
+        "V",
+        "V"
+    ],
+    [
+        "W",
+        "W"
+    ],
+    [
+        "X",
+        "X"
+    ],
+    [
+        "Y",
+        "Y"
+    ],
+    [
+        "Z",
+        "Z"
+    ],
+    [
+        "ErrorString",
+        "오류 문자열"
+    ],
+    [
+        "Multitool",
+        "다용도 도구"
+    ],
+    [
+        "Screwdriver",
+        "나사 드라이버"
+    ],
+    [
+        "CopperBlock",
+        "구리 블록"
+    ],
+    [
+        "GoldBlock",
+        "금 블록"
+    ],
+    [
+        "SuperconductorBlock",
+        "초전도체 블록"
+    ],
+    [
+        "IronBlock",
+        "철 블록"
+    ],
+    [
+        "SteelBlock",
+        "강철 블록"
+    ],
+    [
+        "AluminiumBlock",
+        "알루미늄 블록"
+    ],
+    [
+        "AluminiumOxideBlock",
+        "산화 알루미늄 블록"
+    ],
+    [
+        "StainlessSteelBlock",
+        "스테인리스 강 블록"
+    ],
+    [
+        "TitaniumBlock",
+        "티타늄 블록"
+    ],
+    [
+        "ZinkBlock",
+        "아연 블록"
+    ],
+    [
+        "LithiumBlock",
+        "리튬 블록"
+    ],
+    [
+        "HardMetalBlock",
+        "하드 메탈 블록"
+    ],
+    [
+        "CobaltBlock",
+        "코발트 블록"
+    ],
+    [
+        "PlutoniumBlock",
+        "플루토늄 블록"
+    ],
+    [
+        "UraniumBlock",
+        "우라늄-238 블록"
+    ],
+    [
+        "Uranium235Block",
+        "우라늄-235 블록"
+    ],
+    [
+        "Uranium233Block",
+        "우라늄-233 블록"
+    ],
+    [
+        "ThoriumBlock",
+        "토륨 블록"
+    ],
+    [
+        "SodiumBlock",
+        "나트륨 블록"
+    ],
+    [
+        "PotassiumBlock",
+        "칼륨 블록"
+    ],
+    [
+        "UltimateCatalyst",
+        "궁극 결정체 셀"
+    ],
+    [
+        "MothershipPing",
+        "모함 통신확인"
+    ],
+    [
+        "PaintTool",
+        "페인트 도구"
+    ],
+    [
+        "Capacity",
+        "용량"
+    ],
+    [
+        "InputError",
+        "입력 오류"
+    ],
+    [
+        "OutputError",
+        "출력 오류"
+    ],
+    [
+        "Progress",
+        "진행"
+    ],
+    [
+        "SwitchedOn",
+        "스위치 켜짐"
+    ]
+]

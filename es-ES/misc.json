@@ -282,5 +282,21 @@
     [
         "PaintHardMetal",
         "Pintar en Metal duro"
+    ],
+    [
+        "PaintGold",
+        "Paint Gold"
+    ],
+    [
+        "PaintYellow",
+        "Paint Yellow"
+    ],
+    [
+        "PaintMagenta",
+        "Paint Magenta"
+    ],
+    [
+        "PaintCyan",
+        "Paint Cyan"
     ]
 ]

@@ -370,5 +370,33 @@
     [
         "Portal",
         "Portal"
+    ],
+    [
+        "LogicCircuit",
+        "Circuito lógico"
+    ],
+    [
+        "LogicInterface",
+        "Interfaz lógica"
+    ],
+    [
+        "LogicController",
+        "Controlador lógico"
+    ],
+    [
+        "LogicDisplay",
+        "Pantalla lógica"
+    ],
+    [
+        "LogicWire",
+        "Cable lógico"
+    ],
+    [
+        "Button",
+        "Botón"
+    ],
+    [
+        "ToggleButton",
+        "Botón de alternar"
     ]
 ]

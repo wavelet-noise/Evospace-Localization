@@ -1,0 +1,74 @@
+[
+    [
+        "CopperOre",
+        "구리 광석"
+    ],
+    [
+        "CopperImpureOreGravel",
+        "저순도 구리 광석 돌멩이"
+    ],
+    [
+        "CopperOreGravel",
+        "구리 광석 돌멩이"
+    ],
+    [
+        "CopperOreDust",
+        "저순도 구리 광석 부스러기"
+    ],
+    [
+        "IronOre",
+        "철 광석"
+    ],
+    [
+        "IronImpureOreGravel",
+        "저순도 철 광석 돌멩이"
+    ],
+    [
+        "IronOreGravel",
+        "철 광석 돌멩이"
+    ],
+    [
+        "IronOreDust",
+        "저순도 철 광석 부스러기"
+    ],
+    [
+        "UraniumOre",
+        "우라늄 광석"
+    ],
+    [
+        "UraniumImpureOreGravel",
+        "저순도 우라늄 광석 돌멩이"
+    ],
+    [
+        "UraniumOreGravel",
+        "우라늄 광석 돌멩이"
+    ],
+    [
+        "UraniumOreDust",
+        "저순도 우라늄 광석 부스러기"
+    ],
+    [
+        "AluminiumOre",
+        "알루미늄 광석"
+    ],
+    [
+        "AluminiumImpureOreGravel",
+        "저순도 알루미늄 광석 돌멩이"
+    ],
+    [
+        "AluminiumOreGravel",
+        "알루미늄 광석 돌멩이"
+    ],
+    [
+        "AluminiumOreDust",
+        "저순도 알루미늄 광석 부스러기"
+    ],
+    [
+        "CoalOre",
+        "석탄"
+    ],
+    [
+        "ClayOre",
+        "점토"
+    ]
+]

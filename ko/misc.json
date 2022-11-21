@@ -1,0 +1,302 @@
+[
+    [
+        "Chair",
+        "나무 의자"
+    ],
+    [
+        "Table",
+        "나무 탁자"
+    ],
+    [
+        "Rack",
+        "나무 선반"
+    ],
+    [
+        "Bed",
+        "나무 침대"
+    ],
+    [
+        "Ladder",
+        "나무 사다리"
+    ],
+    [
+        "Door",
+        "나무 문"
+    ],
+    [
+        "Fence",
+        "난간"
+    ],
+    [
+        "Window",
+        "나무 창문"
+    ],
+    [
+        "CeramicRoof",
+        "세라믹 지붕"
+    ],
+    [
+        "Stairs",
+        "돌 계단"
+    ],
+    [
+        "WoodenStairs",
+        "나무 계단"
+    ],
+    [
+        "CopperChair",
+        "구리 의자"
+    ],
+    [
+        "FireCup",
+        "Fire 컵"
+    ],
+    [
+        "PlasticWindow",
+        "플라스틱 창문"
+    ],
+    [
+        "Firefly",
+        "반딧불이"
+    ],
+    [
+        "Flies",
+        "파리"
+    ],
+    [
+        "Birds",
+        "새"
+    ],
+    [
+        "DesertSound",
+        "사막 소리"
+    ],
+    [
+        "SwampSound",
+        "늪지 소리"
+    ],
+    [
+        "Butterfly",
+        "나비"
+    ],
+    [
+        "Leafes",
+        "잎"
+    ],
+    [
+        "Bugs",
+        "벌레"
+    ],
+    [
+        "WoodenPlanks",
+        "나무 널빤지"
+    ],
+    [
+        "AdminBlocks",
+        "관리 블록"
+    ],
+    [
+        "StoneTiles",
+        "돌 타일"
+    ],
+    [
+        "RedTiles",
+        "빨간 타일"
+    ],
+    [
+        "DarkTiles",
+        "어두운 타일"
+    ],
+    [
+        "Terracotta",
+        "테라코타"
+    ],
+    [
+        "TerracottaTiles",
+        "테라코타 타일"
+    ],
+    [
+        "Bricks",
+        "벽돌"
+    ],
+    [
+        "RedBricks",
+        "빨간 벽돌"
+    ],
+    [
+        "DarkBricks",
+        "어두운 벽돌"
+    ],
+    [
+        "TerracottaBricks",
+        "테라코타 벽돌"
+    ],
+    [
+        "Concrete",
+        "콘크리트"
+    ],
+    [
+        "ConcreteBricks",
+        "콘크리트 벽돌"
+    ],
+    [
+        "ConcreteTiles",
+        "콘크리트 타일"
+    ],
+    [
+        "ConcreteSmallTiles",
+        "콘크리트 소형 타일"
+    ],
+    [
+        "ReinforcedConcrete",
+        "강화 콘크리트"
+    ],
+    [
+        "ReinforcedConcreteTiles",
+        "강화 콘크리트 타일"
+    ],
+    [
+        "ReinforcedConcreteSmallTiles",
+        "강화 콘크리트 소형 타일"
+    ],
+    [
+        "ReinforcedConcreteBricks",
+        "강화 콘크리트 벽돌"
+    ],
+    [
+        "DangerBlock",
+        "위험 블록"
+    ],
+    [
+        "RustyCopperCasing",
+        "녹슨 구리 포장"
+    ],
+    [
+        "RustyIronCasing",
+        "녹슨 철 포장"
+    ],
+    [
+        "Column",
+        "기둥"
+    ],
+    [
+        "FluetedColumn",
+        "평평한 기둥"
+    ],
+    [
+        "Torch",
+        "토치"
+    ],
+    [
+        "Flashlight",
+        "손전등"
+    ],
+    [
+        "NightVision",
+        "야시경"
+    ],
+    [
+        "AdvancedNightVision",
+        "고급 야시경"
+    ],
+    [
+        "Steampack",
+        "스팀팩"
+    ],
+    [
+        "Jetpack",
+        "제트팩"
+    ],
+    [
+        "AdvancedJetpack",
+        "고급 제트팩"
+    ],
+    [
+        "AntigravityUnit",
+        "반중력 단위"
+    ],
+    [
+        "Scanner",
+        "스캐너"
+    ],
+    [
+        "SteelFence",
+        "강철 난간"
+    ],
+    [
+        "StainlessSteelFence",
+        "스테인리스 강 난간"
+    ],
+    [
+        "BasicPlatform",
+        "기본 플랫폼"
+    ],
+    [
+        "PlasticBlock",
+        "플라스틱 블록"
+    ],
+    [
+        "GlassBlock",
+        "유리 블록"
+    ],
+    [
+        "PaintWhite",
+        "흰색 페인트"
+    ],
+    [
+        "PaintGray",
+        "회색 페인트"
+    ],
+    [
+        "PaintBlack",
+        "검정 페인트"
+    ],
+    [
+        "PaintGreen",
+        "초록 페인트"
+    ],
+    [
+        "PaintRed",
+        "빨강 페인트"
+    ],
+    [
+        "PaintBlue",
+        "파랑 페인트"
+    ],
+    [
+        "PaintCopper",
+        "구리 페인트"
+    ],
+    [
+        "PaintSteel",
+        "강철 페인트"
+    ],
+    [
+        "PaintStainlessSteel",
+        "스테인리스 강 페인트"
+    ],
+    [
+        "PaintTitanium",
+        "티타늄 페인트"
+    ],
+    [
+        "PaintHardMetal",
+        "하드 메탈 페인트"
+    ],
+    [
+        "PaintGold",
+        "금 페인트"
+    ],
+    [
+        "PaintYellow",
+        "노랑 페인트"
+    ],
+    [
+        "PaintMagenta",
+        "자홍색 페인트"
+    ],
+    [
+        "PaintCyan",
+        "청록색 페인트"
+    ]
+]
