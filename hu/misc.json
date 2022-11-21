@@ -240,6 +240,22 @@
         "Keményfém színű festék"
     ],
     [
+        "PaintGold",
+        "Arany festék"
+    ],
+    [
+        "PaintYellow",
+        "Sárga festék"
+    ],
+    [
+        "PaintMagenta",
+        "Narancs festék"
+    ],
+    [
+        "PaintCyan",
+        "Cián festék"
+    ],
+    [
       "Column",
       "Oszlop"
     ],

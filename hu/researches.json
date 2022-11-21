@@ -140,10 +140,6 @@
         "Fém munka"
     ],
     [
-        "Steelwork",
-        "Acéláru"
-    ],
-    [
         "Filtering",
         "Szűrés"
     ],
@@ -178,21 +174,5 @@
     [
         "ReactionThrottling",
         "Reakció fékezés"
-    ],
-    [
-        "FluidFurnace",
-        "Folyadék égető kemence"
-    ],
-    [
-        "Scaffold",
-        "Állvány"
-    ],
-    [
-        "Lamp",
-        "Lámpa"
-    ],
-    [
-        "PlantsScan",
-        "Plants Scan"
     ]
 ]
