@@ -124,6 +124,14 @@
         "Compact Generator"
     ],
     [
+        "HandGenerator",
+        "HandGenerator"
+    ],
+    [
+        "KineticHeater",
+        "Kinetic Heater"
+    ],
+    [
         "ElectricEngine",
         "Electric Engine"
     ],
