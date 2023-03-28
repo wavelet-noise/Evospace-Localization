@@ -277,14 +277,14 @@
     ],
     [
         "DataInput",
-        "Read data"
+        "Inserir dados"
     ],
     [
         "DataOutput",
-        "Write data"
+        "Exportar dados"
     ],
     [
         "DataConductor",
-        "Conducts data"
+        "Enviar dados"
     ]
 ]
