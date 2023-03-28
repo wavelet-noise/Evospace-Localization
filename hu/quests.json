@@ -1,19 +1,19 @@
 [
     [
         "ChapterCompleted",
-        "Chapter complete."
+        "Fejezet kész."
     ],
     [
         "Completed",
-        "Quest complete."
+        "A küldetés kész."
     ],
     [
         "Collect",
-        "Collect this item."
+        "Gyűjtsd össze ezt a tárgyat."
     ],
     [
         "Achievement",
-        "Achievement!"
+        "Cél!"
     ],
     [
         "RefiningMachine",
@@ -21,79 +21,79 @@
     ],
     [
         "FirstSteps",
-        "First Steps"
+        "Első lépések"
     ],
     [
         "RoadToSteel",
-        "Road to Steel"
+        "Folyamat az acélhoz"
     ],
     [
         "Farming",
-        "Farming"
+        "Mezőgazdaság"
     ],
     [
         "Refining",
-        "Ore Refining"
+        "Ércfinomítás"
     ],
     [
         "Steam",
-        "Steam"
+        "Gőz"
     ],
     [
         "RoadToAluminium",
-        "Road to Aluminium"
+        "Folyamat az aluminiumhoz"
     ],
     [
         "RoadToSS",
-        "Road to Stainless Steel"
+        "Folyamat a rozsdamentes acélhoz"
     ],
     [
         "RoadToTitanium",
-        "Road to Titanium"
+        "Folyamat a titaniumhoz"
     ],
     [
         "RoadToHardMetal",
-        "Road to Hard Metal"
+        "Folyamat a keményfémhez"
     ],
     [
         "RoadToNeutronium",
-        "Road to Neutronium"
+        "Folyamat a neutróniumhoz"
     ],
     [
         "Other",
-        "Other"
+        "Egyéb"
     ],
     [
         "Decorative",
-        "Decorative"
+        "Dekoráció"
     ],
     [
         "Woodwork",
-        "Woodwork"
+        "Famunka"
     ],
     [
         "FasterRefining",
-        "Faster Refining"
+        "Gyorsabb finomítás"
     ],
     [
         "Logistics",
-        "Logistics"
+        "Logisztika"
     ],
     [
         "FastTravel",
-        "Fast Travel"
+        "Gyors utazás"
     ],
     [
         "FasterSteel",
-        "Faster Steel"
+        "Gyorsabb acél"
     ],
     [
         "AdvancedLogistics",
-        "Advanced Logistics"
+        "Fejlett logisztika"
     ],
     [
         "HeatTransferring",
-        "Heat Transferring"
+        "Hőátadás"
     ],
     [
         "CoalPiece",
@@ -109,35 +109,35 @@
     ],
     [
         "CokeDust",
-        "Faster way of producing a coke. Put a <item>Coal Dust</> into a <machine>Coke Oven</>."
+        "Gyorsabb módja a koksz előállításának. Tegyen egy <item>szénport</> egy <machine>kokszos sütőbe</>."
     ],
     [
         "HigherLevel",
-        "This is just improved version of machine. It can make complexer recipes without penalty and can use modules."
+        "Ez egy továbbfejlesztett gép. Büntetés nélkül képes összetettebb recepteket készíteni, és modulokat tud használni."
     ],
     [
         "Jumppack",
-        "This is a really fast way to travel. You need to select it on the hotbar to use. Press jump to use."
+        "Ez egy nagyon gyors utazási mód. A hotbáron válaszd ki és használd az ugrás gombot."
     ],
     [
         "Plate",
-        "While it is possible to create all machines directly from ingots - this is not the best way.\nIn a much more efficient way, it will create plates with the help of <machine>Automatic Hammer</>\nIt creates 1 plate of 1 ingot, while hands creates 1 plate of 2 ingots."
+        "Az összes gépet közvetlenül rudakból lehet létrehozni – ez nem a legjobb módszer.\nSokkal hatékonyabb mód, ha az <machine>Automatic Hammer</> segítségével lemezeket készítesz.\nEgy lemezt készít 1 rudból, míg a kézben készítve 1 tányért 2 rúdból készíthetsz."
     ],
     [
         "Refined",
-        "You will receive 1.5 times more metal from ore by making this item."
+        "Másfélszer több fémet kap az ércből, ha ezzel készíti el."
     ],
     [
         "Furnace",
-        "Uses fuel to produce a <item>Heat</>. The Heat is fransferring into block on top of a furnace. Heat output is marked by flame icon."
+        "Tüzelőanyagot használ fel <item>Heat</> előállítására. A hő egy kemence tetején lévő blokkba áramlik. A hőteljesítményt láng ikon jelöli."
     ],
     [
         "Dryer",
-        "Uses heat to make recipes. Usable to increase fuel efficiency by producing Coal Dust from a <item>Log</>/<item>Stick</>/<item>Sawdust</>."
+        "Hőt használ fel anyagok készítéséhez. Használható az üzemanyag-hatékonyság növelésére azáltal, hogy szénport állít elő <item>Log</>/<item>Stick</>/<item>Sawdust</>."
     ],
     [
         "Smelter",
-        "Uses heat to make ingots. Ingots are smelted from ore very slowly. It is much more efficient to refine an ore before smelting."
+        "Hőt használ a rudak előállításához. A rudakat nagyon lassan olvasztják ki az ércből. Sokkal hatékonyabb az ércet olvasztás előtt finomítani."
     ],
     [
         "AlloySmelter",
@@ -145,15 +145,15 @@
     ],
     [
         "CastIron",
-        "Used for advanced steel making process. Uses less coke in the process, and also has a much higher production rate.\nThe resulting cast iron must be melted in an <machine>Arc Furnace.</>"
+        "Speciális acélgyártási folyamatokhoz használják. Kevesebb kokszot használ a folyamatban, és sokkal nagyobb a termelési sebessége is.\nA kapott öntöttvasat <machine>Arc Furnace</> kell megolvasztani."
     ],
     [
         "CopperOre",
-        "Common ore. Occurs in all biomes. Plenty of <item>Copper Ore</> can be found at a coast. You can see a water from some hill."
+        "Általános érc. Mindenhol előfordul. Rengeteg <item>Copper Ore</> található a tengerparton."
     ],
     [
         "IronOre",
-        "Common ore. Occurs in all biomes. Plenty of <item>Iron Ore</> can be found in the swamp."
+        "Általános érc. Mindenhol előfordul. Rengeteg <item>Iron Ore</> található a mocsárban."
     ],
     [
         "Boiler",
@@ -161,7 +161,7 @@
     ],
     [
         "Pump",
-        "Infinitely generates water."
+        "Vizet szivattyúz."
     ],
     [
         "Pipe",
@@ -169,19 +169,19 @@
     ],
     [
         "Bed",
-        "Right click on a Bed to update your Spawnpoint. You can travel to a Spawnpoint from the Pause Menu (Esc)."
+        "Kattintson jobb gombbal egy ágyra a kezdő pont frissítéséhez. A menüből (Esc) a kezdő pontra ugorhat."
     ],
     [
         "Organics",
-        "Can be gathered from most of small plants in the world."
+        "A világon található legtöbb növényéből begyűjthető."
     ],
     [
         "BambooFarm",
-        "Growing bamboo sprout. Break with a <item>Multitool</> to harvest."
+        "Bambuszcsíra farm. Takarítsa be <item>Multitool</> segítségével."
     ],
     [
         "PumpkinFarm",
-        "Growing pumpkin. Break with a <item>Multitool</> to harvest."
+        "Töktermesztés. Takarísd be egy <item>Multitool</> segítségével."
     ],
     [
         "AutomaticHammer",
@@ -197,26 +197,26 @@
     ],
     [
         "BlastFurnace",
-        "It has 2 inputs: one for <item>Iron Ingots</>, the other for a coke. To output a production use a <machine>Robot Arm</>."
+        "Két bemenete van: az egyik a <item>Iron Ingots</>-t fogad, a másik pedig kokszot. A készterméket távolítsa el <machine>Robot Arm</> segítségével."
     ],
     [
         "CokeOven",
-        "Has input for a coal and output for a coke. Has fluid output for an <item>Ore Water</> marked with drop icon."
+        "Szén bemenete van és koksz kimenete. Folyadék kimenet <item>Ore Water</> számára."
     ],
     [
         "RobotArm",
-        "Robot Arm"
+        "Robot kar"
     ],
     [
         "FilteringRobotArm",
-        "FilteringRobotArm"
+        "Robot kar szűrővel"
     ],
     [
         "Conveyor",
-        "Conveyor"
+        "Szállítószalag"
     ],
     [
         "ConveyorSplitter",
-        "Conveyor Splitter"
+        "Szállítószalag-osztó"
     ]
 ]
