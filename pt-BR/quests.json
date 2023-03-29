@@ -1,222 +1,222 @@
 [
     [
         "ChapterCompleted",
-        "Chapter complete."
+        "Capitulo completado."
     ],
     [
         "Completed",
-        "Quest complete."
+        "Objectivo completado."
     ],
     [
         "Collect",
-        "Collect this item."
+        "Colete esse item."
     ],
     [
         "Achievement",
-        "Achievement!"
+        "Conquistas!"
     ],
     [
         "RefiningMachine",
-        "RefiningMachineDescription"
+        "Descrição da maquina de refinar"
     ],
     [
         "FirstSteps",
-        "First Steps"
+        "Primeiros passos"
     ],
     [
         "RoadToSteel",
-        "Road to Steel"
+        "A estrada para o Aço"
     ],
     [
         "Farming",
-        "Farming"
+        "Agricultura"
     ],
     [
         "Refining",
-        "Ore Refining"
+        "Refinamento de minérios"
     ],
     [
         "Steam",
-        "Steam"
+        "Tecnologia do vapor"
     ],
     [
         "RoadToAluminium",
-        "Road to Aluminium"
+        "O percurso para o Alumínio"
     ],
     [
         "RoadToSS",
-        "Road to Stainless Steel"
+        "Aquisição de aço inox"
     ],
     [
         "RoadToTitanium",
-        "Road to Titanium"
+        "Processar Titanito"
     ],
     [
         "RoadToHardMetal",
-        "Road to Hard Metal"
+        "A maratona para a Liga de Aço Durável"
     ],
     [
         "RoadToNeutronium",
-        "Road to Neutronium"
+        "A cobiça de Neutronium"
     ],
     [
         "Other",
-        "Other"
+        "Coisas"
     ],
     [
         "Decorative",
-        "Decorative"
+        "Decoração"
     ],
     [
         "Woodwork",
-        "Woodwork"
+        "Carpintaria"
     ],
     [
         "FasterRefining",
-        "Faster Refining"
+        "Refinamento acelerado"
     ],
     [
         "Logistics",
-        "Logistics"
+        "Logística"
     ],
     [
         "FastTravel",
-        "Fast Travel"
+        "Viagem rápida"
     ],
     [
         "FasterSteel",
-        "Faster Steel"
+        "Aço mais constante"
     ],
     [
         "AdvancedLogistics",
-        "Advanced Logistics"
+        "Logística avançada"
     ],
     [
         "HeatTransferring",
-        "Heat Transferring"
+        "Conduzir Calor"
     ],
     [
         "CoalPiece",
-        "CoalPieceDescription"
+        "Madeira queima que ainda pode queimar mais"
     ],
     [
         "CoalDust",
-        "CoalDustDescription"
+        "Carvão em pó"
     ],
     [
         "CokePiece",
-        "CokePieceDescription"
+        "Um tipo de carvão melhorado"
     ],
     [
         "CokeDust",
-        "Faster way of producing a coke. Put a <item>Coal Dust</> into a <machine>Coke Oven</>."
+        "Pó de Coque. Coloque <item>Pó de carvão</> em um <machine>Forno</>."
     ],
     [
         "HigherLevel",
-        "This is just improved version of machine. It can make complexer recipes without penalty and can use modules."
+        "Essa é uma versão melhorada. Ela pode executar receitas mais complexas sem penalidades e aceitar Módulos."
     ],
     [
         "Jumppack",
-        "This is a really fast way to travel. You need to select it on the hotbar to use. Press jump to use."
+        "Uma maneira rápida de se viajar. Seleciona na barra de atalho. Aperte Pular para usar."
     ],
     [
         "Plate",
-        "While it is possible to create all machines directly from ingots - this is not the best way.\nIn a much more efficient way, it will create plates with the help of <machine>Automatic Hammer</>\nIt creates 1 plate of 1 ingot, while hands creates 1 plate of 2 ingots."
+        "Material essencial para criação de maquinários.\nPode ser feita manualmente ao custo de 2 barras para 1 placa\n Ao ser feita em um <machine>Martelo Mecânico</> é feita 1 placa pro cada 1 barra."
     ],
     [
         "Refined",
-        "You will receive 1.5 times more metal from ore by making this item."
+        "Aumenta em 1.5 a quantia recebida do minério."
     ],
     [
         "Furnace",
-        "Uses fuel to produce a <item>Heat</>. The Heat is fransferring into block on top of a furnace. Heat output is marked by flame icon."
+        "Queima combustível para gerar <item>Calor</>. O Calor é emitido pelo topo da Fornalha. A chama representa a quantia de Calor que pode ser emitida."
     ],
     [
         "Dryer",
-        "Uses heat to make recipes. Usable to increase fuel efficiency by producing Coal Dust from a <item>Log</>/<item>Stick</>/<item>Sawdust</>."
+        "Usa Calor para executar receitas. Como gerar Pó de Carvão ao se colocar <item>Torra</>/<item>Graveto</>/<item>Serragem</>."
     ],
     [
         "Smelter",
-        "Uses heat to make ingots. Ingots are smelted from ore very slowly. It is much more efficient to refine an ore before smelting."
+        "Usa Calor para fundir Barras de minérios. Porém é bem lentamente. É mais efetivo refinar os minérios primeiro."
     ],
     [
         "AlloySmelter",
-        "AlloySmelterDescription"
+        "Usa eletricidade para fundir barras e ligas."
     ],
     [
         "CastIron",
-        "Used for advanced steel making process. Uses less coke in the process, and also has a much higher production rate.\nThe resulting cast iron must be melted in an <machine>Arc Furnace.</>"
+        "Um pratica para se produzir aço de maneira mais rápida e econômica.\nO produto precisa ser fundido em uma <machine>Forja de Indução.</>"
     ],
     [
         "CopperOre",
-        "Common ore. Occurs in all biomes. Plenty of <item>Copper Ore</> can be found at a coast. You can see a water from some hill."
+        "Um minério muito comum. Uma boa quantia de <item>Minério de Cobre</> pode ser achado em costas. Pode ser vista em Montes com água."
     ],
     [
         "IronOre",
-        "Common ore. Occurs in all biomes. Plenty of <item>Iron Ore</> can be found in the swamp."
+        "Um minério muito comum. Uma boa quantia de <item>Minério de Ferro</> pode ser achado em pântanos."
     ],
     [
         "Boiler",
-        "BoilerDescription"
+        "Recebe Água e Calor para gerar Vapor"
     ],
     [
         "Pump",
-        "Infinitely generates water."
+        "Ao ser colocado em água natural produz água infinitamente\nPode puxar ou inserir líquidos/gases em maquinas/reservatórios."
     ],
     [
         "Pipe",
-        "PipeDescription"
+        "Um cano aonde líquidos e gases passam\nDiferente materiais não se conectam"
     ],
     [
         "Bed",
-        "Right click on a Bed to update your Spawnpoint. You can travel to a Spawnpoint from the Pause Menu (Esc)."
+        "Interaja com uma cama para mudar seu ponto de renascimento. No menu (ESC) é possível se teleportar para sua cama."
     ],
     [
         "Organics",
-        "Can be gathered from most of small plants in the world."
+        "Material orgânico vindo primariamente de vegetação. Como grama e arbustos"
     ],
     [
         "BambooFarm",
-        "Growing bamboo sprout. Break with a <item>Multitool</> to harvest."
+        "Faça uma floresta de Bamboo e depois de totalmente crescido, use sua <item>Multi-ferramenta</> para colher."
     ],
     [
         "PumpkinFarm",
-        "Growing pumpkin. Break with a <item>Multitool</> to harvest."
+        "Faça uma horta de Aboboras e depois de totalmente crescida, use sua <item>Multi-ferramenta</> para colher."
     ],
     [
         "AutomaticHammer",
-        "AutomaticHammerDescription"
+        "O martelo Mecânico quebra minérios e produz placas de barras"
     ],
     [
         "Macerator",
-        "MaceratorDescription"
+        "O triturador pode moer uma variedade de cascalho de minérios para aumentar sua eficiência"
     ],
     [
         "OreWasher",
-        "OreWasherDescription"
+        "LAvar cascalho sujo aumenta sua efetividade além de produzir um dejeto que pode ser filtrado para tem materiais extras"
     ],
     [
         "BlastFurnace",
-        "It has 2 inputs: one for <item>Iron Ingots</>, the other for a coke. To output a production use a <machine>Robot Arm</>."
+        "Tem espaço para duas coisas: um para <item>Barras de Ferro</>, e o outro para Coque. Use <machine>Braço robótico</> para inserir e remover materiais."
     ],
     [
         "CokeOven",
-        "Has input for a coal and output for a coke. Has fluid output for an <item>Ore Water</> marked with drop icon."
+        "Tem espaço para aceitar Carvão/Pó de carvão e saída de Coque/Pó de Coque. Tem uma saída de líquidos para o <item>Creosoto</> marcado com uma Gota."
     ],
     [
         "RobotArm",
-        "Robot Arm"
+        "Os braços Robóticos são usados para inserir itens que estão em baus/maquiná trios/esteiras ou para remover e coloca-los nos mesmos."
     ],
     [
         "FilteringRobotArm",
-        "FilteringRobotArm"
+        "Funciona de maneira semelhante ao Braço robótico normal, mais contem um seção aonde pode se dizer qual item deve ser inserido/removido"
     ],
     [
         "Conveyor",
-        "Conveyor"
+        "Esteiras levam materiais colocados nelas de um local para outro. Pode ser mover em quase todas as direções "
     ],
     [
         "ConveyorSplitter",
-        "Conveyor Splitter"
+        "Uma central aonde o material vindo da Esteira central se divide em outras Esteiras. precisa ser configurado qual saída e a quantia."
     ]
 ]
