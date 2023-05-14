@@ -240,63 +240,63 @@
         "Keményfém színű festék"
     ],
     [
-        "Column",
-        "Oszlop"
-    ],
-    [
-        "FluetedColumn",
-        "Hornyolt oszlop"
-    ],
-    [
-        "Torch",
-        "Fáklya"
-    ],
-    [
-        "Flashlight",
-        "Zseblámpa"
-    ],
-    [
-        "NightVision",
-        "Éjjellátó"
-    ],
-    [
-        "AdvancedNightVision",
-        "Fejlett éjjellátó"
-    ],
-    [
-        "Steampack",
-        "Gőzhajtómű"
-    ],
-    [
-        "Jetpack",
-        "Jetpack"
-    ],
-    [
-        "AdvancedJetpack",
-        "Fejlett jetpack"
-    ],
-    [
-        "AntigravityUnit",
-        "Antigravitációs egység"
-    ],
-    [
-        "Scanner",
-        "Szkenner"
-    ],
-    [
         "PaintGold",
-        "Paint Gold"
+        "Arany festék"
     ],
     [
         "PaintYellow",
-        "Paint Yellow"
+        "Sárga festék"
     ],
     [
         "PaintMagenta",
-        "Paint Magenta"
+        "Narancs festék"
     ],
     [
         "PaintCyan",
-        "Paint Cyan"
+        "Cián festék"
+    ],
+    [
+      "Column",
+      "Oszlop"
+    ],
+    [
+      "FluetedColumn",
+      "Hornyolt oszlop"
+    ],
+    [
+      "Torch",
+      "Fáklya"
+    ],
+    [
+      "Flashlight",
+      "Zseblámpa"
+    ],
+    [
+      "NightVision",
+      "Éjjellátó"
+    ],
+    [
+      "AdvancedNightVision",
+      "Fejlett éjjellátó"
+    ],
+    [
+      "Steampack",
+      "Gőzhajtómű"
+    ],
+    [
+      "Jetpack",
+      "Jetpack"
+    ],
+    [
+      "AdvancedJetpack",
+      "Fejlett jetpack"
+    ],
+    [
+      "AntigravityUnit",
+      "Antigravitációs egység"
+    ],
+    [
+      "Scanner",
+      "Szkenner"
     ]
 ]
