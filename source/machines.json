@@ -180,8 +180,8 @@
         "Sifter"
     ],
     [
-        "FilteringUnit",
-        "Filtering Unit"
+        "IndustrialChemReactor",
+        "Industrial Chemical Reactor"
     ],
     [
         "Furnace",
@@ -394,5 +394,13 @@
     [
         "ToggleButton",
         "Toggle Button"
+    ],
+    [
+        "HandGenerator",
+        "HandGenerator"
+    ],
+    [
+        "KineticHeater",
+        "Kinetic Heater"
     ]
 ]

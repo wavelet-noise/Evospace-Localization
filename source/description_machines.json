@@ -180,7 +180,7 @@
         ""
     ],
     [
-        "FilteringUnit",
+        "IndustrialChemReactor",
         ""
     ],
     [
@@ -393,6 +393,14 @@
     ],
     [
         "ToggleButton",
+        ""
+    ],
+    [
+        "HandGenerator",
+        ""
+    ],
+    [
+        "KineticHeater",
         ""
     ]
 ]
