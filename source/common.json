@@ -228,6 +228,10 @@
         "Capacity: {0} stacks"
     ],
     [
+        "item_rack",
+        "Capacity: {0} items"
+    ],
+    [
         "burnable",
         "Burnable"
     ],
