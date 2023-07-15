@@ -398,5 +398,21 @@
     [
         "Scaffold",
         ""
+    ],
+    [
+        "OilCrackingTower",
+        ""
+    ],
+    [
+        "IndustrialChemReactor",
+        ""
+    ],
+    [
+        "HandGenerator",
+        ""
+    ],
+    [
+        "KineticHeater",
+        ""
     ]
 ]

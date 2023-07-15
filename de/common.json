@@ -398,5 +398,13 @@
     [
         "DataConductor",
         "Conducts data"
+    ],
+    [
+        "MachineColumn",
+        "Have more item output slots with more stacked layers"
+    ],
+    [
+        "item_rack",
+        "Capacity: {0} items"
     ]
 ]

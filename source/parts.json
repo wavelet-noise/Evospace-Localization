@@ -428,6 +428,14 @@
         "Hydrogen"
     ],
     [
+        "Ethanol",
+        "Ethanol"
+    ],
+    [
+        "Methanol",
+        "Methanol"
+    ],
+    [
         "Methane",
         "Methane"
     ],
@@ -454,6 +462,14 @@
     [
         "Biomass",
         "Biomass"
+    ],
+    [
+        "FermentedBiomass",
+        "Fermented Biomass"
+    ],
+    [
+        "Ammonia",
+        "Ammonia"
     ],
     [
         "Clay",
@@ -502,6 +518,10 @@
     [
         "Gasoline",
         "Gasoline"
+    ],
+    [
+        "ExtraHeavyOil",
+        "Extra Heavy Oil"
     ],
     [
         "HeavyOil",

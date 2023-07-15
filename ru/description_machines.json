@@ -410,5 +410,21 @@
     [
         "ToggleButton",
         ""
+    ],
+    [
+        "OilCrackingTower",
+        ""
+    ],
+    [
+        "IndustrialChemReactor",
+        ""
+    ],
+    [
+        "HandGenerator",
+        ""
+    ],
+    [
+        "KineticHeater",
+        ""
     ]
 ]

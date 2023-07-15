@@ -398,5 +398,21 @@
     [
         "ToggleButton",
         "Botón de alternar"
+    ],
+    [
+        "OilCrackingTower",
+        "Oil Cracking Tower"
+    ],
+    [
+        "IndustrialChemReactor",
+        "Industrial Chemical Reactor"
+    ],
+    [
+        "HandGenerator",
+        "HandGenerator"
+    ],
+    [
+        "KineticHeater",
+        "Kinetic Heater"
     ]
 ]

@@ -894,5 +894,25 @@
     [
         "SwitchedOn",
         "Switched On"
+    ],
+    [
+        "Ethanol",
+        "Ethanol"
+    ],
+    [
+        "Methanol",
+        "Methanol"
+    ],
+    [
+        "FermentedBiomass",
+        "Fermented Biomass"
+    ],
+    [
+        "Ammonia",
+        "Ammonia"
+    ],
+    [
+        "ExtraHeavyOil",
+        "Extra Heavy Oil"
     ]
 ]

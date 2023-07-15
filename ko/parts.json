@@ -834,5 +834,25 @@
     [
         "SwitchedOn",
         "스위치 켜짐"
+    ],
+    [
+        "Ethanol",
+        "Ethanol"
+    ],
+    [
+        "Methanol",
+        "Methanol"
+    ],
+    [
+        "FermentedBiomass",
+        "Fermented Biomass"
+    ],
+    [
+        "Ammonia",
+        "Ammonia"
+    ],
+    [
+        "ExtraHeavyOil",
+        "Extra Heavy Oil"
     ]
 ]
