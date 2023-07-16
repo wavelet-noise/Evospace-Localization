@@ -376,6 +376,14 @@
         "Sodium Dust"
     ],
     [
+        "SodiumHydroxideBlock",
+        "Sodium Hydroxide Block"
+    ],
+    [
+        "SodiumHydroxideDust",
+        "Sodium Hydroxide Dust"
+    ],
+    [
         "PotassiumBlock",
         "Potassium Block"
     ],
@@ -424,8 +432,8 @@
         "Nitric Acid"
     ],
     [
-        "AshDust",
-        "Ash Dust"
+        "Ash",
+        "Ash"
     ],
     [
         "Hydrogen",
@@ -510,6 +518,10 @@
     [
         "SulfuricAcid",
         "Sulfuric Acid"
+    ],
+    [
+        "RapeseedOil",
+        "Rapeseed Oil"
     ],
     [
         "RawOil",
