@@ -420,6 +420,10 @@
         "Carbon Monoxide"
     ],
     [
+        "NitricAcid",
+        "Nitric Acid"
+    ],
+    [
         "AshDust",
         "Ash Dust"
     ],
@@ -518,6 +522,18 @@
     [
         "Gasoline",
         "Gasoline"
+    ],
+    [
+        "Diesel",
+        "Diesel"
+    ],
+    [
+        "HighCetaneDiesel",
+        "High Cetane Diesel"
+    ],
+    [
+        "Superfuel",
+        "Superfuel"
     ],
     [
         "ExtraHeavyOil",
