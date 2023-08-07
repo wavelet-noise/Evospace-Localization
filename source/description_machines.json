@@ -120,7 +120,15 @@
         ""
     ],
     [
+        "HandGenerator",
+        ""
+    ],
+    [
         "Generator",
+        ""
+    ],
+    [
+        "IndustrialGenerator",
         ""
     ],
     [
@@ -221,10 +229,6 @@
     ],
     [
         "DrillingRig",
-        ""
-    ],
-    [
-        "IndustrialGenerator",
         ""
     ],
     [
@@ -401,10 +405,6 @@
     ],
     [
         "ToggleButton",
-        ""
-    ],
-    [
-        "HandGenerator",
         ""
     ],
     [

@@ -120,8 +120,16 @@
         "Pyrolysis Unit"
     ],
     [
+        "HandGenerator",
+        "Hand Generator"
+    ],
+    [
         "Generator",
         "Generator"
+    ],
+    [
+        "IndustrialGenerator",
+        "Industrial Generator"
     ],
     [
         "CompactGenerator",
@@ -222,10 +230,6 @@
     [
         "DrillingRig",
         "Drilling Rig"
-    ],
-    [
-        "IndustrialGenerator",
-        "Industrial Generator"
     ],
     [
         "Assembler",
@@ -402,10 +406,6 @@
     [
         "ToggleButton",
         "Toggle Button"
-    ],
-    [
-        "HandGenerator",
-        "HandGenerator"
     ],
     [
         "KineticHeater",
