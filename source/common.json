@@ -144,10 +144,6 @@
         "Stores electricity<img id=\"Electricity2\"></>"
     ],
     [
-        "MachineColumn",
-        "Have more item output slots with more stacked layers"
-    ],
-    [
         "DataInput",
         "Read data"
     ],
