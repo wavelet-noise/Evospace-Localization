@@ -160,6 +160,10 @@
         "Filtering Pump"
     ],
     [
+        "OverflowPump",
+        "Overflow Pump"
+    ],
+    [
         "Smelter",
         "Smelter"
     ],
