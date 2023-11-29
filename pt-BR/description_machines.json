@@ -21,11 +21,11 @@
     ],
     [
         "Beam",
-        "Cosmético\nRustico!"
+        "Cosmético"
     ],
     [
         "Corner",
-        "Cosmético\nNão da pra usar como rampa!"
+        "Cosmético"
     ],
     [
         "AutomaticHammer",
@@ -33,15 +33,15 @@
     ],
     [
         "Boiler",
-        "Coração da geração de Vapor\nNão explode!!!"
+        "Coração da geração de Vapor"
     ],
     [
         "Pipe",
-        "Fluidos/gases são transportados aqui\nÉ Tigre?"
+        "Fluidos/gases são transportados aqui"
     ],
     [
         "HeatPipe",
-        "Calor é direcionado para onde precisa"
+        "Calor é direcionado para onde se precisa"
     ],
     [
         "Flywheel",
@@ -57,15 +57,15 @@
     ],
     [
         "AdvancedSign",
-        "Informativo\nMelhorado"
+        "Informativo"
     ],
     [
         "Connector",
-        "Transmite Eletricidade\n110v ou 220v?\nCade a tomada?!!!"
+        "Transmite Eletricidade"
     ],
     [
         "Chest",
-        "Armazena itens diversos\nNão é um Mímico!"
+        "Armazena itens diversos"
     ],
     [
         "ItemRack",
@@ -73,11 +73,11 @@
     ],
     [
         "Vent",
-        "Abre/Fecha o fluxo de Fluidos/Gases\nUm registro basicamente."
+        "Abre/Fecha o fluxo de Fluidos/Gases"
     ],
     [
         "ElectricalSwitch",
-        "Desliga e liga a transmissão de Eletricidade\nUtil para evitar consumo Passivo."
+        "Desliga e liga a transmissão de Eletricidade"
     ],
     [
         "OreWasher",
@@ -93,11 +93,11 @@
     ],
     [
         "Sorter",
-        "Direciona os itens escolhidos\nEu escolho você!"
+        "Direciona os itens escolhidos"
     ],
     [
         "Container",
-        "Represa Fluidos/Gases\nCaixa de água?Camará de Gás?"
+        "Represa Fluidos/Gases"
     ],
     [
         "Press",
@@ -105,11 +105,11 @@
     ],
     [
         "StirlingEngine",
-        "Transforma Calor em Energia Mecânica\nParece Magia!"
+        "Transforma Calor em Energia Mecânica"
     ],
     [
         "CombustionEngine",
-        "Queima combustível pra gerar Energia Mecânica\nVrrrrrrrmm!"
+        "Queima combustível pra gerar Energia Mecânica"
     ],
     [
         "PyrolysisUnit",
@@ -157,7 +157,7 @@
     ],
     [
         "ArcSmelter",
-        "Fundi materiais usando eletricidade\nNão faz café!"
+        "Fundi materiais usando eletricidade"
     ],
     [
         "ChemicalBath",
@@ -173,7 +173,7 @@
     ],
     [
         "Furnace",
-        "Queima materiais para gerar Calor\nMaterial da Fornalha aumenta a eficiência!"
+        "Queima materiais para gerar Calor\nO material da Fornalha aumenta a eficiência!"
     ],
     [
         "Oven",
@@ -189,19 +189,19 @@
     ],
     [
         "ElectricFurnace",
-        "Usa Eletricidade para gerar Calor\nNão é muito eficiente"
+        "Usa Eletricidade para gerar Calor"
     ],
     [
         "BatteryBox",
-        "Armazena Eletricidade\nAgora sim!"
+        "Armazena Eletricidade"
     ],
     [
         "SmallBattery",
-        "Armazena Eletricidade\nPraticamente uma Pilha!"
+        "Armazena Eletricidade"
     ],
     [
         "DrillingRig",
-        "Extrai Recursos da Terra\nSem Danificar o meio ambiente\nNão é incrível!"
+        "Extrai Recursos da Terra\nSem Danificar o meio ambiente"
     ],
     [
         "Assembler",
@@ -229,7 +229,7 @@
     ],
     [
         "Lamp",
-        "Ilumina uma área baseada no material\nQue haja Luz!!!!"
+        "Ilumina uma área baseada no material"
     ],
     [
         "AdminElectricGenerator",
@@ -261,11 +261,11 @@
     ],
     [
         "Mixer",
-        "Mistura matérias em compostos mais complexos \nNão faça bolo aqui!"
+        "Mistura matérias em compostos mais complexos"
     ],
     [
         "Freezer",
-        "Resfria Ligas e outros materiais\nO Inverno chegou!"
+        "Resfria Ligas e outros materiais"
     ],
     [
         "AutomaticFarm",
@@ -277,31 +277,31 @@
     ],
     [
         "Terminal",
-        "Mostra coisas\nTamanho normal"
+        "Mostra coisas"
     ],
     [
         "BigTerminal",
-        "Mostra coisas\nTamanho para míope"
+        "Mostra coisas"
     ],
     [
         "HugeTerminal",
-        "Mostra coisas\nCerteza que não é um Outdoor?!"
+        "Mostra coisas"
     ],
     [
         "FlatTerminal",
-        "Mostra coisas\nSlim, caro mais Pratico"
+        "Mostra coisas"
     ],
     [
         "BigFlatTerminal",
-        "Mostra coisas\nSerio? pra que tanto!?"
+        "Mostra coisas"
     ],
     [
         "HugeFlatTerminal",
-        "Mostra coisas\nJa é ostentação!!!"
+        "Mostra coisas"
     ],
     [
         "Computer",
-        "Usa Eletricidade para gerar Computações\nObjeto Básico para qualquer pessoa Hoje em dia."
+        "Usa Eletricidade para gerar Computações"
     ],
     [
         "QuantumComputer",
@@ -313,7 +313,7 @@
     ],
     [
         "Radiator",
-        "Dissipa Calor\nMenos do Planeta"
+        "Dissipa Calor"
     ],
     [
         "Diode",
@@ -321,7 +321,7 @@
     ],
     [
         "FissionReactor",
-        "Usa Uranium para gerar quantias Absurdas de Calor\nÉ seguro , eu juro!!!\nPode combinar materiais radioativos"
+        "Usa Uranium para gerar quantias Absurdas de Calor\nPode combinar materiais radioativos"
     ],
     [
         "FusionReactor",
@@ -333,7 +333,7 @@
     ],
     [
         "SolarPanel",
-        "Coleta Eletricidade do Sol!!"
+        "Gera Eletricidade do Sol!!"
     ],
     [
         "Pumpjack",
@@ -349,15 +349,15 @@
     ],
     [
         "CreativeController",
-        "Controlador /nem sei do que/"
+        "Controlador"
     ],
     [
         "IndustrialElectricEngine",
-        "Produz muita energia Mecânica para maquinas pesadas\nCuidado com seu cabelo!"
+        "Produz muita energia Mecânica para maquinas pesadas"
     ],
     [
         "IndustrialSteamTurbine",
-        "Produz Eletricidade em escala Industrial\nUse seu EPI!"
+        "Produz Eletricidade em escala Industrial"
     ],
     [
         "Riteg",
@@ -365,7 +365,7 @@
     ],
     [
         "IndustrialBoiler",
-        "Produz muito Vapor usando muita Água e Calor!\nAinda não explode!!!"
+        "Produz muito Vapor usando muita Água e Calor"
     ],
     [
         "Portal",
@@ -373,31 +373,31 @@
     ],
     [
         "LogicCircuit",
-        ""
+        "Circuito logico"
     ],
     [
         "LogicInterface",
-        ""
+        "Interface logica"
     ],
     [
         "LogicController",
-        ""
+        "Controlador logico"
     ],
     [
         "LogicDisplay",
-        ""
+        "Monitor logico"
     ],
     [
         "LogicWire",
-        ""
+        "Cabo logístico"
     ],
     [
         "Button",
-        ""
+        "Botão"
     ],
     [
         "ToggleButton",
-        ""
+        "Alternador"
     ],
     [
         "OilCrackingTower",

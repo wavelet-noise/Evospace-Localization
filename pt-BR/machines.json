@@ -373,31 +373,31 @@
     ],
     [
         "LogicCircuit",
-        "Logic Circuit"
+        "Circuito logico"
     ],
     [
         "LogicInterface",
-        "Logic Interface"
+        "Interface logica"
     ],
     [
         "LogicController",
-        "Logic Controller"
+        "Controlador logico"
     ],
     [
         "LogicDisplay",
-        "Logic Display"
+        "Monitor logico"
     ],
     [
         "LogicWire",
-        "Logic Wire"
+        "Cabo logístico"
     ],
     [
         "Button",
-        "Button"
+        "Botão"
     ],
     [
         "ToggleButton",
-        "Toggle Button"
+        "Alternador"
     ],
     [
         "OilCrackingTower",

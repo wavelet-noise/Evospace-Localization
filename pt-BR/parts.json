@@ -729,7 +729,7 @@
     ],
     [
         "Screwdriver",
-        "Chave Philips"
+        "Chave de ajustes"
     ],
     [
         "SuperconductorIngot",
@@ -853,23 +853,23 @@
     ],
     [
         "Capacity",
-        "Capacity"
+        "Capacidade"
     ],
     [
         "InputError",
-        "Input Error"
+        "Erro na Inserção"
     ],
     [
         "OutputError",
-        "Output Error"
+        "Erro na exportação"
     ],
     [
         "Progress",
-        "Progress"
+        "Progresso"
     ],
     [
         "SwitchedOn",
-        "Switched On"
+        "Ligado"
     ],
     [
         "Ethanol",
