@@ -190,5 +190,13 @@
     [
         "ReactionThrottling",
         "Aceleración por reacción"
+    ],
+    [
+        "FuelChemistry",
+        "Fuel Chemistry"
+    ],
+    [
+        "FuelChemistry2",
+        "Fuel Chemistry II"
     ]
 ]

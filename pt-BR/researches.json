@@ -206,5 +206,13 @@
     [
         "ReactionThrottling",
         "Pericia em Reações"
+    ],
+    [
+        "FuelChemistry",
+        "Fuel Chemistry"
+    ],
+    [
+        "FuelChemistry2",
+        "Fuel Chemistry II"
     ]
 ]

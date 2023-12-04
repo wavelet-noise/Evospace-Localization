@@ -378,5 +378,13 @@
     [
         "ReactionThrottling",
         "Reaktion Throttling"
+    ],
+    [
+        "FuelChemistry",
+        "Fuel Chemistry"
+    ],
+    [
+        "FuelChemistry2",
+        "Fuel Chemistry II"
     ]
 ]

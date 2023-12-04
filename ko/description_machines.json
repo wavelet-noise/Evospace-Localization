@@ -422,5 +422,13 @@
     [
         "KineticHeater",
         ""
+    ],
+    [
+        "IndustrialGenerator",
+        ""
+    ],
+    [
+        "OverflowPump",
+        ""
     ]
 ]
