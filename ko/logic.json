@@ -66,5 +66,9 @@
     [
         "LogicMod",
         ""
+    ],
+    [
+        "LogicWire",
+        ""
     ]
 ]
