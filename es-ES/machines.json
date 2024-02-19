@@ -409,22 +409,22 @@
     ],
     [
         "HandGenerator",
-        "HandGenerator"
+        "Generador manual"
     ],
     [
         "KineticHeater",
-        "Kinetic Heater"
+        "Calefactor cinético"
     ],
     [
         "IndustrialGenerator",
-        "Industrial Generator"
+        "Generador industrial"
     ],
     [
         "OverflowPump",
-        "Overflow Pump"
+        "Bomba de desbordamiento"
     ],
     [
         "RailStation",
-        "Rail Station"
+        "Estación de ferrocarril"
     ]
 ]
