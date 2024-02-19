@@ -837,62 +837,62 @@
     ],
     [
         "Ethanol",
-        "Ethanol"
+        "Etanol"
     ],
     [
         "Methanol",
-        "Methanol"
+        "Metanol"
     ],
     [
         "FermentedBiomass",
-        "Fermented Biomass"
+        "Biomasa fermentada"
     ],
     [
         "Ammonia",
-        "Ammonia"
+        "Amoníaco"
     ],
     [
         "ExtraHeavyOil",
-        "Extra Heavy Oil"
+        "Petróleo Extra Pesado"
     ],
     [
         "SodiumHydroxideBlock",
-        "Sodium Hydroxide Block"
+        "Bloque de hidróxido de sodio"
     ],
     [
         "SodiumHydroxideDust",
-        "Sodium Hydroxide Dust"
+        "Polvo de hidróxido de sodio"
     ],
     [
         "NitricAcid",
-        "Nitric Acid"
+        "Ácido nítrico"
     ],
     [
         "Ash",
-        "Ash"
+        "Ceniza"
     ],
     [
         "Rapeseed",
-        "Rapeseed"
+        "Colza"
     ],
     [
         "RapeseedOil",
-        "Rapeseed Oil"
+        "Aceite de colza"
     ],
     [
         "Diesel",
-        "Diesel"
+        "Gasoil"
     ],
     [
         "HighCetaneDiesel",
-        "High Cetane Diesel"
+        "Gasoil de alto cetano"
     ],
     [
         "Superfuel",
-        "Superfuel"
+        "Supercombustible"
     ],
     [
         "RocketFuel",
-        "Rocket Fuel"
+        "Combustible de cohetes"
     ]
 ]
