@@ -376,6 +376,14 @@
         "Sodium Dust"
     ],
     [
+        "SodiumHydroxideBlock",
+        "Sodium Hydroxide Block"
+    ],
+    [
+        "SodiumHydroxideDust",
+        "Sodium Hydroxide Dust"
+    ],
+    [
         "PotassiumBlock",
         "Potassium Block"
     ],
@@ -420,12 +428,20 @@
         "Carbon Monoxide"
     ],
     [
-        "AshDust",
-        "Ash Dust"
+        "NitricAcid",
+        "Nitric Acid"
+    ],
+    [
+        "Ash",
+        "Ash"
     ],
     [
         "Hydrogen",
         "Hydrogen"
+    ],
+    [
+        "Ethanol",
+        "Ethanol"
     ],
     [
         "Methane",
@@ -454,6 +470,14 @@
     [
         "Biomass",
         "Biomass"
+    ],
+    [
+        "FermentedBiomass",
+        "Fermented Biomass"
+    ],
+    [
+        "Ammonia",
+        "Ammonia"
     ],
     [
         "Clay",
@@ -492,6 +516,14 @@
         "Sulfuric Acid"
     ],
     [
+        "Rapeseed",
+        "Rapeseed"
+    ],
+    [
+        "RapeseedOil",
+        "Rapeseed Oil"
+    ],
+    [
         "RawOil",
         "Raw Oil"
     ],
@@ -502,6 +534,26 @@
     [
         "Gasoline",
         "Gasoline"
+    ],
+    [
+        "Diesel",
+        "Diesel"
+    ],
+    [
+        "HighCetaneDiesel",
+        "High Cetane Diesel"
+    ],
+    [
+        "Superfuel",
+        "Superfuel"
+    ],
+    [
+        "RocketFuel",
+        "Rocket Fuel"
+    ],
+    [
+        "ExtraHeavyOil",
+        "Extra Heavy Oil"
     ],
     [
         "HeavyOil",
@@ -818,6 +870,10 @@
     [
         "ErrorString",
         "Error String"
+    ],
+    [
+        "Drain",
+        "Drain"
     ],
     [
         "Multitool",

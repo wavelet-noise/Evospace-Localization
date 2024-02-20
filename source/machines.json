@@ -112,12 +112,24 @@
         "Combustion Engine"
     ],
     [
+        "OilCrackingTower",
+        "Oil Cracking Tower"
+    ],
+    [
         "PyrolysisUnit",
         "Pyrolysis Unit"
     ],
     [
+        "HandGenerator",
+        "Hand Generator"
+    ],
+    [
         "Generator",
         "Generator"
+    ],
+    [
+        "IndustrialGenerator",
+        "Industrial Generator"
     ],
     [
         "CompactGenerator",
@@ -146,6 +158,10 @@
     [
         "FilteringPump",
         "Filtering Pump"
+    ],
+    [
+        "OverflowPump",
+        "Overflow Pump"
     ],
     [
         "Smelter",
@@ -180,8 +196,8 @@
         "Sifter"
     ],
     [
-        "FilteringUnit",
-        "Filtering Unit"
+        "IndustrialChemReactor",
+        "Industrial Chemical Reactor"
     ],
     [
         "Furnace",
@@ -312,6 +328,10 @@
         "Big Flat Terminal"
     ],
     [
+        "RailStation",
+        "Rail Station"
+    ],
+    [
         "HugeFlatTerminal",
         "Huge Flat Terminal"
     ],
@@ -394,5 +414,9 @@
     [
         "ToggleButton",
         "Toggle Button"
+    ],
+    [
+        "KineticHeater",
+        "Kinetic Heater"
     ]
 ]

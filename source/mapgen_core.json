@@ -24,10 +24,6 @@
         "Bog Fog"
     ],
     [
-        "LavaSmokeSurface",
-        "Lava Smoke"
-    ],
-    [
         "LavaSurface",
         "Lava"
     ],
@@ -42,10 +38,6 @@
     [
         "PineForestSurface",
         "Pine Forest"
-    ],
-    [
-        "CoralBubbleEmitterSurface",
-        "Coral Bubble Emitter"
     ],
     [
         "DirtSurface",

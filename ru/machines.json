@@ -410,5 +410,33 @@
     [
         "ToggleButton",
         "Toggle Button"
+    ],
+    [
+        "OilCrackingTower",
+        "Oil Cracking Tower"
+    ],
+    [
+        "IndustrialChemReactor",
+        "Industrial Chemical Reactor"
+    ],
+    [
+        "HandGenerator",
+        "HandGenerator"
+    ],
+    [
+        "KineticHeater",
+        "Kinetic Heater"
+    ],
+    [
+        "IndustrialGenerator",
+        "Industrial Generator"
+    ],
+    [
+        "OverflowPump",
+        "Overflow Pump"
+    ],
+    [
+        "RailStation",
+        "Rail Station"
     ]
 ]

@@ -112,11 +112,23 @@
         ""
     ],
     [
+        "OilCrackingTower",
+        ""
+    ],
+    [
         "PyrolysisUnit",
         ""
     ],
     [
+        "HandGenerator",
+        ""
+    ],
+    [
         "Generator",
+        ""
+    ],
+    [
+        "IndustrialGenerator",
         ""
     ],
     [
@@ -145,6 +157,10 @@
     ],
     [
         "FilteringPump",
+        ""
+    ],
+    [
+        "OverflowPump",
         ""
     ],
     [
@@ -180,7 +196,7 @@
         ""
     ],
     [
-        "FilteringUnit",
+        "IndustrialChemReactor",
         ""
     ],
     [
@@ -312,6 +328,10 @@
         ""
     ],
     [
+        "RailStation",
+        ""
+    ],
+    [
         "HugeFlatTerminal",
         ""
     ],
@@ -393,6 +413,10 @@
     ],
     [
         "ToggleButton",
+        ""
+    ],
+    [
+        "KineticHeater",
         ""
     ]
 ]

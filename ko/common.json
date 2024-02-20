@@ -286,5 +286,13 @@
     [
         "DataConductor",
         "데이터 전달"
+    ],
+    [
+        "MachineColumn",
+        "Have more item output slots with more stacked layers"
+    ],
+    [
+        "item_rack",
+        "Capacity: {0} items"
     ]
 ]

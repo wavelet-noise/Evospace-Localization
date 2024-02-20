@@ -256,47 +256,47 @@
         "Cián festék"
     ],
     [
-      "Column",
-      "Oszlop"
+        "Column",
+        "Oszlop"
     ],
     [
-      "FluetedColumn",
-      "Hornyolt oszlop"
+        "FluetedColumn",
+        "Hornyolt oszlop"
     ],
     [
-      "Torch",
-      "Fáklya"
+        "Torch",
+        "Fáklya"
     ],
     [
-      "Flashlight",
-      "Zseblámpa"
+        "Flashlight",
+        "Zseblámpa"
     ],
     [
-      "NightVision",
-      "Éjjellátó"
+        "NightVision",
+        "Éjjellátó"
     ],
     [
-      "AdvancedNightVision",
-      "Fejlett éjjellátó"
+        "AdvancedNightVision",
+        "Fejlett éjjellátó"
     ],
     [
-      "Steampack",
-      "Gőzhajtómű"
+        "Steampack",
+        "Gőzhajtómű"
     ],
     [
-      "Jetpack",
-      "Jetpack"
+        "Jetpack",
+        "Jetpack"
     ],
     [
-      "AdvancedJetpack",
-      "Fejlett jetpack"
+        "AdvancedJetpack",
+        "Fejlett jetpack"
     ],
     [
-      "AntigravityUnit",
-      "Antigravitációs egység"
+        "AntigravityUnit",
+        "Antigravitációs egység"
     ],
     [
-      "Scanner",
-      "Szkenner"
+        "Scanner",
+        "Szkenner"
     ]
 ]

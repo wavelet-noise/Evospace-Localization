@@ -1,0 +1,74 @@
+[
+    [
+        "LogicSRLatch",
+        "SR latch is a simple memory device with two inputs, Set and Reset\n\nA - Set signal\nB - Reset signal"
+    ],
+    [
+        "LogicAdd",
+        "Result is addition of A signal value and B value"
+    ],
+    [
+        "LogicSub",
+        "Result is subtraction of B signal value from A value"
+    ],
+    [
+        "LogicMul",
+        "Result is multiplication of A signal value and B value"
+    ],
+    [
+        "LogicAnd",
+        "Result is bitwise AND of A signal value and B signal"
+    ],
+    [
+        "LogicDiv",
+        "Result is division of A signal value by A value"
+    ],
+    [
+        "LogicXor",
+        "Result is bitwise XOR of A signal value and B signal"
+    ],
+    [
+        "LogicOr",
+        "Result is bitwise OR of A signal value and B signal"
+    ],
+    [
+        "LogicConst",
+        "Constant value output"
+    ],
+    [
+        "LogicEqual",
+        "A signal value is equal to B signal"
+    ],
+    [
+        "LogicGreater",
+        "A signal value is greater than B signal"
+    ],
+    [
+        "LogicGreaterEqual",
+        "A signal value is greater or equal than B signal"
+    ],
+    [
+        "LogicLess",
+        "A signal value is less than B signal"
+    ],
+    [
+        "LogicLessEqual",
+        "A signal value is less or equal than B signal"
+    ],
+    [
+        "LogicAbs",
+        "Result is absolute value of A signal"
+    ],
+    [
+        "LogicNotEqual",
+        "A signal value is not equal to B signal"
+    ],
+    [
+        "LogicMod",
+        "Result is the remainder of a division A signal value by B signal"
+    ],
+    [
+        "LogicWire",
+        "Copy all non zero input signals to output"
+    ]
+]

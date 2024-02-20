@@ -870,5 +870,65 @@
     [
         "SwitchedOn",
         "Ligado"
+    ],
+    [
+        "Ethanol",
+        "Ethanol"
+    ],
+    [
+        "Methanol",
+        "Methanol"
+    ],
+    [
+        "FermentedBiomass",
+        "Fermented Biomass"
+    ],
+    [
+        "Ammonia",
+        "Ammonia"
+    ],
+    [
+        "ExtraHeavyOil",
+        "Extra Heavy Oil"
+    ],
+    [
+        "SodiumHydroxideBlock",
+        "Sodium Hydroxide Block"
+    ],
+    [
+        "SodiumHydroxideDust",
+        "Sodium Hydroxide Dust"
+    ],
+    [
+        "NitricAcid",
+        "Nitric Acid"
+    ],
+    [
+        "Ash",
+        "Ash"
+    ],
+    [
+        "Rapeseed",
+        "Rapeseed"
+    ],
+    [
+        "RapeseedOil",
+        "Rapeseed Oil"
+    ],
+    [
+        "Diesel",
+        "Diesel"
+    ],
+    [
+        "HighCetaneDiesel",
+        "High Cetane Diesel"
+    ],
+    [
+        "Superfuel",
+        "Superfuel"
+    ],
+    [
+        "RocketFuel",
+        "Rocket Fuel"
     ]
 ]
