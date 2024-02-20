@@ -157,7 +157,7 @@
     ],
     [
         "Boiler",
-        "BoilerDescription"
+        "Vízmelegítő"
     ],
     [
         "Pump",
@@ -165,7 +165,7 @@
     ],
     [
         "Pipe",
-        "PipeDescription"
+        "Cső"
     ],
     [
         "Bed",
@@ -185,7 +185,7 @@
     ],
     [
         "AutomaticHammer",
-        "AutomaticHammerDescription"
+        "Kalapács"
     ],
     [
         "Macerator",
@@ -193,7 +193,7 @@
     ],
     [
         "OreWasher",
-        "OreWasherDescription"
+        "Ércmosó"
     ],
     [
         "BlastFurnace",

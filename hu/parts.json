@@ -108,20 +108,12 @@
         "Réz rúd"
     ],
     [
-        "CopperBlock",
-        "Réz blokk"
-    ],
-    [
         "CopperDust",
         "Rézpor"
     ],
     [
         "GoldIngot",
         "Arany rúd"
-    ],
-    [
-        "GoldBlock",
-        "Arany blokk"
     ],
     [
         "GoldDust",
@@ -132,20 +124,12 @@
         "Szupravezető rúd"
     ],
     [
-        "SuperconductorBlock",
-        "Szupravezető blokk"
-    ],
-    [
         "SuperconductorDust",
         "Szupravezető por"
     ],
     [
         "IronIngot",
         "Vas rúd"
-    ],
-    [
-        "IronBlock",
-        "Vas blokk"
     ],
     [
         "IronDust",
@@ -168,10 +152,6 @@
         "Acél rúd"
     ],
     [
-        "SteelBlock",
-        "Acél blokk"
-    ],
-    [
         "SteelDust",
         "Acél por"
     ],
@@ -180,16 +160,8 @@
         "Alumínium rúd"
     ],
     [
-        "AluminiumBlock",
-        "Alumínium blokk"
-    ],
-    [
         "AluminiumDust",
         "Alumínium por"
-    ],
-    [
-        "AluminiumOxideBlock",
-        "Alumínium-oxid blokk"
     ],
     [
         "AluminiumOxideDust",
@@ -200,20 +172,12 @@
         "Rozsdamentes acél rúd"
     ],
     [
-        "StainlessSteelBlock",
-        "Rozsdamentes acél blokk"
-    ],
-    [
         "StainlessSteelDust",
         "Rozsdamentes acél por"
     ],
     [
         "TitaniumIngot",
         "Titán rúd"
-    ],
-    [
-        "TitaniumBlock",
-        "Titán blokk"
     ],
     [
         "TitaniumDust",
@@ -236,16 +200,8 @@
         "Előkészített titán-oxid por"
     ],
     [
-        "ZinkBlock",
-        "Cink blokk"
-    ],
-    [
         "ZinkDust",
         "Cink por"
-    ],
-    [
-        "LithiumBlock",
-        "Lítium blokk"
     ],
     [
         "LithiumDust",
@@ -268,10 +224,6 @@
         "Keményfém rúd"
     ],
     [
-        "HardMetalBlock",
-        "Keményfém blokk"
-    ],
-    [
         "HardMetalDust",
         "Keményfém por"
     ],
@@ -282,10 +234,6 @@
     [
         "HotNeutroniumIngot",
         "Forró neutrónium rúd"
-    ],
-    [
-        "CobaltBlock",
-        "Kobalt blokk"
     ],
     [
         "CobaltDust",
@@ -312,32 +260,16 @@
         "Króm por"
     ],
     [
-        "PlutoniumBlock",
-        "Plutónium blokk"
-    ],
-    [
         "PlutoniumDust",
         "Plutónium por"
-    ],
-    [
-        "UraniumBlock",
-        "Urán-238 blokk"
     ],
     [
         "UraniumDust",
         "Urán-238 por"
     ],
     [
-        "Uranium235Block",
-        "Urán-235 blokk"
-    ],
-    [
         "Uranium235Dust",
         "Urán-235 por"
-    ],
-    [
-        "Uranium233Block",
-        "Urán-233 blokk"
     ],
     [
         "Uranium233Dust",
@@ -360,24 +292,12 @@
         "Kimerült urán cella"
     ],
     [
-        "ThoriumBlock",
-        "Tórium blokk"
-    ],
-    [
         "ThoriumDust",
         "Tórium por"
     ],
     [
-        "SodiumBlock",
-        "Nátrium blokk"
-    ],
-    [
         "SodiumDust",
         "Nátrium por"
-    ],
-    [
-        "PotassiumBlock",
-        "Kálium blokk"
     ],
     [
         "PotassiumDust",
@@ -596,6 +516,10 @@
         "Kvantum mag"
     ],
     [
+        "SingularityCore",
+        "Szingularitás mag"
+    ],
+    [
         "QuantumBrain",
         "Kvantum agy"
     ],
@@ -606,14 +530,6 @@
     [
         "Catalyst",
         "Katalizátor cella"
-    ],
-    [
-        "UltimateCatalyst",
-        "Tökéletes katalizátor cella"
-    ],
-    [
-        "MothershipPing",
-        "Anyahajó szólítása"
     ],
     [
         "ControlCell",
@@ -690,26 +606,6 @@
     [
         "EmeraldDust",
         "Smaragd por"
-    ],
-    [
-        "Capacity",
-        "Kapacitás"
-    ],
-    [
-        "InputError",
-        "Beviteli hiba"
-    ],
-    [
-        "OutputError",
-        "Kimeneti hiba"
-    ],
-    [
-        "Progress",
-        "Folyamat"
-    ],
-    [
-        "SwitchedOn",
-        "Bekapcsolva"
     ],
     [
         "A",
@@ -828,67 +724,175 @@
         "Csavarhúzó"
     ],
     [
+        "CopperBlock",
+        "Réz blokk"
+    ],
+    [
+        "GoldBlock",
+        "Arany blokk"
+    ],
+    [
+        "SuperconductorBlock",
+        "Szupravezető blokk"
+    ],
+    [
+        "IronBlock",
+        "Vas blokk"
+    ],
+    [
+        "SteelBlock",
+        "Acél blokk"
+    ],
+    [
+        "AluminiumBlock",
+        "Alumínium blokk"
+    ],
+    [
+        "AluminiumOxideBlock",
+        "Alumínium-oxid blokk"
+    ],
+    [
+        "StainlessSteelBlock",
+        "Rozsdamentes acél blokk"
+    ],
+    [
+        "TitaniumBlock",
+        "Titán blokk"
+    ],
+    [
+        "ZinkBlock",
+        "Cink blokk"
+    ],
+    [
+        "LithiumBlock",
+        "Lítium blokk"
+    ],
+    [
+        "HardMetalBlock",
+        "Keményfém blokk"
+    ],
+    [
+        "CobaltBlock",
+        "Kobalt blokk"
+    ],
+    [
+        "PlutoniumBlock",
+        "Plutónium blokk"
+    ],
+    [
+        "UraniumBlock",
+        "Urán-238 blokk"
+    ],
+    [
+        "Uranium235Block",
+        "Urán-235 blokk"
+    ],
+    [
+        "Uranium233Block",
+        "Urán-233 blokk"
+    ],
+    [
+        "ThoriumBlock",
+        "Tórium blokk"
+    ],
+    [
+        "SodiumBlock",
+        "Nátrium blokk"
+    ],
+    [
+        "PotassiumBlock",
+        "Kálium blokk"
+    ],
+    [
+        "UltimateCatalyst",
+        "Tökéletes katalizátor cella"
+    ],
+    [
+        "MothershipPing",
+        "Anyahajó szólítása"
+    ],
+    [
         "PaintTool",
         "Festőhenger"
     ],
     [
+        "Capacity",
+        "Kapacitás"
+    ],
+    [
+        "InputError",
+        "Beviteli hiba"
+    ],
+    [
+        "OutputError",
+        "Kimeneti hiba"
+    ],
+    [
+        "Progress",
+        "Folyamat"
+    ],
+    [
+        "SwitchedOn",
+        "Bekapcsolva"
+    ],
+    [
         "Ethanol",
-        "Ethanol"
+        "Etanol"
     ],
     [
         "Methanol",
-        "Methanol"
+        "Metanol"
     ],
     [
         "FermentedBiomass",
-        "Fermented Biomass"
+        "Erjesztett biomassza"
     ],
     [
         "Ammonia",
-        "Ammonia"
+        "Ammónia"
     ],
     [
         "ExtraHeavyOil",
-        "Extra Heavy Oil"
+        "Extra nehézolaj"
     ],
     [
         "SodiumHydroxideBlock",
-        "Sodium Hydroxide Block"
+        "Nátrium-hidroxid blokk"
     ],
     [
         "SodiumHydroxideDust",
-        "Sodium Hydroxide Dust"
+        "Nátrium-hidroxid por"
     ],
     [
         "NitricAcid",
-        "Nitric Acid"
+        "Salétromsav"
     ],
     [
         "Ash",
-        "Ash"
+        "Hamu"
     ],
     [
         "Rapeseed",
-        "Rapeseed"
+        "Repce mag"
     ],
     [
         "RapeseedOil",
-        "Rapeseed Oil"
+        "Répa olaj"
     ],
     [
         "Diesel",
-        "Diesel"
+        "Dízel olaj"
     ],
     [
         "HighCetaneDiesel",
-        "High Cetane Diesel"
+        "Magas cetánszámú dízel olaj"
     ],
     [
         "Superfuel",
-        "Superfuel"
+        "Szuper üzemanyag"
     ],
     [
         "RocketFuel",
-        "Rocket Fuel"
+        "Rakéta üzemanyag"
     ]
 ]

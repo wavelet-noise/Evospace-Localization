@@ -144,18 +144,6 @@
         "<img id=\"Electricity2\"></>Elektromos energiát tárol"
     ],
     [
-        "DataInput",
-        "Adatot olvas"
-    ],
-    [
-        "DataOutput",
-        "Adatot ír"
-    ],
-    [
-        "DataConductor",
-        "Adatot vezet"
-    ],
-    [
         "Stone",
         "Kő"
     ],
@@ -186,14 +174,6 @@
     [
         "Neutronium",
         "Neutrónium"
-    ],
-    [
-        "Splitter",
-        ""
-    ],
-    [
-        "Sorter",
-        ""
     ],
     [
         "ips",
@@ -236,18 +216,6 @@
         "{0}x sebesség"
     ],
     [
-        "furnace_desc",
-        "{0}x égetési sebesség"
-    ],
-    [
-        "furnace_desc2",
-        "{0}x hőenergia termelés"
-    ],
-    [
-        "furnace_desc3",
-        "{0}x mozgási energia"
-    ],
-    [
         "electric_drain",
         "{0}W elektromos energia elvezetés"
     ],
@@ -288,11 +256,43 @@
         "{0} {1}"
     ],
     [
+        "Splitter",
+        "Szállított tárgyak szétosztása több irányba."
+    ],
+    [
+        "Sorter",
+        "Tárgyak szállításának szabályozása szűrökkel."
+    ],
+    [
+        "furnace_desc",
+        "{0}x égetési sebesség"
+    ],
+    [
+        "furnace_desc2",
+        "{0}x hőenergia termelés"
+    ],
+    [
+        "furnace_desc3",
+        "{0}x mozgási energia"
+    ],
+    [
+        "DataInput",
+        "Adatot olvas"
+    ],
+    [
+        "DataOutput",
+        "Adatot ír"
+    ],
+    [
+        "DataConductor",
+        "Adatot vezet"
+    ],
+    [
         "MachineColumn",
         "Have more item output slots with more stacked layers"
     ],
     [
         "item_rack",
-        "Capacity: {0} items"
+        "Tárolható {0} db tárgy"
     ]
 ]

@@ -24,6 +24,10 @@
         "Fa ajtó"
     ],
     [
+        "Fence",
+        "Kerítés"
+    ],
+    [
         "Window",
         "Faablak"
     ],
@@ -50,18 +54,6 @@
     [
         "PlasticWindow",
         "Műanyag ablak"
-    ],
-    [
-        "SteelFence",
-        "Acél kerítés"
-    ],
-    [
-        "StainlessSteelFence",
-        "Rozsdamentes acél kerítés"
-    ],
-    [
-        "Fence",
-        "Kerítés"
     ],
     [
         "Firefly",
@@ -184,6 +176,58 @@
         "Rozsdás vas burkolat"
     ],
     [
+        "Column",
+        "Oszlop"
+    ],
+    [
+        "FluetedColumn",
+        "Hornyolt oszlop"
+    ],
+    [
+        "Torch",
+        "Fáklya"
+    ],
+    [
+        "Flashlight",
+        "Zseblámpa"
+    ],
+    [
+        "NightVision",
+        "Éjjellátó"
+    ],
+    [
+        "AdvancedNightVision",
+        "Fejlett éjjellátó"
+    ],
+    [
+        "Steampack",
+        "Gőzhajtómű"
+    ],
+    [
+        "Jetpack",
+        "Jetpack"
+    ],
+    [
+        "AdvancedJetpack",
+        "Fejlett jetpack"
+    ],
+    [
+        "AntigravityUnit",
+        "Antigravitációs egység"
+    ],
+    [
+        "Scanner",
+        "Szkenner"
+    ],
+    [
+        "SteelFence",
+        "Acél kerítés"
+    ],
+    [
+        "StainlessSteelFence",
+        "Rozsdamentes acél kerítés"
+    ],
+    [
         "BasicPlatform",
         "Alap platform"
     ],
@@ -254,49 +298,5 @@
     [
         "PaintCyan",
         "Cián festék"
-    ],
-    [
-        "Column",
-        "Oszlop"
-    ],
-    [
-        "FluetedColumn",
-        "Hornyolt oszlop"
-    ],
-    [
-        "Torch",
-        "Fáklya"
-    ],
-    [
-        "Flashlight",
-        "Zseblámpa"
-    ],
-    [
-        "NightVision",
-        "Éjjellátó"
-    ],
-    [
-        "AdvancedNightVision",
-        "Fejlett éjjellátó"
-    ],
-    [
-        "Steampack",
-        "Gőzhajtómű"
-    ],
-    [
-        "Jetpack",
-        "Jetpack"
-    ],
-    [
-        "AdvancedJetpack",
-        "Fejlett jetpack"
-    ],
-    [
-        "AntigravityUnit",
-        "Antigravitációs egység"
-    ],
-    [
-        "Scanner",
-        "Szkenner"
     ]
 ]
