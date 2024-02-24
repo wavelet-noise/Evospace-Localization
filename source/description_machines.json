@@ -418,5 +418,9 @@
     [
         "KineticHeater",
         ""
+    ],
+    [
+        "CableBundle",
+        ""
     ]
 ]
