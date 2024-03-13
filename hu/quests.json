@@ -41,7 +41,7 @@
     ],
     [
         "RoadToAluminium",
-        "Folyamat az aluminiumhoz"
+        "Folyamat az alumíniumhoz"
     ],
     [
         "RoadToSS",
@@ -49,7 +49,7 @@
     ],
     [
         "RoadToTitanium",
-        "Folyamat a titaniumhoz"
+        "Folyamat a titániumhoz"
     ],
     [
         "RoadToHardMetal",
@@ -121,7 +121,7 @@
     ],
     [
         "Plate",
-        "Az összes gépet közvetlenül rudakból lehet létrehozni – ez nem a legjobb módszer.\nSokkal hatékonyabb mód, ha az <machine>Automatic Hammer</> segítségével lemezeket készítesz.\nEgy lemezt készít 1 rudból, míg a kézben készítve 1 tányért 2 rúdból készíthetsz."
+        "Az összes gépet közvetlenül rudakból lehet létrehozni – ez nem a legjobb módszer.\nSokkal hatékonyabb mód, ha az <machine>Automatic Hammer</> segítségével lemezeket készítesz.\nEgy lemezt készít 1 rúdból, míg a kézben készítve 1 tányért 2 rúdból készíthetsz."
     ],
     [
         "Refined",
@@ -181,7 +181,7 @@
     ],
     [
         "PumpkinFarm",
-        "Töktermesztés. Takarísd be egy <item>Multitool</> segítségével."
+        "Töktermesztés. Takarítsd be egy <item>Multitool</> segítségével."
     ],
     [
         "AutomaticHammer",

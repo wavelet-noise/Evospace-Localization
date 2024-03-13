@@ -29,7 +29,7 @@
     ],
     [
         "AutomaticHammer",
-        "Lemezeket készít rudból. Ércet porrá őröl."
+        "Lemezeket készít rúdból. Ércet porrá őröl."
     ],
     [
         "Boiler",
@@ -121,15 +121,15 @@
     ],
     [
         "RobotArm",
-        "Tárgyakat helyez át gépek és szállítószallagok között."
+        "Tárgyakat helyez át gépek és szállítószalagok között."
     ],
     [
         "FilteringRobotArm",
-        "Kiválasztott tárgyakat helyez át gépek és szállítószallagok között."
+        "Kiválasztott tárgyakat helyez át gépek és szállítószalagok között."
     ],
     [
         "Pump",
-        "Folyadékot mozgat gépek és csővezetékek között. Vízet szivattyúz ha vízbe építed."
+        "Folyadékot mozgat gépek és csővezetékek között. Vizet szivattyúz ha vízbe építed."
     ],
     [
         "FilteringPump",
@@ -181,11 +181,11 @@
     ],
     [
         "DrillingRig",
-        "Automatikus érkitermelő eszköz. Meg vannak jelölve a lelőhelyek a térképen. Szkenner segítségével keress új lelőhelyeket."
+        "Automatikus érckitermelő eszköz. A térképen jelölve vannak az érc lelőhelyek. Szkenner segítségével keress új lelőhelyeket."
     ],
     [
         "Assembler",
-        "Eszköz kis tárgyak és mikrochipek összeszerelésére."
+        "Eszköz kis tárgyak és mikrocsipek összeszerelésére."
     ],
     [
         "FluidDump",
@@ -361,7 +361,7 @@
     ],
     [
         "Freezer",
-        "Forró fémeket hűt le ruddá"
+        "Forró fémeket hűt le rúddá"
     ],
     [
         "FusionReactor",
@@ -381,7 +381,7 @@
     ],
     [
         "LogicCircuit",
-        "Vezérlő logikákat készthet"
+        "Vezérlő logikákat készíthet"
     ],
     [
         "LogicInterface",

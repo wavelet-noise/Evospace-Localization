@@ -5,7 +5,7 @@
     ],
     [
         "SteelPlate",
-        "Acéllemez"
+        "Acél lemez"
     ],
     [
         "AluminiumPlate",
@@ -109,7 +109,7 @@
     ],
     [
         "CopperDust",
-        "Rézpor"
+        "Réz por"
     ],
     [
         "GoldIngot",
@@ -217,7 +217,7 @@
     ],
     [
         "TungstenCarbideDust",
-        "Volfrámkarbid por"
+        "Volfrám-karbid por"
     ],
     [
         "HardMetalIngot",
@@ -553,11 +553,11 @@
     ],
     [
         "UraniniteCrystal",
-        "Uránszurokérc kristály"
+        "Urán-szurokérc kristály"
     ],
     [
         "UraniniteCluster",
-        "Uránszurokérc fürt"
+        "Urán-szurokérc fürt"
     ],
     [
         "CinnabarDust",
@@ -781,15 +781,15 @@
     ],
     [
         "UraniumBlock",
-        "Urán-238 blokk"
+        "Urán–238 blokk"
     ],
     [
         "Uranium235Block",
-        "Urán-235 blokk"
+        "Urán–235 blokk"
     ],
     [
         "Uranium233Block",
-        "Urán-233 blokk"
+        "Urán–233 blokk"
     ],
     [
         "ThoriumBlock",
@@ -865,7 +865,7 @@
     ],
     [
         "NitricAcid",
-        "Salétromsav"
+        "Salétrom sav"
     ],
     [
         "Ash",
@@ -917,7 +917,7 @@
     ],
     [
         "HardMetalGearbox",
-        "Kemény fém sebességváltó"
+        "Keményfém sebességváltó"
     ],
     [
         "NeutroniumGearbox",
@@ -937,7 +937,7 @@
     ],
     [
         "HardMetalSolarCell",
-        "Kemény fém napcella"
+        "Keményfém napcella"
     ],
     [
         "NeutroniumSolarCell",

@@ -25,7 +25,7 @@
     ],
     [
         "LogicXor",
-        "'A' kizáró vagy 'B' logikaa (XOR)"
+        "'A' kizáró vagy 'B' logika (XOR)"
     ],
     [
         "LogicOr",
