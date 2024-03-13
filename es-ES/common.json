@@ -209,7 +209,7 @@
     ],
     [
         "burnable",
-        "Burnable<img id=\"Heat2\"></>\nTotal Calor: {0}J"
+        "Incinerable<img id=\"Heat2\"></>\nTotal Calor: {0}J"
     ],
     [
         "speedbonus",
@@ -289,10 +289,10 @@
     ],
     [
         "MachineColumn",
-        "Have more item output slots with more stacked layers"
+        "Tener más ranuras de salida de artículos con más apilados"
     ],
     [
         "item_rack",
-        "Capacity: {0} items"
+        "Capacidad: {0} artículos"
     ]
 ]

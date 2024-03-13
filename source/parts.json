@@ -84,6 +84,54 @@
         "Neutronium Casing"
     ],
     [
+        "CopperGearbox",
+        "Copper Gearbox"
+    ],
+    [
+        "SteelGearbox",
+        "Steel Gearbox"
+    ],
+    [
+        "AluminiumGearbox",
+        "Aluminium Gearbox"
+    ],
+    [
+        "StainlessSteelGearbox",
+        "Stainless Steel Gearbox"
+    ],
+    [
+        "TitaniumGearbox",
+        "Titanium Gearbox"
+    ],
+    [
+        "HardMetalGearbox",
+        "Hard Metal Gearbox"
+    ],
+    [
+        "NeutroniumGearbox",
+        "Neutronium Gearbox"
+    ],
+    [
+        "AluminiumSolarCell",
+        "Aluminium Solar Cell"
+    ],
+    [
+        "StainlessSteelSolarCell",
+        "Stainless Steel Solar Cell"
+    ],
+    [
+        "TitaniumSolarCell",
+        "Titanium Solar Cell"
+    ],
+    [
+        "HardMetalSolarCell",
+        "Hard Metal Solar Cell"
+    ],
+    [
+        "NeutroniumSolarCell",
+        "Neutronium Solar Cell"
+    ],
+    [
         "Hand",
         "Hand"
     ],
@@ -764,6 +812,14 @@
         "Switched On"
     ],
     [
+        "Drain",
+        "Drain"
+    ],
+    [
+        "Percent",
+        "Percent"
+    ],
+    [
         "A",
         "A"
     ],
@@ -870,10 +926,6 @@
     [
         "ErrorString",
         "Error String"
-    ],
-    [
-        "Drain",
-        "Drain"
     ],
     [
         "Multitool",

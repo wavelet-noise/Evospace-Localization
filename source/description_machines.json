@@ -140,6 +140,10 @@
         ""
     ],
     [
+        "BiElectricEngine",
+        ""
+    ],
+    [
         "IndustrialElectricEngine",
         ""
     ],
@@ -372,6 +376,10 @@
         ""
     ],
     [
+        "SmallSolarPanel",
+        ""
+    ],
+    [
         "Pumpjack",
         ""
     ],
@@ -417,6 +425,10 @@
     ],
     [
         "KineticHeater",
+        ""
+    ],
+    [
+        "CableBundle",
         ""
     ]
 ]

@@ -140,6 +140,10 @@
         "Electric Engine"
     ],
     [
+        "BiElectricEngine",
+        "Bi-Directional Electric Engine"
+    ],
+    [
         "IndustrialElectricEngine",
         "Industrial Electric Engine"
     ],
@@ -372,6 +376,10 @@
         "Solar Panel"
     ],
     [
+        "SmallSolarPanel",
+        "Small Solar Panel"
+    ],
+    [
         "Pumpjack",
         "Pumpjack"
     ],
@@ -418,5 +426,9 @@
     [
         "KineticHeater",
         "Kinetic Heater"
+    ],
+    [
+        "CableBundle",
+        "Cable Bundle"
     ]
 ]
