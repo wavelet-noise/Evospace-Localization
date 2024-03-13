@@ -72,8 +72,20 @@
         "Automatikus bányászat"
     ],
     [
+        "FluidFurnace",
+        "Folyadék fűtésű kemence"
+    ],
+    [
         "MetalConstructions",
         "Fém szerkezetek"
+    ],
+    [
+        "Scaffold",
+        "Állványzat"
+    ],
+    [
+        "Lamp",
+        "Lámpa"
     ],
     [
         "Chemistry",
@@ -101,7 +113,7 @@
     ],
     [
         "NeutroniumProduction",
-        "Neutronium termelés"
+        "Neutrónium termelés"
     ],
     [
         "AluminiumProduction",
@@ -118,6 +130,10 @@
     [
         "HardMetalProduction",
         "Keményfém gyártás"
+    ],
+    [
+        "PlantsScan",
+        "Növények szkennelő"
     ],
     [
         "InitialScan",
@@ -137,7 +153,11 @@
     ],
     [
         "Metalwork",
-        "Fém munka"
+        "Fém technológia"
+    ],
+    [
+        "Steelwork",
+        "Acél technológia"
     ],
     [
         "Filtering",
@@ -177,10 +197,10 @@
     ],
     [
         "FuelChemistry",
-        "Fuel Chemistry"
+        "Üzemanyag finomítás"
     ],
     [
         "FuelChemistry2",
-        "Fuel Chemistry II"
+        "Fejlett üzemanyag finomítás"
     ]
 ]

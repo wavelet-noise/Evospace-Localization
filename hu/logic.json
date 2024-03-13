@@ -1,74 +1,74 @@
 [
     [
         "LogicSRLatch",
-        ""
+        "Az SR tároló egy egyszerű memória\n\nA - Jel beállítás\nB - Jel törlés"
     ],
     [
         "LogicAdd",
-        ""
+        "'A'-hoz hozzáadva 'B'"
     ],
     [
         "LogicSub",
-        ""
+        "'A'-ból kivonva 'B'"
     ],
     [
         "LogicMul",
-        ""
+        "'A' szorozva 'B'-vel"
     ],
     [
         "LogicAnd",
-        ""
+        "'A' és 'B' logika (AND)"
     ],
     [
         "LogicDiv",
-        ""
+        "'A' osztva 'B'-vel"
     ],
     [
         "LogicXor",
-        ""
+        "'A' kizáró vagy 'B' logika (XOR)"
     ],
     [
         "LogicOr",
-        ""
+        "'A' vagy 'B' logika (OR)"
     ],
     [
         "LogicConst",
-        ""
+        "Fix érték kimenet létrehozása"
     ],
     [
         "LogicEqual",
-        ""
+        "'A' egyenlő 'B'-vel ellenőrzése"
     ],
     [
         "LogicGreater",
-        ""
+        "'A' negyobb mint 'B' ellenőrzés"
     ],
     [
         "LogicGreaterEqual",
-        ""
+        "'A' nagyobb vagy egyenlő 'B'-vel ellenőrzése"
     ],
     [
         "LogicLess",
-        ""
+        "'A' kisebb 'B'-nél ellenőrzése"
     ],
     [
         "LogicLessEqual",
-        ""
+        "'A' kisebb vagy egyenlő 'B'-vel ellenőrzése"
     ],
     [
         "LogicAbs",
-        ""
+        "'A' abszolút értéke"
     ],
     [
         "LogicNotEqual",
-        ""
+        "'A' nem egyenlő 'B'-vel ellenőrzése"
     ],
     [
         "LogicMod",
-        ""
+        "'A' osztva 'B'-vel maradék képzése"
     ],
     [
         "LogicWire",
-        ""
+        "Minden nem nulla bemenetet átmásol a kimenetre"
     ]
 ]

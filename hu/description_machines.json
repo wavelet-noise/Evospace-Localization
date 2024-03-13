@@ -29,7 +29,7 @@
     ],
     [
         "AutomaticHammer",
-        "Lemezeket készít rudból. Ércet porrá őröl."
+        "Lemezeket készít rúdból. Ércet porrá őröl."
     ],
     [
         "Boiler",
@@ -53,10 +53,6 @@
     ],
     [
         "Sign",
-        "Felirat elhelyezése"
-    ],
-    [
-        "AdvancedSign",
         "Felirat elhelyezése"
     ],
     [
@@ -88,20 +84,16 @@
         "Tárgyakat szállít"
     ],
     [
-        "Splitter",
-        "Szállított tárgyak szétosztása több irányba."
-    ],
-    [
-        "Sorter",
-        "Tárgyak szállításának szabályozása szűrökkel."
-    ],
-    [
         "Container",
         "Csővezetékhez csatlakoztatható tároló tartály"
     ],
     [
         "Press",
         "Blokkok készítésére használható"
+    ],
+    [
+        "Compressor",
+        ""
     ],
     [
         "StirlingEngine",
@@ -128,20 +120,16 @@
         "Elektromos energiából mozgási energiát állít elő."
     ],
     [
-        "IndustrialElectricEngine",
-        "Nagyon erős elektromos motor."
-    ],
-    [
         "RobotArm",
-        "Tárgyakat helyez át gépek és szállítószallagok között."
+        "Tárgyakat helyez át gépek és szállítószalagok között."
     ],
     [
         "FilteringRobotArm",
-        "Kiválasztott tárgyakat helyez át gépek és szállítószallagok között."
+        "Kiválasztott tárgyakat helyez át gépek és szállítószalagok között."
     ],
     [
         "Pump",
-        "Folyadékot mozgat gépek és csővezetékek között. Vízet szivattyúz ha vízbe építed."
+        "Folyadékot mozgat gépek és csővezetékek között. Vizet szivattyúz ha vízbe építed."
     ],
     [
         "FilteringPump",
@@ -156,16 +144,8 @@
         "Mozgási energiát állít elő gőz segítségével."
     ],
     [
-        "IndustrialSteamTurbine",
-        "A gőzturbina és a generátor nagyon erős hibridje."
-    ],
-    [
         "GasTurbine",
         "Mozgási energiát állít elő üzemanyag égetésével."
-    ],
-    [
-        "Riteg",
-        "Radioizotópos hőenergia forrás."
     ],
     [
         "ArcSmelter",
@@ -174,14 +154,6 @@
     [
         "ChemicalBath",
         "Ércporból értékes anyagokat állít elő katalizátor segítségével"
-    ],
-    [
-        "Sifter",
-        "Kavicsból port és speciális anyagokat szitál ki"
-    ],
-    [
-        "FilteringUnit",
-        ""
     ],
     [
         "Furnace",
@@ -208,40 +180,16 @@
         "Nagy kapacitású elektromos energia tároló."
     ],
     [
-        "SmallBattery",
-        "Elektromos energia tároló."
-    ],
-    [
-        "Portal",
-        ""
-    ],
-    [
         "DrillingRig",
-        "Automatikus érkitermelő eszköz. Meg vannak jelölve a lelőhelyek a térképen. Szkenner segítségével keress új lelőhelyeket."
+        "Automatikus érckitermelő eszköz. A térképen jelölve vannak az érc lelőhelyek. Szkenner segítségével keress új lelőhelyeket."
     ],
     [
         "Assembler",
-        "Eszköz kis tárgyak és mikrochipek összeszerelésére."
-    ],
-    [
-        "Constructor",
-        "Gépek gyártása"
-    ],
-    [
-        "Deconstructor",
-        "Tárgyak, készülékek szétbontása összetevőkre."
+        "Eszköz kis tárgyak és mikrocsipek összeszerelésére."
     ],
     [
         "FluidDump",
         "Elpusztítja a folyadékot."
-    ],
-    [
-        "GasDump",
-        "Elpusztítja a csöveken érkező anyagokat."
-    ],
-    [
-        "SolidDump",
-        "Elpusztítja a bele helyezett tárgyakat."
     ],
     [
         "Lamp",
@@ -278,10 +226,6 @@
     [
         "Mixer",
         "Keverékek és betontömbök előállítására szolgáló készülék."
-    ],
-    [
-        "Freezer",
-        "Forró fémeket hűt le ruddá"
     ],
     [
         "AutomaticFarm",
@@ -340,20 +284,16 @@
         ""
     ],
     [
-        "FusionReactor",
-        ""
-    ],
-    [
-        "IndustrialBoiler",
-        "Nagyon erős kazán nagy belső pufferrel"
-    ],
-    [
         "SolarPanel",
         "Napelemből ingyen energia nyerhető"
     ],
     [
         "Pumpjack",
         "Automatikus készülék folyadékok kitermelésére. A lelőhelyek a térképen vannak jelölve. Szkenner segítségével új lelőhelyeket kereshet."
+    ],
+    [
+        "HeatExchanger",
+        ""
     ],
     [
         "IndustrialSmelter",
@@ -364,12 +304,84 @@
         "Nagy mennyiségű hőenergiát állít elő elektromos energiából."
     ],
     [
+        "Scaffold",
+        ""
+    ],
+    [
+        "AdvancedSign",
+        "Felirat elhelyezése"
+    ],
+    [
+        "Splitter",
+        "Szállított tárgyak szétosztása több irányba."
+    ],
+    [
+        "Sorter",
+        "Tárgyak szállításának szabályozása szűrökkel."
+    ],
+    [
+        "IndustrialElectricEngine",
+        "Nagyon erős elektromos motor."
+    ],
+    [
+        "IndustrialSteamTurbine",
+        "A gőzturbina és a generátor nagyon erős hibridje."
+    ],
+    [
+        "Riteg",
+        "Radioizotópos hőenergia forrás."
+    ],
+    [
+        "Sifter",
+        "Kavicsból port és speciális anyagokat szitál ki"
+    ],
+    [
+        "FilteringUnit",
+        ""
+    ],
+    [
+        "SmallBattery",
+        "Elektromos energia tároló."
+    ],
+    [
+        "Constructor",
+        "Gépek gyártása"
+    ],
+    [
+        "Deconstructor",
+        "Tárgyak, készülékek szétbontása összetevőkre."
+    ],
+    [
+        "GasDump",
+        "Elpusztítja a csöveken érkező anyagokat."
+    ],
+    [
+        "SolidDump",
+        "Elpusztítja a bele helyezett tárgyakat."
+    ],
+    [
+        "Freezer",
+        "Forró fémeket hűt le rúddá"
+    ],
+    [
+        "FusionReactor",
+        ""
+    ],
+    [
+        "IndustrialBoiler",
+        "Nagyon erős kazán nagy belső pufferrel"
+    ],
+    [
         "CreativeController",
         ""
     ],
     [
+        "Portal",
+        ""
+    ],
+    [
         "LogicCircuit",
-        "Vezérlő logikákat készthet"
+        "Vezérlő logikákat készíthet"
     ],
     [
         "LogicInterface",
@@ -393,10 +405,6 @@
     ],
     [
         "ToggleButton",
-        ""
-    ],
-    [
-        "Scaffold",
         ""
     ],
     [
@@ -425,6 +433,18 @@
     ],
     [
         "RailStation",
+        ""
+    ],
+    [
+        "BiElectricEngine",
+        ""
+    ],
+    [
+        "SmallSolarPanel",
+        ""
+    ],
+    [
+        "CableBundle",
         ""
     ]
 ]
