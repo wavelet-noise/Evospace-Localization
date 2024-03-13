@@ -894,5 +894,61 @@
     [
         "RocketFuel",
         "Rakéta üzemanyag"
+    ],
+    [
+        "CopperGearbox",
+        "Réz sebességváltó"
+    ],
+    [
+        "SteelGearbox",
+        "Acél sebességváltó"
+    ],
+    [
+        "AluminiumGearbox",
+        "Alumínium sebességváltó"
+    ],
+    [
+        "StainlessSteelGearbox",
+        "Rozsdamentes acél sebességváltó"
+    ],
+    [
+        "TitaniumGearbox",
+        "Titán sebességváltó"
+    ],
+    [
+        "HardMetalGearbox",
+        "Kemény fém sebességváltó"
+    ],
+    [
+        "NeutroniumGearbox",
+        "Neutrónium sebességváltó"
+    ],
+    [
+        "AluminiumSolarCell",
+        "Alumínium napcella"
+    ],
+    [
+        "StainlessSteelSolarCell",
+        "Rozsdamentes acél napcella"
+    ],
+    [
+        "TitaniumSolarCell",
+        "Titán napcella"
+    ],
+    [
+        "HardMetalSolarCell",
+        "Kemény fém napcella"
+    ],
+    [
+        "NeutroniumSolarCell",
+        "Neutrónium napcella"
+    ],
+    [
+        "Drain",
+        "Lefolyó"
+    ],
+    [
+        "Percent",
+        "Százalék"
     ]
 ]

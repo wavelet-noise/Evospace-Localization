@@ -426,5 +426,17 @@
     [
         "RailStation",
         "Vasútállomás"
+    ],
+    [
+        "BiElectricEngine",
+        "Kétirányú villanymotor"
+    ],
+    [
+        "SmallSolarPanel",
+        "Kicsi napelem"
+    ],
+    [
+        "CableBundle",
+        "Kábelköteg"
     ]
 ]

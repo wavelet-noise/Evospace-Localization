@@ -298,5 +298,37 @@
     [
         "PaintCyan",
         "Cián festék"
+    ],
+    [
+        "ConcreteRamp",
+        "Beton rámpa"
+    ],
+    [
+        "ConcreteRamp2",
+        "Beton rámpa 2"
+    ],
+    [
+        "ConcreteRamp3",
+        "Beton rámpa 3"
+    ],
+    [
+        "ConcreteBeam",
+        "Beton gerenda"
+    ],
+    [
+        "ConcreteBeam2",
+        "Beton gerenda 2"
+    ],
+    [
+        "HighPressureSteampack",
+        "Nagynyomású gőzhajtómű"
+    ],
+    [
+        "HighCapacitySteampack",
+        "Nagy kapacitású gőzhajtómű"
+    ],
+    [
+        "AdvancedSteampack",
+        "Fejlett gőzhajtómű"
     ]
 ]
