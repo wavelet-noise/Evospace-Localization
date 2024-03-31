@@ -140,6 +140,10 @@
         "Electric Engine"
     ],
     [
+        "BiElectricEngine",
+        "Bi-Directional Electric Engine"
+    ],
+    [
         "IndustrialElectricEngine",
         "Industrial Electric Engine"
     ],
@@ -370,6 +374,10 @@
     [
         "SolarPanel",
         "Solar Panel"
+    ],
+    [
+        "SmallSolarPanel",
+        "Small Solar Panel"
     ],
     [
         "Pumpjack",

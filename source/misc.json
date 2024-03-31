@@ -36,6 +36,26 @@
         "Stairs"
     ],
     [
+        "ConcreteRamp",
+        "Concrete Ramp"
+    ],
+    [
+        "ConcreteRamp2",
+        "Concrete Ramp2"
+    ],
+    [
+        "ConcreteRamp3",
+        "Concrete Ramp3"
+    ],
+    [
+        "ConcreteBeam",
+        "Concrete Beam"
+    ],
+    [
+        "ConcreteBeam2",
+        "Concrete Beam2"
+    ],
+    [
         "WoodenStairs",
         "Wooden Stairs"
     ],

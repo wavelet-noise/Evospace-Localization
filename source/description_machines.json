@@ -140,6 +140,10 @@
         ""
     ],
     [
+        "BiElectricEngine",
+        ""
+    ],
+    [
         "IndustrialElectricEngine",
         ""
     ],
@@ -369,6 +373,10 @@
     ],
     [
         "SolarPanel",
+        ""
+    ],
+    [
+        "SmallSolarPanel",
         ""
     ],
     [
