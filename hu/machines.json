@@ -212,10 +212,6 @@
         "Kis akkumulátor"
     ],
     [
-        "Portal",
-        "Portál"
-    ],
-    [
         "DrillingRig",
         "Bányászgép"
     ],
@@ -348,6 +344,10 @@
         "Ipari bojler"
     ],
     [
+        "ResearchReactor",
+        "Kutató reaktor"
+    ],
+    [
         "SolarPanel",
         "Napelem"
     ],
@@ -366,6 +366,10 @@
     [
         "CreativeController",
         "Kreatív vezérlő"
+    ],
+    [
+        "Portal",
+        "Portál"
     ],
     [
         "LogicCircuit",
@@ -397,30 +401,42 @@
     ],
     [
         "OilCrackingTower",
-        "Oil Cracking Tower"
+        "Olaj fúrótorony"
     ],
     [
         "IndustrialChemReactor",
-        "Industrial Chemical Reactor"
+        "Ipari vegyi reaktor"
     ],
     [
         "HandGenerator",
-        "HandGenerator"
+        "Kézi generátor"
     ],
     [
         "KineticHeater",
-        "Kinetic Heater"
+        "Kinetikus fűtő berendezés"
     ],
     [
         "IndustrialGenerator",
-        "Industrial Generator"
+        "Ipari áramfejlesztő"
     ],
     [
         "OverflowPump",
-        "Overflow Pump"
+        "Túlfolyó szivattyú"
     ],
     [
         "RailStation",
-        "Rail Station"
+        "Vasútállomás"
+    ],
+    [
+        "BiElectricEngine",
+        "Kétirányú villanymotor"
+    ],
+    [
+        "SmallSolarPanel",
+        "Kicsi napelem"
+    ],
+    [
+        "CableBundle",
+        "Kábelköteg"
     ]
 ]
