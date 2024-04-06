@@ -1,187 +1,171 @@
 [
     [
         "InventoryUpgrade",
-        "Mejora del inventario"
+        "Inventory Upgrade"
     ],
     [
         "PlutoniumReaction",
-        "Reacción del plutonio"
+        "Plutonium Reaction"
     ],
     [
         "ThoriumReaction",
-        "Reacción del torio"
+        "Thorium Reaction"
     ],
     [
         "Drying",
-        "Secado"
+        "Drying"
     ],
     [
         "PowerGeneration",
-        "Generación de Energía"
+        "Power Generation"
     ],
     [
         "Automatization",
-        "Automatización"
+        "Automatization"
     ],
     [
         "AdditionalStorage",
-        "Almacén Avanzado"
+        "Additional Storage"
     ],
     [
         "HeatTransferring",
-        "Transferencia de Calor"
+        "Heat Transferring"
     ],
     [
         "BasicMachines",
-        "Máquinas Básicas"
+        "Basic Machines"
     ],
     [
         "Container",
-        "Depósito de líquidos"
+        "Fluid Storage"
     ],
     [
         "FluidDumping",
-        "Vertido de Líquidos"
+        "Fluid Dumping"
     ],
     [
         "SingleTypeStorage",
-        "Almacén de tipo Único"
+        "Single Type Storage"
     ],
     [
         "DistributedComputing",
-        "Computación Distribuida"
+        "Distributed Computing"
     ],
     [
         "Electrolysis",
-        "Electrólisis"
+        "Electrolysis"
     ],
     [
         "Sign",
-        "Cartel"
+        "Sign"
     ],
     [
         "Cutting",
-        "Máquina de Corte"
+        "Cutting"
     ],
     [
         "SteelProduction",
-        "Producción de Acero"
+        "Steel Production"
     ],
     [
         "AutomaticMining",
-        "Minería Automática"
-    ],
-    [
-        "FluidFurnace",
-        "Horno de Líquidos"
+        "Automatic Mining"
     ],
     [
         "MetalConstructions",
-        "Construcciones Metálicas"
-    ],
-    [
-        "Scaffold",
-        "Andamio"
+        "Metal Constructions"
     ],
     [
         "Chemistry",
-        "Química"
+        "Chemistry"
     ],
     [
         "MassivePowerGeneration",
-        "Generación de Energía Masiva"
+        "Massive Power Generation"
     ],
     [
         "AdvancedSmelting",
-        "Fundición Avanzada"
+        "Advanced Smelting"
     ],
     [
         "IndustrialSmelting",
-        "Fundición industrial"
+        "Industrial Smelting"
     ],
     [
         "Fermentation",
-        "Fermentación"
+        "Fermentation"
     ],
     [
         "AdvancedSeparation",
-        "Separación avanzada"
+        "Advanced Separation"
     ],
     [
         "NeutroniumProduction",
-        "Producción de Neutronio"
+        "Neutronium Production"
     ],
     [
         "AluminiumProduction",
-        "Producción de aluminio"
+        "Aluminium Production"
     ],
     [
         "StainlessSteelProduction",
-        "Producción de acero inoxidable"
+        "Stainless Steel Production"
     ],
     [
         "TitaniumProduction",
-        "Producción de titanio"
+        "Titanium Production"
     ],
     [
         "HardMetalProduction",
-        "Producción de metal duro"
-    ],
-    [
-        "PlantsScan",
-        "Escaneo de plantas"
+        "Hard Metal Production"
     ],
     [
         "InitialScan",
-        "Escaneo inicial"
+        "Initial Scan"
     ],
     [
         "MineralsScan",
-        "Escaneo de minerales"
+        "Minerals Scan"
     ],
     [
         "Electricity",
-        "Electricidad"
+        "Electricity"
     ],
     [
         "Smelting",
-        "Fundición"
+        "Smelting"
     ],
     [
         "Metalwork",
-        "Metalurgia"
-    ],
-    [
-        "Steelwork",
-        "Acería"
+        "Metalwork"
     ],
     [
         "Filtering",
-        "Filtros"
+        "Filtering"
     ],
     [
         "DecorativeWood",
-        "Madera Decorativa"
+        "Decorative Wood"
     ],
     [
         "DecorativePlastic",
-        "Plástico Decorativo"
+        "Decorative Plastic"
     ],
     [
         "DecorativeStone",
-        "Piedra Decorativa"
+        "Decorative Stone"
     ],
     [
         "DecorativeConcrete",
-        "Hormigón Decorativo"
+        "Decorative Concrete"
     ],
     [
         "DecorationClay",
-        "Arcilla decorativa"
+        "Decoration Clay"
     ],
     [
         "ReinforcedConcrete",
-        "Hormigón armado decorativo"
+        "Decorative Reinforced Concrete"
     ],
     [
         "AdvancedReflection",
@@ -189,14 +173,14 @@
     ],
     [
         "ReactionThrottling",
-        "Aceleración por reacción"
+        "Reaction Throttling"
     ],
     [
         "FuelChemistry",
-        "Química del combustible"
+        "Fuel Chemistry"
     ],
     [
         "FuelChemistry2",
-        "Química de los combustibles II"
+        "Fuel Chemistry II"
     ]
 ]

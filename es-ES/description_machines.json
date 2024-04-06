@@ -426,5 +426,17 @@
     [
         "RailStation",
         ""
+    ],
+    [
+        "BiElectricEngine",
+        ""
+    ],
+    [
+        "SmallSolarPanel",
+        ""
+    ],
+    [
+        "CableBundle",
+        ""
     ]
 ]

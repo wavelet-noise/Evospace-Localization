@@ -1,167 +1,187 @@
 [
     [
         "Macerator",
-        "打粉器"
+        "Macerator"
     ],
     [
         "CuttingMachine",
-        "切割器"
+        "Cutting Machine"
     ],
     [
         "Fermenter",
-        "发酵罐"
+        "Fermenter"
     ],
     [
         "ChemReactor",
-        "化学反应器"
+        "Chemical Reactor"
     ],
     [
         "Separator",
-        "分离器"
+        "Separator"
     ],
     [
         "Beam",
-        "梁"
+        "Beam"
     ],
     [
         "Corner",
-        "角"
+        "Corner"
     ],
     [
         "AutomaticHammer",
-        "自动锤"
+        "Automatic Hammer"
     ],
     [
         "Boiler",
-        "锅炉"
+        "Boiler"
     ],
     [
         "Pipe",
-        "管道"
+        "Pipe"
     ],
     [
         "HeatPipe",
-        "热管"
+        "Heat Pipe"
     ],
     [
         "Flywheel",
-        "飞轮"
+        "Flywheel"
     ],
     [
         "Scaffold",
-        "脚手架"
+        "Scaffold"
     ],
     [
         "Sign",
-        "标志"
+        "Sign"
     ],
     [
         "AdvancedSign",
-        "先进标志"
+        "Advanced Sign"
     ],
     [
         "Connector",
-        "电缆"
+        "Cable"
     ],
     [
         "Chest",
-        "箱子"
+        "Chest"
     ],
     [
         "ItemRack",
-        "物品架"
+        "Item Rack"
     ],
     [
         "Vent",
-        "阀门"
+        "Valve"
     ],
     [
         "ElectricalSwitch",
-        "开关"
+        "Switch"
     ],
     [
         "OreWasher",
-        "洗矿机"
+        "Ore Washer"
     ],
     [
         "Conveyor",
-        "传送带"
+        "Conveyor"
     ],
     [
         "Splitter",
-        "路由器"
+        "Splitter"
     ],
     [
         "Sorter",
-        "分拣器"
+        "Sorter"
     ],
     [
         "Container",
-        "容器"
+        "Container"
     ],
     [
         "Press",
-        "液压机"
+        "Press"
     ],
     [
         "StirlingEngine",
-        "特斯林发动机"
+        "Stirling Engine"
     ],
     [
         "CombustionEngine",
-        "内燃机"
+        "Combustion Engine"
+    ],
+    [
+        "OilCrackingTower",
+        "Oil Cracking Tower"
     ],
     [
         "PyrolysisUnit",
-        "分馏器"
+        "Pyrolysis Unit"
+    ],
+    [
+        "HandGenerator",
+        "Hand Generator"
     ],
     [
         "Generator",
-        "发电机"
+        "Generator"
+    ],
+    [
+        "IndustrialGenerator",
+        "Industrial Generator"
     ],
     [
         "CompactGenerator",
-        "小型发电机"
+        "Compact Generator"
     ],
     [
         "ElectricEngine",
-        "电动机"
+        "Electric Engine"
+    ],
+    [
+        "BiElectricEngine",
+        "Bi-Directional Electric Engine"
     ],
     [
         "IndustrialElectricEngine",
-        "工业电动机"
+        "Industrial Electric Engine"
     ],
     [
         "RobotArm",
-        "机械臂"
+        "Robot Arm"
     ],
     [
         "FilteringRobotArm",
-        "筛选机械臂"
+        "Filtering Robot Arm"
     ],
     [
         "Pump",
-        "泵"
+        "Pump"
     ],
     [
         "FilteringPump",
-        "筛选泵"
+        "Filtering Pump"
+    ],
+    [
+        "OverflowPump",
+        "Overflow Pump"
     ],
     [
         "Smelter",
-        "冶炼器"
+        "Smelter"
     ],
     [
         "SteamTurbine",
-        "蒸汽轮机"
+        "Steam Turbine"
     ],
     [
         "IndustrialSteamTurbine",
-        "工业蒸汽轮机"
+        "Industrial Steam Turbine"
     ],
     [
         "GasTurbine",
-        "燃汽轮机"
+        "Gas Turbine"
     ],
     [
         "Riteg",
@@ -169,207 +189,211 @@
     ],
     [
         "ArcSmelter",
-        "电弧炉"
+        "Arc Smelter"
     ],
     [
         "ChemicalBath",
-        "化学浴室"
+        "Chemical Bath"
     ],
     [
         "Sifter",
-        "筛子"
+        "Sifter"
     ],
     [
-        "FilteringUnit",
-        "筛选单位"
+        "IndustrialChemReactor",
+        "Industrial Chemical Reactor"
     ],
     [
         "Furnace",
-        "加热器"
+        "Furnace"
     ],
     [
         "Oven",
-        "烤炉"
+        "Oven"
     ],
     [
         "BlastFurnace",
-        "高炉"
+        "Blast Furnace"
     ],
     [
         "FluidFurnace",
-        "燃油加热器"
+        "Fluid Furnace"
     ],
     [
         "ElectricFurnace",
-        "电力加热器"
+        "Electric Furnace"
     ],
     [
         "BatteryBox",
-        "电池盒"
+        "Battery Box"
     ],
     [
         "SmallBattery",
-        "小电池"
-    ],
-    [
-        "DrillingRig",
-        "钻机"
-    ],
-    [
-        "Assembler",
-        "组装器"
-    ],
-    [
-        "Constructor",
-        "建造器"
-    ],
-    [
-        "Deconstructor",
-        "拆解器"
-    ],
-    [
-        "FluidDump",
-        "液体处理器"
-    ],
-    [
-        "GasDump",
-        "气体处理器"
-    ],
-    [
-        "SolidDump",
-        "固体处理器"
-    ],
-    [
-        "Lamp",
-        "灯"
-    ],
-    [
-        "AdminElectricGenerator",
-        "创造发电机"
-    ],
-    [
-        "AdminItemGenerator",
-        "创造物品生成器"
-    ],
-    [
-        "AdminKineticGenerator",
-        "创造发动机"
-    ],
-    [
-        "AdminHeatGenerator",
-        "创造加热器"
-    ],
-    [
-        "AdminFluidGenerator",
-        "创造液体生成器"
-    ],
-    [
-        "AdminExterminator",
-        "创造摧毁器"
-    ],
-    [
-        "Electrolyzer",
-        "电解器"
-    ],
-    [
-        "Mixer",
-        "搅拌器"
-    ],
-    [
-        "Freezer",
-        "冷冻器"
-    ],
-    [
-        "AutomaticFarm",
-        "自动化农场"
-    ],
-    [
-        "AtmosphericCondenser",
-        "大气蒸馏器"
-    ],
-    [
-        "Terminal",
-        "终端"
-    ],
-    [
-        "BigTerminal",
-        "大型终端"
-    ],
-    [
-        "HugeTerminal",
-        "巨型终端"
-    ],
-    [
-        "FlatTerminal",
-        "平板"
-    ],
-    [
-        "BigFlatTerminal",
-        "大型平板"
-    ],
-    [
-        "HugeFlatTerminal",
-        "巨型平板"
-    ],
-    [
-        "Computer",
-        "电脑"
-    ],
-    [
-        "QuantumComputer",
-        "量子电脑"
-    ],
-    [
-        "IndustrialSeparator",
-        "工业分离器"
-    ],
-    [
-        "Radiator",
-        "散热器"
-    ],
-    [
-        "Diode",
-        "二极管"
-    ],
-    [
-        "FissionReactor",
-        "裂变反应堆"
-    ],
-    [
-        "FusionReactor",
-        "聚变反应堆"
-    ],
-    [
-        "IndustrialBoiler",
-        "工业锅炉"
-    ],
-    [
-        "ResearchReactor",
-        "研究反应堆"
-    ],
-    [
-        "SolarPanel",
-        "太阳能板"
-    ],
-    [
-        "Pumpjack",
-        "抽水机"
-    ],
-    [
-        "IndustrialSmelter",
-        "工业冶炼器"
-    ],
-    [
-        "InductionCoil",
-        "感应线圈"
-    ],
-    [
-        "CreativeController",
-        "信号控制器"
+        "Small Battery"
     ],
     [
         "Portal",
         "Portal"
+    ],
+    [
+        "DrillingRig",
+        "Drilling Rig"
+    ],
+    [
+        "Assembler",
+        "Assembler"
+    ],
+    [
+        "Constructor",
+        "Constructor"
+    ],
+    [
+        "Deconstructor",
+        "Deconstructor"
+    ],
+    [
+        "FluidDump",
+        "Fluid Dump"
+    ],
+    [
+        "GasDump",
+        "Gas Dump"
+    ],
+    [
+        "SolidDump",
+        "Solid Dump"
+    ],
+    [
+        "Lamp",
+        "Lamp"
+    ],
+    [
+        "AdminElectricGenerator",
+        "Creative Electric Generator"
+    ],
+    [
+        "AdminItemGenerator",
+        "Creative Item Generator"
+    ],
+    [
+        "AdminKineticGenerator",
+        "Creative Kinetic Generator"
+    ],
+    [
+        "AdminHeatGenerator",
+        "Creative Heat Generator"
+    ],
+    [
+        "AdminFluidGenerator",
+        "Creative Fluid Generator"
+    ],
+    [
+        "AdminExterminator",
+        "Creative Exterminator"
+    ],
+    [
+        "Electrolyzer",
+        "Electrolyzer"
+    ],
+    [
+        "Mixer",
+        "Mixer"
+    ],
+    [
+        "Freezer",
+        "Freezer"
+    ],
+    [
+        "AutomaticFarm",
+        "Automatic Farm"
+    ],
+    [
+        "AtmosphericCondenser",
+        "Atmospheric Condenser"
+    ],
+    [
+        "Terminal",
+        "Terminal"
+    ],
+    [
+        "BigTerminal",
+        "Big Terminal"
+    ],
+    [
+        "HugeTerminal",
+        "Huge Terminal"
+    ],
+    [
+        "FlatTerminal",
+        "Flat Terminal"
+    ],
+    [
+        "BigFlatTerminal",
+        "Big Flat Terminal"
+    ],
+    [
+        "RailStation",
+        "Rail Station"
+    ],
+    [
+        "HugeFlatTerminal",
+        "Huge Flat Terminal"
+    ],
+    [
+        "Computer",
+        "Computer"
+    ],
+    [
+        "QuantumComputer",
+        "Quantum Computer"
+    ],
+    [
+        "IndustrialSeparator",
+        "Industrial Separator"
+    ],
+    [
+        "Radiator",
+        "Radiator"
+    ],
+    [
+        "Diode",
+        "Diode"
+    ],
+    [
+        "FissionReactor",
+        "Fission Reactor"
+    ],
+    [
+        "FusionReactor",
+        "Fusion Reactor"
+    ],
+    [
+        "IndustrialBoiler",
+        "Industrial Boiler"
+    ],
+    [
+        "SolarPanel",
+        "Solar Panel"
+    ],
+    [
+        "SmallSolarPanel",
+        "Small Solar Panel"
+    ],
+    [
+        "Pumpjack",
+        "Pumpjack"
+    ],
+    [
+        "IndustrialSmelter",
+        "Industrial Smelter"
+    ],
+    [
+        "InductionCoil",
+        "Induction Coil"
+    ],
+    [
+        "CreativeController",
+        "Creative Controller"
     ],
     [
         "LogicCircuit",
@@ -400,40 +424,8 @@
         "Toggle Button"
     ],
     [
-        "OilCrackingTower",
-        "Oil Cracking Tower"
-    ],
-    [
-        "IndustrialChemReactor",
-        "Industrial Chemical Reactor"
-    ],
-    [
-        "HandGenerator",
-        "HandGenerator"
-    ],
-    [
         "KineticHeater",
         "Kinetic Heater"
-    ],
-    [
-        "IndustrialGenerator",
-        "Industrial Generator"
-    ],
-    [
-        "OverflowPump",
-        "Overflow Pump"
-    ],
-    [
-        "RailStation",
-        "Rail Station"
-    ],
-    [
-        "BiElectricEngine",
-        "Bi-Directional Electric Engine"
-    ],
-    [
-        "SmallSolarPanel",
-        "Small Solar Panel"
     ],
     [
         "CableBundle",

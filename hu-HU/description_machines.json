@@ -1,442 +1,434 @@
 [
     [
         "Macerator",
-        "打粉器"
+        ""
     ],
     [
         "CuttingMachine",
-        "切割器"
+        ""
     ],
     [
         "Fermenter",
-        "发酵罐"
+        ""
     ],
     [
         "ChemReactor",
-        "化学反应器"
+        ""
     ],
     [
         "Separator",
-        "分离器"
+        ""
     ],
     [
         "Beam",
-        "梁"
+        ""
     ],
     [
         "Corner",
-        "角"
+        ""
     ],
     [
         "AutomaticHammer",
-        "自动锤"
+        ""
     ],
     [
         "Boiler",
-        "锅炉"
+        ""
     ],
     [
         "Pipe",
-        "管道"
+        ""
     ],
     [
         "HeatPipe",
-        "热管"
+        ""
     ],
     [
         "Flywheel",
-        "飞轮"
+        ""
     ],
     [
         "Scaffold",
-        "脚手架"
+        ""
     ],
     [
         "Sign",
-        "标志"
+        ""
     ],
     [
         "AdvancedSign",
-        "先进标志"
+        ""
     ],
     [
         "Connector",
-        "电缆"
+        ""
     ],
     [
         "Chest",
-        "箱子"
+        ""
     ],
     [
         "ItemRack",
-        "物品架"
+        ""
     ],
     [
         "Vent",
-        "阀门"
+        ""
     ],
     [
         "ElectricalSwitch",
-        "开关"
+        ""
     ],
     [
         "OreWasher",
-        "洗矿机"
+        ""
     ],
     [
         "Conveyor",
-        "传送带"
+        ""
     ],
     [
         "Splitter",
-        "路由器"
+        ""
     ],
     [
         "Sorter",
-        "分拣器"
+        ""
     ],
     [
         "Container",
-        "容器"
+        ""
     ],
     [
         "Press",
-        "液压机"
+        ""
     ],
     [
         "StirlingEngine",
-        "特斯林发动机"
+        ""
     ],
     [
         "CombustionEngine",
-        "内燃机"
-    ],
-    [
-        "PyrolysisUnit",
-        "分馏器"
-    ],
-    [
-        "Generator",
-        "发电机"
-    ],
-    [
-        "CompactGenerator",
-        "小型发电机"
-    ],
-    [
-        "ElectricEngine",
-        "电动机"
-    ],
-    [
-        "IndustrialElectricEngine",
-        "工业电动机"
-    ],
-    [
-        "RobotArm",
-        "机械臂"
-    ],
-    [
-        "FilteringRobotArm",
-        "筛选机械臂"
-    ],
-    [
-        "Pump",
-        "泵"
-    ],
-    [
-        "FilteringPump",
-        "筛选泵"
-    ],
-    [
-        "Smelter",
-        "冶炼器"
-    ],
-    [
-        "SteamTurbine",
-        "蒸汽轮机"
-    ],
-    [
-        "IndustrialSteamTurbine",
-        "工业蒸汽轮机"
-    ],
-    [
-        "GasTurbine",
-        "燃汽轮机"
-    ],
-    [
-        "Riteg",
-        "RTG"
-    ],
-    [
-        "ArcSmelter",
-        "电弧炉"
-    ],
-    [
-        "ChemicalBath",
-        "化学浴室"
-    ],
-    [
-        "Sifter",
-        "筛子"
-    ],
-    [
-        "FilteringUnit",
-        "筛选单位"
-    ],
-    [
-        "Furnace",
-        "加热器"
-    ],
-    [
-        "Oven",
-        "烤炉"
-    ],
-    [
-        "BlastFurnace",
-        "高炉"
-    ],
-    [
-        "FluidFurnace",
-        "燃油加热器"
-    ],
-    [
-        "ElectricFurnace",
-        "电力加热器"
-    ],
-    [
-        "BatteryBox",
-        "电池盒"
-    ],
-    [
-        "SmallBattery",
-        "小电池"
-    ],
-    [
-        "DrillingRig",
-        "钻机"
-    ],
-    [
-        "Assembler",
-        "组装器"
-    ],
-    [
-        "Constructor",
-        "建造器"
-    ],
-    [
-        "Deconstructor",
-        "拆解器"
-    ],
-    [
-        "FluidDump",
-        "液体处理器"
-    ],
-    [
-        "GasDump",
-        "气体处理器"
-    ],
-    [
-        "SolidDump",
-        "固体处理器"
-    ],
-    [
-        "Lamp",
-        "灯"
-    ],
-    [
-        "AdminElectricGenerator",
-        "创造发电机"
-    ],
-    [
-        "AdminItemGenerator",
-        "创造物品生成器"
-    ],
-    [
-        "AdminKineticGenerator",
-        "创造发动机"
-    ],
-    [
-        "AdminHeatGenerator",
-        "创造加热器"
-    ],
-    [
-        "AdminFluidGenerator",
-        "创造液体生成器"
-    ],
-    [
-        "AdminExterminator",
-        "创造摧毁器"
-    ],
-    [
-        "Electrolyzer",
-        "电解器"
-    ],
-    [
-        "Mixer",
-        "搅拌器"
-    ],
-    [
-        "Freezer",
-        "冷冻器"
-    ],
-    [
-        "AutomaticFarm",
-        "自动化农场"
-    ],
-    [
-        "AtmosphericCondenser",
-        "大气蒸馏器"
-    ],
-    [
-        "Terminal",
-        "终端"
-    ],
-    [
-        "BigTerminal",
-        "大型终端"
-    ],
-    [
-        "HugeTerminal",
-        "巨型终端"
-    ],
-    [
-        "FlatTerminal",
-        "平板"
-    ],
-    [
-        "BigFlatTerminal",
-        "大型平板"
-    ],
-    [
-        "HugeFlatTerminal",
-        "巨型平板"
-    ],
-    [
-        "Computer",
-        "电脑"
-    ],
-    [
-        "QuantumComputer",
-        "量子电脑"
-    ],
-    [
-        "IndustrialSeparator",
-        "工业分离器"
-    ],
-    [
-        "Radiator",
-        "散热器"
-    ],
-    [
-        "Diode",
-        "二极管"
-    ],
-    [
-        "FissionReactor",
-        "裂变反应堆"
-    ],
-    [
-        "FusionReactor",
-        "聚变反应堆"
-    ],
-    [
-        "IndustrialBoiler",
-        "工业锅炉"
-    ],
-    [
-        "ResearchReactor",
-        "研究反应堆"
-    ],
-    [
-        "SolarPanel",
-        "太阳能板"
-    ],
-    [
-        "Pumpjack",
-        "抽水机"
-    ],
-    [
-        "IndustrialSmelter",
-        "工业冶炼器"
-    ],
-    [
-        "InductionCoil",
-        "感应线圈"
-    ],
-    [
-        "CreativeController",
-        "信号控制器"
-    ],
-    [
-        "Portal",
-        "Portal"
-    ],
-    [
-        "LogicCircuit",
-        "Logic Circuit"
-    ],
-    [
-        "LogicInterface",
-        "Logic Interface"
-    ],
-    [
-        "LogicController",
-        "Logic Controller"
-    ],
-    [
-        "LogicDisplay",
-        "Logic Display"
-    ],
-    [
-        "LogicWire",
-        "Logic Wire"
-    ],
-    [
-        "Button",
-        "Button"
-    ],
-    [
-        "ToggleButton",
-        "Toggle Button"
+        ""
     ],
     [
         "OilCrackingTower",
-        "Oil Cracking Tower"
+        ""
     ],
     [
-        "IndustrialChemReactor",
-        "Industrial Chemical Reactor"
+        "PyrolysisUnit",
+        ""
     ],
     [
         "HandGenerator",
-        "HandGenerator"
+        ""
     ],
     [
-        "KineticHeater",
-        "Kinetic Heater"
+        "Generator",
+        ""
     ],
     [
         "IndustrialGenerator",
-        "Industrial Generator"
+        ""
     ],
     [
-        "OverflowPump",
-        "Overflow Pump"
+        "CompactGenerator",
+        ""
     ],
     [
-        "RailStation",
-        "Rail Station"
+        "ElectricEngine",
+        ""
     ],
     [
         "BiElectricEngine",
-        "Bi-Directional Electric Engine"
+        ""
+    ],
+    [
+        "IndustrialElectricEngine",
+        ""
+    ],
+    [
+        "RobotArm",
+        ""
+    ],
+    [
+        "FilteringRobotArm",
+        ""
+    ],
+    [
+        "Pump",
+        ""
+    ],
+    [
+        "FilteringPump",
+        ""
+    ],
+    [
+        "OverflowPump",
+        ""
+    ],
+    [
+        "Smelter",
+        ""
+    ],
+    [
+        "SteamTurbine",
+        ""
+    ],
+    [
+        "IndustrialSteamTurbine",
+        ""
+    ],
+    [
+        "GasTurbine",
+        ""
+    ],
+    [
+        "Riteg",
+        ""
+    ],
+    [
+        "ArcSmelter",
+        ""
+    ],
+    [
+        "ChemicalBath",
+        ""
+    ],
+    [
+        "Sifter",
+        ""
+    ],
+    [
+        "IndustrialChemReactor",
+        ""
+    ],
+    [
+        "Furnace",
+        ""
+    ],
+    [
+        "Oven",
+        ""
+    ],
+    [
+        "BlastFurnace",
+        ""
+    ],
+    [
+        "FluidFurnace",
+        ""
+    ],
+    [
+        "ElectricFurnace",
+        ""
+    ],
+    [
+        "BatteryBox",
+        ""
+    ],
+    [
+        "SmallBattery",
+        ""
+    ],
+    [
+        "Portal",
+        ""
+    ],
+    [
+        "DrillingRig",
+        ""
+    ],
+    [
+        "Assembler",
+        ""
+    ],
+    [
+        "Constructor",
+        ""
+    ],
+    [
+        "Deconstructor",
+        ""
+    ],
+    [
+        "FluidDump",
+        ""
+    ],
+    [
+        "GasDump",
+        ""
+    ],
+    [
+        "SolidDump",
+        ""
+    ],
+    [
+        "Lamp",
+        ""
+    ],
+    [
+        "AdminElectricGenerator",
+        ""
+    ],
+    [
+        "AdminItemGenerator",
+        ""
+    ],
+    [
+        "AdminKineticGenerator",
+        ""
+    ],
+    [
+        "AdminHeatGenerator",
+        ""
+    ],
+    [
+        "AdminFluidGenerator",
+        ""
+    ],
+    [
+        "AdminExterminator",
+        ""
+    ],
+    [
+        "Electrolyzer",
+        ""
+    ],
+    [
+        "Mixer",
+        ""
+    ],
+    [
+        "Freezer",
+        ""
+    ],
+    [
+        "AutomaticFarm",
+        ""
+    ],
+    [
+        "AtmosphericCondenser",
+        ""
+    ],
+    [
+        "Terminal",
+        ""
+    ],
+    [
+        "BigTerminal",
+        ""
+    ],
+    [
+        "HugeTerminal",
+        ""
+    ],
+    [
+        "FlatTerminal",
+        ""
+    ],
+    [
+        "BigFlatTerminal",
+        ""
+    ],
+    [
+        "RailStation",
+        ""
+    ],
+    [
+        "HugeFlatTerminal",
+        ""
+    ],
+    [
+        "Computer",
+        ""
+    ],
+    [
+        "QuantumComputer",
+        ""
+    ],
+    [
+        "IndustrialSeparator",
+        ""
+    ],
+    [
+        "Radiator",
+        ""
+    ],
+    [
+        "Diode",
+        ""
+    ],
+    [
+        "FissionReactor",
+        ""
+    ],
+    [
+        "FusionReactor",
+        ""
+    ],
+    [
+        "IndustrialBoiler",
+        ""
+    ],
+    [
+        "SolarPanel",
+        ""
     ],
     [
         "SmallSolarPanel",
-        "Small Solar Panel"
+        ""
+    ],
+    [
+        "Pumpjack",
+        ""
+    ],
+    [
+        "IndustrialSmelter",
+        ""
+    ],
+    [
+        "InductionCoil",
+        ""
+    ],
+    [
+        "CreativeController",
+        ""
+    ],
+    [
+        "LogicCircuit",
+        ""
+    ],
+    [
+        "LogicInterface",
+        ""
+    ],
+    [
+        "LogicController",
+        ""
+    ],
+    [
+        "LogicDisplay",
+        ""
+    ],
+    [
+        "LogicWire",
+        ""
+    ],
+    [
+        "Button",
+        ""
+    ],
+    [
+        "ToggleButton",
+        ""
+    ],
+    [
+        "KineticHeater",
+        ""
     ],
     [
         "CableBundle",
-        "Cable Bundle"
+        ""
     ]
 ]

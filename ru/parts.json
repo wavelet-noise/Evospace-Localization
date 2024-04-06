@@ -954,5 +954,77 @@
     [
         "RocketFuel",
         "Rocket Fuel"
+    ],
+    [
+        "CopperGearbox",
+        "Copper Gearbox"
+    ],
+    [
+        "SteelGearbox",
+        "Steel Gearbox"
+    ],
+    [
+        "AluminiumGearbox",
+        "Aluminium Gearbox"
+    ],
+    [
+        "StainlessSteelGearbox",
+        "Stainless Steel Gearbox"
+    ],
+    [
+        "TitaniumGearbox",
+        "Titanium Gearbox"
+    ],
+    [
+        "HardMetalGearbox",
+        "Hard Metal Gearbox"
+    ],
+    [
+        "NeutroniumGearbox",
+        "Neutronium Gearbox"
+    ],
+    [
+        "AluminiumSolarCell",
+        "Aluminium Solar Cell"
+    ],
+    [
+        "StainlessSteelSolarCell",
+        "Stainless Steel Solar Cell"
+    ],
+    [
+        "TitaniumSolarCell",
+        "Titanium Solar Cell"
+    ],
+    [
+        "HardMetalSolarCell",
+        "Hard Metal Solar Cell"
+    ],
+    [
+        "NeutroniumSolarCell",
+        "Neutronium Solar Cell"
+    ],
+    [
+        "Drain",
+        "Drain"
+    ],
+    [
+        "Percent",
+        "Percent"
+    ],
+    [
+        "BuilderTool",
+        "Builder Tool"
+    ],
+    [
+        "ConstructionBlueprint",
+        "Construction Blueprint"
+    ],
+    [
+        "DeconstructionBlueprint",
+        "Deconstruction Blueprint"
+    ],
+    [
+        "UpgradeBlueprint",
+        "Upgrade Blueprint"
     ]
 ]

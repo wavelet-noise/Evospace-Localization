@@ -1,303 +1,39 @@
 [
     [
         "Chair",
-        "Fa szék"
+        "Wooden Chair"
     ],
     [
         "Table",
-        "Faasztal"
+        "Wooden Table"
     ],
     [
         "Rack",
-        "Fából készült állvány"
+        "Wooden Rack"
     ],
     [
         "Bed",
-        "Fa ágy"
+        "Wooden Bed"
     ],
     [
         "Ladder",
-        "Fa létra"
+        "Wooden Ladder"
     ],
     [
         "Door",
-        "Fa ajtó"
+        "Wooden Door"
     ],
     [
         "Window",
-        "Faablak"
+        "Wooden Window"
     ],
     [
         "CeramicRoof",
-        "Kerámia tető"
+        "Ceramic Roof"
     ],
     [
         "Stairs",
-        "Lépcsők"
-    ],
-    [
-        "WoodenStairs",
-        "Fa lépcsők"
-    ],
-    [
-        "CopperChair",
-        "Réz szék"
-    ],
-    [
-        "FireCup",
-        "Tűzcsésze"
-    ],
-    [
-        "PlasticWindow",
-        "Műanyag ablak"
-    ],
-    [
-        "SteelFence",
-        "Acél kerítés"
-    ],
-    [
-        "StainlessSteelFence",
-        "Rozsdamentes acél kerítés"
-    ],
-    [
-        "Fence",
-        "Kerítés"
-    ],
-    [
-        "Firefly",
-        "Szentjánosbogár"
-    ],
-    [
-        "Flies",
-        "Legyek"
-    ],
-    [
-        "Birds",
-        "Madarak"
-    ],
-    [
-        "DesertSound",
-        "Sivatag hangja"
-    ],
-    [
-        "SwampSound",
-        "Mocsár hangja"
-    ],
-    [
-        "Butterfly",
-        "Pillangó"
-    ],
-    [
-        "Leafes",
-        "Levelek"
-    ],
-    [
-        "Bugs",
-        "Bogarak"
-    ],
-    [
-        "WoodenPlanks",
-        "Fadeszkák"
-    ],
-    [
-        "AdminBlocks",
-        "Rendszergazdai blokkok"
-    ],
-    [
-        "StoneTiles",
-        "Kőcsempe"
-    ],
-    [
-        "RedTiles",
-        "Piros csempe"
-    ],
-    [
-        "DarkTiles",
-        "Sötét csempe"
-    ],
-    [
-        "Terracotta",
-        "Terrakotta"
-    ],
-    [
-        "TerracottaTiles",
-        "Terrakotta csempe"
-    ],
-    [
-        "Bricks",
-        "Tégla"
-    ],
-    [
-        "RedBricks",
-        "Vörös tégla"
-    ],
-    [
-        "DarkBricks",
-        "Sötét tégla"
-    ],
-    [
-        "TerracottaBricks",
-        "Terakotta tégla"
-    ],
-    [
-        "Concrete",
-        "Beton"
-    ],
-    [
-        "ConcreteBricks",
-        "Beton tégla"
-    ],
-    [
-        "ConcreteTiles",
-        "Betonlap"
-    ],
-    [
-        "ConcreteSmallTiles",
-        "Beton kis csempe"
-    ],
-    [
-        "ReinforcedConcrete",
-        "Vasbeton"
-    ],
-    [
-        "ReinforcedConcreteTiles",
-        "Vasbeton csempe"
-    ],
-    [
-        "ReinforcedConcreteSmallTiles",
-        "Kis vasbeton csempe"
-    ],
-    [
-        "ReinforcedConcreteBricks",
-        "Vasbeton tégla"
-    ],
-    [
-        "DangerBlock",
-        "Veszélyblokk"
-    ],
-    [
-        "RustyCopperCasing",
-        "Rozsdás réz burkolat"
-    ],
-    [
-        "RustyIronCasing",
-        "Rozsdás vas burkolat"
-    ],
-    [
-        "BasicPlatform",
-        "Alap platform"
-    ],
-    [
-        "PlasticBlock",
-        "Műanyag blokk"
-    ],
-    [
-        "GlassBlock",
-        "Üvegtömb"
-    ],
-    [
-        "PaintWhite",
-        "Fehér festék"
-    ],
-    [
-        "PaintGray",
-        "Szürke festék"
-    ],
-    [
-        "PaintBlack",
-        "Fekete festék"
-    ],
-    [
-        "PaintGreen",
-        "Zöld festék"
-    ],
-    [
-        "PaintRed",
-        "Piros festék"
-    ],
-    [
-        "PaintBlue",
-        "Kék festék"
-    ],
-    [
-        "PaintCopper",
-        "Réz színű festék"
-    ],
-    [
-        "PaintSteel",
-        "Acél színű festék"
-    ],
-    [
-        "PaintStainlessSteel",
-        "Rosdamentes acél színű festék"
-    ],
-    [
-        "PaintTitanium",
-        "Titán színű festék"
-    ],
-    [
-        "PaintHardMetal",
-        "Keményfém színű festék"
-    ],
-    [
-        "PaintGold",
-        "Arany festék"
-    ],
-    [
-        "PaintYellow",
-        "Sárga festék"
-    ],
-    [
-        "PaintMagenta",
-        "Narancs festék"
-    ],
-    [
-        "PaintCyan",
-        "Cián festék"
-    ],
-    [
-        "Column",
-        "Oszlop"
-    ],
-    [
-        "FluetedColumn",
-        "Hornyolt oszlop"
-    ],
-    [
-        "Torch",
-        "Fáklya"
-    ],
-    [
-        "Flashlight",
-        "Zseblámpa"
-    ],
-    [
-        "NightVision",
-        "Éjjellátó"
-    ],
-    [
-        "AdvancedNightVision",
-        "Fejlett éjjellátó"
-    ],
-    [
-        "Steampack",
-        "Gőzhajtómű"
-    ],
-    [
-        "Jetpack",
-        "Jetpack"
-    ],
-    [
-        "AdvancedJetpack",
-        "Fejlett jetpack"
-    ],
-    [
-        "AntigravityUnit",
-        "Antigravitációs egység"
-    ],
-    [
-        "Scanner",
-        "Szkenner"
+        "Stairs"
     ],
     [
         "ConcreteRamp",
@@ -320,6 +56,254 @@
         "Concrete Beam2"
     ],
     [
+        "WoodenStairs",
+        "Wooden Stairs"
+    ],
+    [
+        "CopperChair",
+        "Copper Chair"
+    ],
+    [
+        "FireCup",
+        "Fire Cup"
+    ],
+    [
+        "PlasticWindow",
+        "Plastic Window"
+    ],
+    [
+        "SteelFence",
+        "Steel Fence"
+    ],
+    [
+        "StainlessSteelFence",
+        "Stainless Steel Fence"
+    ],
+    [
+        "Fence",
+        "Fence"
+    ],
+    [
+        "Firefly",
+        "Firefly"
+    ],
+    [
+        "Flies",
+        "Flies"
+    ],
+    [
+        "Birds",
+        "Birds"
+    ],
+    [
+        "DesertSound",
+        "Desert Sound"
+    ],
+    [
+        "SwampSound",
+        "Swamp Sound"
+    ],
+    [
+        "Butterfly",
+        "Butterfly"
+    ],
+    [
+        "Leafes",
+        "Leafes"
+    ],
+    [
+        "Bugs",
+        "Bugs"
+    ],
+    [
+        "WoodenPlanks",
+        "Wooden Planks"
+    ],
+    [
+        "AdminBlocks",
+        "Admin Blocks"
+    ],
+    [
+        "StoneTiles",
+        "Stone Tiles"
+    ],
+    [
+        "RedTiles",
+        "Red Tiles"
+    ],
+    [
+        "DarkTiles",
+        "Dark Tiles"
+    ],
+    [
+        "Terracotta",
+        "Terracotta"
+    ],
+    [
+        "TerracottaTiles",
+        "Terracotta Tiles"
+    ],
+    [
+        "Bricks",
+        "Bricks"
+    ],
+    [
+        "RedBricks",
+        "Red Bricks"
+    ],
+    [
+        "DarkBricks",
+        "Dark Bricks"
+    ],
+    [
+        "TerracottaBricks",
+        "Terracotta Bricks"
+    ],
+    [
+        "Concrete",
+        "Concrete"
+    ],
+    [
+        "ConcreteBricks",
+        "Concrete Bricks"
+    ],
+    [
+        "ConcreteTiles",
+        "Concrete Tiles"
+    ],
+    [
+        "ConcreteSmallTiles",
+        "Concrete Small Tiles"
+    ],
+    [
+        "ReinforcedConcrete",
+        "Reinforced Concrete"
+    ],
+    [
+        "ReinforcedConcreteTiles",
+        "Reinforced Concrete Tiles"
+    ],
+    [
+        "ReinforcedConcreteSmallTiles",
+        "Reinforced Concrete Small Tiles"
+    ],
+    [
+        "ReinforcedConcreteBricks",
+        "Reinforced Concrete Bricks"
+    ],
+    [
+        "DangerBlock",
+        "Danger Block"
+    ],
+    [
+        "RustyCopperCasing",
+        "Rusty Copper Casing"
+    ],
+    [
+        "RustyIronCasing",
+        "Rusty Iron Casing"
+    ],
+    [
+        "BasicPlatform",
+        "Basic Platform"
+    ],
+    [
+        "PlasticBlock",
+        "Plastic Block"
+    ],
+    [
+        "GlassBlock",
+        "Glass Block"
+    ],
+    [
+        "PaintWhite",
+        "Paint White"
+    ],
+    [
+        "PaintGray",
+        "Paint Gray"
+    ],
+    [
+        "PaintBlack",
+        "Paint Black"
+    ],
+    [
+        "PaintGreen",
+        "Paint Green"
+    ],
+    [
+        "PaintRed",
+        "Paint Red"
+    ],
+    [
+        "PaintBlue",
+        "Paint Blue"
+    ],
+    [
+        "PaintCopper",
+        "Paint Copper"
+    ],
+    [
+        "PaintSteel",
+        "Paint Steel"
+    ],
+    [
+        "PaintStainlessSteel",
+        "Paint Stainless Steel"
+    ],
+    [
+        "PaintTitanium",
+        "Paint Titanium"
+    ],
+    [
+        "PaintHardMetal",
+        "Paint Hard Metal"
+    ],
+    [
+        "PaintGold",
+        "Paint Gold"
+    ],
+    [
+        "PaintYellow",
+        "Paint Yellow"
+    ],
+    [
+        "PaintMagenta",
+        "Paint Magenta"
+    ],
+    [
+        "PaintCyan",
+        "Paint Cyan"
+    ],
+    [
+        "Column",
+        "Column"
+    ],
+    [
+        "FluetedColumn",
+        "Flueted Column"
+    ],
+    [
+        "Torch",
+        "Torch"
+    ],
+    [
+        "Flashlight",
+        "Flashlight"
+    ],
+    [
+        "NightVision",
+        "Night Vision"
+    ],
+    [
+        "AdvancedNightVision",
+        "Advanced Night Vision"
+    ],
+    [
+        "Steampack",
+        "Steampack"
+    ],
+    [
         "HighPressureSteampack",
         "High Pressure Steampack"
     ],
@@ -330,5 +314,21 @@
     [
         "AdvancedSteampack",
         "Advanced Steampack"
+    ],
+    [
+        "Jetpack",
+        "Jetpack"
+    ],
+    [
+        "AdvancedJetpack",
+        "Advanced Jetpack"
+    ],
+    [
+        "AntigravityUnit",
+        "Antigravity Unit"
+    ],
+    [
+        "Scanner",
+        "Scanner"
     ]
 ]
