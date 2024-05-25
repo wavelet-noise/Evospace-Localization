@@ -962,5 +962,41 @@
     [
         "UpgradeBlueprint",
         "Upgrade Blueprint"
+    ],
+    [
+        "ConstructionTool",
+        "Construction Tool"
+    ],
+    [
+        "DeconstructionTool",
+        "Deconstruction Tool"
+    ],
+    [
+        "SteelLocomotive",
+        "Steel Locomotive"
+    ],
+    [
+        "SteelWagon",
+        "Steel Wagon"
+    ],
+    [
+        "BasicBattery",
+        "Basic Battery"
+    ],
+    [
+        "AdvancedBattery",
+        "Advanced Battery"
+    ],
+    [
+        "SuperiorBattery",
+        "Superior Battery"
+    ],
+    [
+        "UltimateBattery",
+        "Ultimate Battery"
+    ],
+    [
+        "Storage",
+        "Storage"
     ]
 ]

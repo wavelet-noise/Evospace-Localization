@@ -446,5 +446,9 @@
     [
         "CableBundle",
         ""
+    ],
+    [
+        "Rails",
+        ""
     ]
 ]
