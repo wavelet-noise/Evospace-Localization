@@ -72,6 +72,10 @@
         "Part of smart devices\nUsed by computers to produce science points"
     ],
     [
+        "Part",
+        "Part of devices"
+    ],
+    [
         "ItemInput",
         "<img id=\"ItemInput\"></>Has item input"
     ],

@@ -294,5 +294,9 @@
     [
         "item_rack",
         "Capacidad: {0} artículos"
+    ],
+    [
+        "Part",
+        "Part of devices"
     ]
 ]

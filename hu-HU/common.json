@@ -290,5 +290,9 @@
     [
         "machines_label_format",
         "{0} {1}"
+    ],
+    [
+        "Part",
+        "Part of devices"
     ]
 ]

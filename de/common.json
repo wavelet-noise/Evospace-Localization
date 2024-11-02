@@ -406,5 +406,9 @@
     [
         "item_rack",
         "Capacity: {0} items"
+    ],
+    [
+        "Part",
+        "Part of devices"
     ]
 ]
