@@ -894,5 +894,113 @@
     [
         "RocketFuel",
         "Combustible de cohetes"
+    ],
+    [
+        "CopperGearbox",
+        "Copper Gearbox"
+    ],
+    [
+        "SteelGearbox",
+        "Steel Gearbox"
+    ],
+    [
+        "AluminiumGearbox",
+        "Aluminium Gearbox"
+    ],
+    [
+        "StainlessSteelGearbox",
+        "Stainless Steel Gearbox"
+    ],
+    [
+        "TitaniumGearbox",
+        "Titanium Gearbox"
+    ],
+    [
+        "HardMetalGearbox",
+        "Hard Metal Gearbox"
+    ],
+    [
+        "NeutroniumGearbox",
+        "Neutronium Gearbox"
+    ],
+    [
+        "AluminiumSolarCell",
+        "Aluminium Solar Cell"
+    ],
+    [
+        "StainlessSteelSolarCell",
+        "Stainless Steel Solar Cell"
+    ],
+    [
+        "TitaniumSolarCell",
+        "Titanium Solar Cell"
+    ],
+    [
+        "HardMetalSolarCell",
+        "Hard Metal Solar Cell"
+    ],
+    [
+        "NeutroniumSolarCell",
+        "Neutronium Solar Cell"
+    ],
+    [
+        "Drain",
+        "Drain"
+    ],
+    [
+        "Percent",
+        "Percent"
+    ],
+    [
+        "BuilderTool",
+        "Builder Tool"
+    ],
+    [
+        "ConstructionBlueprint",
+        "Construction Blueprint"
+    ],
+    [
+        "DeconstructionBlueprint",
+        "Deconstruction Blueprint"
+    ],
+    [
+        "UpgradeBlueprint",
+        "Upgrade Blueprint"
+    ],
+    [
+        "ConstructionTool",
+        "Construction Tool"
+    ],
+    [
+        "DeconstructionTool",
+        "Deconstruction Tool"
+    ],
+    [
+        "SteelLocomotive",
+        "Steel Locomotive"
+    ],
+    [
+        "SteelWagon",
+        "Steel Wagon"
+    ],
+    [
+        "BasicBattery",
+        "Basic Battery"
+    ],
+    [
+        "AdvancedBattery",
+        "Advanced Battery"
+    ],
+    [
+        "SuperiorBattery",
+        "Superior Battery"
+    ],
+    [
+        "UltimateBattery",
+        "Ultimate Battery"
+    ],
+    [
+        "Storage",
+        "Storage"
     ]
 ]

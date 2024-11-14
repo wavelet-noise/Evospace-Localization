@@ -72,6 +72,10 @@
         "Part of smart devices\nUsed by computers to produce science points"
     ],
     [
+        "Part",
+        "Part of devices"
+    ],
+    [
         "ItemInput",
         "<img id=\"ItemInput\"></>Has item input"
     ],
@@ -217,11 +221,11 @@
     ],
     [
         "container",
-        "Capacity: {0} L"
+        "Capacity: {0}L"
     ],
     [
         "battery",
-        "Capacity: {0} J"
+        "Capacity: {0}J"
     ],
     [
         "chest",

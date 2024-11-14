@@ -132,6 +132,14 @@
         "Neutronium Solar Cell"
     ],
     [
+        "SteelLocomotive",
+        "Steel Locomotive"
+    ],
+    [
+        "SteelWagon",
+        "Steel Wagon"
+    ],
+    [
         "Hand",
         "Hand"
     ],
@@ -609,7 +617,7 @@
     ],
     [
         "Battery",
-        "Battery"
+        "Battery Cell"
     ],
     [
         "SiliconOxide",
@@ -716,6 +724,22 @@
         "Mothership Ping"
     ],
     [
+        "BasicBattery",
+        "Basic Battery"
+    ],
+    [
+        "AdvancedBattery",
+        "Advanced Battery"
+    ],
+    [
+        "SuperiorBattery",
+        "Superior Battery"
+    ],
+    [
+        "UltimateBattery",
+        "Ultimate Battery"
+    ],
+    [
         "ControlCell",
         "Control Cell"
     ],
@@ -814,6 +838,10 @@
     [
         "Drain",
         "Drain"
+    ],
+    [
+        "Storage",
+        "Storage"
     ],
     [
         "Percent",
@@ -938,5 +966,25 @@
     [
         "PaintTool",
         "Paint Tool"
+    ],
+    [
+        "ConstructionTool",
+        "Construction Tool"
+    ],
+    [
+        "DeconstructionTool",
+        "Deconstruction Tool"
+    ],
+    [
+        "ConstructionBlueprint",
+        "Construction Blueprint"
+    ],
+    [
+        "DeconstructionBlueprint",
+        "Deconstruction Blueprint"
+    ],
+    [
+        "UpgradeBlueprint",
+        "Upgrade Blueprint"
     ]
 ]

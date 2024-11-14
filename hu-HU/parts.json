@@ -950,5 +950,57 @@
     [
         "Percent",
         "Százalék"
+    ],
+    [
+        "BuilderTool",
+        "Építő eszköz"
+    ],
+    [
+        "ConstructionBlueprint",
+        "Építési tervrajz"
+    ],
+    [
+        "DeconstructionBlueprint",
+        "Lebontási tervrajz"
+    ],
+    [
+        "UpgradeBlueprint",
+        "Fejlesztési tervrajz"
+    ],
+    [
+        "ConstructionTool",
+        "Építő eszköz"
+    ],
+    [
+        "DeconstructionTool",
+        "Lebontó eszköz"
+    ],
+    [
+        "SteelLocomotive",
+        "Acél mozdony"
+    ],
+    [
+        "SteelWagon",
+        "Acél vagon"
+    ],
+    [
+        "BasicBattery",
+        "Alap akkumulátor"
+    ],
+    [
+        "AdvancedBattery",
+        "Fejlett akkumulátor"
+    ],
+    [
+        "SuperiorBattery",
+        "Kiváló akkumulátor"
+    ],
+    [
+        "UltimateBattery",
+        "Legfejlettebb akkumulátor"
+    ],
+    [
+        "Storage",
+        "Raktár"
     ]
 ]

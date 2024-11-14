@@ -294,5 +294,9 @@
     [
         "item_rack",
         "Tárolható {0} db tárgy"
+    ],
+    [
+        "Part",
+        "Rész"
     ]
 ]

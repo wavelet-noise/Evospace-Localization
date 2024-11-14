@@ -438,5 +438,21 @@
     [
         "RailStation",
         "Rail Station"
+    ],
+    [
+        "BiElectricEngine",
+        "Bi-Directional Electric Engine"
+    ],
+    [
+        "SmallSolarPanel",
+        "Small Solar Panel"
+    ],
+    [
+        "CableBundle",
+        "Cable Bundle"
+    ],
+    [
+        "Rails",
+        "Rails"
     ]
 ]
