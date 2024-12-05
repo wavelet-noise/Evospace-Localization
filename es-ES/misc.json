@@ -301,34 +301,34 @@
     ],
     [
         "ConcreteRamp",
-        "Concrete Ramp"
+        "Rampa de hormigón"
     ],
     [
         "ConcreteRamp2",
-        "Concrete Ramp2"
+        "Rampa de hormigón2"
     ],
     [
         "ConcreteRamp3",
-        "Concrete Ramp3"
+        "Rampa de hormigón3"
     ],
     [
         "ConcreteBeam",
-        "Concrete Beam"
+        "Viga de hormigón"
     ],
     [
         "ConcreteBeam2",
-        "Concrete Beam2"
+        "Viga de hormigón2"
     ],
     [
         "HighPressureSteampack",
-        "High Pressure Steampack"
+        "Steampack de alta presión"
     ],
     [
         "HighCapacitySteampack",
-        "High Capacity Steampack"
+        "Steampack de gran capacidad"
     ],
     [
         "AdvancedSteampack",
-        "Advanced Steampack"
+        "Steampack avanzado"
     ]
 ]
