@@ -13,7 +13,7 @@
     ],
     [
         "CopperOreDust",
-        "Polvo de mineral de cobre impuro"
+        "Polvo de mineral de cobre"
     ],
     [
         "IronOre",
@@ -45,7 +45,7 @@
     ],
     [
         "UraniumOreDust",
-        "Polvo de mineral impuro de uranio"
+        "Polvo de mineral de uranio"
     ],
     [
         "AluminiumOre",
@@ -53,7 +53,7 @@
     ],
     [
         "AluminiumImpureOreGravel",
-        "Grava de mineral con impurezas de aluminio"
+        "Grava de mineral impuro de aluminio"
     ],
     [
         "AluminiumOreGravel",
@@ -61,7 +61,7 @@
     ],
     [
         "AluminiumImpureOreDust",
-        "Polvo de mineral de aluminio impuro"
+        "Polvo de mineral impuro de aluminio"
     ],
     [
         "CoalOre",
@@ -73,6 +73,6 @@
     ],
     [
         "AluminiumOreDust",
-        "Polvo de mineral de aluminio impuro"
+        "Polvo de mineral de aluminio"
     ]
 ]
