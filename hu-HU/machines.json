@@ -1,187 +1,167 @@
 [
     [
         "Macerator",
-        "Macerator"
+        "Őrlő gép"
     ],
     [
         "CuttingMachine",
-        "Cutting Machine"
+        "Vágó gép"
     ],
     [
         "Fermenter",
-        "Fermenter"
+        "Erjesztő"
     ],
     [
         "ChemReactor",
-        "Chemical Reactor"
+        "Vegyi reaktor"
     ],
     [
         "Separator",
-        "Separator"
+        "Szétválasztó"
     ],
     [
         "Beam",
-        "Beam"
+        "Gerenda"
     ],
     [
         "Corner",
-        "Corner"
+        "Sarok"
     ],
     [
         "AutomaticHammer",
-        "Automatic Hammer"
+        "Automatikus kalapács"
     ],
     [
         "Boiler",
-        "Boiler"
+        "Bojler"
     ],
     [
         "Pipe",
-        "Pipe"
+        "Cső"
     ],
     [
         "HeatPipe",
-        "Heat Pipe"
+        "Hővezeték"
     ],
     [
         "Flywheel",
-        "Flywheel"
+        "Lendkerék"
     ],
     [
         "Scaffold",
-        "Scaffold"
+        "Állvány"
     ],
     [
         "Sign",
-        "Sign"
+        "Jel"
     ],
     [
         "AdvancedSign",
-        "Advanced Sign"
+        "Díszes jel"
     ],
     [
         "Connector",
-        "Cable"
+        "Kábel"
     ],
     [
         "Chest",
-        "Chest"
+        "Tároló"
     ],
     [
         "ItemRack",
-        "Item Rack"
+        "Tárgy raktár"
     ],
     [
         "Vent",
-        "Valve"
+        "Szelep"
     ],
     [
         "ElectricalSwitch",
-        "Switch"
+        "Kapcsoló"
     ],
     [
         "OreWasher",
-        "Ore Washer"
+        "Ércmosó"
     ],
     [
         "Conveyor",
-        "Conveyor"
+        "Szállítószalag"
     ],
     [
         "Splitter",
-        "Splitter"
+        "Osztó"
     ],
     [
         "Sorter",
-        "Sorter"
+        "Válogató"
     ],
     [
         "Container",
-        "Container"
+        "Tartály"
     ],
     [
         "Press",
-        "Press"
+        "Préselő gép"
     ],
     [
         "StirlingEngine",
-        "Stirling Engine"
+        "Hőlégmotor"
     ],
     [
         "CombustionEngine",
-        "Combustion Engine"
-    ],
-    [
-        "OilCrackingTower",
-        "Oil Cracking Tower"
+        "Belső égésű motor"
     ],
     [
         "PyrolysisUnit",
-        "Pyrolysis Unit"
-    ],
-    [
-        "HandGenerator",
-        "Hand Generator"
+        "Pirolízis gép"
     ],
     [
         "Generator",
-        "Generator"
-    ],
-    [
-        "IndustrialGenerator",
-        "Industrial Generator"
+        "Generátor"
     ],
     [
         "CompactGenerator",
-        "Compact Generator"
+        "Kompakt generátor"
     ],
     [
         "ElectricEngine",
-        "Electric Engine"
-    ],
-    [
-        "BiElectricEngine",
-        "Bi-Directional Electric Engine"
+        "Elektromos motor"
     ],
     [
         "IndustrialElectricEngine",
-        "Industrial Electric Engine"
+        "Ipari elektromos motor"
     ],
     [
         "RobotArm",
-        "Robot Arm"
+        "Robot kar"
     ],
     [
         "FilteringRobotArm",
-        "Filtering Robot Arm"
+        "Szűrő robot kar"
     ],
     [
         "Pump",
-        "Pump"
+        "Szivattyú"
     ],
     [
         "FilteringPump",
-        "Filtering Pump"
-    ],
-    [
-        "OverflowPump",
-        "Overflow Pump"
+        "Szűrő szivattyú"
     ],
     [
         "Smelter",
-        "Smelter"
+        "Kohó"
     ],
     [
         "SteamTurbine",
-        "Steam Turbine"
+        "Gőzturbina"
     ],
     [
         "IndustrialSteamTurbine",
-        "Industrial Steam Turbine"
+        "Ipari gőzturbina"
     ],
     [
         "GasTurbine",
-        "Gas Turbine"
+        "Gázturbina"
     ],
     [
         "Riteg",
@@ -189,250 +169,278 @@
     ],
     [
         "ArcSmelter",
-        "Arc Smelter"
+        "Ívkohó"
     ],
     [
         "ChemicalBath",
-        "Chemical Bath"
+        "Vegyi fürdő"
     ],
     [
         "Sifter",
-        "Sifter"
+        "Szitáló"
     ],
     [
-        "IndustrialChemReactor",
-        "Industrial Chemical Reactor"
+        "FilteringUnit",
+        "Szűrő egység"
     ],
     [
         "Furnace",
-        "Furnace"
+        "Kemence"
     ],
     [
         "Oven",
-        "Oven"
+        "Sütő"
     ],
     [
         "BlastFurnace",
-        "Blast Furnace"
+        "Nagyolvasztó kemence"
     ],
     [
         "FluidFurnace",
-        "Fluid Furnace"
+        "Folyadék égető kemence"
     ],
     [
         "ElectricFurnace",
-        "Electric Furnace"
+        "Elektromos kemence"
     ],
     [
         "BatteryBox",
-        "Battery Box"
+        "Akkumulátor doboz"
     ],
     [
         "SmallBattery",
-        "Small Battery"
-    ],
-    [
-        "Portal",
-        "Portal"
+        "Kis akkumulátor"
     ],
     [
         "DrillingRig",
-        "Drilling Rig"
+        "Bányászgép"
     ],
     [
         "Assembler",
-        "Assembler"
+        "Összeszerelő"
     ],
     [
         "Constructor",
-        "Constructor"
+        "Gépgyártó"
     ],
     [
         "Deconstructor",
-        "Deconstructor"
+        "Szétszerelő"
     ],
     [
         "FluidDump",
-        "Fluid Dump"
+        "Folyadék megsemmisítő"
     ],
     [
         "GasDump",
-        "Gas Dump"
+        "Gázfáklya"
     ],
     [
         "SolidDump",
-        "Solid Dump"
+        "Tárgy megsemmisítő"
     ],
     [
         "Lamp",
-        "Lamp"
+        "Lámpa"
     ],
     [
         "AdminElectricGenerator",
-        "Creative Electric Generator"
+        "Kreatív elektromos generátor"
     ],
     [
         "AdminItemGenerator",
-        "Creative Item Generator"
+        "Kreatív tárgy generátor"
     ],
     [
         "AdminKineticGenerator",
-        "Creative Kinetic Generator"
+        "Kreatív mozgási energia generátor"
     ],
     [
         "AdminHeatGenerator",
-        "Creative Heat Generator"
+        "Kreatív hőgenerátor"
     ],
     [
         "AdminFluidGenerator",
-        "Creative Fluid Generator"
+        "Kreatív folyadékgenerátor"
     ],
     [
         "AdminExterminator",
-        "Creative Exterminator"
+        "Kreatív irtó"
     ],
     [
         "Electrolyzer",
-        "Electrolyzer"
+        "Elektrolizátor"
     ],
     [
         "Mixer",
-        "Mixer"
+        "Keverő gép"
     ],
     [
         "Freezer",
-        "Freezer"
+        "Mélyhűtő gép"
     ],
     [
         "AutomaticFarm",
-        "Automatic Farm"
+        "Automatikus farm"
     ],
     [
         "AtmosphericCondenser",
-        "Atmospheric Condenser"
+        "Légköri kondenzátor"
     ],
     [
         "Terminal",
-        "Terminal"
+        "Kijelző"
     ],
     [
         "BigTerminal",
-        "Big Terminal"
+        "Nagy kijelző"
     ],
     [
         "HugeTerminal",
-        "Huge Terminal"
+        "Hatalmas kijelző"
     ],
     [
         "FlatTerminal",
-        "Flat Terminal"
+        "Lapos kijelző"
     ],
     [
         "BigFlatTerminal",
-        "Big Flat Terminal"
-    ],
-    [
-        "RailStation",
-        "Rail Station"
+        "Nagy lapos kijelző"
     ],
     [
         "HugeFlatTerminal",
-        "Huge Flat Terminal"
+        "Hatalmas lapos kijelző"
     ],
     [
         "Computer",
-        "Computer"
+        "Számítógép"
     ],
     [
         "QuantumComputer",
-        "Quantum Computer"
+        "Kvantum számítógép"
     ],
     [
         "IndustrialSeparator",
-        "Industrial Separator"
+        "Ipari szétválasztó"
     ],
     [
         "Radiator",
-        "Radiator"
+        "Radiátor"
     ],
     [
         "Diode",
-        "Diode"
+        "Dióda"
     ],
     [
         "FissionReactor",
-        "Fission Reactor"
+        "Atomreaktor"
     ],
     [
         "FusionReactor",
-        "Fusion Reactor"
+        "Fúziós reaktor"
     ],
     [
         "IndustrialBoiler",
-        "Industrial Boiler"
+        "Ipari bojler"
+    ],
+    [
+        "ResearchReactor",
+        "Kutató reaktor"
     ],
     [
         "SolarPanel",
-        "Solar Panel"
-    ],
-    [
-        "SmallSolarPanel",
-        "Small Solar Panel"
+        "Napelem"
     ],
     [
         "Pumpjack",
-        "Pumpjack"
+        "Folyadék kitermelő"
     ],
     [
         "IndustrialSmelter",
-        "Industrial Smelter"
+        "Ipari kohó"
     ],
     [
         "InductionCoil",
-        "Induction Coil"
+        "Indukciós tekercs"
     ],
     [
         "CreativeController",
-        "Creative Controller"
+        "Kreatív vezérlő"
+    ],
+    [
+        "Portal",
+        "Portál"
     ],
     [
         "LogicCircuit",
-        "Logic Circuit"
+        "Vezérlő logika"
     ],
     [
         "LogicInterface",
-        "Logic Interface"
+        "Adat olvasó egység"
     ],
     [
         "LogicController",
-        "Logic Controller"
+        "Vezérlő egység"
     ],
     [
         "LogicDisplay",
-        "Logic Display"
+        "Vezérlés képernyő"
     ],
     [
         "LogicWire",
-        "Logic Wire"
+        "Vezérlés vezeték"
     ],
     [
         "Button",
-        "Button"
+        "Nyomógomb"
     ],
     [
         "ToggleButton",
-        "Toggle Button"
+        "Váltó kapcsoló"
+    ],
+    [
+        "OilCrackingTower",
+        "Olaj finomító"
+    ],
+    [
+        "IndustrialChemReactor",
+        "Ipari vegyi reaktor"
+    ],
+    [
+        "HandGenerator",
+        "Kézi generátor"
     ],
     [
         "KineticHeater",
-        "Kinetic Heater"
+        "Kinetikus fűtő berendezés"
+    ],
+    [
+        "IndustrialGenerator",
+        "Ipari áramfejlesztő"
+    ],
+    [
+        "OverflowPump",
+        "Túlfolyó szivattyú"
+    ],
+    [
+        "RailStation",
+        "Vasútállomás"
+    ],
+    [
+        "BiElectricEngine",
+        "Kétirányú villanymotor"
+    ],
+    [
+        "SmallSolarPanel",
+        "Kicsi napelem"
     ],
     [
         "CableBundle",
-        "Cable Bundle"
+        "Kábelköteg"
     ],
     [
         "Rails",
-        "Rails"
+        "Sínek"
     ]
 ]

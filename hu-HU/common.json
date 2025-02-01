@@ -41,258 +41,262 @@
     ],
     [
         "Organics",
-        "Mixed organics mass"
+        "Szerves anyag"
     ],
     [
         "BuildingBlock",
-        "Building block"
+        "Építőkocka"
     ],
     [
         "NuclearFuel",
-        "Fuel for Fission Reactor"
+        "Reaktor üzemanyag"
     ],
     [
         "Fluid",
-        "Fluid"
+        "Folyadék"
     ],
     [
         "Gas",
-        "Gas"
+        "Gáz"
     ],
     [
         "ByPipes",
-        "Can be transported by pipes\nCan be injected/extracted from machines by pumps"
+        "Csővezetéken szállítható\nA csővezeték szivattyúval csatlakoztatható a készülékekhez"
     ],
     [
         "WorldObject",
-        "Can't be crafted\nAppears in world"
+        "Nem gyártható\nA bolygón található"
     ],
     [
         "Circuit",
-        "Part of smart devices\nUsed by computers to produce science points"
+        "Intelligens eszközök része\nKutatási számítások előállítására használják a számítógépek"
     ],
     [
         "ItemInput",
-        "<img id=\"ItemInput\"></>Has item input"
+        "<img id=\"ItemInput\"></>Tárgyakat fogad"
     ],
     [
         "ItemOutput",
-        "<img id=\"ItemOutput\"></>Has item ouput"
+        "<img id=\"ItemOutput\"></>Tárgyakat bocsát ki"
     ],
     [
         "FluidInput",
-        "<img id=\"FluidInput\"></>Has fluid input"
+        "<img id=\"FluidInput\"></>Folyadékot fogad"
     ],
     [
         "FluidOutput",
-        "<img id=\"FluidOutput\"></>Has fluid ouput"
+        "<img id=\"FluidOutput\"></>Folyadékot bocsát ki"
     ],
     [
         "FluidConductor",
-        "Conducts fluids"
+        "Folyadékot vezet"
     ],
     [
         "FluidStorage",
-        "Stores fluids"
+        "Folyadékot tárol"
     ],
     [
         "KineticInput",
-        "<img id=\"Kinetic\"></>Consumes kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic2\"></>Mozgási energiát használ<img id=\"Kinetic\"></>"
     ],
     [
         "KineticOutput",
-        "<img id=\"Kinetic\"></>Produces kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic2\"></>Mozgási energiát termel<img id=\"Kinetic\"></>"
     ],
     [
         "KineticConductor",
-        "<img id=\"Kinetic\"></>Conducts kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic2\"></>Mozgási energiát vezet<img id=\"Kinetic\"></>"
     ],
     [
         "KineticStorage",
-        "Stores kinetic energy<img id=\"Kinetic2\"></>"
+        "<img id=\"Kinetic2\"></>Mozgási energiát tárol"
     ],
     [
         "HeatInput",
-        "<img id=\"Heat\"></>Consumes heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat2\"></>Hőenergiát használ<img id=\"Heat\"></>"
     ],
     [
         "HeatOutput",
-        "<img id=\"Heat\"></>Produces heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat2\"></>Hőenergiát termel<img id=\"Heat\"></>"
     ],
     [
         "HeatConductor",
-        "<img id=\"Heat\"></>Conducts heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat2\"></>Hőenergiát vezet<img id=\"Heat\"></>"
     ],
     [
         "HeatStorage",
-        "Stores heat energy<img id=\"Heat2\"></>"
+        "<img id=\"Heat2\"></>Hőenergiát tárol"
     ],
     [
         "ElectricInput",
-        "<img id=\"Electricity\"></>Consumes electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity2\"></>Elektromos energiát használ<img id=\"Electricity\"></>"
     ],
     [
         "ElectricOutput",
-        "<img id=\"Electricity\"></>Produces electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity2\"></>Elektromos energiát termel<img id=\"Electricity\"></>"
     ],
     [
         "ElectricConductor",
-        "<img id=\"Electricity\"></>Conducts electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity2\"></>Elektromos energiát vezet<img id=\"Electricity\"></>"
     ],
     [
         "ElectricStorage",
-        "Stores electricity<img id=\"Electricity2\"></>"
-    ],
-    [
-        "DataInput",
-        "Read data"
-    ],
-    [
-        "DataOutput",
-        "Write data"
-    ],
-    [
-        "DataConductor",
-        "Conducts data"
+        "<img id=\"Electricity2\"></>Elektromos energiát tárol"
     ],
     [
         "Stone",
-        "Stone"
+        "Kő"
     ],
     [
         "Copper",
-        "Copper"
+        "Réz"
     ],
     [
         "Steel",
-        "Steel"
+        "Acél"
     ],
     [
         "Aluminium",
-        "Aluminium"
+        "Alumínium"
     ],
     [
         "StainlessSteel",
-        "Stainless Steel"
+        "Rozsdamentes acél"
     ],
     [
         "Titanium",
-        "Titanium"
+        "Titán"
     ],
     [
         "HardMetal",
-        "Hard Metal"
+        "Keményfém"
     ],
     [
         "Neutronium",
-        "Neutronium"
-    ],
-    [
-        "Splitter",
-        "Can divide item flow into parts."
-    ],
-    [
-        "Sorter",
-        "Allowing to set white filter."
+        "Neutrónium"
     ],
     [
         "ips",
-        "Items per second: {0}"
+        "{0} tárgy másodpercenként"
     ],
     [
         "dps",
-        "Degrees per second: {0}"
+        "{0} fok fordulat másodpercenként"
     ],
     [
         "power_limit",
-        "Power limit: {0}W"
+        "{0}W maximális energia termelés"
     ],
     [
         "power_output",
-        "Power output: {0}W"
+        "{0}W energia termelés"
     ],
     [
         "power_input",
-        "Power input: {0}W"
+        "{0}W energia fogyasztás"
     ],
     [
         "container",
-        "Capacity: {0} L"
+        "Tárolható {0} L folyadék"
     ],
     [
         "battery",
-        "Capacity: {0} J"
+        "Tárolható {0} J energia"
     ],
     [
         "chest",
-        "Capacity: {0} stacks"
-    ],
-    [
-        "item_rack",
-        "Capacity: {0} items"
+        "Tárolható {0} db tárgy"
     ],
     [
         "burnable",
-        "Burnable"
+        "Éghető anyag"
     ],
     [
         "speedbonus",
-        "Speed bonus: x{0}"
-    ],
-    [
-        "furnace_desc",
-        "Burning speed: x{0}"
-    ],
-    [
-        "furnace_desc2",
-        "Heat output: x{0}"
-    ],
-    [
-        "furnace_desc3",
-        "Kinetic output: x{0}"
+        "{0}x sebesség"
     ],
     [
         "electric_drain",
-        "Electricity drain: {0}W"
+        "{0}W elektromos energia elvezetés"
     ],
     [
         "heat_drain",
-        "Heat drain: {0}W"
+        "{0}W hőenergia"
     ],
     [
         "kinetic_drain",
-        "Kinetic drain: {0}W"
+        "{0}W mozgási energia"
     ],
     [
         "computations",
-        "Computations per second: {0}"
+        "{0} számítás másodpercenként"
     ],
     [
         "calculations",
-        "Produced by computers\nBuild Computer and power it with electricity to produce Computations"
+        "Számítógépek termelik\nÉpíts számítógépet, lásd el árammal, hogy kutatási számítást tudj elő állítani"
     ],
     [
         "WorldGeneratorRivers",
-        "Rivers and isles"
+        "Folyók és szigetek"
     ],
     [
         "WorldGeneratorBiome",
-        "Rocky islands"
+        "Sziklás szigetek"
     ],
     [
         "FlatWorldGenerator",
-        "Concrete world"
+        "Sík világ"
     ],
     [
         "WorldGeneratorPlains",
-        "Plains and coast"
+        "Síkság és tengerpart"
     ],
     [
         "machines_label_format",
         "{0} {1}"
     ],
     [
+        "Splitter",
+        "Szállított tárgyak szétosztása több irányba."
+    ],
+    [
+        "Sorter",
+        "Tárgyak szállításának szabályozása szűrökkel."
+    ],
+    [
+        "furnace_desc",
+        "{0}x égetési sebesség"
+    ],
+    [
+        "furnace_desc2",
+        "{0}x hőenergia termelés"
+    ],
+    [
+        "furnace_desc3",
+        "{0}x mozgási energia"
+    ],
+    [
+        "DataInput",
+        "Adatot olvas"
+    ],
+    [
+        "DataOutput",
+        "Adatot ír"
+    ],
+    [
+        "DataConductor",
+        "Adatot vezet"
+    ],
+    [
+        "MachineColumn",
+        "Több kimeneti nyílása van több egymásra helyezett réteggel"
+    ],
+    [
+        "item_rack",
+        "Tárolható {0} db tárgy"
+    ],
+    [
         "Part",
-        "Part of devices"
+        "Rész"
     ]
 ]

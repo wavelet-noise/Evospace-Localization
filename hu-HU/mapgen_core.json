@@ -1,78 +1,86 @@
 [
     [
         "SandSurface",
-        "Sand"
+        "Homok"
     ],
     [
         "SandstoneSurface",
-        "Sandstone"
+        "Homokkő"
     ],
     [
         "StoneSurface",
-        "Stone"
+        "Kő"
     ],
     [
         "DesertSandSurface",
-        "Desert Sand"
+        "Sivatagi homok"
     ],
     [
         "GrassSurface",
-        "Grass"
+        "Fű"
     ],
     [
         "BogFogSurface",
-        "Bog Fog"
+        "Lápvidék"
+    ],
+    [
+        "LavaSmokeSurface",
+        "Lávafüst"
     ],
     [
         "LavaSurface",
-        "Lava"
+        "Láva"
     ],
     [
         "BasaltSurface",
-        "Basalt"
+        "Bazalt"
     ],
     [
         "BogSurface",
-        "Bog"
+        "Mocsár"
     ],
     [
         "PineForestSurface",
-        "Pine Forest"
+        "Fenyőerdő"
+    ],
+    [
+        "CoralBubbleEmitterSurface",
+        "Korall buborék"
     ],
     [
         "DirtSurface",
-        "Dirt"
+        "Föld"
     ],
     [
         "GravelSurface",
-        "Gravel"
+        "Kavics"
     ],
     [
         "DryGrassSurface",
-        "Dry Grass"
+        "Száraz fű"
     ],
     [
         "LimestoneSurface",
-        "Limestone"
+        "Mészkő"
     ],
     [
         "RedStoneSurface",
-        "Red Stone"
+        "Vörös kő"
     ],
     [
         "DarkStoneSurface",
-        "Dark Stone"
+        "Sötét kő"
     ],
     [
         "SnowSurface",
-        "Snow"
+        "Hó"
     ],
     [
         "GraniteSurface",
-        "Granite"
+        "Gránit"
     ],
     [
         "PeatSurface",
-        "Peat"
+        "Tőzeg"
     ]
 ]

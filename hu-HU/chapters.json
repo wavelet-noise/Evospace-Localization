@@ -1,15 +1,19 @@
 [
     [
         "Production",
-        "Production"
+        "Termelés"
     ],
     [
         "ProductionDescription",
         ""
     ],
     [
+        "Other",
+        "Egyéb"
+    ],
+    [
         "Decorations",
-        "Decorations"
+        "Díszítések"
     ],
     [
         "DecorationsDescription",

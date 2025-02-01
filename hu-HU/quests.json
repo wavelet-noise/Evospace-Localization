@@ -1,0 +1,222 @@
+[
+    [
+        "ChapterCompleted",
+        "Fejezet kész."
+    ],
+    [
+        "Completed",
+        "A küldetés kész."
+    ],
+    [
+        "Collect",
+        "Gyűjtsd össze ezt a tárgyat."
+    ],
+    [
+        "Achievement",
+        "Cél!"
+    ],
+    [
+        "RefiningMachine",
+        "RefiningMachineDescription"
+    ],
+    [
+        "FirstSteps",
+        "Első lépések"
+    ],
+    [
+        "RoadToSteel",
+        "Folyamat az acélhoz"
+    ],
+    [
+        "Farming",
+        "Mezőgazdaság"
+    ],
+    [
+        "Refining",
+        "Ércfinomítás"
+    ],
+    [
+        "Steam",
+        "Gőz"
+    ],
+    [
+        "RoadToAluminium",
+        "Folyamat az alumíniumhoz"
+    ],
+    [
+        "RoadToSS",
+        "Folyamat a rozsdamentes acélhoz"
+    ],
+    [
+        "RoadToTitanium",
+        "Folyamat a titániumhoz"
+    ],
+    [
+        "RoadToHardMetal",
+        "Folyamat a keményfémhez"
+    ],
+    [
+        "RoadToNeutronium",
+        "Folyamat a neutróniumhoz"
+    ],
+    [
+        "Other",
+        "Egyéb"
+    ],
+    [
+        "Decorative",
+        "Dekoráció"
+    ],
+    [
+        "Woodwork",
+        "Famunka"
+    ],
+    [
+        "FasterRefining",
+        "Gyorsabb finomítás"
+    ],
+    [
+        "Logistics",
+        "Logisztika"
+    ],
+    [
+        "FastTravel",
+        "Gyors utazás"
+    ],
+    [
+        "FasterSteel",
+        "Gyorsabb acél"
+    ],
+    [
+        "AdvancedLogistics",
+        "Fejlett logisztika"
+    ],
+    [
+        "HeatTransferring",
+        "Hőátadás"
+    ],
+    [
+        "CoalPiece",
+        "CoalPieceDescription"
+    ],
+    [
+        "CoalDust",
+        "CoalDustDescription"
+    ],
+    [
+        "CokePiece",
+        "CokePieceDescription"
+    ],
+    [
+        "CokeDust",
+        "Gyorsabb módja a koksz előállításának. Tegyen egy <item>szénport</> egy <machine>kokszos sütőbe</>."
+    ],
+    [
+        "HigherLevel",
+        "Ez egy továbbfejlesztett gép. Büntetés nélkül képes összetettebb recepteket készíteni, és modulokat tud használni."
+    ],
+    [
+        "Jumppack",
+        "Ez egy nagyon gyors utazási mód. A hotbáron válaszd ki és használd az ugrás gombot."
+    ],
+    [
+        "Plate",
+        "Az összes gépet közvetlenül rudakból lehet létrehozni – ez nem a legjobb módszer.\nSokkal hatékonyabb mód, ha az <machine>Automatic Hammer</> segítségével lemezeket készítesz.\nEgy lemezt készít 1 rúdból, míg a kézben készítve 1 tányért 2 rúdból készíthetsz."
+    ],
+    [
+        "Refined",
+        "Másfélszer több fémet kap az ércből, ha ezzel készíti el."
+    ],
+    [
+        "Furnace",
+        "Tüzelőanyagot használ fel <item>Heat</> előállítására. A hő egy kemence tetején lévő blokkba áramlik. A hőteljesítményt láng ikon jelöli."
+    ],
+    [
+        "Dryer",
+        "Hőt használ fel anyagok készítéséhez. Használható az üzemanyag-hatékonyság növelésére azáltal, hogy szénport állít elő <item>Log</>/<item>Stick</>/<item>Sawdust</>."
+    ],
+    [
+        "Smelter",
+        "Hőt használ a rudak előállításához. A rudakat nagyon lassan olvasztják ki az ércből. Sokkal hatékonyabb az ércet olvasztás előtt finomítani."
+    ],
+    [
+        "AlloySmelter",
+        "AlloySmelterDescription"
+    ],
+    [
+        "CastIron",
+        "Speciális acélgyártási folyamatokhoz használják. Kevesebb kokszot használ a folyamatban, és sokkal nagyobb a termelési sebessége is.\nA kapott öntöttvasat <machine>Arc Furnace</> kell megolvasztani."
+    ],
+    [
+        "CopperOre",
+        "Általános érc. Mindenhol előfordul. Rengeteg <item>Copper Ore</> található a tengerparton."
+    ],
+    [
+        "IronOre",
+        "Általános érc. Mindenhol előfordul. Rengeteg <item>Iron Ore</> található a mocsárban."
+    ],
+    [
+        "Boiler",
+        "Vízmelegítő"
+    ],
+    [
+        "Pump",
+        "Vizet szivattyúz."
+    ],
+    [
+        "Pipe",
+        "Cső"
+    ],
+    [
+        "Bed",
+        "Kattintson jobb gombbal egy ágyra a kezdő pont frissítéséhez. A menüből (Esc) a kezdő pontra ugorhat."
+    ],
+    [
+        "Organics",
+        "A világon található legtöbb növényéből begyűjthető."
+    ],
+    [
+        "BambooFarm",
+        "Bambuszcsíra farm. Takarítsa be <item>Multitool</> segítségével."
+    ],
+    [
+        "PumpkinFarm",
+        "Töktermesztés. Takarítsd be egy <item>Multitool</> segítségével."
+    ],
+    [
+        "AutomaticHammer",
+        "Kalapács"
+    ],
+    [
+        "Macerator",
+        "MaceratorDescription"
+    ],
+    [
+        "OreWasher",
+        "Ércmosó"
+    ],
+    [
+        "BlastFurnace",
+        "Két bemenete van: az egyik a <item>Iron Ingots</>-t fogad, a másik pedig kokszot. A készterméket távolítsa el <machine>Robot Arm</> segítségével."
+    ],
+    [
+        "CokeOven",
+        "Szén bemenete van és koksz kimenete. Folyadék kimenet <item>Ore Water</> számára."
+    ],
+    [
+        "RobotArm",
+        "Robot kar"
+    ],
+    [
+        "FilteringRobotArm",
+        "Robot kar szűrővel"
+    ],
+    [
+        "Conveyor",
+        "Szállítószalag"
+    ],
+    [
+        "ConveyorSplitter",
+        "Szállítószalag-osztó"
+    ]
+]

@@ -1,823 +1,611 @@
 [
     [
         "CopperPlate",
-        "Copper Plate"
+        "Réz lemez"
     ],
     [
         "SteelPlate",
-        "Steel Plate"
+        "Acél lemez"
     ],
     [
         "AluminiumPlate",
-        "Aluminium Plate"
+        "Alumínium lemez"
     ],
     [
         "StainlessSteelPlate",
-        "Stainless Steel Plate"
+        "Rozsdamentes acél lemez"
     ],
     [
         "TitaniumPlate",
-        "Titanium Plate"
+        "Titán lemez"
     ],
     [
         "HardMetalPlate",
-        "Hard Metal Plate"
+        "Keményfém lemez"
     ],
     [
         "NeutroniumPlate",
-        "Neutronium Plate"
+        "Neutrónium lemez"
     ],
     [
         "CopperParts",
-        "Copper Parts"
+        "Réz alkatrészek"
     ],
     [
         "SteelParts",
-        "Steel Parts"
+        "Acél alkatrészek"
     ],
     [
         "AluminiumParts",
-        "Aluminium Parts"
+        "Alumínium alkatrészek"
     ],
     [
         "StainlessSteelParts",
-        "Stainless Steel Parts"
+        "Rozsdamentes acél alkatrészek"
     ],
     [
         "TitaniumParts",
-        "Titanium Parts"
+        "Titán alkatrészek"
     ],
     [
         "HardMetalParts",
-        "Hard Metal Parts"
+        "Keményfém alkatrészek"
     ],
     [
         "NeutroniumParts",
-        "Neutronium Parts"
+        "Neutrónium alkatrészek"
     ],
     [
         "CopperCasing",
-        "Copper Casing"
+        "Réz burkolat"
     ],
     [
         "SteelCasing",
-        "Steel Casing"
+        "Acél burkolat"
     ],
     [
         "AluminiumCasing",
-        "Aluminium Casing"
+        "Alumínium burkolat"
     ],
     [
         "StainlessSteelCasing",
-        "Stainless Steel Casing"
+        "Rozsdamentes acél burkolat"
     ],
     [
         "TitaniumCasing",
-        "Titanium Casing"
+        "Titán burkolat"
     ],
     [
         "HardMetalCasing",
-        "Hard Metal Casing"
+        "Keményfém burkolat"
     ],
     [
         "NeutroniumCasing",
-        "Neutronium Casing"
-    ],
-    [
-        "CopperGearbox",
-        "Copper Gearbox"
-    ],
-    [
-        "SteelGearbox",
-        "Steel Gearbox"
-    ],
-    [
-        "AluminiumGearbox",
-        "Aluminium Gearbox"
-    ],
-    [
-        "StainlessSteelGearbox",
-        "Stainless Steel Gearbox"
-    ],
-    [
-        "TitaniumGearbox",
-        "Titanium Gearbox"
-    ],
-    [
-        "HardMetalGearbox",
-        "Hard Metal Gearbox"
-    ],
-    [
-        "NeutroniumGearbox",
-        "Neutronium Gearbox"
-    ],
-    [
-        "AluminiumSolarCell",
-        "Aluminium Solar Cell"
-    ],
-    [
-        "StainlessSteelSolarCell",
-        "Stainless Steel Solar Cell"
-    ],
-    [
-        "TitaniumSolarCell",
-        "Titanium Solar Cell"
-    ],
-    [
-        "HardMetalSolarCell",
-        "Hard Metal Solar Cell"
-    ],
-    [
-        "NeutroniumSolarCell",
-        "Neutronium Solar Cell"
+        "Neutrónium burkolat"
     ],
     [
         "Hand",
-        "Hand"
+        "Kéz"
     ],
     [
         "Computations",
-        "Computations"
+        "Számítások"
     ],
     [
         "Heat",
-        "Heat"
+        "Hő"
     ],
     [
         "Electricity",
-        "Electricity"
+        "Elektromosság"
     ],
     [
         "Kinetic",
-        "Kinetic"
+        "Mozgási energia"
     ],
     [
         "CopperIngot",
-        "Copper Ingot"
-    ],
-    [
-        "CopperBlock",
-        "Copper Block"
+        "Réz rúd"
     ],
     [
         "CopperDust",
-        "Copper Dust"
+        "Réz por"
     ],
     [
         "GoldIngot",
-        "Gold Ingot"
-    ],
-    [
-        "GoldBlock",
-        "Gold Block"
+        "Arany rúd"
     ],
     [
         "GoldDust",
-        "Gold Dust"
+        "Arany por"
     ],
     [
         "SuperconductorIngot",
-        "Superconductor Ingot"
-    ],
-    [
-        "SuperconductorBlock",
-        "Superconductor Block"
+        "Szupravezető rúd"
     ],
     [
         "SuperconductorDust",
-        "Superconductor Dust"
+        "Szupravezető por"
     ],
     [
         "IronIngot",
-        "Iron Ingot"
-    ],
-    [
-        "IronBlock",
-        "Iron Block"
+        "Vas rúd"
     ],
     [
         "IronDust",
-        "Iron Dust"
+        "Vas por"
     ],
     [
         "CircuitBoard",
-        "Circuit Board"
+        "Áramköri lemez"
     ],
     [
         "AdvancedCircuitBoard",
-        "Advanced Circuit Board"
+        "Fejlett áramköri lemez"
     ],
     [
         "Plastic",
-        "Plastic"
+        "Műanyag"
     ],
     [
         "SteelIngot",
-        "Steel Ingot"
-    ],
-    [
-        "SteelBlock",
-        "Steel Block"
+        "Acél rúd"
     ],
     [
         "SteelDust",
-        "Steel Dust"
+        "Acél por"
     ],
     [
         "AluminiumIngot",
-        "Aluminium Ingot"
-    ],
-    [
-        "AluminiumBlock",
-        "Aluminium Block"
+        "Alumínium rúd"
     ],
     [
         "AluminiumDust",
-        "Aluminium Dust"
-    ],
-    [
-        "AluminiumOxideBlock",
-        "Aluminium Oxide Block"
+        "Alumínium por"
     ],
     [
         "AluminiumOxideDust",
-        "Aluminium Oxide Dust"
+        "Alumínium-oxid por"
     ],
     [
         "StainlessSteelIngot",
-        "Stainless Steel Ingot"
-    ],
-    [
-        "StainlessSteelBlock",
-        "Stainless Steel Block"
+        "Rozsdamentes acél rúd"
     ],
     [
         "StainlessSteelDust",
-        "Stainless Steel Dust"
+        "Rozsdamentes acél por"
     ],
     [
         "TitaniumIngot",
-        "Titanium Ingot"
-    ],
-    [
-        "TitaniumBlock",
-        "Titanium Block"
+        "Titán rúd"
     ],
     [
         "TitaniumDust",
-        "Titanium Dust"
+        "Titán por"
     ],
     [
         "TitaniumTetrachloride",
-        "Titanium Tetrachloride"
+        "Titán-tetraklorid"
     ],
     [
         "TitaniumSponge",
-        "Titanium Sponge"
+        "Titán szivacs"
     ],
     [
         "TitaniumOxideDust",
-        "Titanium Oxide Dust"
+        "Titán-oxid por"
     ],
     [
         "PreparedTitaniumOxideDust",
-        "Prepared Titanium Oxide Dust"
-    ],
-    [
-        "ZinkBlock",
-        "Zink Block"
+        "Előkészített titán-oxid por"
     ],
     [
         "ZinkDust",
-        "Zink Dust"
-    ],
-    [
-        "LithiumBlock",
-        "Lithium Block"
+        "Cink por"
     ],
     [
         "LithiumDust",
-        "Lithium Dust"
+        "Lítium por"
     ],
     [
         "TungstenDust",
-        "Tungsten Dust"
+        "Volfrám por"
     ],
     [
         "TungstenOxideDust",
-        "Tungsten Oxide Dust"
+        "Volfrám-oxid por"
     ],
     [
         "TungstenCarbideDust",
-        "Tungsten Carbide Dust"
+        "Volfrám-karbid por"
     ],
     [
         "HardMetalIngot",
-        "Hard Metal Ingot"
-    ],
-    [
-        "HardMetalBlock",
-        "Hard Metal Block"
+        "Keményfém rúd"
     ],
     [
         "HardMetalDust",
-        "Hard Metal Dust"
+        "Keményfém por"
     ],
     [
         "HotHardMetalIngot",
-        "Hot Hard Metal Ingot"
+        "Forró keményfém rúd"
     ],
     [
         "HotNeutroniumIngot",
-        "Hot Neutronium Ingot"
-    ],
-    [
-        "CobaltBlock",
-        "Cobalt Block"
+        "Forró neutrónium rúd"
     ],
     [
         "CobaltDust",
-        "Cobalt Dust"
+        "Kobalt por"
     ],
     [
         "CobaltOxideDust",
-        "Cobalt Oxide Dust"
+        "Kobalt-oxid por"
     ],
     [
         "CementDust",
-        "Cement Dust"
+        "Cementpor"
     ],
     [
         "NeutroniumIngot",
-        "Neutronium Ingot"
+        "Neutrónium rúd"
     ],
     [
         "NeutroniumDust",
-        "Neutronium Dust"
+        "Neutrónium por"
     ],
     [
         "ChromiumDust",
-        "Chromium Dust"
-    ],
-    [
-        "PlutoniumBlock",
-        "Plutonium Block"
+        "Króm por"
     ],
     [
         "PlutoniumDust",
-        "Plutonium Dust"
-    ],
-    [
-        "UraniumBlock",
-        "Uranium-238 Block"
+        "Plutónium por"
     ],
     [
         "UraniumDust",
-        "Uranium-238 Dust"
-    ],
-    [
-        "Uranium235Block",
-        "Uranium-235 Block"
+        "Urán-238 por"
     ],
     [
         "Uranium235Dust",
-        "Uranium-235 Dust"
-    ],
-    [
-        "Uranium233Block",
-        "Uranium-233 Block"
+        "Urán-235 por"
     ],
     [
         "Uranium233Dust",
-        "Uranium-233 Dust"
+        "Urán-233 por"
     ],
     [
         "Uranium233Cell",
-        "Uranium 233 Cell"
+        "Urán 233 cella"
     ],
     [
         "UraniumCell",
-        "Uranium Cell"
+        "Urán cella"
     ],
     [
         "PlutoniumCell",
-        "Plutonium Cell"
+        "Plutónium cella"
     ],
     [
         "DepletedUraniumCell",
-        "Depleted Uranium Cell"
-    ],
-    [
-        "ThoriumBlock",
-        "Thorium Block"
+        "Kimerült urán cella"
     ],
     [
         "ThoriumDust",
-        "Thorium Dust"
-    ],
-    [
-        "SodiumBlock",
-        "Sodium Block"
+        "Tórium por"
     ],
     [
         "SodiumDust",
-        "Sodium Dust"
-    ],
-    [
-        "SodiumHydroxideBlock",
-        "Sodium Hydroxide Block"
-    ],
-    [
-        "SodiumHydroxideDust",
-        "Sodium Hydroxide Dust"
-    ],
-    [
-        "PotassiumBlock",
-        "Potassium Block"
+        "Nátrium por"
     ],
     [
         "PotassiumDust",
-        "Potassium Dust"
+        "Kálium por"
     ],
     [
         "Sulfur",
-        "Sulfur"
+        "Kén"
     ],
     [
         "Steam",
-        "Steam"
+        "Gőz"
     ],
     [
         "Chlorine",
-        "Chlorine"
+        "Klór"
     ],
     [
         "Peat",
-        "Peat"
+        "Tőzeg"
     ],
     [
         "Coal",
-        "Coal"
+        "Szén"
     ],
     [
         "Coke",
-        "Coke"
+        "Koksz"
     ],
     [
         "Creosote",
-        "Creosote"
+        "Kreozot"
     ],
     [
         "ProducerGas",
-        "Producer Gas"
+        "Földgáz"
     ],
     [
         "CarbonMonoxide",
-        "Carbon Monoxide"
+        "Szén-monoxid"
     ],
     [
-        "NitricAcid",
-        "Nitric Acid"
-    ],
-    [
-        "Ash",
-        "Ash"
+        "AshDust",
+        "Hamu"
     ],
     [
         "Hydrogen",
-        "Hydrogen"
-    ],
-    [
-        "Ethanol",
-        "Ethanol"
+        "Hidrogén"
     ],
     [
         "Methane",
-        "Methane"
+        "Metán"
     ],
     [
         "Ethylene",
-        "Ethylene"
+        "Etilén"
     ],
     [
         "Water",
-        "Water"
+        "Víz"
     ],
     [
         "Glass",
-        "Glass"
+        "Üveg"
     ],
     [
         "Lense",
-        "Lense"
+        "Lencse"
     ],
     [
         "Organics",
-        "Organics"
+        "Szerves anyag"
     ],
     [
         "Biomass",
-        "Biomass"
-    ],
-    [
-        "FermentedBiomass",
-        "Fermented Biomass"
-    ],
-    [
-        "Ammonia",
-        "Ammonia"
+        "Biomassza"
     ],
     [
         "Clay",
-        "Clay"
+        "Agyag"
     ],
     [
         "OreWater",
-        "Ore Water"
+        "Ércvíz"
     ],
     [
         "RareEarthElement",
-        "Rare Earth Element"
+        "Ritkaföldfém"
     ],
     [
         "Log",
-        "Log"
+        "Rönk"
     ],
     [
         "StoneLog",
-        "Stone Log"
+        "Kőrönk"
     ],
     [
         "Plank",
-        "Plank"
+        "Deszka"
     ],
     [
         "Silicon",
-        "Silicon"
+        "Szilícium"
     ],
     [
         "SiliconWafer",
-        "Silicon Wafer"
+        "Szilícium ostya"
     ],
     [
         "SulfuricAcid",
-        "Sulfuric Acid"
-    ],
-    [
-        "Rapeseed",
-        "Rapeseed"
-    ],
-    [
-        "RapeseedOil",
-        "Rapeseed Oil"
+        "Kénsav"
     ],
     [
         "RawOil",
-        "Raw Oil"
+        "Kőolaj"
     ],
     [
         "MineralWater",
-        "Mineral Water"
+        "Ásványvíz"
     ],
     [
         "Gasoline",
-        "Gasoline"
-    ],
-    [
-        "Diesel",
-        "Diesel"
-    ],
-    [
-        "HighCetaneDiesel",
-        "High Cetane Diesel"
-    ],
-    [
-        "Superfuel",
-        "Superfuel"
-    ],
-    [
-        "RocketFuel",
-        "Rocket Fuel"
-    ],
-    [
-        "ExtraHeavyOil",
-        "Extra Heavy Oil"
+        "Benzin"
     ],
     [
         "HeavyOil",
-        "Heavy Oil"
+        "Nehéz olaj"
     ],
     [
         "Battery",
-        "Battery"
+        "Akkumulátor"
     ],
     [
         "SiliconOxide",
-        "Silicon Oxide"
+        "Szilícium-oxid"
     ],
     [
         "Pumpkin",
-        "Pumpkin"
+        "Tök"
     ],
     [
         "Oxygen",
-        "Oxygen"
+        "Oxigén"
     ],
     [
         "Nitrogen",
-        "Nitrogen"
+        "Nitrogén"
     ],
     [
         "ChromiumOxideDust",
-        "Chromium Oxide Dust"
+        "Króm-oxid por"
     ],
     [
         "PotassiumChlorideDust",
-        "Potassium Chloride Dust"
+        "Kálium-klorid por"
     ],
     [
         "BerylliumDust",
-        "Beryllium Dust"
+        "Berillium por"
     ],
     [
         "YttriumDust",
-        "Yttrium Dust"
+        "Ittrium por"
     ],
     [
         "Helium",
-        "Helium"
+        "Hélium"
     ],
     [
         "SaltDust",
-        "Salt Dust"
+        "Sópor"
     ],
     [
         "PortalBase",
-        "Portal Base"
+        "Portálbázis"
     ],
     [
         "Signal",
-        "Signal"
+        "Jel"
     ],
     [
         "CopperWire",
-        "Copper Wire"
+        "Réz huzal"
     ],
     [
         "GoldWire",
-        "Gold Wire"
+        "Arany huzal"
     ],
     [
         "SuperconductorWire",
-        "Superconductor Wire"
+        "Szupravezető huzal"
     ],
     [
         "Circuit",
-        "Circuit"
+        "Áramkör"
     ],
     [
         "AdvancedCircuit",
-        "Advanced Circuit"
+        "Fejlett áramkör"
     ],
     [
         "Processor",
-        "Processor"
+        "Processzor"
     ],
     [
         "QuantumCircuit",
-        "Quantum Circuit"
+        "Kvantum áramkör"
     ],
     [
         "QuantumProcessor",
-        "Quantum Processor"
+        "Kvantum processzor"
     ],
     [
         "QuantumCore",
-        "Quantum Core"
+        "Kvantum mag"
+    ],
+    [
+        "SingularityCore",
+        "Szingularitás mag"
     ],
     [
         "QuantumBrain",
-        "Quantum Brain"
+        "Kvantum agy"
     ],
     [
         "Cell",
-        "Cell"
+        "Cella"
     ],
     [
         "Catalyst",
-        "Catalyst Cell"
-    ],
-    [
-        "UltimateCatalyst",
-        "Ultimate Catalyst Cell"
-    ],
-    [
-        "MothershipPing",
-        "Mothership Ping"
+        "Katalizátor cella"
     ],
     [
         "ControlCell",
-        "Control Cell"
+        "Vezérlő cella"
     ],
     [
         "ReflectorCell",
-        "Reflector Cell"
+        "Reflektor cella"
     ],
     [
         "ThoriumCell",
-        "Thorium Cell"
+        "Tórium cella"
     ],
     [
         "MixedOxideCell",
-        "Mixed-Oxide Cell"
+        "Vegyes oxid cella"
     ],
     [
         "RutileCrystal",
-        "Rutile Crystal"
+        "Rutil kristály"
     ],
     [
         "UraniniteCrystal",
-        "Uraninite Crystal"
+        "Urán-szurokérc kristály"
     ],
     [
         "UraniniteCluster",
-        "Uraninite Cluster"
+        "Urán-szurokérc fürt"
     ],
     [
         "CinnabarDust",
-        "Cinnabar Dust"
+        "Cinóber por"
     ],
     [
         "CinnabarCrystal",
-        "Cinnabar Crystal"
+        "Cinóber kristály"
     ],
     [
         "CinnabarCluster",
-        "Cinnabar Cluster"
+        "Cinóber fürt"
     ],
     [
         "MalachiteDust",
-        "Malachite Dust"
+        "Malachit por"
     ],
     [
         "MalachiteCrystal",
-        "Malachite Crystal"
+        "Malachit kristály"
     ],
     [
         "MalachiteCluster",
-        "Malachite Cluster"
+        "Malachit fürt"
     ],
     [
         "Mercury",
-        "Mercury"
+        "Higany"
     ],
     [
         "FilteringCell",
-        "Filtering Cell"
+        "Szűrő cella"
     ],
     [
         "BoronDust",
-        "Boron Dust"
+        "Bórpor"
     ],
     [
         "BoraxDust",
-        "Borax Dust"
+        "Bórax por"
     ],
     [
         "Emerald",
-        "Emerald"
+        "Smaragd"
     ],
     [
         "EmeraldDust",
-        "Emerald Dust"
-    ],
-    [
-        "Capacity",
-        "Capacity"
-    ],
-    [
-        "InputError",
-        "Input Error"
-    ],
-    [
-        "OutputError",
-        "Output Error"
-    ],
-    [
-        "Progress",
-        "Progress"
-    ],
-    [
-        "SwitchedOn",
-        "Switched On"
-    ],
-    [
-        "Drain",
-        "Drain"
-    ],
-    [
-        "Percent",
-        "Percent"
+        "Smaragd por"
     ],
     [
         "A",
@@ -925,70 +713,294 @@
     ],
     [
         "ErrorString",
-        "Error String"
+        "Hiba"
     ],
     [
         "Multitool",
-        "Multitool"
+        "Többcélú szerszám"
     ],
     [
         "Screwdriver",
-        "Screwdriver"
+        "Csavarhúzó"
+    ],
+    [
+        "CopperBlock",
+        "Réz blokk"
+    ],
+    [
+        "GoldBlock",
+        "Arany blokk"
+    ],
+    [
+        "SuperconductorBlock",
+        "Szupravezető blokk"
+    ],
+    [
+        "IronBlock",
+        "Vas blokk"
+    ],
+    [
+        "SteelBlock",
+        "Acél blokk"
+    ],
+    [
+        "AluminiumBlock",
+        "Alumínium blokk"
+    ],
+    [
+        "AluminiumOxideBlock",
+        "Alumínium-oxid blokk"
+    ],
+    [
+        "StainlessSteelBlock",
+        "Rozsdamentes acél blokk"
+    ],
+    [
+        "TitaniumBlock",
+        "Titán blokk"
+    ],
+    [
+        "ZinkBlock",
+        "Cink blokk"
+    ],
+    [
+        "LithiumBlock",
+        "Lítium blokk"
+    ],
+    [
+        "HardMetalBlock",
+        "Keményfém blokk"
+    ],
+    [
+        "CobaltBlock",
+        "Kobalt blokk"
+    ],
+    [
+        "PlutoniumBlock",
+        "Plutónium blokk"
+    ],
+    [
+        "UraniumBlock",
+        "Urán–238 blokk"
+    ],
+    [
+        "Uranium235Block",
+        "Urán–235 blokk"
+    ],
+    [
+        "Uranium233Block",
+        "Urán–233 blokk"
+    ],
+    [
+        "ThoriumBlock",
+        "Tórium blokk"
+    ],
+    [
+        "SodiumBlock",
+        "Nátrium blokk"
+    ],
+    [
+        "PotassiumBlock",
+        "Kálium blokk"
+    ],
+    [
+        "UltimateCatalyst",
+        "Tökéletes katalizátor cella"
+    ],
+    [
+        "MothershipPing",
+        "Anyahajó szólítása"
     ],
     [
         "PaintTool",
-        "Paint Tool"
+        "Festőhenger"
+    ],
+    [
+        "Capacity",
+        "Kapacitás"
+    ],
+    [
+        "InputError",
+        "Beviteli hiba"
+    ],
+    [
+        "OutputError",
+        "Kimeneti hiba"
+    ],
+    [
+        "Progress",
+        "Folyamat"
+    ],
+    [
+        "SwitchedOn",
+        "Bekapcsolva"
+    ],
+    [
+        "Ethanol",
+        "Etanol"
+    ],
+    [
+        "Methanol",
+        "Metanol"
+    ],
+    [
+        "FermentedBiomass",
+        "Erjesztett biomassza"
+    ],
+    [
+        "Ammonia",
+        "Ammónia"
+    ],
+    [
+        "ExtraHeavyOil",
+        "Extra nehézolaj"
+    ],
+    [
+        "SodiumHydroxideBlock",
+        "Nátrium-hidroxid blokk"
+    ],
+    [
+        "SodiumHydroxideDust",
+        "Nátrium-hidroxid por"
+    ],
+    [
+        "NitricAcid",
+        "Salétrom sav"
+    ],
+    [
+        "Ash",
+        "Hamu"
+    ],
+    [
+        "Rapeseed",
+        "Repce mag"
+    ],
+    [
+        "RapeseedOil",
+        "Répa olaj"
+    ],
+    [
+        "Diesel",
+        "Dízel olaj"
+    ],
+    [
+        "HighCetaneDiesel",
+        "Magas cetánszámú dízel olaj"
+    ],
+    [
+        "Superfuel",
+        "Szuper üzemanyag"
+    ],
+    [
+        "RocketFuel",
+        "Rakéta üzemanyag"
+    ],
+    [
+        "CopperGearbox",
+        "Réz sebességváltó"
+    ],
+    [
+        "SteelGearbox",
+        "Acél sebességváltó"
+    ],
+    [
+        "AluminiumGearbox",
+        "Alumínium sebességváltó"
+    ],
+    [
+        "StainlessSteelGearbox",
+        "Rozsdamentes acél sebességváltó"
+    ],
+    [
+        "TitaniumGearbox",
+        "Titán sebességváltó"
+    ],
+    [
+        "HardMetalGearbox",
+        "Keményfém sebességváltó"
+    ],
+    [
+        "NeutroniumGearbox",
+        "Neutrónium sebességváltó"
+    ],
+    [
+        "AluminiumSolarCell",
+        "Alumínium napcella"
+    ],
+    [
+        "StainlessSteelSolarCell",
+        "Rozsdamentes acél napcella"
+    ],
+    [
+        "TitaniumSolarCell",
+        "Titán napcella"
+    ],
+    [
+        "HardMetalSolarCell",
+        "Keményfém napcella"
+    ],
+    [
+        "NeutroniumSolarCell",
+        "Neutrónium napcella"
+    ],
+    [
+        "Drain",
+        "Lefolyó"
+    ],
+    [
+        "Percent",
+        "Százalék"
     ],
     [
         "BuilderTool",
-        "Builder Tool"
+        "Építő eszköz"
     ],
     [
         "ConstructionBlueprint",
-        "Construction Blueprint"
+        "Építési tervrajz"
     ],
     [
         "DeconstructionBlueprint",
-        "Deconstruction Blueprint"
+        "Lebontási tervrajz"
     ],
     [
         "UpgradeBlueprint",
-        "Upgrade Blueprint"
+        "Fejlesztési tervrajz"
     ],
     [
         "ConstructionTool",
-        "Construction Tool"
+        "Építő eszköz"
     ],
     [
         "DeconstructionTool",
-        "Deconstruction Tool"
+        "Lebontó eszköz"
     ],
     [
         "SteelLocomotive",
-        "Steel Locomotive"
+        "Acél mozdony"
     ],
     [
         "SteelWagon",
-        "Steel Wagon"
+        "Acél vagon"
     ],
     [
         "BasicBattery",
-        "Basic Battery"
+        "Alap akkumulátor"
     ],
     [
         "AdvancedBattery",
-        "Advanced Battery"
+        "Fejlett akkumulátor"
     ],
     [
         "SuperiorBattery",
-        "Superior Battery"
+        "Kiváló akkumulátor"
     ],
     [
         "UltimateBattery",
-        "Ultimate Battery"
+        "Legfejlettebb akkumulátor"
     ],
     [
         "Storage",
-        "Storage"
+        "Raktár"
     ]
 ]

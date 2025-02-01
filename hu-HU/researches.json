@@ -1,186 +1,206 @@
 [
     [
         "InventoryUpgrade",
-        "Inventory Upgrade"
+        "Tároló növelése"
     ],
     [
         "PlutoniumReaction",
-        "Plutonium Reaction"
+        "Plutónium fűtőanyag"
     ],
     [
         "ThoriumReaction",
-        "Thorium Reaction"
+        "Tórium fűtőanyag"
     ],
     [
         "Drying",
-        "Drying"
+        "Anyag égető"
     ],
     [
         "PowerGeneration",
-        "Power Generation"
+        "Energiatermelés"
     ],
     [
         "Automatization",
-        "Automatization"
+        "Automatizálás"
     ],
     [
         "AdditionalStorage",
-        "Additional Storage"
+        "Tárgy tárolás"
     ],
     [
         "HeatTransferring",
-        "Heat Transferring"
+        "Hőátadás"
     ],
     [
         "BasicMachines",
-        "Basic Machines"
+        "Alap gépek"
     ],
     [
         "Container",
-        "Fluid Storage"
+        "Folyadék tárolás"
     ],
     [
         "FluidDumping",
-        "Fluid Dumping"
+        "Folyadék megsemmisítés"
     ],
     [
         "SingleTypeStorage",
-        "Single Type Storage"
+        "Egyszerű tároló"
     ],
     [
         "DistributedComputing",
-        "Distributed Computing"
+        "Kutatás számítás"
     ],
     [
         "Electrolysis",
-        "Electrolysis"
+        "Elektrolízis"
     ],
     [
         "Sign",
-        "Sign"
+        "Jel"
     ],
     [
         "Cutting",
-        "Cutting"
+        "Vágás"
     ],
     [
         "SteelProduction",
-        "Steel Production"
+        "Acélgyártás"
     ],
     [
         "AutomaticMining",
-        "Automatic Mining"
+        "Automatikus bányászat"
+    ],
+    [
+        "FluidFurnace",
+        "Folyadék fűtésű kemence"
     ],
     [
         "MetalConstructions",
-        "Metal Constructions"
+        "Fém szerkezetek"
+    ],
+    [
+        "Scaffold",
+        "Állványzat"
+    ],
+    [
+        "Lamp",
+        "Lámpa"
     ],
     [
         "Chemistry",
-        "Chemistry"
+        "Kémia"
     ],
     [
         "MassivePowerGeneration",
-        "Massive Power Generation"
+        "Villamos energia termelés"
     ],
     [
         "AdvancedSmelting",
-        "Advanced Smelting"
+        "Fejlett olvasztás"
     ],
     [
         "IndustrialSmelting",
-        "Industrial Smelting"
+        "Ipari olvasztás"
     ],
     [
         "Fermentation",
-        "Fermentation"
+        "Erjesztés"
     ],
     [
         "AdvancedSeparation",
-        "Advanced Separation"
+        "Fejlett elválasztás"
     ],
     [
         "NeutroniumProduction",
-        "Neutronium Production"
+        "Neutrónium termelés"
     ],
     [
         "AluminiumProduction",
-        "Aluminium Production"
+        "Alumínium gyártás"
     ],
     [
         "StainlessSteelProduction",
-        "Stainless Steel Production"
+        "Rozsdamentes acél gyártás"
     ],
     [
         "TitaniumProduction",
-        "Titanium Production"
+        "Titán gyártás"
     ],
     [
         "HardMetalProduction",
-        "Hard Metal Production"
+        "Keményfém gyártás"
+    ],
+    [
+        "PlantsScan",
+        "Növények szkennelő"
     ],
     [
         "InitialScan",
-        "Initial Scan"
+        "Kezdeti szkennelés"
     ],
     [
         "MineralsScan",
-        "Minerals Scan"
+        "Ásvány szkennelés"
     ],
     [
         "Electricity",
-        "Electricity"
+        "Elektromosság"
     ],
     [
         "Smelting",
-        "Smelting"
+        "Olvasztás"
     ],
     [
         "Metalwork",
-        "Metalwork"
+        "Fém technológia"
+    ],
+    [
+        "Steelwork",
+        "Acél technológia"
     ],
     [
         "Filtering",
-        "Filtering"
+        "Szűrés"
     ],
     [
         "DecorativeWood",
-        "Decorative Wood"
+        "Dekoratív fa"
     ],
     [
         "DecorativePlastic",
-        "Decorative Plastic"
+        "Dekoratív műanyag"
     ],
     [
         "DecorativeStone",
-        "Decorative Stone"
+        "Díszkő"
     ],
     [
         "DecorativeConcrete",
-        "Decorative Concrete"
+        "Díszbeton"
     ],
     [
         "DecorationClay",
-        "Decoration Clay"
+        "Díszítő agyag"
     ],
     [
         "ReinforcedConcrete",
-        "Decorative Reinforced Concrete"
+        "Dekoratív vasbeton"
     ],
     [
         "AdvancedReflection",
-        "Advanced Reflection"
+        "Fejlett reflexió"
     ],
     [
         "ReactionThrottling",
-        "Reaction Throttling"
+        "Reakció fékezés"
     ],
     [
         "FuelChemistry",
-        "Fuel Chemistry"
+        "Üzemanyag finomítás"
     ],
     [
         "FuelChemistry2",
-        "Fuel Chemistry II"
+        "Fejlett üzemanyag finomítás"
     ]
 ]

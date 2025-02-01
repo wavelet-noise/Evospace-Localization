@@ -1,319 +1,207 @@
 [
     [
         "Chair",
-        "Wooden Chair"
+        "Fa szék"
     ],
     [
         "Table",
-        "Wooden Table"
+        "Faasztal"
     ],
     [
         "Rack",
-        "Wooden Rack"
+        "Fából készült állvány"
     ],
     [
         "Bed",
-        "Wooden Bed"
+        "Fa ágy"
     ],
     [
         "Ladder",
-        "Wooden Ladder"
+        "Fa létra"
     ],
     [
         "Door",
-        "Wooden Door"
-    ],
-    [
-        "Window",
-        "Wooden Window"
-    ],
-    [
-        "CeramicRoof",
-        "Ceramic Roof"
-    ],
-    [
-        "Stairs",
-        "Stairs"
-    ],
-    [
-        "ConcreteRamp",
-        "Concrete Ramp"
-    ],
-    [
-        "ConcreteRamp2",
-        "Concrete Ramp2"
-    ],
-    [
-        "ConcreteRamp3",
-        "Concrete Ramp3"
-    ],
-    [
-        "ConcreteBeam",
-        "Concrete Beam"
-    ],
-    [
-        "ConcreteBeam2",
-        "Concrete Beam2"
-    ],
-    [
-        "WoodenStairs",
-        "Wooden Stairs"
-    ],
-    [
-        "CopperChair",
-        "Copper Chair"
-    ],
-    [
-        "FireCup",
-        "Fire Cup"
-    ],
-    [
-        "PlasticWindow",
-        "Plastic Window"
-    ],
-    [
-        "SteelFence",
-        "Steel Fence"
-    ],
-    [
-        "StainlessSteelFence",
-        "Stainless Steel Fence"
+        "Fa ajtó"
     ],
     [
         "Fence",
-        "Fence"
+        "Kerítés"
+    ],
+    [
+        "Window",
+        "Fa ablak"
+    ],
+    [
+        "CeramicRoof",
+        "Kerámia tető"
+    ],
+    [
+        "Stairs",
+        "Lépcsők"
+    ],
+    [
+        "WoodenStairs",
+        "Fa lépcsők"
+    ],
+    [
+        "CopperChair",
+        "Réz szék"
+    ],
+    [
+        "FireCup",
+        "Tűzcsésze"
+    ],
+    [
+        "PlasticWindow",
+        "Műanyag ablak"
     ],
     [
         "Firefly",
-        "Firefly"
+        "Szentjánosbogár"
     ],
     [
         "Flies",
-        "Flies"
+        "Legyek"
     ],
     [
         "Birds",
-        "Birds"
+        "Madarak"
     ],
     [
         "DesertSound",
-        "Desert Sound"
+        "Sivatag hangja"
     ],
     [
         "SwampSound",
-        "Swamp Sound"
+        "Mocsár hangja"
     ],
     [
         "Butterfly",
-        "Butterfly"
+        "Pillangó"
     ],
     [
         "Leafes",
-        "Leafes"
+        "Levelek"
     ],
     [
         "Bugs",
-        "Bugs"
+        "Bogarak"
     ],
     [
         "WoodenPlanks",
-        "Wooden Planks"
+        "Fa deszkák"
     ],
     [
         "AdminBlocks",
-        "Admin Blocks"
+        "Rendszergazdai blokkok"
     ],
     [
         "StoneTiles",
-        "Stone Tiles"
+        "Kőcsempe"
     ],
     [
         "RedTiles",
-        "Red Tiles"
+        "Piros csempe"
     ],
     [
         "DarkTiles",
-        "Dark Tiles"
+        "Sötét csempe"
     ],
     [
         "Terracotta",
-        "Terracotta"
+        "Terrakotta"
     ],
     [
         "TerracottaTiles",
-        "Terracotta Tiles"
+        "Terrakotta csempe"
     ],
     [
         "Bricks",
-        "Bricks"
+        "Tégla"
     ],
     [
         "RedBricks",
-        "Red Bricks"
+        "Vörös tégla"
     ],
     [
         "DarkBricks",
-        "Dark Bricks"
+        "Sötét tégla"
     ],
     [
         "TerracottaBricks",
-        "Terracotta Bricks"
+        "Terrakotta tégla"
     ],
     [
         "Concrete",
-        "Concrete"
+        "Beton"
     ],
     [
         "ConcreteBricks",
-        "Concrete Bricks"
+        "Beton tégla"
     ],
     [
         "ConcreteTiles",
-        "Concrete Tiles"
+        "Betonlap"
     ],
     [
         "ConcreteSmallTiles",
-        "Concrete Small Tiles"
+        "Beton kis csempe"
     ],
     [
         "ReinforcedConcrete",
-        "Reinforced Concrete"
+        "Vasbeton"
     ],
     [
         "ReinforcedConcreteTiles",
-        "Reinforced Concrete Tiles"
+        "Vasbeton csempe"
     ],
     [
         "ReinforcedConcreteSmallTiles",
-        "Reinforced Concrete Small Tiles"
+        "Kis vasbeton csempe"
     ],
     [
         "ReinforcedConcreteBricks",
-        "Reinforced Concrete Bricks"
+        "Vasbeton tégla"
     ],
     [
         "DangerBlock",
-        "Danger Block"
+        "Veszélyblokk"
     ],
     [
         "RustyCopperCasing",
-        "Rusty Copper Casing"
+        "Rozsdás réz burkolat"
     ],
     [
         "RustyIronCasing",
-        "Rusty Iron Casing"
-    ],
-    [
-        "BasicPlatform",
-        "Basic Platform"
-    ],
-    [
-        "PlasticBlock",
-        "Plastic Block"
-    ],
-    [
-        "GlassBlock",
-        "Glass Block"
-    ],
-    [
-        "PaintWhite",
-        "Paint White"
-    ],
-    [
-        "PaintGray",
-        "Paint Gray"
-    ],
-    [
-        "PaintBlack",
-        "Paint Black"
-    ],
-    [
-        "PaintGreen",
-        "Paint Green"
-    ],
-    [
-        "PaintRed",
-        "Paint Red"
-    ],
-    [
-        "PaintBlue",
-        "Paint Blue"
-    ],
-    [
-        "PaintCopper",
-        "Paint Copper"
-    ],
-    [
-        "PaintSteel",
-        "Paint Steel"
-    ],
-    [
-        "PaintStainlessSteel",
-        "Paint Stainless Steel"
-    ],
-    [
-        "PaintTitanium",
-        "Paint Titanium"
-    ],
-    [
-        "PaintHardMetal",
-        "Paint Hard Metal"
-    ],
-    [
-        "PaintGold",
-        "Paint Gold"
-    ],
-    [
-        "PaintYellow",
-        "Paint Yellow"
-    ],
-    [
-        "PaintMagenta",
-        "Paint Magenta"
-    ],
-    [
-        "PaintCyan",
-        "Paint Cyan"
+        "Rozsdás vas burkolat"
     ],
     [
         "Column",
-        "Column"
+        "Oszlop"
     ],
     [
         "FluetedColumn",
-        "Flueted Column"
+        "Hornyolt oszlop"
     ],
     [
         "Torch",
-        "Torch"
+        "Fáklya"
     ],
     [
         "Flashlight",
-        "Flashlight"
+        "Zseblámpa"
     ],
     [
         "NightVision",
-        "Night Vision"
+        "Éjjellátó"
     ],
     [
         "AdvancedNightVision",
-        "Advanced Night Vision"
+        "Fejlett éjjellátó"
     ],
     [
         "Steampack",
-        "Steampack"
-    ],
-    [
-        "HighPressureSteampack",
-        "High Pressure Steampack"
-    ],
-    [
-        "HighCapacitySteampack",
-        "High Capacity Steampack"
-    ],
-    [
-        "AdvancedSteampack",
-        "Advanced Steampack"
+        "Gőzhajtómű"
     ],
     [
         "Jetpack",
@@ -321,14 +209,126 @@
     ],
     [
         "AdvancedJetpack",
-        "Advanced Jetpack"
+        "Fejlett jetpack"
     ],
     [
         "AntigravityUnit",
-        "Antigravity Unit"
+        "Antigravitációs egység"
     ],
     [
         "Scanner",
-        "Scanner"
+        "Szkenner"
+    ],
+    [
+        "SteelFence",
+        "Acél kerítés"
+    ],
+    [
+        "StainlessSteelFence",
+        "Rozsdamentes acél kerítés"
+    ],
+    [
+        "BasicPlatform",
+        "Alap platform"
+    ],
+    [
+        "PlasticBlock",
+        "Műanyag blokk"
+    ],
+    [
+        "GlassBlock",
+        "Üvegtömb"
+    ],
+    [
+        "PaintWhite",
+        "Fehér festék"
+    ],
+    [
+        "PaintGray",
+        "Szürke festék"
+    ],
+    [
+        "PaintBlack",
+        "Fekete festék"
+    ],
+    [
+        "PaintGreen",
+        "Zöld festék"
+    ],
+    [
+        "PaintRed",
+        "Piros festék"
+    ],
+    [
+        "PaintBlue",
+        "Kék festék"
+    ],
+    [
+        "PaintCopper",
+        "Réz színű festék"
+    ],
+    [
+        "PaintSteel",
+        "Acél színű festék"
+    ],
+    [
+        "PaintStainlessSteel",
+        "Rozsdamentes acél színű festék"
+    ],
+    [
+        "PaintTitanium",
+        "Titán színű festék"
+    ],
+    [
+        "PaintHardMetal",
+        "Keményfém színű festék"
+    ],
+    [
+        "PaintGold",
+        "Arany festék"
+    ],
+    [
+        "PaintYellow",
+        "Sárga festék"
+    ],
+    [
+        "PaintMagenta",
+        "Narancs festék"
+    ],
+    [
+        "PaintCyan",
+        "Cián festék"
+    ],
+    [
+        "ConcreteRamp",
+        "Beton rámpa 1"
+    ],
+    [
+        "ConcreteRamp2",
+        "Beton rámpa 2"
+    ],
+    [
+        "ConcreteRamp3",
+        "Beton rámpa 3"
+    ],
+    [
+        "ConcreteBeam",
+        "Beton gerenda"
+    ],
+    [
+        "ConcreteBeam2",
+        "Beton gerenda 2"
+    ],
+    [
+        "HighPressureSteampack",
+        "Nagynyomású gőzhajtómű"
+    ],
+    [
+        "HighCapacitySteampack",
+        "Nagy kapacitású gőzhajtómű"
+    ],
+    [
+        "AdvancedSteampack",
+        "Fejlett gőzhajtómű"
     ]
 ]

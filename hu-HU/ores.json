@@ -1,74 +1,74 @@
 [
     [
         "CopperOre",
-        "Copper Ore"
+        "Réz érc"
     ],
     [
         "CopperImpureOreGravel",
-        "Copper Impure Ore Gravel"
+        "Szennyezett rézérc kavics"
     ],
     [
         "CopperOreGravel",
-        "Copper Ore Gravel"
+        "Rézérc kavics"
     ],
     [
         "CopperOreDust",
-        "Copper Impure Ore Dust"
+        "Szennyezett rézérc por"
     ],
     [
         "IronOre",
-        "Iron Ore"
+        "Vasérc"
     ],
     [
         "IronImpureOreGravel",
-        "Iron Impure Ore Gravel"
+        "Szennyezett vasérc kavics"
     ],
     [
         "IronOreGravel",
-        "Iron Ore Gravel"
+        "Vasérc kavics"
     ],
     [
         "IronOreDust",
-        "Iron Impure Ore Dust"
+        "Szennyezett vasérc por"
     ],
     [
         "UraniumOre",
-        "Uranium Ore"
+        "Uránérc"
     ],
     [
         "UraniumImpureOreGravel",
-        "Uranium Impure Ore Gravel"
+        "Szennyezett uránérc kavics"
     ],
     [
         "UraniumOreGravel",
-        "Uranium Ore Gravel"
+        "Uránérc kavics"
     ],
     [
         "UraniumOreDust",
-        "Uranium Impure Ore Dust"
+        "Szennyezett uránérc por"
     ],
     [
         "AluminiumOre",
-        "Aluminium Ore"
+        "Alumíniumérc"
     ],
     [
         "AluminiumImpureOreGravel",
-        "Aluminium Impure Ore Gravel"
+        "Szennyezett alumíniumérc kavics"
     ],
     [
         "AluminiumOreGravel",
-        "Aluminium Ore Gravel"
+        "Alumíniumérc kavics"
     ],
     [
         "AluminiumOreDust",
-        "Aluminium Impure Ore Dust"
+        "Szennyezett alumíniumérc por"
     ],
     [
         "CoalOre",
-        "Coal Ore"
+        "Szénérc"
     ],
     [
         "ClayOre",
-        "Clay Ore"
+        "Agyagérc"
     ]
 ]
