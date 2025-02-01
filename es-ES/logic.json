@@ -1,74 +1,74 @@
 [
     [
         "LogicSRLatch",
-        ""
+        "SR latch es un dispositivo de memoria simple con dos entradas, Set y Reset\n\nA - Señal Set\nB - Señal Reset"
     ],
     [
         "LogicAdd",
-        ""
+        "El resultado es la suma del valor de la señal A y el valor de la señal B"
     ],
     [
         "LogicSub",
-        ""
+        "El resultado es la resta del valor de la señal B del valor A"
     ],
     [
         "LogicMul",
-        ""
+        "El resultado es la multiplicación del valor de la señal A por el valor de la señal B."
     ],
     [
         "LogicAnd",
-        ""
+        "El resultado es la suma bit a bit del valor de la señal A y la señal B"
     ],
     [
         "LogicDiv",
-        ""
+        "El resultado es la división del valor de la señal A por el valor de A"
     ],
     [
         "LogicXor",
-        ""
+        "El resultado es XOR bit a bit del valor de la señal A y la señal B"
     ],
     [
         "LogicOr",
-        ""
+        "El resultado es el OR bit a bit del valor de la señal A y la señal B"
     ],
     [
         "LogicConst",
-        ""
+        "Salida de valor constante"
     ],
     [
         "LogicEqual",
-        ""
+        "El valor de la señal A es igual a la señal B"
     ],
     [
         "LogicGreater",
-        ""
+        "El valor de la señal A es superior al de la señal B"
     ],
     [
         "LogicGreaterEqual",
-        ""
+        "El valor de la señal A es mayor o igual que el de la señal B"
     ],
     [
         "LogicLess",
-        ""
+        "El valor de la señal A es inferior al de la señal B"
     ],
     [
         "LogicLessEqual",
-        ""
+        "El valor de la señal A es menor o igual que el de la señal B"
     ],
     [
         "LogicAbs",
-        ""
+        "El resultado es el valor absoluto de la señal A"
     ],
     [
         "LogicNotEqual",
-        ""
+        "El valor de la señal A no es igual al de la señal B"
     ],
     [
         "LogicMod",
-        ""
+        "El resultado es el resto de una división del valor de la señal A por la señal B"
     ],
     [
         "LogicWire",
-        ""
+        "Copia todas las señales de entrada no nulas a la salida"
     ]
 ]
