@@ -429,18 +429,18 @@
     ],
     [
         "BiElectricEngine",
-        "Bi-Directional Electric Engine"
+        "Motor eléctrico bidireccional"
     ],
     [
         "SmallSolarPanel",
-        "Small Solar Panel"
+        "Pequeño panel solar"
     ],
     [
         "CableBundle",
-        "Cable Bundle"
+        "Paquete de cables"
     ],
     [
         "Rails",
-        "Rails"
+        "Raíles"
     ]
 ]

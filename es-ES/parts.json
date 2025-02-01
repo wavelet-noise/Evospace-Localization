@@ -897,110 +897,110 @@
     ],
     [
         "CopperGearbox",
-        "Copper Gearbox"
+        "Engranaje de cobre"
     ],
     [
         "SteelGearbox",
-        "Steel Gearbox"
+        "Engranaje de acero"
     ],
     [
         "AluminiumGearbox",
-        "Aluminium Gearbox"
+        "Engranaje de aluminio"
     ],
     [
         "StainlessSteelGearbox",
-        "Stainless Steel Gearbox"
+        "Engranaje de acero inoxidable"
     ],
     [
         "TitaniumGearbox",
-        "Titanium Gearbox"
+        "Engranaje de titanio"
     ],
     [
         "HardMetalGearbox",
-        "Hard Metal Gearbox"
+        "Engranaje Metal duro"
     ],
     [
         "NeutroniumGearbox",
-        "Neutronium Gearbox"
+        "Engranaje neutronio"
     ],
     [
         "AluminiumSolarCell",
-        "Aluminium Solar Cell"
+        "Célula solar de aluminio"
     ],
     [
         "StainlessSteelSolarCell",
-        "Stainless Steel Solar Cell"
+        "Célula solar de acero inoxidable"
     ],
     [
         "TitaniumSolarCell",
-        "Titanium Solar Cell"
+        "Célula solar de titanio"
     ],
     [
         "HardMetalSolarCell",
-        "Hard Metal Solar Cell"
+        "Célula solar de metal duro"
     ],
     [
         "NeutroniumSolarCell",
-        "Neutronium Solar Cell"
+        "Célula solar de neutronio"
     ],
     [
         "Drain",
-        "Drain"
+        "Drenaje"
     ],
     [
         "Percent",
-        "Percent"
+        "Porcentaje"
     ],
     [
         "BuilderTool",
-        "Builder Tool"
+        "Herramienta para Construcción"
     ],
     [
         "ConstructionBlueprint",
-        "Construction Blueprint"
+        "Plano de construcción"
     ],
     [
         "DeconstructionBlueprint",
-        "Deconstruction Blueprint"
+        "Plano de deconstrucción"
     ],
     [
         "UpgradeBlueprint",
-        "Upgrade Blueprint"
+        "Plano de actualización"
     ],
     [
         "ConstructionTool",
-        "Construction Tool"
+        "Herramienta de construcción"
     ],
     [
         "DeconstructionTool",
-        "Deconstruction Tool"
+        "Herramienta de deconstrucción"
     ],
     [
         "SteelLocomotive",
-        "Steel Locomotive"
+        "Locomotora de acero"
     ],
     [
         "SteelWagon",
-        "Steel Wagon"
+        "Vagón de acero"
     ],
     [
         "BasicBattery",
-        "Basic Battery"
+        "Batería básica"
     ],
     [
         "AdvancedBattery",
-        "Advanced Battery"
+        "Batería avanzada"
     ],
     [
         "SuperiorBattery",
-        "Superior Battery"
+        "Batería superior"
     ],
     [
         "UltimateBattery",
-        "Ultimate Battery"
+        "Batería de última generación"
     ],
     [
         "Storage",
-        "Storage"
+        "Almacenamiento"
     ]
 ]
