@@ -300,14 +300,6 @@
         "Zink Dust"
     ],
     [
-        "LithiumBlock",
-        "Lithium Block"
-    ],
-    [
-        "LithiumDust",
-        "Lithium Dust"
-    ],
-    [
         "TungstenDust",
         "Tungsten Dust"
     ],
@@ -628,8 +620,8 @@
         "Helium"
     ],
     [
-        "SaltDust",
-        "Salt Dust"
+        "Salt",
+        "Salt"
     ],
     [
         "PortalBase",
@@ -802,6 +794,14 @@
     [
         "CarbonFiberSheet",
         "Carbon Fiber Sheet"
+    ],
+    [
+        "LithiumPlate",
+        "Lithium Plate"
+    ],
+    [
+        "AdvancedFrame",
+        "Advanced Frame"
     ],
     [
         "Capacity",

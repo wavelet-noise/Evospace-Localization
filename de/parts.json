@@ -1057,22 +1057,34 @@
     ],
     [
         "PrimitiveBattery",
-        ""
+        "Primitive Battery"
     ],
     [
         "CarbonPrecursor",
-        ""
+        "Carbon Precursor"
     ],
     [
         "CarbonFiber",
-        ""
+        "Carbon Fiber"
     ],
     [
         "CarbonFiberSheet",
-        ""
+        "Carbon Fiber Sheet"
     ],
     [
         "IncreaseInventorySize",
-        ""
+        "IncreaseInventorySize"
+    ],
+    [
+        "Salt",
+        "Salt"
+    ],
+    [
+        "LithiumPlate",
+        "Lithium Plate"
+    ],
+    [
+        "AdvancedFrame",
+        "Advanced Frame"
     ]
 ]

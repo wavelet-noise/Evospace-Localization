@@ -112,10 +112,6 @@
         "Titanium Production"
     ],
     [
-        "HardMetalProduction",
-        "Hard Metal Production"
-    ],
-    [
         "MineralsScan",
         "Minerals Scan"
     ],
@@ -198,5 +194,9 @@
     [
         "AdvancedAlloys",
         "Advanced Alloys"
+    ],
+    [
+        "LithiumBattery",
+        "Lithium Battery"
     ]
 ]
