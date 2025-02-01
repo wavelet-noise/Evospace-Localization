@@ -40,10 +40,6 @@
         "Fluid Storage"
     ],
     [
-        "FluidDumping",
-        "Fluid Dumping"
-    ],
-    [
         "SingleTypeStorage",
         "Single Type Storage"
     ],
@@ -120,10 +116,6 @@
         "Hard Metal Production"
     ],
     [
-        "InitialScan",
-        "Initial Scan"
-    ],
-    [
         "MineralsScan",
         "Minerals Scan"
     ],
@@ -138,10 +130,6 @@
     [
         "Metalwork",
         "Metalwork"
-    ],
-    [
-        "Filtering",
-        "Filtering"
     ],
     [
         "DecorativeWood",
@@ -182,5 +170,33 @@
     [
         "FuelChemistry2",
         "Fuel Chemistry II"
+    ],
+    [
+        "SulfurSynthesis",
+        "Sulfur Synthesis"
+    ],
+    [
+        "SulfuricAcidSynthesis",
+        "Sulfuric Acid Synthesis"
+    ],
+    [
+        "PreciseTemperaturePyrolysis",
+        "Precise Temperature Pyrolysis"
+    ],
+    [
+        "SteamPyrolysis",
+        "Steam Pyrolysis"
+    ],
+    [
+        "KrollProcess",
+        "Kroll Process"
+    ],
+    [
+        "AluminiumReduction",
+        "Aluminium Reduction"
+    ],
+    [
+        "AdvancedAlloys",
+        "Advanced Alloys"
     ]
 ]

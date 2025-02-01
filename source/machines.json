@@ -152,16 +152,8 @@
         "Robot Arm"
     ],
     [
-        "FilteringRobotArm",
-        "Filtering Robot Arm"
-    ],
-    [
         "Pump",
         "Pump"
-    ],
-    [
-        "FilteringPump",
-        "Filtering Pump"
     ],
     [
         "OverflowPump",
@@ -228,10 +220,6 @@
         "Battery Box"
     ],
     [
-        "SmallBattery",
-        "Small Battery"
-    ],
-    [
         "Portal",
         "Portal"
     ],
@@ -248,20 +236,8 @@
         "Constructor"
     ],
     [
-        "Deconstructor",
-        "Deconstructor"
-    ],
-    [
-        "FluidDump",
-        "Fluid Dump"
-    ],
-    [
-        "GasDump",
-        "Gas Dump"
-    ],
-    [
-        "SolidDump",
-        "Solid Dump"
+        "Destroyer",
+        "Destroyer"
     ],
     [
         "Lamp",
@@ -342,10 +318,6 @@
     [
         "Computer",
         "Computer"
-    ],
-    [
-        "QuantumComputer",
-        "Quantum Computer"
     ],
     [
         "IndustrialSeparator",

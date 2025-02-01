@@ -198,5 +198,33 @@
     [
         "FuelChemistry2",
         "Química de los combustibles II"
+    ],
+    [
+        "SulfurSynthesis",
+        ""
+    ],
+    [
+        "SulfuricAcidSynthesis",
+        ""
+    ],
+    [
+        "PreciseTemperaturePyrolysis",
+        ""
+    ],
+    [
+        "SteamPyrolysis",
+        ""
+    ],
+    [
+        "KrollProcess",
+        ""
+    ],
+    [
+        "AluminiumReduction",
+        ""
+    ],
+    [
+        "AdvancedAlloys",
+        ""
     ]
 ]

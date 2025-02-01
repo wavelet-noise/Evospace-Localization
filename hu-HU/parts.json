@@ -1002,5 +1002,25 @@
     [
         "Storage",
         "Raktár"
+    ],
+    [
+        "PrimitiveBattery",
+        ""
+    ],
+    [
+        "CarbonPrecursor",
+        ""
+    ],
+    [
+        "CarbonFiber",
+        ""
+    ],
+    [
+        "CarbonFiberSheet",
+        ""
+    ],
+    [
+        "IncreaseInventorySize",
+        ""
     ]
 ]

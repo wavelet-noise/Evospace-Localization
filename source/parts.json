@@ -424,30 +424,6 @@
         "Thorium Dust"
     ],
     [
-        "SodiumBlock",
-        "Sodium Block"
-    ],
-    [
-        "SodiumDust",
-        "Sodium Dust"
-    ],
-    [
-        "SodiumHydroxideBlock",
-        "Sodium Hydroxide Block"
-    ],
-    [
-        "SodiumHydroxideDust",
-        "Sodium Hydroxide Dust"
-    ],
-    [
-        "PotassiumBlock",
-        "Potassium Block"
-    ],
-    [
-        "PotassiumDust",
-        "Potassium Dust"
-    ],
-    [
         "Sulfur",
         "Sulfur"
     ],
@@ -550,10 +526,6 @@
     [
         "Log",
         "Log"
-    ],
-    [
-        "StoneLog",
-        "Stone Log"
     ],
     [
         "Plank",
@@ -724,6 +696,10 @@
         "Mothership Ping"
     ],
     [
+        "PrimitiveBattery",
+        "Primitive Battery"
+    ],
+    [
         "BasicBattery",
         "Basic Battery"
     ],
@@ -816,6 +792,18 @@
         "Emerald Dust"
     ],
     [
+        "CarbonPrecursor",
+        "Carbon Precursor"
+    ],
+    [
+        "CarbonFiber",
+        "Carbon Fiber"
+    ],
+    [
+        "CarbonFiberSheet",
+        "Carbon Fiber Sheet"
+    ],
+    [
         "Capacity",
         "Capacity"
     ],
@@ -846,6 +834,10 @@
     [
         "Percent",
         "Percent"
+    ],
+    [
+        "IncreaseInventorySize",
+        "IncreaseInventorySize"
     ],
     [
         "A",

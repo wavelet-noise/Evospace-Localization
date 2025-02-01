@@ -1002,5 +1002,25 @@
     [
         "Storage",
         "Almacenamiento"
+    ],
+    [
+        "PrimitiveBattery",
+        ""
+    ],
+    [
+        "CarbonPrecursor",
+        ""
+    ],
+    [
+        "CarbonFiber",
+        ""
+    ],
+    [
+        "CarbonFiberSheet",
+        ""
+    ],
+    [
+        "IncreaseInventorySize",
+        ""
     ]
 ]
