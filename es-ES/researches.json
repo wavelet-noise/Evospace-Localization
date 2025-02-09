@@ -201,34 +201,34 @@
     ],
     [
         "SulfurSynthesis",
-        "Sulfur Synthesis"
+        "Síntesis del azufre"
     ],
     [
         "SulfuricAcidSynthesis",
-        "Sulfuric Acid Synthesis"
+        "Síntesis del ácido sulfúrico"
     ],
     [
         "PreciseTemperaturePyrolysis",
-        "Precise Temperature Pyrolysis"
+        "Pirólisis a temperatura precisa"
     ],
     [
         "SteamPyrolysis",
-        "Steam Pyrolysis"
+        "Pirólisis de vapor"
     ],
     [
         "KrollProcess",
-        "Kroll Process"
+        "Proceso Kroll"
     ],
     [
         "AluminiumReduction",
-        "Aluminium Reduction"
+        "Reducción de aluminio"
     ],
     [
         "AdvancedAlloys",
-        "Advanced Alloys"
+        "Aluminio de reducción"
     ],
     [
         "LithiumBattery",
-        "Lithium Battery"
+        "Batería de litio"
     ]
 ]
