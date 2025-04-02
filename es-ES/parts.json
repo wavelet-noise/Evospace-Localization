@@ -1005,34 +1005,34 @@
     ],
     [
         "PrimitiveBattery",
-        "Primitive Battery"
+        "Batería primitiva"
     ],
     [
         "CarbonPrecursor",
-        "Carbon Precursor"
+        "Precursor del carbono"
     ],
     [
         "CarbonFiber",
-        "Carbon Fiber"
+        "Fibra de carbono"
     ],
     [
         "CarbonFiberSheet",
-        "Carbon Fiber Sheet"
+        "Plancha de fibra de carbono"
     ],
     [
         "IncreaseInventorySize",
-        "IncreaseInventorySize"
+        "Aumentar el tamaño del inventario"
     ],
     [
         "Salt",
-        "Salt"
+        "Sal"
     ],
     [
         "LithiumPlate",
-        "Lithium Plate"
+        "Placa de litio"
     ],
     [
         "AdvancedFrame",
-        "Advanced Frame"
+        "Marco avanzado"
     ]
 ]
