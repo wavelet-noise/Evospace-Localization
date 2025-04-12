@@ -1034,5 +1034,345 @@
     [
         "AdvancedFrame",
         "Advanced Frame"
+    ],
+    [
+        "LV",
+        "LV"
+    ],
+    [
+        "MV",
+        "MV"
+    ],
+    [
+        "HV",
+        "HV"
+    ],
+    [
+        "CopperSolarCell",
+        "Copper Solar Cell"
+    ],
+    [
+        "GoldPlate",
+        "Gold Plate"
+    ],
+    [
+        "SilverWire",
+        "Silver Wire"
+    ],
+    [
+        "SilverPlate",
+        "Silver Plate"
+    ],
+    [
+        "SilverBlock",
+        "Silver Block"
+    ],
+    [
+        "SilverDust",
+        "Silver Dust"
+    ],
+    [
+        "PlatinumWire",
+        "Platinum Wire"
+    ],
+    [
+        "PlatinumPlate",
+        "Platinum Plate"
+    ],
+    [
+        "PlatinumBlock",
+        "Platinum Block"
+    ],
+    [
+        "PlatinumDust",
+        "Platinum Dust"
+    ],
+    [
+        "RhodiumFoil",
+        "Rhodium Foil"
+    ],
+    [
+        "RhodiumPlate",
+        "Rhodium Plate"
+    ],
+    [
+        "RhodiumBlock",
+        "Rhodium Block"
+    ],
+    [
+        "RhodiumDust",
+        "Rhodium Dust"
+    ],
+    [
+        "RhodiumReflector",
+        "Rhodium Reflector"
+    ],
+    [
+        "PlatinumRhodiumSolution",
+        "Platinum-Rhodium Solution"
+    ],
+    [
+        "AmmoniumChloride",
+        "Ammonium Chloride"
+    ],
+    [
+        "RhodiumSolution",
+        "Rhodium Solution"
+    ],
+    [
+        "IronPlate",
+        "Iron Plate"
+    ],
+    [
+        "Triod",
+        "Triod"
+    ],
+    [
+        "Resistor",
+        "Resistor"
+    ],
+    [
+        "Transistor",
+        "Transistor"
+    ],
+    [
+        "SteelSolarCell",
+        "Steel Solar Cell"
+    ],
+    [
+        "AluminiumFoil",
+        "Aluminium Foil"
+    ],
+    [
+        "HotNeutroniumPlate",
+        "Hot Neutronium Plate"
+    ],
+    [
+        "Stone",
+        "Stone"
+    ],
+    [
+        "ChromiumPlate",
+        "Chromium Plate"
+    ],
+    [
+        "PlutoniumPlate",
+        "Plutonium Plate"
+    ],
+    [
+        "UraniumPlate",
+        "Uranium-238 Plate"
+    ],
+    [
+        "Uranium235Plate",
+        "Uranium-235 Plate"
+    ],
+    [
+        "Uranium233Plate",
+        "Uranium-233 Plate"
+    ],
+    [
+        "ThoriumPlate",
+        "Thorium Plate"
+    ],
+    [
+        "HydrochloricAcid",
+        "Hydrochloric Acid"
+    ],
+    [
+        "HydrofluoricAcid",
+        "Hydrofluoric Acid"
+    ],
+    [
+        "AquaRegia",
+        "Aqua Regia"
+    ],
+    [
+        "Acetone",
+        "Acetone"
+    ],
+    [
+        "MethylIsobutylKetone",
+        "Methyl Isobutyl Ketone"
+    ],
+    [
+        "MesitylOxide",
+        "Mesityl Oxide"
+    ],
+    [
+        "PolyethyleneSheet",
+        "Polyethylene Sheet"
+    ],
+    [
+        "Fluorine",
+        "Fluorine"
+    ],
+    [
+        "Chloroform",
+        "Chloroform"
+    ],
+    [
+        "Chlorodifluoromethane",
+        "Chlorodifluoromethane"
+    ],
+    [
+        "Tetrafluoroethylene",
+        "Tetrafluoroethylene"
+    ],
+    [
+        "PolytetrafluoroethyleneSheet",
+        "Polytetrafluoroethylene Sheet"
+    ],
+    [
+        "RareEarthSludge",
+        "Rare Earth Sludge"
+    ],
+    [
+        "YttriumWire",
+        "Yttrium Wire"
+    ],
+    [
+        "YttriumPlate",
+        "Yttrium Plate"
+    ],
+    [
+        "YttriumBlock",
+        "Yttrium Block"
+    ],
+    [
+        "NeodymiumPlate",
+        "Neodymium Plate"
+    ],
+    [
+        "NeodymiumBlock",
+        "Neodymium Block"
+    ],
+    [
+        "NeodymiumDust",
+        "Neodymium Dust"
+    ],
+    [
+        "NiobiumWire",
+        "Niobium Wire"
+    ],
+    [
+        "NiobiumPlate",
+        "Niobium Plate"
+    ],
+    [
+        "NiobiumBlock",
+        "Niobium Block"
+    ],
+    [
+        "NiobiumDust",
+        "Niobium Dust"
+    ],
+    [
+        "MicaFlakes",
+        "Mica Flakes"
+    ],
+    [
+        "TantalumFoil",
+        "Tantalum Foil"
+    ],
+    [
+        "TantalumWire",
+        "Tantalum Wire"
+    ],
+    [
+        "TantalumPlate",
+        "Tantalum Plate"
+    ],
+    [
+        "TantalumBlock",
+        "Tantalum Block"
+    ],
+    [
+        "TantalumDust",
+        "Tantalum Dust"
+    ],
+    [
+        "TantalumSludge",
+        "Tantalum Sludge"
+    ],
+    [
+        "TantalumSolution",
+        "Tantalum Solution"
+    ],
+    [
+        "SiliconMonocrystal",
+        "Silicon Monocrystal"
+    ],
+    [
+        "DopedSiliconMonocrystal",
+        "Doped Silicon Monocrystal"
+    ],
+    [
+        "DopedSiliconWafer",
+        "Doped Silicon Wafer"
+    ],
+    [
+        "Capacitor",
+        "Capacitor"
+    ],
+    [
+        "DecisionResonator",
+        "Decision Resonator"
+    ],
+    [
+        "BrainMatrix",
+        "Brain Matrix"
+    ],
+    [
+        "AdvancedCatalyst",
+        "Advanced Catalyst Cell"
+    ],
+    [
+        "HotMercury",
+        "Hot Mercury"
+    ],
+    [
+        "Graphene",
+        "Graphene"
+    ],
+    [
+        "CompositeSolarCell",
+        "Composite Solar Cell"
+    ],
+    [
+        "CompositeParts",
+        "Composite Parts"
+    ],
+    [
+        "CompositeGearbox",
+        "Composite Gearbox"
+    ],
+    [
+        "CompositePlate",
+        "Composite Plate"
+    ],
+    [
+        "CompositeBlock",
+        "Composite Block"
+    ],
+    [
+        "CompositeDust",
+        "Composite Dust"
+    ],
+    [
+        "NeutroniumBlock",
+        "Neutronium Block"
+    ],
+    [
+        "SwitchOn",
+        "Switch On"
+    ],
+    [
+        "HeatLoss",
+        "Heat Loss"
+    ],
+    [
+        "DecorationTool",
+        "Decoration Tool"
     ]
 ]

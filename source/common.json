@@ -141,7 +141,15 @@
     ],
     [
         "ElectricConductor",
-        "<img id=\"Electricity\"></>Conducts electricity<img id=\"Electricity2\"></>"
+        "<img id=\"Electricity\"></>Conducts electricity up to 1kV (LV)<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductorMV",
+        "<img id=\"Electricity\"></>Conducts electricity up to 10kV (MV)<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductorHV",
+        "<img id=\"Electricity\"></>Conducts electricity< up to 100kV (HV)<img id=\"Electricity2\"></>"
     ],
     [
         "ElectricStorage",
@@ -184,8 +192,8 @@
         "Titanium"
     ],
     [
-        "HardMetal",
-        "Hard Metal"
+        "Composite",
+        "Composite"
     ],
     [
         "Neutronium",
@@ -198,6 +206,14 @@
     [
         "Sorter",
         "Allowing to set white filter."
+    ],
+    [
+        "Alternative",
+        "Alternative"
+    ],
+    [
+        "tier",
+        "Tier: {0}"
     ],
     [
         "ips",

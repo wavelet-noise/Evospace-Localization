@@ -114,5 +114,61 @@
     [
         "SnowyGrass",
         "Havas fű"
+    ],
+    [
+        "ChalcopyriteCluster",
+        "Chalcopyrite Cluster"
+    ],
+    [
+        "MalachiteCluster",
+        "Malachite Cluster"
+    ],
+    [
+        "PyriteCluster",
+        "Pyrite Cluster"
+    ],
+    [
+        "MagnetiteCluster",
+        "Magnetite Cluster"
+    ],
+    [
+        "BauxiteCluster",
+        "Bauxite Cluster"
+    ],
+    [
+        "RubyCluster",
+        "Ruby Cluster"
+    ],
+    [
+        "ApatiteCluster",
+        "Apatite Cluster"
+    ],
+    [
+        "CinnabarCluster",
+        "Cinnabar Cluster"
+    ],
+    [
+        "ThorianiteCluster",
+        "Thorianite Cluster"
+    ],
+    [
+        "PyroplatiteCluster",
+        "Pyroplatite Cluster"
+    ],
+    [
+        "CoalCluster",
+        "Coal Cluster"
+    ],
+    [
+        "NiobiteCluster",
+        "Niobite Cluster"
+    ],
+    [
+        "MonaziteCluster",
+        "Monazite Cluster"
+    ],
+    [
+        "ClayCluster",
+        "Clay Cluster"
     ]
 ]

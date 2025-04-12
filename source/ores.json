@@ -1,74 +1,342 @@
 [
     [
-        "CopperOre",
-        "Copper Ore"
+        "ChalcopyriteOre",
+        "Chalcopyrite Ore"
     ],
     [
-        "CopperImpureOreGravel",
-        "Copper Impure Ore Gravel"
+        "ChalcopyriteOreImpureGravel",
+        "Chalcopyrite Impure Ore Gravel"
     ],
     [
-        "CopperOreGravel",
-        "Copper Ore Gravel"
+        "ChalcopyriteOreGravel",
+        "Chalcopyrite Ore Gravel"
     ],
     [
-        "CopperOreDust",
-        "Copper Impure Ore Dust"
+        "ChalcopyriteOreDust",
+        "Chalcopyrite Ore Dust"
     ],
     [
-        "IronOre",
-        "Iron Ore"
+        "ChalcopyriteDust",
+        "Chalcopyrite Dust"
     ],
     [
-        "IronImpureOreGravel",
-        "Iron Impure Ore Gravel"
+        "MalachiteOre",
+        "Malachite Ore"
     ],
     [
-        "IronOreGravel",
-        "Iron Ore Gravel"
+        "MalachiteOreImpureGravel",
+        "Malachite Impure Ore Gravel"
     ],
     [
-        "IronOreDust",
-        "Iron Impure Ore Dust"
+        "MalachiteOreGravel",
+        "Malachite Ore Gravel"
     ],
     [
-        "UraniumOre",
-        "Uranium Ore"
+        "MalachiteOreDust",
+        "Malachite Ore Dust"
     ],
     [
-        "UraniumImpureOreGravel",
-        "Uranium Impure Ore Gravel"
+        "MalachiteDust",
+        "Malachite Dust"
     ],
     [
-        "UraniumOreGravel",
-        "Uranium Ore Gravel"
+        "MalachiteCrystal",
+        "Malachite Crystal"
     ],
     [
-        "UraniumOreDust",
-        "Uranium Impure Ore Dust"
+        "PyriteOre",
+        "Pyrite Ore"
     ],
     [
-        "AluminiumOre",
-        "Aluminium Ore"
+        "PyriteOreImpureGravel",
+        "Pyrite Impure Ore Gravel"
     ],
     [
-        "AluminiumImpureOreGravel",
-        "Aluminium Impure Ore Gravel"
+        "PyriteOreGravel",
+        "Pyrite Ore Gravel"
     ],
     [
-        "AluminiumOreGravel",
-        "Aluminium Ore Gravel"
+        "PyriteOreDust",
+        "Pyrite Ore Dust"
     ],
     [
-        "AluminiumOreDust",
-        "Aluminium Impure Ore Dust"
+        "PyriteDust",
+        "Pyrite Dust"
+    ],
+    [
+        "MagnetiteOre",
+        "Magnetite Ore"
+    ],
+    [
+        "MagnetiteOreImpureGravel",
+        "Magnetite Impure Ore Gravel"
+    ],
+    [
+        "MagnetiteOreGravel",
+        "Magnetite Ore Gravel"
+    ],
+    [
+        "MagnetiteOreDust",
+        "Magnetite Ore Dust"
+    ],
+    [
+        "MagnetiteDust",
+        "Magnetite Dust"
+    ],
+    [
+        "BauxiteOre",
+        "Bauxite Ore"
+    ],
+    [
+        "BauxiteOreImpureGravel",
+        "Bauxite Impure Ore Gravel"
+    ],
+    [
+        "BauxiteOreGravel",
+        "Bauxite Ore Gravel"
+    ],
+    [
+        "BauxiteOreDust",
+        "Bauxite Ore Dust"
+    ],
+    [
+        "BauxiteDust",
+        "Bauxite Dust"
+    ],
+    [
+        "RubyOre",
+        "Ruby Ore"
+    ],
+    [
+        "RubyOreImpureGravel",
+        "Ruby Impure Ore Gravel"
+    ],
+    [
+        "RubyOreGravel",
+        "Ruby Ore Gravel"
+    ],
+    [
+        "RubyOreDust",
+        "Ruby Ore Dust"
+    ],
+    [
+        "RubyDust",
+        "Ruby Dust"
+    ],
+    [
+        "RubyCrystal",
+        "Ruby Crystal"
+    ],
+    [
+        "ApatiteOre",
+        "Apatite Ore"
+    ],
+    [
+        "ApatiteOreImpureGravel",
+        "Apatite Impure Ore Gravel"
+    ],
+    [
+        "ApatiteOreGravel",
+        "Apatite Ore Gravel"
+    ],
+    [
+        "ApatiteOreDust",
+        "Apatite Ore Dust"
+    ],
+    [
+        "ApatiteDust",
+        "Apatite Dust"
+    ],
+    [
+        "ApatiteCrystal",
+        "Apatite Crystal"
+    ],
+    [
+        "CinnabarOre",
+        "Cinnabar Ore"
+    ],
+    [
+        "CinnabarOreImpureGravel",
+        "Cinnabar Impure Ore Gravel"
+    ],
+    [
+        "CinnabarOreGravel",
+        "Cinnabar Ore Gravel"
+    ],
+    [
+        "CinnabarOreDust",
+        "Cinnabar Ore Dust"
+    ],
+    [
+        "CinnabarDust",
+        "Cinnabar Dust"
+    ],
+    [
+        "CinnabarCrystal",
+        "Cinnabar Crystal"
+    ],
+    [
+        "ThorianiteOre",
+        "Thorianite Ore"
+    ],
+    [
+        "ThorianiteOreImpureGravel",
+        "Thorianite Impure Ore Gravel"
+    ],
+    [
+        "ThorianiteOreGravel",
+        "Thorianite Ore Gravel"
+    ],
+    [
+        "ThorianiteOreDust",
+        "Thorianite Ore Dust"
+    ],
+    [
+        "ThorianiteDust",
+        "Thorianite Dust"
+    ],
+    [
+        "ThorianiteCrystal",
+        "Thorianite Crystal"
+    ],
+    [
+        "PyroplatiteOre",
+        "Pyroplatite Ore"
+    ],
+    [
+        "PyroplatiteOreImpureGravel",
+        "Pyroplatite Impure Ore Gravel"
+    ],
+    [
+        "PyroplatiteOreGravel",
+        "Pyroplatite Ore Gravel"
+    ],
+    [
+        "PyroplatiteOreDust",
+        "Pyroplatite Ore Dust"
+    ],
+    [
+        "PyroplatiteDust",
+        "Pyroplatite Dust"
     ],
     [
         "CoalOre",
         "Coal Ore"
     ],
     [
+        "CoalOreImpureGravel",
+        "Coal Impure Ore Gravel"
+    ],
+    [
+        "CoalOreGravel",
+        "Coal Ore Gravel"
+    ],
+    [
+        "CoalOreDust",
+        "Coal Ore Dust"
+    ],
+    [
+        "CoalDust",
+        "Coal Dust"
+    ],
+    [
+        "NiobiteOre",
+        "Niobite Ore"
+    ],
+    [
+        "NiobiteOreImpureGravel",
+        "Niobite Impure Ore Gravel"
+    ],
+    [
+        "NiobiteOreGravel",
+        "Niobite Ore Gravel"
+    ],
+    [
+        "NiobiteOreDust",
+        "Niobite Ore Dust"
+    ],
+    [
+        "NiobiteDust",
+        "Niobite Dust"
+    ],
+    [
+        "MonaziteOre",
+        "Monazite Ore"
+    ],
+    [
+        "MonaziteOreImpureGravel",
+        "Monazite Impure Ore Gravel"
+    ],
+    [
+        "MonaziteOreGravel",
+        "Monazite Ore Gravel"
+    ],
+    [
+        "MonaziteOreDust",
+        "Monazite Ore Dust"
+    ],
+    [
+        "MonaziteDust",
+        "Monazite Dust"
+    ],
+    [
+        "MonaziteCrystal",
+        "Monazite Crystal"
+    ],
+    [
         "ClayOre",
         "Clay Ore"
+    ],
+    [
+        "FeS2",
+        "FeS\u2082"
+    ],
+    [
+        "CuFeS2",
+        "CuFeS\u2082"
+    ],
+    [
+        "CuCO3",
+        "CuCO\u2083"
+    ],
+    [
+        "Fe3O4+Au",
+        "Fe\u2083O\u2084 + Au"
+    ],
+    [
+        "HgS",
+        "HgS"
+    ],
+    [
+        "CrAl203",
+        "CrAl\u20820\u2083"
+    ],
+    [
+        "C",
+        "C"
+    ],
+    [
+        "Be3Al2SiO3",
+        "Be\u2083Al\u2082SiO\u2083"
+    ],
+    [
+        "Al2O3+TiO2",
+        "Al\u2082O\u2083 + TiO\u2082"
+    ],
+    [
+        "ThO2+UO2",
+        "ThO\u2082+UO\u2082"
+    ],
+    [
+        "AuS2+PtS2+RhS2",
+        "AuS\u2082 + PtS\u2082 + RhS\u2082"
+    ],
+    [
+        "FeNb2O3+FeTa2O3",
+        "FeNb\u2082O\u2083 + FeTa\u2082O\u2083"
+    ],
+    [
+        "ThPO4+NdPO4+YPO4",
+        "ThPO\u2084 + NdPO\u2084 + YPO\u2084"
     ]
 ]

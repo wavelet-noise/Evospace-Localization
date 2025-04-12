@@ -1,145 +1,5 @@
 [
     [
-        "CopperPlate",
-        "Copper Plate"
-    ],
-    [
-        "SteelPlate",
-        "Steel Plate"
-    ],
-    [
-        "AluminiumPlate",
-        "Aluminium Plate"
-    ],
-    [
-        "StainlessSteelPlate",
-        "Stainless Steel Plate"
-    ],
-    [
-        "TitaniumPlate",
-        "Titanium Plate"
-    ],
-    [
-        "HardMetalPlate",
-        "Hard Metal Plate"
-    ],
-    [
-        "NeutroniumPlate",
-        "Neutronium Plate"
-    ],
-    [
-        "CopperParts",
-        "Copper Parts"
-    ],
-    [
-        "SteelParts",
-        "Steel Parts"
-    ],
-    [
-        "AluminiumParts",
-        "Aluminium Parts"
-    ],
-    [
-        "StainlessSteelParts",
-        "Stainless Steel Parts"
-    ],
-    [
-        "TitaniumParts",
-        "Titanium Parts"
-    ],
-    [
-        "HardMetalParts",
-        "Hard Metal Parts"
-    ],
-    [
-        "NeutroniumParts",
-        "Neutronium Parts"
-    ],
-    [
-        "CopperCasing",
-        "Copper Casing"
-    ],
-    [
-        "SteelCasing",
-        "Steel Casing"
-    ],
-    [
-        "AluminiumCasing",
-        "Aluminium Casing"
-    ],
-    [
-        "StainlessSteelCasing",
-        "Stainless Steel Casing"
-    ],
-    [
-        "TitaniumCasing",
-        "Titanium Casing"
-    ],
-    [
-        "HardMetalCasing",
-        "Hard Metal Casing"
-    ],
-    [
-        "NeutroniumCasing",
-        "Neutronium Casing"
-    ],
-    [
-        "CopperGearbox",
-        "Copper Gearbox"
-    ],
-    [
-        "SteelGearbox",
-        "Steel Gearbox"
-    ],
-    [
-        "AluminiumGearbox",
-        "Aluminium Gearbox"
-    ],
-    [
-        "StainlessSteelGearbox",
-        "Stainless Steel Gearbox"
-    ],
-    [
-        "TitaniumGearbox",
-        "Titanium Gearbox"
-    ],
-    [
-        "HardMetalGearbox",
-        "Hard Metal Gearbox"
-    ],
-    [
-        "NeutroniumGearbox",
-        "Neutronium Gearbox"
-    ],
-    [
-        "AluminiumSolarCell",
-        "Aluminium Solar Cell"
-    ],
-    [
-        "StainlessSteelSolarCell",
-        "Stainless Steel Solar Cell"
-    ],
-    [
-        "TitaniumSolarCell",
-        "Titanium Solar Cell"
-    ],
-    [
-        "HardMetalSolarCell",
-        "Hard Metal Solar Cell"
-    ],
-    [
-        "NeutroniumSolarCell",
-        "Neutronium Solar Cell"
-    ],
-    [
-        "SteelLocomotive",
-        "Steel Locomotive"
-    ],
-    [
-        "SteelWagon",
-        "Steel Wagon"
-    ],
-    [
         "Hand",
         "Hand"
     ],
@@ -152,16 +12,40 @@
         "Heat"
     ],
     [
-        "Electricity",
-        "Electricity"
+        "LV",
+        "LV"
+    ],
+    [
+        "MV",
+        "MV"
+    ],
+    [
+        "HV",
+        "HV"
     ],
     [
         "Kinetic",
         "Kinetic"
     ],
     [
-        "CopperIngot",
-        "Copper Ingot"
+        "CopperSolarCell",
+        "Copper Solar Cell"
+    ],
+    [
+        "CopperParts",
+        "Copper Parts"
+    ],
+    [
+        "CopperWire",
+        "Copper Wire"
+    ],
+    [
+        "CopperGearbox",
+        "Copper Gearbox"
+    ],
+    [
+        "CopperPlate",
+        "Copper Plate"
     ],
     [
         "CopperBlock",
@@ -172,8 +56,12 @@
         "Copper Dust"
     ],
     [
-        "GoldIngot",
-        "Gold Ingot"
+        "GoldWire",
+        "Gold Wire"
+    ],
+    [
+        "GoldPlate",
+        "Gold Plate"
     ],
     [
         "GoldBlock",
@@ -184,20 +72,72 @@
         "Gold Dust"
     ],
     [
-        "SuperconductorIngot",
-        "Superconductor Ingot"
+        "SilverWire",
+        "Silver Wire"
     ],
     [
-        "SuperconductorBlock",
-        "Superconductor Block"
+        "SilverPlate",
+        "Silver Plate"
     ],
     [
-        "SuperconductorDust",
-        "Superconductor Dust"
+        "SilverBlock",
+        "Silver Block"
     ],
     [
-        "IronIngot",
-        "Iron Ingot"
+        "SilverDust",
+        "Silver Dust"
+    ],
+    [
+        "PlatinumWire",
+        "Platinum Wire"
+    ],
+    [
+        "PlatinumPlate",
+        "Platinum Plate"
+    ],
+    [
+        "PlatinumBlock",
+        "Platinum Block"
+    ],
+    [
+        "PlatinumDust",
+        "Platinum Dust"
+    ],
+    [
+        "RhodiumFoil",
+        "Rhodium Foil"
+    ],
+    [
+        "RhodiumPlate",
+        "Rhodium Plate"
+    ],
+    [
+        "RhodiumBlock",
+        "Rhodium Block"
+    ],
+    [
+        "RhodiumDust",
+        "Rhodium Dust"
+    ],
+    [
+        "RhodiumReflector",
+        "Rhodium Reflector"
+    ],
+    [
+        "PlatinumRhodiumSolution",
+        "Platinum-Rhodium Solution"
+    ],
+    [
+        "AmmoniumChloride",
+        "Ammonium Chloride"
+    ],
+    [
+        "RhodiumSolution",
+        "Rhodium Solution"
+    ],
+    [
+        "IronPlate",
+        "Iron Plate"
     ],
     [
         "IronBlock",
@@ -212,16 +152,36 @@
         "Circuit Board"
     ],
     [
-        "AdvancedCircuitBoard",
-        "Advanced Circuit Board"
+        "Triod",
+        "Triod"
+    ],
+    [
+        "Resistor",
+        "Resistor"
+    ],
+    [
+        "Transistor",
+        "Transistor"
     ],
     [
         "Plastic",
         "Plastic"
     ],
     [
-        "SteelIngot",
-        "Steel Ingot"
+        "SteelSolarCell",
+        "Steel Solar Cell"
+    ],
+    [
+        "SteelParts",
+        "Steel Parts"
+    ],
+    [
+        "SteelGearbox",
+        "Steel Gearbox"
+    ],
+    [
+        "SteelPlate",
+        "Steel Plate"
     ],
     [
         "SteelBlock",
@@ -232,8 +192,24 @@
         "Steel Dust"
     ],
     [
-        "AluminiumIngot",
-        "Aluminium Ingot"
+        "AluminiumSolarCell",
+        "Aluminium Solar Cell"
+    ],
+    [
+        "AluminiumFoil",
+        "Aluminium Foil"
+    ],
+    [
+        "AluminiumParts",
+        "Aluminium Parts"
+    ],
+    [
+        "AluminiumGearbox",
+        "Aluminium Gearbox"
+    ],
+    [
+        "AluminiumPlate",
+        "Aluminium Plate"
     ],
     [
         "AluminiumBlock",
@@ -252,8 +228,20 @@
         "Aluminium Oxide Dust"
     ],
     [
-        "StainlessSteelIngot",
-        "Stainless Steel Ingot"
+        "StainlessSteelSolarCell",
+        "Stainless Steel Solar Cell"
+    ],
+    [
+        "StainlessSteelParts",
+        "Stainless Steel Parts"
+    ],
+    [
+        "StainlessSteelGearbox",
+        "Stainless Steel Gearbox"
+    ],
+    [
+        "StainlessSteelPlate",
+        "Stainless Steel Plate"
     ],
     [
         "StainlessSteelBlock",
@@ -264,8 +252,20 @@
         "Stainless Steel Dust"
     ],
     [
-        "TitaniumIngot",
-        "Titanium Ingot"
+        "TitaniumSolarCell",
+        "Titanium Solar Cell"
+    ],
+    [
+        "TitaniumParts",
+        "Titanium Parts"
+    ],
+    [
+        "TitaniumGearbox",
+        "Titanium Gearbox"
+    ],
+    [
+        "TitaniumPlate",
+        "Titanium Plate"
     ],
     [
         "TitaniumBlock",
@@ -292,44 +292,8 @@
         "Prepared Titanium Oxide Dust"
     ],
     [
-        "ZinkBlock",
-        "Zink Block"
-    ],
-    [
-        "ZinkDust",
-        "Zink Dust"
-    ],
-    [
-        "TungstenDust",
-        "Tungsten Dust"
-    ],
-    [
-        "TungstenOxideDust",
-        "Tungsten Oxide Dust"
-    ],
-    [
-        "TungstenCarbideDust",
-        "Tungsten Carbide Dust"
-    ],
-    [
-        "HardMetalIngot",
-        "Hard Metal Ingot"
-    ],
-    [
-        "HardMetalBlock",
-        "Hard Metal Block"
-    ],
-    [
-        "HardMetalDust",
-        "Hard Metal Dust"
-    ],
-    [
-        "HotHardMetalIngot",
-        "Hot Hard Metal Ingot"
-    ],
-    [
-        "HotNeutroniumIngot",
-        "Hot Neutronium Ingot"
+        "HotNeutroniumPlate",
+        "Hot Neutronium Plate"
     ],
     [
         "CobaltBlock",
@@ -344,20 +308,28 @@
         "Cobalt Oxide Dust"
     ],
     [
+        "Stone",
+        "Stone"
+    ],
+    [
+        "Sulfur",
+        "Sulfur"
+    ],
+    [
         "CementDust",
         "Cement Dust"
     ],
     [
-        "NeutroniumIngot",
-        "Neutronium Ingot"
-    ],
-    [
-        "NeutroniumDust",
-        "Neutronium Dust"
+        "ChromiumPlate",
+        "Chromium Plate"
     ],
     [
         "ChromiumDust",
         "Chromium Dust"
+    ],
+    [
+        "PlutoniumPlate",
+        "Plutonium Plate"
     ],
     [
         "PlutoniumBlock",
@@ -368,24 +340,24 @@
         "Plutonium Dust"
     ],
     [
-        "UraniumBlock",
-        "Uranium-238 Block"
+        "UraniumPlate",
+        "Uranium-238 Plate"
     ],
     [
         "UraniumDust",
         "Uranium-238 Dust"
     ],
     [
-        "Uranium235Block",
-        "Uranium-235 Block"
+        "Uranium235Plate",
+        "Uranium-235 Plate"
     ],
     [
         "Uranium235Dust",
         "Uranium-235 Dust"
     ],
     [
-        "Uranium233Block",
-        "Uranium-233 Block"
+        "Uranium233Plate",
+        "Uranium-233 Plate"
     ],
     [
         "Uranium233Dust",
@@ -408,16 +380,16 @@
         "Depleted Uranium Cell"
     ],
     [
+        "ThoriumPlate",
+        "Thorium Plate"
+    ],
+    [
         "ThoriumBlock",
         "Thorium Block"
     ],
     [
         "ThoriumDust",
         "Thorium Dust"
-    ],
-    [
-        "Sulfur",
-        "Sulfur"
     ],
     [
         "Steam",
@@ -452,8 +424,24 @@
         "Carbon Monoxide"
     ],
     [
+        "SulfuricAcid",
+        "Sulfuric Acid"
+    ],
+    [
         "NitricAcid",
         "Nitric Acid"
+    ],
+    [
+        "HydrochloricAcid",
+        "Hydrochloric Acid"
+    ],
+    [
+        "HydrofluoricAcid",
+        "Hydrofluoric Acid"
+    ],
+    [
+        "AquaRegia",
+        "Aqua Regia"
     ],
     [
         "Ash",
@@ -474,6 +462,42 @@
     [
         "Ethylene",
         "Ethylene"
+    ],
+    [
+        "Acetone",
+        "Acetone"
+    ],
+    [
+        "MethylIsobutylKetone",
+        "Methyl Isobutyl Ketone"
+    ],
+    [
+        "MesitylOxide",
+        "Mesityl Oxide"
+    ],
+    [
+        "PolyethyleneSheet",
+        "Polyethylene Sheet"
+    ],
+    [
+        "Fluorine",
+        "Fluorine"
+    ],
+    [
+        "Chloroform",
+        "Chloroform"
+    ],
+    [
+        "Chlorodifluoromethane",
+        "Chlorodifluoromethane"
+    ],
+    [
+        "Tetrafluoroethylene",
+        "Tetrafluoroethylene"
+    ],
+    [
+        "PolytetrafluoroethyleneSheet",
+        "Polytetrafluoroethylene Sheet"
     ],
     [
         "Water",
@@ -508,32 +532,116 @@
         "Clay"
     ],
     [
-        "OreWater",
-        "Ore Water"
+        "RareEarthSludge",
+        "Rare Earth Sludge"
     ],
     [
-        "RareEarthElement",
-        "Rare Earth Element"
+        "YttriumWire",
+        "Yttrium Wire"
+    ],
+    [
+        "YttriumPlate",
+        "Yttrium Plate"
+    ],
+    [
+        "YttriumBlock",
+        "Yttrium Block"
+    ],
+    [
+        "YttriumDust",
+        "Yttrium Dust"
+    ],
+    [
+        "NeodymiumPlate",
+        "Neodymium Plate"
+    ],
+    [
+        "NeodymiumBlock",
+        "Neodymium Block"
+    ],
+    [
+        "NeodymiumDust",
+        "Neodymium Dust"
+    ],
+    [
+        "NiobiumWire",
+        "Niobium Wire"
+    ],
+    [
+        "NiobiumPlate",
+        "Niobium Plate"
+    ],
+    [
+        "NiobiumBlock",
+        "Niobium Block"
+    ],
+    [
+        "NiobiumDust",
+        "Niobium Dust"
+    ],
+    [
+        "MicaFlakes",
+        "Mica Flakes"
+    ],
+    [
+        "TantalumFoil",
+        "Tantalum Foil"
+    ],
+    [
+        "TantalumWire",
+        "Tantalum Wire"
+    ],
+    [
+        "TantalumPlate",
+        "Tantalum Plate"
+    ],
+    [
+        "TantalumBlock",
+        "Tantalum Block"
+    ],
+    [
+        "TantalumDust",
+        "Tantalum Dust"
+    ],
+    [
+        "TantalumSludge",
+        "Tantalum Sludge"
+    ],
+    [
+        "TantalumSolution",
+        "Tantalum Solution"
     ],
     [
         "Log",
         "Log"
     ],
     [
-        "Plank",
-        "Plank"
+        "SiliconOxide",
+        "Silicon Oxide"
     ],
     [
         "Silicon",
         "Silicon"
     ],
     [
+        "SiliconMonocrystal",
+        "Silicon Monocrystal"
+    ],
+    [
+        "DopedSiliconMonocrystal",
+        "Doped Silicon Monocrystal"
+    ],
+    [
         "SiliconWafer",
         "Silicon Wafer"
     ],
     [
-        "SulfuricAcid",
-        "Sulfuric Acid"
+        "DopedSiliconWafer",
+        "Doped Silicon Wafer"
+    ],
+    [
+        "Capacitor",
+        "Capacitor"
     ],
     [
         "Rapeseed",
@@ -584,10 +692,6 @@
         "Battery Cell"
     ],
     [
-        "SiliconOxide",
-        "Silicon Oxide"
-    ],
-    [
         "Pumpkin",
         "Pumpkin"
     ],
@@ -600,20 +704,8 @@
         "Nitrogen"
     ],
     [
-        "ChromiumOxideDust",
-        "Chromium Oxide Dust"
-    ],
-    [
-        "PotassiumChlorideDust",
-        "Potassium Chloride Dust"
-    ],
-    [
         "BerylliumDust",
         "Beryllium Dust"
-    ],
-    [
-        "YttriumDust",
-        "Yttrium Dust"
     ],
     [
         "Helium",
@@ -634,14 +726,6 @@
     [
         "CopperWire",
         "Copper Wire"
-    ],
-    [
-        "GoldWire",
-        "Gold Wire"
-    ],
-    [
-        "SuperconductorWire",
-        "Superconductor Wire"
     ],
     [
         "Circuit",
@@ -668,6 +752,14 @@
         "Quantum Core"
     ],
     [
+        "DecisionResonator",
+        "Decision Resonator"
+    ],
+    [
+        "BrainMatrix",
+        "Brain Matrix"
+    ],
+    [
         "QuantumBrain",
         "Quantum Brain"
     ],
@@ -678,6 +770,10 @@
     [
         "Catalyst",
         "Catalyst Cell"
+    ],
+    [
+        "AdvancedCatalyst",
+        "Advanced Catalyst Cell"
     ],
     [
         "UltimateCatalyst",
@@ -724,84 +820,80 @@
         "Mixed-Oxide Cell"
     ],
     [
-        "RutileCrystal",
-        "Rutile Crystal"
-    ],
-    [
-        "UraniniteCrystal",
-        "Uraninite Crystal"
-    ],
-    [
-        "UraniniteCluster",
-        "Uraninite Cluster"
-    ],
-    [
-        "CinnabarDust",
-        "Cinnabar Dust"
-    ],
-    [
-        "CinnabarCrystal",
-        "Cinnabar Crystal"
-    ],
-    [
-        "CinnabarCluster",
-        "Cinnabar Cluster"
-    ],
-    [
-        "MalachiteDust",
-        "Malachite Dust"
-    ],
-    [
-        "MalachiteCrystal",
-        "Malachite Crystal"
-    ],
-    [
-        "MalachiteCluster",
-        "Malachite Cluster"
-    ],
-    [
         "Mercury",
         "Mercury"
+    ],
+    [
+        "HotMercury",
+        "Hot Mercury"
     ],
     [
         "FilteringCell",
         "Filtering Cell"
     ],
     [
-        "BoronDust",
-        "Boron Dust"
-    ],
-    [
-        "BoraxDust",
-        "Borax Dust"
-    ],
-    [
-        "Emerald",
-        "Emerald"
-    ],
-    [
-        "EmeraldDust",
-        "Emerald Dust"
-    ],
-    [
         "CarbonPrecursor",
         "Carbon Precursor"
-    ],
-    [
-        "CarbonFiber",
-        "Carbon Fiber"
     ],
     [
         "CarbonFiberSheet",
         "Carbon Fiber Sheet"
     ],
     [
-        "LithiumPlate",
-        "Lithium Plate"
+        "CarbonFiber",
+        "Carbon Fiber"
     ],
     [
-        "AdvancedFrame",
-        "Advanced Frame"
+        "Graphene",
+        "Graphene"
+    ],
+    [
+        "CompositeSolarCell",
+        "Composite Solar Cell"
+    ],
+    [
+        "CompositeParts",
+        "Composite Parts"
+    ],
+    [
+        "CompositeGearbox",
+        "Composite Gearbox"
+    ],
+    [
+        "CompositePlate",
+        "Composite Plate"
+    ],
+    [
+        "CompositeBlock",
+        "Composite Block"
+    ],
+    [
+        "CompositeDust",
+        "Composite Dust"
+    ],
+    [
+        "NeutroniumSolarCell",
+        "Neutronium Solar Cell"
+    ],
+    [
+        "NeutroniumParts",
+        "Neutronium Parts"
+    ],
+    [
+        "NeutroniumGearbox",
+        "Neutronium Gearbox"
+    ],
+    [
+        "NeutroniumPlate",
+        "Neutronium Plate"
+    ],
+    [
+        "NeutroniumBlock",
+        "Neutronium Block"
+    ],
+    [
+        "NeutroniumDust",
+        "Neutronium Dust"
     ],
     [
         "Capacity",
@@ -820,12 +912,16 @@
         "Progress"
     ],
     [
-        "SwitchedOn",
-        "Switched On"
+        "SwitchOn",
+        "Switch On"
     ],
     [
         "Drain",
         "Drain"
+    ],
+    [
+        "HeatLoss",
+        "Heat Loss"
     ],
     [
         "Storage",
@@ -978,5 +1074,9 @@
     [
         "UpgradeBlueprint",
         "Upgrade Blueprint"
+    ],
+    [
+        "DecorationTool",
+        "Decoration Tool"
     ]
 ]

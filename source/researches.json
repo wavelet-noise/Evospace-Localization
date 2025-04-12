@@ -12,20 +12,12 @@
         "Thorium Reaction"
     ],
     [
-        "Drying",
-        "Drying"
-    ],
-    [
         "PowerGeneration",
         "Power Generation"
     ],
     [
         "Automatization",
         "Automatization"
-    ],
-    [
-        "AdditionalStorage",
-        "Additional Storage"
     ],
     [
         "HeatTransferring",
@@ -48,10 +40,6 @@
         "Distributed Computing"
     ],
     [
-        "Electrolysis",
-        "Electrolysis"
-    ],
-    [
         "Sign",
         "Sign"
     ],
@@ -72,14 +60,6 @@
         "Metal Constructions"
     ],
     [
-        "Chemistry",
-        "Chemistry"
-    ],
-    [
-        "MassivePowerGeneration",
-        "Massive Power Generation"
-    ],
-    [
         "AdvancedSmelting",
         "Advanced Smelting"
     ],
@@ -90,10 +70,6 @@
     [
         "Fermentation",
         "Fermentation"
-    ],
-    [
-        "AdvancedSeparation",
-        "Advanced Separation"
     ],
     [
         "NeutroniumProduction",
@@ -126,30 +102,6 @@
     [
         "Metalwork",
         "Metalwork"
-    ],
-    [
-        "DecorativeWood",
-        "Decorative Wood"
-    ],
-    [
-        "DecorativePlastic",
-        "Decorative Plastic"
-    ],
-    [
-        "DecorativeStone",
-        "Decorative Stone"
-    ],
-    [
-        "DecorativeConcrete",
-        "Decorative Concrete"
-    ],
-    [
-        "DecorationClay",
-        "Decoration Clay"
-    ],
-    [
-        "ReinforcedConcrete",
-        "Decorative Reinforced Concrete"
     ],
     [
         "AdvancedReflection",

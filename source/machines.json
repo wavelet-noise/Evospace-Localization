@@ -12,10 +12,6 @@
         "Fermenter"
     ],
     [
-        "ChemReactor",
-        "Chemical Reactor"
-    ],
-    [
         "Separator",
         "Separator"
     ],
@@ -44,6 +40,10 @@
         "Heat Pipe"
     ],
     [
+        "PlasmaPipe",
+        "Plasma Pipe"
+    ],
+    [
         "Flywheel",
         "Flywheel"
     ],
@@ -60,8 +60,44 @@
         "Advanced Sign"
     ],
     [
-        "Connector",
-        "Cable"
+        "TransformerLVMV",
+        "Transformer (LV -> MV)"
+    ],
+    [
+        "TransformerMVLV",
+        "Transformer (MV -> LV)"
+    ],
+    [
+        "CopperConnector",
+        "Copper Cable"
+    ],
+    [
+        "OFCCable",
+        "Oxygen Free Copper Cable"
+    ],
+    [
+        "GCable",
+        "Gold Cable"
+    ],
+    [
+        "CNCable",
+        "Copper Nickel Cable"
+    ],
+    [
+        "YBCOCable",
+        "Yttrium Barium Copper Oxide Cable"
+    ],
+    [
+        "PCable",
+        "Platinum Cable"
+    ],
+    [
+        "TNCable",
+        "Tantalum Niobium Cable"
+    ],
+    [
+        "ABCCOCable",
+        "Arsenic Barium Calcium Copper Oxide Cable"
     ],
     [
         "Chest",
@@ -100,12 +136,12 @@
         "Container"
     ],
     [
-        "Press",
-        "Press"
-    ],
-    [
         "StirlingEngine",
         "Stirling Engine"
+    ],
+    [
+        "SteamEngine",
+        "Steam Engine"
     ],
     [
         "CombustionEngine",
@@ -193,7 +229,7 @@
     ],
     [
         "IndustrialChemReactor",
-        "Industrial Chemical Reactor"
+        "Chemical Reactor"
     ],
     [
         "Furnace",
@@ -314,10 +350,6 @@
     [
         "Computer",
         "Computer"
-    ],
-    [
-        "IndustrialSeparator",
-        "Industrial Separator"
     ],
     [
         "Radiator",

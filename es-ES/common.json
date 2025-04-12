@@ -298,5 +298,25 @@
     [
         "Part",
         "Parte de dispositivos"
+    ],
+    [
+        "ElectricConductorMV",
+        "<img id=\"Electricity\"></>Conducts electricity up to 10kV (MV)<img id=\"Electricity2\"></>"
+    ],
+    [
+        "ElectricConductorHV",
+        "<img id=\"Electricity\"></>Conducts electricity< up to 100kV (HV)<img id=\"Electricity2\"></>"
+    ],
+    [
+        "Composite",
+        "Composite"
+    ],
+    [
+        "Alternative",
+        "Alternative"
+    ],
+    [
+        "tier",
+        "Tier: {0}"
     ]
 ]
